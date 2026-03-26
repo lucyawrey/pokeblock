@@ -1,6 +1,6 @@
 name = "CobbleGen"
 filename = "cobblegen-5.4.8+1.21.1b1383-BETA-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/pxQoqEwj/cobblegen-5.4.8%2B1.21.1b1383-BETA-neoforge.jar"
