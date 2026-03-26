@@ -70,7 +70,7 @@ hash = "7bb03c6856544d7fa7d6aea6b1c68b8b4b18005b422bac07753e7d8be66d42cb"
 
 [[files]]
 file = "config/skyblockbuilder/templates.json5"
-hash = "8bcc26740fca6cd242efb854b93257e6c9c89d72cac88ca1c9eda3c0bb83c9ba"
+hash = "97d9b71fae5a110104cf8646f7c4b9a2fb80e6cfed54289fa549a8691dee307f"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
