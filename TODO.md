@@ -1,4 +1,6 @@
 # Pokéblock Todo
+- [ ] Fix neoforge default world type not being respected.
+- [ ] Fix missing mods (Forgiving Void, Cobblegen). One solution is to keep the whole jar in the repo to copy over.
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)

@@ -6,7 +6,7 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "773ff53af3a0f2f7d0d75b14932f2198bd792e96fd2cfe79b1bcefab1f04d7d6"
+hash = "875cc5ea965d26b5bafda569197af3cc3bed8a9e9d1935c3de89d8692e7399ee"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
