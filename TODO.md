@@ -6,6 +6,7 @@
 	- [ ] Set skyblock to mono biome
 	- [ ] Setup nether skyblock
 	- [ ] Setup End skyblock with return portal (disable default island and portal)
+	- [ ] Fix broken respawns
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)

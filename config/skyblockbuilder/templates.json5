@@ -20,6 +20,18 @@
           4
         ]
       ]
+    },
+    "pokeblock": {
+      "south": [
+        [
+          6,
+          3,
+          4
+        ]
+      ],
+      "west": [],
+      "north": [],
+      "east": []
     }
   },
   "spreadReferences": {
@@ -32,7 +44,7 @@
     {
       "name": "Pokéblock",
       "file": "pokeblock.nbt",
-      "spawns": "default",
+      "spawns": "pokeblock",
       "surroundingBlocks": "default",
       "spreads": "default"
     }
