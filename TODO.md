@@ -17,3 +17,4 @@
 - [ ] Drop apricorn seeds when apricorn fruits are broken by player, leaf decay, or a machine. (higher chance than when harvesting)
 - [ ] Setup End portal crafting and end island handling in Skyblock builder. Delete default return portal and ender dragon.
 - [ ] Fix Skyblock Builder World Spawn (Low Priority)
+- [ ] Add create cobblemon brewing mod and replace names and textures, or recreate mnod from scratch along with other create/cobblemon recepies.

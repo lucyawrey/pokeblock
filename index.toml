@@ -6,7 +6,7 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "08356d164f829bb5446c9593bc6b0170542631c06e35e4b706f85e85f11fecb4"
+hash = "5100f805c2be072e7b73aacef357f6d7034dde0ee05e5fa36bf2506229c2ef85"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -15,6 +15,10 @@ hash = "30746af7cea00d7898241249fb8d68c3c6c6b19e9f41fe4f160ebecad5722d9a"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "e6edc6e6c785ca09ab92eb996a5a00590eaf6cdc96824e0ea53617e323d25b3e"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "4341e9c04ad5acd9158c8f4de46e5e7601b35af5d50a120f49f40e3ceb321d0b"
 
 [[files]]
 file = "config/skyblockbuilder/client.json5"
@@ -205,11 +209,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "ad0d3c199591934bc2d2acdfb4e0008ec212a1c222c0d8bb6c8c6b8903519f16"
-metafile = true
-
-[[files]]
-file = "mods/create-cobblemon-potion.pw.toml"
-hash = "ee4c0b26cb0cdf5f44d7fdbb6c0eadad86c944a08351d320fc546d9402871a48"
 metafile = true
 
 [[files]]
