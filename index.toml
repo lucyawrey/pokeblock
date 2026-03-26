@@ -74,7 +74,7 @@ hash = "97d9b71fae5a110104cf8646f7c4b9a2fb80e6cfed54289fa549a8691dee307f"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
-hash = "d23c32f3722b3567ad50350a3d593cd01750558159c354c9dc126951129f54bb"
+hash = "b0cf51f3158ddbd8dbb225f92f8d6f28ffa34fc1f3f1c86f0035357e3fe009e5"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/pokeblock.nbt"
