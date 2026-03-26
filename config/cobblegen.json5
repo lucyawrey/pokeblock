@@ -81,6 +81,18 @@
 					"id": "minecraft:cobblestone",
 					"weight": 20.0
 				}
+			],
+			"minecraft:oxidized_copper": [
+				{
+					"id": "create:veridium",
+					"weight": 100.0
+				}
+			],
+			"minecraft:iron_block": [
+				{
+					"id": "create:crimsite",
+					"weight": 100.0
+				}
 			]
 		},
 		"stoneGen": {
