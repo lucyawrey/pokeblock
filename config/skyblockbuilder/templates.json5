@@ -5,28 +5,28 @@
   defaultOffset: 0,
 
   // The template which will be used for spawn only
-  // Example:
-  // {
-  //     "name": "default",
-  //     "desc": "",
-  //     "file": "default.nbt",
-  //     "spawns": "default",
-  //     "offset": [ 0, 0, 0 ],
-  //     "surroundingBlocks": "default"
-  // }
-  mainSpawnIsland: null,
+  mainSpawnIsland: {
+    name: "spawn",
+    file: "spawn.nbt",
+    spawns: {
+      north: [],
+      east: [[2, 9, 4]],
+      south: [],
+      west: [],
+    },
+  },
 
   // A list of possible spawn points.
   // You may also directly use these in the template config, or use a reference created here.
   spawnPointReferences: {
+    spawn: {
+      north: [],
+      east: [[2, 9, 4]],
+      south: [],
+      west: [],
+    },
     default: {
       south: [[6, 3, 5]],
-      west: [],
-      north: [],
-      east: [],
-    },
-    pokeblock: {
-      south: [[6, 4, 5]],
       west: [],
       north: [],
       east: [],
@@ -61,20 +61,8 @@
   // The list of templates being available. The first entry is the default template.
   templateList: [
     {
-      name: "Spawn",
-      file: "spawn.nbt",
-      spawns: {
-        north: [],
-        east: [[2, 9, 4]],
-        south: [],
-        west: [],
-      },
-      surroundingBlocks: "default",
-      spreads: "default",
-    },
-    {
-      name: "Pokéblock",
-      file: "pokeblock.nbt",
+      name: "default",
+      file: "default.nbt",
       spawns: {
         south: [[6, 4, 5]],
         west: [],

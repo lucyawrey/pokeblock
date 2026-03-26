@@ -1,4 +1,11 @@
 # Pokéblock Todo
+- [ ] Setup Skyblock Builder
+	- [ ] Fix mainSpawnIsland not generating
+	- [ ] Create island template with less items in chest, a Pokedex
+	- [ ] Fix skyblock spawns
+	- [ ] Set skyblock to mono biome
+	- [ ] Setup nether skyblock
+	- [ ] Setup End skyblock with return portal (disable default island and portal)
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)
@@ -11,12 +18,6 @@
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.
-- [ ] Setup Skyblock Builder
-	- [ ] Create island template with less items in chest, a Pokedex
-	- [ ] Fix skyblock spawns
-	- [ ] Set skyblock to mono biome
-	- [ ] Setup nether skyblock
-	- [ ] Setup End skyblock with return portal (disable default island and portal)
 - [ ] Setup Packwiz Installer with autoupdate
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Replace Create Cobblemon Potion with better mod (maybe ill make it?)
