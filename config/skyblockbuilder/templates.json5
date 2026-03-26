@@ -5,8 +5,7 @@
     "file": "default.nbt",
     "spawns": "default",
     "surroundingBlocks": "default",
-    "spreads": "default",
-    "allowPaletteSelection": false
+    "spreads": "default"
   },
   "spawnPointReferences": {
     "default": {
