@@ -1,7 +1,6 @@
 # Pokéblock Todo
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
-- [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge).
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)
 - [ ] Millstone for Gravel -> Sand
 - [ ] Millstone has chance to drop tumblestones
@@ -18,3 +17,4 @@
 - [ ] Setup End portal crafting and end island handling in Skyblock builder. Delete default return portal and ender dragon.
 - [ ] Fix Skyblock Builder World Spawn (Low Priority)
 - [ ] Add create cobblemon brewing mod and replace names and textures, or recreate mnod from scratch along with other create/cobblemon recepies.
+- [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge).
