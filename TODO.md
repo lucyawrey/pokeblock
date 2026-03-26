@@ -1,5 +1,4 @@
 # Pokéblock Todo
-- [ ] SET DEFAULT WORLD TYPE
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)
