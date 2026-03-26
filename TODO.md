@@ -1,0 +1,17 @@
+# Pokéblock Todo
+- [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
+- [ ] Add way more drops from tall grass (can be spawned by bone meal)
+- [ ] Millstone for Gravel -> Sand
+- [ ] Millstone has chance to drop tumblestones
+- [ ] Ancient Pokeball recipes yield 1 pokeball but only cost nuggets instead of ingots.
+- [ ] Iron *and* Copper Nuggets from Washing or *Breaking* Gravel
+- [ ] Custom Pokemon Spawning Rules
+	- [ ] Fix pokemon not spawning on Skyblocks
+	- [ ] Remove most spawning requirements such as height or biome.
+	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
+	- [ ] Still separate spawns based on dimension.
+- [ ] Setup Skyblock Builder
+	- [ ] Create a default Spawn Island
+	- [ ] Create island template with less items in chest, a Pokedex
+- [ ] Setup Packwiz Installer with autoupdate
+- [ ] Install and setup FancyMenu for custom pack menu.

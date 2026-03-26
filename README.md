@@ -1,2 +1,2 @@
-# Pokeblock - Cobblemon Skyblock Modpack
-An in-development Cobblemon Skyblock modpack by LucyAzalea.
+# Pokéblock - Cobblemon Skyblock
+An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.

@@ -5,6 +5,14 @@ file = "README.md"
 hash = "d316882805f91408349f05c6f0702182179f83c0c79eb6f5845b633fdda03f9d"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b9d5b5d6f1f01c799921795baf562fc67b6a5314fa028a2cf9a4c198dbf705a0"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "1fa4a84d736ed08e02f881f5da65e3b41b10a64f9eb92f0844b8f823bacc3c4d"
+
+[[files]]
 file = "global_packs/required_data/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
@@ -337,4 +345,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
