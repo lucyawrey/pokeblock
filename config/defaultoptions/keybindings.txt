@@ -85,7 +85,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown:
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:
 key_gui.xaero_quick_confirm:key.keyboard.right.shift:
 key_gui.xaero_toggle_dimension:key.keyboard.unknown:
-key_iris.keybind.reload:key.keyboard.r:
+key_iris.keybind.reload:key.keyboard.r:SHIFT
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
 key_iris.keybind.wireframe:key.keyboard.unknown:
@@ -117,7 +117,7 @@ key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown:
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown:
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:
 key_key.cobblemon.hideparty:key.keyboard.o:
-key_key.cobblemon.summary:key.keyboard.m:
+key_key.cobblemon.summary:key.keyboard.c:
 key_key.cobblemon.downshiftparty:key.keyboard.down:
 key_key.cobblemon.upshiftparty:key.keyboard.up:
 key_key.cobblemon.throwpartypokemon:key.keyboard.r:
