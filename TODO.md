@@ -1,9 +1,5 @@
 # Pokéblock Todo
 - [ ] Setup Skyblock Builder
-	- [ ] Fix mainSpawnIsland not generating
-	- [ ] Create island template with less items in chest, a Pokedex
-	- [ ] Fix skyblock spawns
-	- [ ] Set skyblock to mono biome
 	- [ ] Setup nether skyblock
 	- [ ] Setup End skyblock with return portal (disable default island and portal)
 	- [ ] Fix World Spawn (Low Priority)
