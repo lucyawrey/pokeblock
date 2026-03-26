@@ -1,8 +1,5 @@
 # Pokéblock Todo
-- [ ] Setup Skyblock Builder
-	- [ ] Setup nether skyblock
-	- [ ] Setup End skyblock with return portal (disable default island and portal)
-	- [ ] Fix World Spawn (Low Priority)
+- [ ] SET DEFAULT WORLD TYPE
 - [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
 - [ ] Setup Default Controls
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)
@@ -15,7 +12,8 @@
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.
-- [ ] Setup Packwiz Installer with autoupdate
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Replace Create Cobblemon Potion with better mod (maybe ill make it?)
 - [ ] Drop apricorn seeds when apricorn fruits are broken by player, leaf decay, or a machine. (higher chance than when harvesting)
+- [ ] Setup End portal crafting and end island handling in Skyblock builder. Delete default return portal and ender dragon.
+- [ ] Fix Skyblock Builder World Spawn (Low Priority)

@@ -6,15 +6,15 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "22ecc7dea72061cf356024e3b31b89f9c238518a46d786254a8c82dab78e4042"
+hash = "08356d164f829bb5446c9593bc6b0170542631c06e35e4b706f85e85f11fecb4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b9d5b5d6f1f01c799921795baf562fc67b6a5314fa028a2cf9a4c198dbf705a0"
+hash = "30746af7cea00d7898241249fb8d68c3c6c6b19e9f41fe4f160ebecad5722d9a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1fa4a84d736ed08e02f881f5da65e3b41b10a64f9eb92f0844b8f823bacc3c4d"
+hash = "e6edc6e6c785ca09ab92eb996a5a00590eaf6cdc96824e0ea53617e323d25b3e"
 
 [[files]]
 file = "config/skyblockbuilder/client.json5"
@@ -78,11 +78,15 @@ hash = "b0cf51f3158ddbd8dbb225f92f8d6f28ffa34fc1f3f1c86f0035357e3fe009e5"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/pokeblock.nbt"
-hash = "8eacf0a27469b576005198a006b07589f70d655ab98e1245b0e80ca6c8db870d"
+hash = "8cc1040e9d1bb41941a94f78f8a55af383e31d421db29fa207fdb75177949e9c"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/information.txt"
 hash = "b86919e8d88be2f26983763ab65a94d1ece734765a38f434e3de174670abfdb3"
+
+[[files]]
+file = "config/skyblockbuilder/templates/portals/to_nether.nbt"
+hash = "b694aa404a6bc34b5a4845a4320ab2f6324d1829421f640e2a1c2de459959389"
 
 [[files]]
 file = "config/skyblockbuilder/world.json5"
