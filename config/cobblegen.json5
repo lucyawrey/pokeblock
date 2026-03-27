@@ -46,16 +46,16 @@
 					"weight": 2.0
 				},
 				{
+					"id": "minecraft:redstone_ore",
+					"weight": 2.0
+				},
+				{
 					"id": "minecraft:lapis_ore",
-					"weight": 8.0
+					"weight": 5.0
 				},
 				{
 					"id": "minecraft:gold_ore",
-					"weight": 8.0
-				},
-				{
-					"id": "minecraft:redstone_ore",
-					"weight": 8.0
+					"weight": 5.0
 				},
 				{
 					"id": "minecraft:iron_ore",
@@ -75,11 +75,11 @@
 				},
 				{
 					"id": "minecraft:coal_ore",
-					"weight": 12.0
+					"weight": 10.0
 				},
 				{
 					"id": "minecraft:cobblestone",
-					"weight": 20.0
+					"weight": 34.0
 				}
 			],
 			"minecraft:weathered_copper": [
@@ -170,6 +170,15 @@
 				},
 				{
 					"id": "minecraft:blackstone",
+					"weight": 79.0,
+					"dimensions": [
+						"minecraft:the_nether"
+					]
+				}
+			],
+			"minecraft:netherrack": [
+				{
+					"id": "minecraft:netherrack",
 					"weight": 79.0,
 					"dimensions": [
 						"minecraft:the_nether"
