@@ -82,6 +82,12 @@
 					"weight": 20.0
 				}
 			],
+			"minecraft:weathered_copper": [
+				{
+					"id": "create:veridium",
+					"weight": 100.0
+				}
+			],
 			"minecraft:oxidized_copper": [
 				{
 					"id": "create:veridium",
@@ -112,6 +118,30 @@
 				{
 					"id": "minecraft:granite",
 					"weight": 25.0
+				}
+			],
+			"minecraft:deepslate": [
+				{
+					"id": "minecraft:tuff",
+					"weight": 100.0
+				}
+			],
+			"minecraft:diorite": [
+				{
+					"id": "minecraft:diorite",
+					"weight": 100.0
+				}
+			],
+			"minecraft:andesite": [
+				{
+					"id": "minecraft:andesite",
+					"weight": 100.0
+				}
+			],
+			"minecraft:granite": [
+				{
+					"id": "minecraft:granite",
+					"weight": 100.0
 				}
 			]
 		},
