@@ -1,14 +1,14 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Craftable grass
-- [ ] Craftable suspicious gravel
+- [ ] Add crafttweaker
+- [ ] Solve datapack recepies not working!!!.
+- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone that occassionally generates from standard cobblestone generators.
 - [ ] Craftable hammers, essentially piackaxes, can be used as create millstone recepies with a farmer's delight cutting board.
 - [ ] Higher apricorn drop rate
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
 - [ ] Millstone for Gravel -> Sand
-- [ ] Millstone has chance to drop tumblestones
 - [ ] Ancient Pokeball recipes yield 1 pokeball but only cost nuggets instead of ingots.
-- [ ] Iron *and* Copper Nuggets from Washing or *Breaking* Gravel
+- [ ] Iron *and* Copper Nuggets, Tumblestones from Washing or *Breaking* Gravel. Support cutting board for shovel. Loot tables for shovel recepies for washing.
 - [ ] Configure cobbleworkers
 - [ ] Custom Pokemon Spawning Rules
 	- [ ] Fix pokemon not spawning on Skyblocks
