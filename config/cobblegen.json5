@@ -38,11 +38,11 @@
 		"cobbleGen": {
 			"minecraft:bedrock": [
 				{
-					"id": "minecraft:emerald_ore",
-					"weight": 2.0
+					"id": "minecraft:diamond_ore",
+					"weight": 1.0
 				},
 				{
-					"id": "minecraft:diamond_ore",
+					"id": "minecraft:emerald_ore",
 					"weight": 2.0
 				},
 				{
@@ -83,7 +83,7 @@
 				},
 				{
 					"id": "minecraft:cobblestone",
-					"weight": 32.0
+					"weight": 33.0
 				}
 			],
 			"minecraft:weathered_copper": [
@@ -180,7 +180,7 @@
 				},
 				{
 					"id": "minecraft:blackstone",
-					"weight": 79.0,
+					"weight": 80.0,
 					"dimensions": [
 						"minecraft:the_nether"
 					]

@@ -20,6 +20,7 @@
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
+- [ ] Cobblegen ancient debris even less often, chance to get netherrite scrap from crushing blackstone
 
 ## Low Priority
 - [ ] Fix Skyblock Builder World Spawn
@@ -28,3 +29,4 @@
 - [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
 - [ ] Deepslate ores at low y values
 - [ ] Try setting up Cobble Cuisine and Cobble Delight with Sinatra Connector (fabric api adapter for neoforge)
+- [ ] Allow users to reenable vanilla mob spawning
