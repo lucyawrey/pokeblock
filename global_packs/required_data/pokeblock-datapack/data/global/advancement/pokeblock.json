@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"id": "mega_showdown:sky_plate"
+		},
+		"title": "Pokéblock",
+		"description": [
+			"",
+			{
+				"text": "Welcome to the Pokéblock modpack! Be careful to not let your apricorns fall off the island!",
+				"color": "gold"
+			}
+		],
+		"background": "minecraft:textures/block/black_concrete.png",
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -6,7 +6,7 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "ed64004ce1b8e810fde3e43daeb98551ded4c459834739ce64bf9f70f04a740c"
+hash = "04986e243b22afbd8393e7da5177d78be711f6004fb9ca5d816fa3b510d2f935"
 
 [[files]]
 file = "config/cobblegen.json5"
@@ -104,6 +104,34 @@ hash = "3a684f77a688bfadfb079d40540b67e976e334e26c026c015d364686a5e746ff"
 file = "global_packs/required_data/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/global/advancement/pokeblock.json"
+hash = "a768924b7c45b39b15295094ab6f1594c0350fab6087f66469da5b5417f3cef4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/minecraft/tags/function/load.json"
+hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/minecraft/tags/function/tick.json"
+hash = "0ae812cbe7b14f0baf8760508fea35e2f3fc22ee735b71cd9f0d810c888fed71"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/pokeblock/advancement/pokeblock-advancedment.json"
+hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/pokeblock/function/load.mcfunction"
+hash = "b9d5cb43d5e233e17c08bc26bd72aacf8cbfe2837bdff5c21e13b79c12af26ff"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/data/pokeblock/function/tick.mcfunction"
+hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
+
+[[files]]
+file = "global_packs/required_data/pokeblock-datapack/pack.mcmeta"
+hash = "f8d21c66a4750f6323aa53f1d4efa15d397dcafe21f3012530408e0ad2d2e787"
 
 [[files]]
 file = "mods/accessories.pw.toml"

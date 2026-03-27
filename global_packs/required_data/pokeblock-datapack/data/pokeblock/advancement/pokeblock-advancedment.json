@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Pokéblock Advancedment",
+        "description": "An ddvancedment template that I will use later!",
+        "icon": {
+            "id": "cobblemon:red_apricorn"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "global:pokeblock",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
