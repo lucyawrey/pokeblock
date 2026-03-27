@@ -1,7 +1,7 @@
 # Pokéblock Todo
-- [ ]
-- [ ] CobbleGen Configuration (Andesite, Diorite, Granite, Veridium, Crimesite, Tuff, Netherrack)
-- [ ] Setup Default Controls
+- [ ] Craftable grass
+- [ ] Higher apricorn drop rate
+- [ ] Farmers delight
 - [ ] Add way more drops from tall grass (can be spawned by bone meal)
 - [ ] Millstone for Gravel -> Sand
 - [ ] Millstone has chance to drop tumblestones
@@ -13,9 +13,9 @@
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.
 - [ ] Install and setup FancyMenu for custom pack menu.
-- [ ] Replace Create Cobblemon Potion with better mod (maybe ill make it?)
-- [ ] Drop apricorn seeds when apricorn fruits are broken by player, leaf decay, or a machine. (higher chance than when harvesting)
-- [ ] Setup End portal crafting and end island handling in Skyblock builder. Delete default return portal and ender dragon.
+- [ ] Try setting up Cobble Cuisine and Cobble Delight with Sinatra Connector (fabric api adapter for neoforge)
+- [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
+- [ ] Setup Default Controls
 - [ ] Fix Skyblock Builder World Spawn (Low Priority)
 - [ ] Add create cobblemon brewing mod and replace names and textures, or recreate mnod from scratch along with other create/cobblemon recepies.
 - [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge).

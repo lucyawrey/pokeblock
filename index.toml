@@ -281,6 +281,11 @@ hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "50269f2a48633d75df2a5ef7f7fb7c0d456dfd937eed00b225bb7b0e316a16b5"
 metafile = true
@@ -386,6 +391,11 @@ hash = "bc99befa739a5fb1cfccc6b72308a79d05a22259cd6581bfbd6ddb7c3c03916c"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -413,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/tomtarus-cobblemon-and-farmers-delight-tweaks.pw.toml"
+hash = "0c96a6f27c4a84d0d504579decee67c34411e2d61e15dbd856c07d269d69dd9a"
 metafile = true
 
 [[files]]

@@ -51,15 +51,23 @@
 				},
 				{
 					"id": "minecraft:lapis_ore",
-					"weight": 5.0
+					"weight": 4.0
 				},
 				{
 					"id": "minecraft:gold_ore",
-					"weight": 5.0
+					"weight": 4.0
 				},
 				{
 					"id": "minecraft:iron_ore",
-					"weight": 10.0
+					"weight": 8.0
+				},
+				{
+					"id": "minecraft:coal_ore",
+					"weight": 8.0
+				},
+				{
+					"id": "minecraft:copper_ore",
+					"weight": 8.0
 				},
 				{
 					"id": "minecraft:diorite",
@@ -74,12 +82,8 @@
 					"weight": 10.0
 				},
 				{
-					"id": "minecraft:coal_ore",
-					"weight": 10.0
-				},
-				{
 					"id": "minecraft:cobblestone",
-					"weight": 34.0
+					"weight": 32.0
 				}
 			],
 			"minecraft:weathered_copper": [
@@ -97,6 +101,12 @@
 			"minecraft:iron_block": [
 				{
 					"id": "create:crimsite",
+					"weight": 100.0
+				}
+			],
+			"minecraft:mud": [
+				{
+					"id": "create:dripstone_block",
 					"weight": 100.0
 				}
 			]
