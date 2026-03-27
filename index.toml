@@ -6,11 +6,11 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "66238cbd62061938e20ec642cba63887e264221dae7ef1d6668668a4fac9c4c8"
+hash = "86683fb3974e94857b2b32a1b7c2aff7fadbe7380192141ed8135dfcf8af7979"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "af2c267d2ae71dfeb84604124d9065dca3b462d313e2376c281f84944f64cc74"
+hash = "0f62b173a685f05f6751c1747e0d63c235320dfcf47bf8911931914b6cf1375c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -114,6 +114,10 @@ file = "global_packs/required_data/pokeblock_datapack/data/global/advancement/po
 hash = "a768924b7c45b39b15295094ab6f1594c0350fab6087f66469da5b5417f3cef4"
 
 [[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/minecraft/loot_table/blocks/gravel.json"
+hash = "2678130d5fb95da36f1c7a55a3b195fbdcaa48b8e1b451ee92598e4b73b2a142"
+
+[[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/minecraft/tags/function/load.json"
 hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
 
@@ -127,7 +131,7 @@ hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/pokeblock/function/load.mcfunction"
-hash = "20597f71256988054a8e5137272afa0fefc8fbd05fe629b3160c3b7e51e6ddab"
+hash = "79af146e289c8181baa60405380284ddcf0b4907f96d37bc2ebd43f2b1be3106"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/pokeblock/function/tick.mcfunction"
@@ -140,6 +144,11 @@ hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/pack.mcmeta"
 hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
+
+[[files]]
+file = "global_packs/required_resources/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -479,9 +488,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true

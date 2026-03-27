@@ -1,8 +1,7 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Add crafttweaker
-- [ ] Solve datapack recepies not working!!!.
-- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone that occassionally generates from standard cobblestone generators.
+- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators.
 - [ ] Craftable hammers, essentially piackaxes, can be used as create millstone recepies with a farmer's delight cutting board.
 - [ ] Higher apricorn drop rate
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
@@ -25,7 +24,7 @@
 ## Low Priority
 - [ ] Fix Skyblock Builder World Spawn
 - [ ] Change Cobblemon+Create brewing to use fluids properly. Currently brewing uses bottles and is based on Farmers Delight-Create-Cobblemon compatability interactions
-- [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge)
+- [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge), and thus not having skyblock as default world type
 - [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
 - [ ] Deepslate ores at low y values
 - [ ] Try setting up Cobble Cuisine and Cobble Delight with Sinatra Connector (fabric api adapter for neoforge)

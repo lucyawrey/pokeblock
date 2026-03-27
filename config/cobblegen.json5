@@ -159,7 +159,7 @@
 			"minecraft:bedrock": [
 				{
 					"id": "minecraft:ancient_debris",
-					"weight": 1.0,
+					"weight": 0.5,
 					"dimensions": [
 						"minecraft:the_nether"
 					]
@@ -180,7 +180,7 @@
 				},
 				{
 					"id": "minecraft:blackstone",
-					"weight": 80.0,
+					"weight": 80.5,
 					"dimensions": [
 						"minecraft:the_nether"
 					]
