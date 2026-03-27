@@ -6,11 +6,11 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "ad96e82a681e10b19b73bbd2b4514135c6d8e073db512be5808d8ba1430fb554"
+hash = "ed64004ce1b8e810fde3e43daeb98551ded4c459834739ce64bf9f70f04a740c"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "01e2870db67fd99bbfacb907062f95fe3d5e4a3ceb621f68036844f1cc7dc1bd"
+hash = "4d33a357ad8568339fa33776bc89ca09fc87b2580a66b40cc16b5738d2f29bce"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"

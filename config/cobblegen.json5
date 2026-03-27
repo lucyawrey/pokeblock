@@ -106,7 +106,7 @@
 			],
 			"minecraft:mud": [
 				{
-					"id": "create:dripstone_block",
+					"id": "minecraft:dripstone_block",
 					"weight": 100.0
 				}
 			]
