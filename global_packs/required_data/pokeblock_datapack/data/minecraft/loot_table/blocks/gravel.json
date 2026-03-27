@@ -37,9 +37,9 @@
                                         {
                                             "chances": [
                                                 0.1,
-                                                0.14285715,
-                                                0.25,
-                                                0.33333333
+                                                0.15,
+                                                0.2,
+                                                0.25
                                             ],
                                             "condition": "minecraft:table_bonus",
                                             "enchantment": "minecraft:fortune"
@@ -53,9 +53,9 @@
                                         {
                                             "chances": [
                                                 0.1,
-                                                0.14285715,
-                                                0.25,
-                                                0.33333333
+                                                0.15,
+                                                0.2,
+                                                0.25
                                             ],
                                             "condition": "minecraft:table_bonus",
                                             "enchantment": "minecraft:fortune"
@@ -69,15 +69,31 @@
                                         {
                                             "chances": [
                                                 0.1,
-                                                0.14285715,
-                                                0.25,
-                                                0.33333333
+                                                0.15,
+                                                0.2,
+                                                0.25
                                             ],
                                             "condition": "minecraft:table_bonus",
                                             "enchantment": "minecraft:fortune"
                                         }
                                     ],
                                     "name": "create:copper_nugget"
+                                },
+                                {
+                                    "type": "minecraft:item",
+                                    "conditions": [
+                                        {
+                                            "chances": [
+                                                0.1,
+                                                0.15,
+                                                0.2,
+                                                0.25
+                                            ],
+                                            "condition": "minecraft:table_bonus",
+                                            "enchantment": "minecraft:fortune"
+                                        }
+                                    ],
+                                    "name": "cobblemon:tumblestone"
                                 },
                                 {
                                     "type": "minecraft:item",

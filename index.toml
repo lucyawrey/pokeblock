@@ -6,7 +6,7 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "86683fb3974e94857b2b32a1b7c2aff7fadbe7380192141ed8135dfcf8af7979"
+hash = "a698ee9a8899033c9543cd55a07a930916f6a1d5962027017ec675b6eb038d4f"
 
 [[files]]
 file = "config/cobblegen.json5"
@@ -106,6 +106,102 @@ hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
 metafile = true
 
 [[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/black_apricorn.json"
+hash = "9eaaf3db774927ccd5a29251e6bc1b0c6dfbc5e27f691448533990dd2890395b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/blue_apricorn.json"
+hash = "23299de2f897b8eae14b784c68c6cfda9bbd9aedf034fd2ab5ac6a2cc19e852f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/green_apricorn.json"
+hash = "42068ff37a339cfc6da5ab83e859e1a5c05afa5d9df59ab2b9bf96281af56cc4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/pink_apricorn.json"
+hash = "f5b6a3b6585171e53f5a493a8105f243a20d183ea2eb5d3a2e25ae5911d88a07"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/red_apricorn.json"
+hash = "5a0341c5a3b628842f717975e7d0838bbda7cae30e5ce1430e50cd42e3ab930f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/white_apricorn.json"
+hash = "7c103a3e2253b47b16d179db561808c4460ea607e72bc275d96118f5fbafc289"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/loot_table/blocks/yellow_apricorn.json"
+hash = "cc74847120f5a3899a1ae1e7303a647ef82f2a40d03d3db4f95f7a8cf2e6f4cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_azure_ball.json"
+hash = "10530889dac4ccef78f35679a01596064cdcbff03e4f9cf5415ee431b2c3b2ef"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_citrine_ball.json"
+hash = "22bd5c015e2cb8aa1485111a0c908ef784e643b10ac1ab49115570c8e17bcf59"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_feather_ball.json"
+hash = "98eb3edaa63ea6d3d1fed20b763111978861191675e39e319606a796421630fe"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_gigaton_ball.json"
+hash = "5188400e5303420358945cc78013458d728f2dfcbdae2bf159fc77f44253e8d4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_great_ball.json"
+hash = "125cd97c2d51b52d872e1ee685ddf2d9495d2f03312f2e10650a0fd5a30943d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_heavy_ball.json"
+hash = "dad70edcd17725603eb7780b7adc96d84010285cc2f166d1c4ce21de9e6d7740"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_ivory_ball.json"
+hash = "f95a67f81c417e4425d677a6b7aaac2abaf7753661253a865057a3ababdb57e3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_jet_ball.json"
+hash = "e0700bbf668d551b5b49fe263953493fa7582739c10fd411e098e162506a50b4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_leaden_ball.json"
+hash = "f640bd173d1c3d26caebf5f9de83605a55183e32c0e076e40b7af155232677a0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_origin_ball.json"
+hash = "0db0e8c79154555dfbc4d84a261c32e194c8975471bb9c035b14c0109da5560d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_poke_ball.json"
+hash = "a43947d295a551de0676d6e192c461fd8019f3882aada63881e91532233a1158"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_roseate_ball.json"
+hash = "63a1f998d240000f443e1f0c01a788fe8e690d17799fef41895b26ccd0fa6d9c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_slate_ball.json"
+hash = "0d4b2939eaf9993262c8b506a6a1d1f128814b6e0a25d1d5ed64c197109d9e1d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_ultra_ball.json"
+hash = "0b6217197d56d48010d65e57cf8490ca5d2741dd30450ef5ebd405b742f04931"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_verdant_ball.json"
+hash = "cc75430e5df9013b0e3b2fd45b38d37c333ffb121b380184835c6eb42a838b40"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/ancient_wing_ball.json"
+hash = "526f3a54b7027ed6f51fbb752a549af989af86aadf96ca2568ec9fe5a663217e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/master_ball.json"
+hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
+
+[[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/create/recipe/milling/gravel.json"
 hash = "a64f5f1841637855bad1ff83d2c76ec819a6a46cff48f8a7c6107af862074b98"
 
@@ -115,7 +211,7 @@ hash = "a768924b7c45b39b15295094ab6f1594c0350fab6087f66469da5b5417f3cef4"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/minecraft/loot_table/blocks/gravel.json"
-hash = "2678130d5fb95da36f1c7a55a3b195fbdcaa48b8e1b451ee92598e4b73b2a142"
+hash = "1fdcfac7855b931b593deada31c451b27971a2b6d1a7b16407b2babfb797234a"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/minecraft/tags/function/load.json"
@@ -408,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
+metafile = true
+
+[[files]]
+file = "mods/only-hammers.pw.toml"
+hash = "a47cd17a79fd9df896a1e8ffb6aeed84483be9473baa89b59027ed527f95ad24"
 metafile = true
 
 [[files]]

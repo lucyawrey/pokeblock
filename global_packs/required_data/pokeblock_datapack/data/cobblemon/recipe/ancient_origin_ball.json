@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "basic_ancient_balls",
+  "pattern": [
+    "ptq",
+    "lcr",
+    "vbm"
+  ],
+  "key": {
+    "t": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "l": {
+      "tag": "c:ingots/netherite"
+    },
+    "c": {
+      "item": "minecraft:nether_star"
+    },
+    "r": {
+      "tag": "c:ingots/netherite"
+    },
+    "b": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "p": {
+      "item": "cobblemon:tumblestone"
+    },
+    "q": {
+      "item": "cobblemon:black_tumblestone"
+    },
+    "v": {
+      "item": "cobblemon:sky_tumblestone"
+    },
+    "m": {
+      "item": "cobblemon:tumblestone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "cobblemon:ancient_origin_ball"
+  }
+}

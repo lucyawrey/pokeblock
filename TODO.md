@@ -1,14 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Add crafttweaker
-- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators.
-- [ ] Craftable hammers, essentially piackaxes, can be used as create millstone recepies with a farmer's delight cutting board.
-- [ ] Higher apricorn drop rate
+- [ ] Only hammers hammer can be used for crushing recepies with a farmer's delight cutting board.
+- [ ] Remove extra only hammers made of vanilla materials that are not usually usable for tools.
+- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
-- [ ] Millstone for Gravel -> Sand
-- [ ] Ancient Pokeball recipes yield 1 pokeball but only cost nuggets instead of ingots.
-- [ ] Iron *and* Copper Nuggets, Tumblestones from Washing or *Breaking* Gravel. Support cutting board for shovel. Loot tables for shovel recepies for washing.
-- [ ] Configure cobbleworkers
+- [ ] Iron Copper Nuggets, Tumblestones from Washing Gravel and from farmer's delight cutting board with a shovel.
+- [ ] Configure cobbleworkers.
 - [ ] Configure https://modrinth.com/mod/cobblemon-droploottables/versions to have all pokemon passively drop their loot tables
 - [ ] Custom Pokemon Spawning Rules
 	- [ ] Fix pokemon not spawning on Skyblocks (core spawning config)
@@ -19,9 +16,12 @@
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
-- [ ] Cobblegen ancient debris even less often, chance to get netherrite scrap from crushing blackstone
+- [ ] Chance to get netherrite scrap from crushing blackstone
+- [ ] Update master ball recipe for cobblemon create
 
 ## Low Priority
+- [ ] Remove ancient pokeballs from create
+- [ ] Purple apricorns for master balls, spinel balls (new), replace shulker boxes with purple apricorn boxes.
 - [ ] Fix Skyblock Builder World Spawn
 - [ ] Change Cobblemon+Create brewing to use fluids properly. Currently brewing uses bottles and is based on Farmers Delight-Create-Cobblemon compatability interactions
 - [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge), and thus not having skyblock as default world type
