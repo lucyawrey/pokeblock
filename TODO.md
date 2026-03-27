@@ -10,11 +10,13 @@
 - [ ] Ancient Pokeball recipes yield 1 pokeball but only cost nuggets instead of ingots.
 - [ ] Iron *and* Copper Nuggets, Tumblestones from Washing or *Breaking* Gravel. Support cutting board for shovel. Loot tables for shovel recepies for washing.
 - [ ] Configure cobbleworkers
+- [ ] Configure https://modrinth.com/mod/cobblemon-droploottables/versions to have all pokemon passively drop their loot tables
 - [ ] Custom Pokemon Spawning Rules
-	- [ ] Fix pokemon not spawning on Skyblocks
+	- [ ] Fix pokemon not spawning on Skyblocks (core spawning config)
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.
+	- [ ] Refernce https://wiki.cobblemon.com/index.php/Tutorials/Creating_Custom_Spawns
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config

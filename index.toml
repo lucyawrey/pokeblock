@@ -6,7 +6,7 @@ hash = "486f09562cfb7e85daaa27f17d29f2f5a5846fbca20f4d83a39b2d8e45e8d415"
 
 [[files]]
 file = "TODO.md"
-hash = "e512757ddda8b5e94770270e9e06b09b8350a854dde04445202591fac52635c1"
+hash = "c97493be2913292fec3c0353b466c76854acd60f0d6a67d94551d7ef6e337a84"
 
 [[files]]
 file = "config/cobblegen.json5"
@@ -123,7 +123,7 @@ hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
 
 [[files]]
 file = "global_packs/required_data/pokeblock-datapack/data/pokeblock/function/load.mcfunction"
-hash = "b9d5cb43d5e233e17c08bc26bd72aacf8cbfe2837bdff5c21e13b79c12af26ff"
+hash = "79af146e289c8181baa60405380284ddcf0b4907f96d37bc2ebd43f2b1be3106"
 
 [[files]]
 file = "global_packs/required_data/pokeblock-datapack/data/pokeblock/function/tick.mcfunction"
@@ -217,11 +217,6 @@ hash = "7f64ed4a0fafc2f78e947b3405a38e31938a5783c4aca5d3446f0930f70a6b5d"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-pasture-extractor.pw.toml"
-hash = "c8c4bd48a6c63639c3f87f33cabe69fd5c74513095fd5b56f8f014479cdae255"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
 metafile = true
@@ -239,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemore-library.pw.toml"
 hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
+metafile = true
+
+[[files]]
+file = "mods/cobbleworkers.pw.toml"
+hash = "7ab422ae7a3b9b95f52942d732ffa41bc67e73a055434f5069997d457efc91fa"
 metafile = true
 
 [[files]]
