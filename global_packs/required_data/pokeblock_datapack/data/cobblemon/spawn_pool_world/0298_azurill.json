@@ -65,7 +65,7 @@
             "id": "azurill-3",
             "pokemon": "azurill",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

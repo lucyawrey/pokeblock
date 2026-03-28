@@ -7,7 +7,7 @@
             "id": "litleo-1",
             "pokemon": "litleo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "litleo-2",
             "pokemon": "litleo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

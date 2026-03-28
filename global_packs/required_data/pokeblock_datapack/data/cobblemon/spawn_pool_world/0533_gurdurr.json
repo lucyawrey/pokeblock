@@ -7,7 +7,7 @@
             "id": "gurdurr-1",
             "pokemon": "gurdurr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -39,7 +39,7 @@
             "id": "gurdurr-2",
             "pokemon": "gurdurr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

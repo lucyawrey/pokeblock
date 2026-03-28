@@ -7,7 +7,7 @@
             "id": "tandemaus-1",
             "pokemon": "tandemaus",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "tandemaus-2",
             "pokemon": "tandemaus",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -65,7 +65,7 @@
             "id": "tandemaus-3",
             "pokemon": "tandemaus",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -117,7 +117,7 @@
             "id": "tandemaus-5",
             "pokemon": "tandemaus",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

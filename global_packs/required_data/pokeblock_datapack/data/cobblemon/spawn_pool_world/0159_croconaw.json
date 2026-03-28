@@ -7,7 +7,7 @@
             "id": "croconaw-1",
             "pokemon": "croconaw",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

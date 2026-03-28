@@ -7,7 +7,7 @@
             "id": "trevenant-1",
             "pokemon": "trevenant",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -29,7 +29,7 @@
             "id": "trevenant-2",
             "pokemon": "trevenant",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

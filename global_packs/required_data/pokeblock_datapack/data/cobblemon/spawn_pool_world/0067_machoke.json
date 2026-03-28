@@ -7,7 +7,7 @@
             "id": "machoke-1",
             "pokemon": "machoke",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "klawf-1",
             "pokemon": "klawf",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

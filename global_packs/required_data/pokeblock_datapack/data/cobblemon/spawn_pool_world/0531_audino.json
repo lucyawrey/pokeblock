@@ -7,7 +7,7 @@
       "id": "audino-1T",
       "pokemon": "audino",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

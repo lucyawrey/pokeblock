@@ -7,7 +7,7 @@
             "id": "vikavolt-1",
             "pokemon": "vikavolt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

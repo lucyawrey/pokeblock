@@ -71,7 +71,7 @@
             "id": "drednaw-1",
             "pokemon": "drednaw",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "exeggcute-1",
             "pokemon": "exeggcute",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "exeggcute-alola-2",
             "pokemon": "exeggcute region_bias=alola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

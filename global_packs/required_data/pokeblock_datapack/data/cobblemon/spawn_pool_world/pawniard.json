@@ -7,7 +7,7 @@
         "id": "pawniard-1T",
         "pokemon": "pawniard",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
         "id": "pawniard-2T",
         "pokemon": "pawniard",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",

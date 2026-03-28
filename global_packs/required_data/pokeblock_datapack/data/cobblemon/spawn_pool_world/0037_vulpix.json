@@ -7,7 +7,7 @@
             "id": "vulpix-1",
             "pokemon": "vulpix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "vulpix-2",
             "pokemon": "vulpix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "vulpix-alolan-3",
             "pokemon": "vulpix alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -86,7 +86,7 @@
             "id": "vulpix-alolan-4",
             "pokemon": "vulpix alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

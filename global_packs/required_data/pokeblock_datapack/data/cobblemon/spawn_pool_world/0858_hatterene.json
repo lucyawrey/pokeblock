@@ -7,7 +7,7 @@
             "id": "hatterene-1",
             "pokemon": "hatterene",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -95,7 +95,7 @@
             "id": "cursola-1",
             "pokemon": "cursola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -112,7 +112,7 @@
             "id": "cursola-2",
             "pokemon": "cursola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -149,7 +149,7 @@
             "id": "cursola-4",
             "pokemon": "cursola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -169,7 +169,7 @@
             "id": "cursola-5",
             "pokemon": "cursola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

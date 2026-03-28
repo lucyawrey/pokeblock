@@ -7,7 +7,7 @@
             "id": "monferno-1",
             "pokemon": "monferno",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "monferno-2",
             "pokemon": "monferno",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

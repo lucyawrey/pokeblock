@@ -7,7 +7,7 @@
             "id": "charizard-1",
             "pokemon": "charizard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "charizard-2",
             "pokemon": "charizard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "metagross-1",
             "pokemon": "metagross",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
             "id": "metagross-2",
             "pokemon": "metagross",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -42,7 +42,7 @@
             "id": "metagross-3",
             "pokemon": "metagross",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

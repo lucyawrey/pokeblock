@@ -7,7 +7,7 @@
             "id": "tyrunt-1",
             "pokemon": "tyrunt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

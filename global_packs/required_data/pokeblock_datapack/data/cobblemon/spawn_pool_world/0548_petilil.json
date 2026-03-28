@@ -7,7 +7,7 @@
             "id": "petilil-1",
             "pokemon": "petilil",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "petilil-2",
             "pokemon": "petilil",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -91,7 +91,7 @@
             "id": "petilil-hisui-4",
             "pokemon": "petilil region_bias=hisui",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -124,7 +124,7 @@
             "id": "petilil-hisui-5",
             "pokemon": "petilil region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

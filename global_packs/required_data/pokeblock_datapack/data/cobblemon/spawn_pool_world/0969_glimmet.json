@@ -7,7 +7,7 @@
             "id": "glimmet-1",
             "pokemon": "glimmet",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

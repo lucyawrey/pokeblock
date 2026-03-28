@@ -7,7 +7,7 @@
             "id": "sewaddle-1",
             "pokemon": "sewaddle",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

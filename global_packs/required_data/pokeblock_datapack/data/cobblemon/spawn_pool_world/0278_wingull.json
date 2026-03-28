@@ -7,7 +7,7 @@
             "id": "wingull-1",
             "pokemon": "wingull",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

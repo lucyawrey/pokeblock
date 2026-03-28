@@ -7,7 +7,7 @@
             "id": "scovillain-2",
             "pokemon": "scovillain",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
             "id": "scovillain-1",
             "pokemon": "scovillain",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

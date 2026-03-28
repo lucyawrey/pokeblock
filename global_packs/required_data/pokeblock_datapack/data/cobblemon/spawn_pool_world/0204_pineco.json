@@ -7,7 +7,7 @@
             "id": "pineco-1",
             "pokemon": "pineco",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

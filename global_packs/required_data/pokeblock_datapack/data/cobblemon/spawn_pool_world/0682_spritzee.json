@@ -25,7 +25,7 @@
             "id": "spritzee-1",
             "pokemon": "spritzee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

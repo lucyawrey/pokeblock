@@ -7,7 +7,7 @@
             "id": "spheal-1",
             "pokemon": "spheal",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

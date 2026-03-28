@@ -7,7 +7,7 @@
             "id": "mandibuzz-1",
             "pokemon": "mandibuzz",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

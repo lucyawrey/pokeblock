@@ -7,7 +7,7 @@
             "id": "wobbuffet-1",
             "pokemon": "wobbuffet",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

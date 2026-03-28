@@ -7,7 +7,7 @@
             "id": "hoothoot-1",
             "pokemon": "hoothoot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

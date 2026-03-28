@@ -7,7 +7,7 @@
             "id": "weavile-1",
             "pokemon": "weavile",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

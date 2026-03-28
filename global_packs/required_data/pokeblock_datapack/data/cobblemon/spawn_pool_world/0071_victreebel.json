@@ -7,7 +7,7 @@
             "id": "victreebel-1",
             "pokemon": "victreebel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

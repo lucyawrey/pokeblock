@@ -7,7 +7,7 @@
             "id": "happiny-1",
             "pokemon": "happiny",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "happiny-2",
             "pokemon": "happiny",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -61,7 +61,7 @@
             "id": "happiny-3",
             "pokemon": "happiny",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

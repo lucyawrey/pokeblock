@@ -7,7 +7,7 @@
             "id": "swadloon-1",
             "pokemon": "swadloon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

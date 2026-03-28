@@ -7,7 +7,7 @@
             "id": "emboar-1",
             "pokemon": "emboar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "emboar-2",
             "pokemon": "emboar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

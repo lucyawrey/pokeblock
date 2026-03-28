@@ -7,7 +7,7 @@
             "id": "lurantis-1",
             "pokemon": "lurantis",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "lurantis-2",
             "pokemon": "lurantis",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

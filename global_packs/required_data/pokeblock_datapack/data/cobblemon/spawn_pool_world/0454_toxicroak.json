@@ -7,7 +7,7 @@
             "id": "toxicroak-1",
             "pokemon": "toxicroak",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

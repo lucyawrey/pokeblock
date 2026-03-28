@@ -7,7 +7,7 @@
             "id": "dewott-1",
             "pokemon": "dewott",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -78,7 +78,7 @@
             "id": "dewott-hisui-4",
             "pokemon": "dewott region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -126,7 +126,7 @@
             "id": "dewott-hisui-6",
             "pokemon": "dewott region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

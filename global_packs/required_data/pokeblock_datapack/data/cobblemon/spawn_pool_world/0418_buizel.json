@@ -7,7 +7,7 @@
             "id": "buizel-1",
             "pokemon": "buizel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

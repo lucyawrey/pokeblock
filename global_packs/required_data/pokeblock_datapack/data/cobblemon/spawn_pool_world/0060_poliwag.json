@@ -7,7 +7,7 @@
             "id": "poliwag-1",
             "pokemon": "poliwag",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "poliwag-3",
             "pokemon": "poliwag",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "poliwag-5",
             "pokemon": "poliwag",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -299,7 +299,7 @@
             "id": "poliwag-12",
             "pokemon": "poliwag",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

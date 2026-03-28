@@ -7,7 +7,7 @@
             "id": "wooloo-1",
             "pokemon": "wooloo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "wooloo-2",
             "pokemon": "wooloo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

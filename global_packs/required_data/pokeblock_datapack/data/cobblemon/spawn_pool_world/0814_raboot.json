@@ -7,7 +7,7 @@
             "id": "raboot-1",
             "pokemon": "raboot",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

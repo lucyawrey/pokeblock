@@ -7,7 +7,7 @@
             "id": "staraptor-1",
             "pokemon": "staraptor",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

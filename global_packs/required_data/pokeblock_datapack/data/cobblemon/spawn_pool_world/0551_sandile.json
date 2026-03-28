@@ -7,7 +7,7 @@
             "id": "sandile-1",
             "pokemon": "sandile",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

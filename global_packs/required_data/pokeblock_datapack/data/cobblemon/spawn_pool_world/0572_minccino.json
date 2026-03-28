@@ -7,7 +7,7 @@
             "id": "minccino-1",
             "pokemon": "minccino",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "minccino-2",
             "pokemon": "minccino",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -52,7 +52,7 @@
             "id": "minccino-3",
             "pokemon": "minccino",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "cresselia-1T",
       "pokemon": "cresselia min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

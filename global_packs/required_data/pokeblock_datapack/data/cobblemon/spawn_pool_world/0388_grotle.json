@@ -7,7 +7,7 @@
             "id": "grotle-1",
             "pokemon": "grotle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

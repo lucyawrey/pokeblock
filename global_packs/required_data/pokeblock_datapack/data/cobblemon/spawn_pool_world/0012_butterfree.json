@@ -7,7 +7,7 @@
             "id": "butterfree-1",
             "pokemon": "butterfree",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "butterfree-2",
             "pokemon": "butterfree",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -54,7 +54,7 @@
             "id": "butterfree-3",
             "pokemon": "butterfree",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -73,7 +73,7 @@
             "id": "butterfree-valencian-4",
             "pokemon": "butterfree valencian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

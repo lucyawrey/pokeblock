@@ -7,7 +7,7 @@
             "id": "blitzle-1",
             "pokemon": "blitzle",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

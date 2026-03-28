@@ -7,7 +7,7 @@
             "id": "excadrill-1",
             "pokemon": "excadrill",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

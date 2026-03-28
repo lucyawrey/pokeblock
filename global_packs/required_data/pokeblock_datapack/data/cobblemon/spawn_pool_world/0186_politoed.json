@@ -7,7 +7,7 @@
             "id": "politoed-1",
             "pokemon": "politoed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "politoed-3",
             "pokemon": "politoed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "politoed-5",
             "pokemon": "politoed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -299,7 +299,7 @@
             "id": "politoed-12",
             "pokemon": "politoed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

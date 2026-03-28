@@ -7,7 +7,7 @@
             "id": "lotad-1",
             "pokemon": "lotad",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

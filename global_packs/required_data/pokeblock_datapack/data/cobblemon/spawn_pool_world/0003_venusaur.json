@@ -7,7 +7,7 @@
             "id": "venusaur-1",
             "pokemon": "venusaur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

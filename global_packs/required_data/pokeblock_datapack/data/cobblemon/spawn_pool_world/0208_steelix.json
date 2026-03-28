@@ -7,7 +7,7 @@
             "id": "steelix-1",
             "pokemon": "steelix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "steelix-2",
             "pokemon": "steelix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

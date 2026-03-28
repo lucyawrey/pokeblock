@@ -7,7 +7,7 @@
             "id": "silicobra-1",
             "pokemon": "silicobra",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

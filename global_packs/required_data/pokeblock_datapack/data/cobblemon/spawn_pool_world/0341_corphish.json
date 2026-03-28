@@ -7,7 +7,7 @@
             "id": "corphish-1",
             "pokemon": "corphish",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

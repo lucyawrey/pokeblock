@@ -7,7 +7,7 @@
             "id": "thievul-1",
             "pokemon": "thievul",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "thievul-2",
             "pokemon": "thievul",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

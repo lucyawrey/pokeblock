@@ -7,7 +7,7 @@
             "id": "yungoos-1",
             "pokemon": "yungoos",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

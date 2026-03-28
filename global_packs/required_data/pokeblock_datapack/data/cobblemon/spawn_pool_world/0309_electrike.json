@@ -7,7 +7,7 @@
             "id": "electrike-1",
             "pokemon": "electrike",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

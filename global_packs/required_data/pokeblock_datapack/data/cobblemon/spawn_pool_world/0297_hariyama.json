@@ -7,7 +7,7 @@
             "id": "hariyama-1",
             "pokemon": "hariyama",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

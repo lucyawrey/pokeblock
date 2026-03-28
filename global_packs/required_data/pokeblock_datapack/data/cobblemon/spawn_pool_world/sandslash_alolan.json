@@ -7,7 +7,7 @@
             "id": "sandslash-alolan1",
             "pokemon": "sandslash alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

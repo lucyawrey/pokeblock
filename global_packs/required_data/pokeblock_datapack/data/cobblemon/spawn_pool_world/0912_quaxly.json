@@ -7,7 +7,7 @@
             "id": "quaxly-1",
             "pokemon": "quaxly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

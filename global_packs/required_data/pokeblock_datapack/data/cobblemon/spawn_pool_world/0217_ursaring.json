@@ -7,7 +7,7 @@
             "id": "ursaring-1",
             "pokemon": "ursaring",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "ursaring-2",
             "pokemon": "ursaring",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "simisear-1",
             "pokemon": "simisear",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "simisear-2",
             "pokemon": "simisear",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

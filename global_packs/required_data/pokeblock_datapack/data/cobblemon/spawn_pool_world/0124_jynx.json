@@ -7,7 +7,7 @@
             "id": "jynx-1",
             "pokemon": "jynx",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "jynx-2",
             "pokemon": "jynx",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

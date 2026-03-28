@@ -7,7 +7,7 @@
             "id": "flaaffy-1",
             "pokemon": "flaaffy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "frigibax-1",
             "pokemon": "frigibax",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

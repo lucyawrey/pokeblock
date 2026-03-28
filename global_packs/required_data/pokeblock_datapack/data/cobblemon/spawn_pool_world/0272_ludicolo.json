@@ -7,7 +7,7 @@
             "id": "ludicolo-1",
             "pokemon": "ludicolo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

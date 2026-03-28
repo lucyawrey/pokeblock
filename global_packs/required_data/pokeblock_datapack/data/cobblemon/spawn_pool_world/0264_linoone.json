@@ -7,7 +7,7 @@
             "id": "linoone-1",
             "pokemon": "linoone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "linoone-2",
             "pokemon": "linoone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "linoone-galarian-3",
             "pokemon": "linoone galarian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "burmy-1",
             "pokemon": "burmy bagworm_cloak=plant",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "burmy-2",
             "pokemon": "burmy bagworm_cloak=plant",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -55,7 +55,7 @@
             "id": "burmy-3",
             "pokemon": "burmy bagworm_cloak=sandy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -74,7 +74,7 @@
             "id": "burmy-4",
             "pokemon": "burmy bagworm_cloak=trash",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",

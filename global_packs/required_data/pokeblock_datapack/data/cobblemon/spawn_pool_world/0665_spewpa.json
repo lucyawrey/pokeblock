@@ -7,7 +7,7 @@
             "id": "spewpa-1",
             "pokemon": "spewpa",
             "presets": [
-                "natural",
+                "base",
                 "foliage"
             ],
             "type": "pokemon",

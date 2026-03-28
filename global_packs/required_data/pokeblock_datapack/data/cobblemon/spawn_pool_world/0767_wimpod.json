@@ -7,7 +7,7 @@
             "id": "wimpod-1",
             "pokemon": "wimpod",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "wimpod-2",
             "pokemon": "wimpod",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "wimpod-3",
             "pokemon": "wimpod",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

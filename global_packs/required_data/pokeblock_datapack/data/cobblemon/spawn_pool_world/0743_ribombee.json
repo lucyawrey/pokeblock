@@ -7,7 +7,7 @@
             "id": "ribombee-1",
             "pokemon": "ribombee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "ribombee-2",
             "pokemon": "ribombee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

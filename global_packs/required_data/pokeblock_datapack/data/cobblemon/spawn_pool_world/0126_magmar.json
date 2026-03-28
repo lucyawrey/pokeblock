@@ -7,7 +7,7 @@
             "id": "magmar-1",
             "pokemon": "magmar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -36,7 +36,7 @@
             "id": "magmar-2",
             "pokemon": "magmar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -56,7 +56,7 @@
             "id": "magmar-3",
             "pokemon": "magmar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

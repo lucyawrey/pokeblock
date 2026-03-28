@@ -7,7 +7,7 @@
       "id": "latias-1T",
       "pokemon": "latias min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

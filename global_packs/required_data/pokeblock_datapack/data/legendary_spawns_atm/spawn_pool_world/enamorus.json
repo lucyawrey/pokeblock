@@ -7,7 +7,7 @@
       "id": "enamorus-1T",
       "pokemon": "enamorus min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "kricketot-1",
             "pokemon": "kricketot",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

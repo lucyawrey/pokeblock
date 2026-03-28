@@ -7,7 +7,7 @@
             "id": "glalie-1",
             "pokemon": "glalie",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "glalie-2",
             "pokemon": "glalie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -49,7 +49,7 @@
             "id": "glalie-3",
             "pokemon": "glalie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

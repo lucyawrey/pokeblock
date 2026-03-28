@@ -7,7 +7,7 @@
       "id": "moltres-1T",
       "pokemon": "moltres min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -53,7 +53,7 @@
       "id": "moltres-galarian-1T",
       "pokemon": "moltres galarian min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
      ],
       "type": "pokemon",

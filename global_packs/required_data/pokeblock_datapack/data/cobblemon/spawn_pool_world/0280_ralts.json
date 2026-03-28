@@ -7,7 +7,7 @@
             "id": "ralts-1",
             "pokemon": "ralts",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "ralts-2",
             "pokemon": "ralts",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "ralts-3",
             "pokemon": "ralts",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

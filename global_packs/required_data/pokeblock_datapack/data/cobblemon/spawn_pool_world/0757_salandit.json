@@ -7,7 +7,7 @@
             "id": "salandit-1",
             "pokemon": "salandit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
             "id": "salandit-2",
             "pokemon": "salandit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "salandit-3",
             "pokemon": "salandit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -69,7 +69,7 @@
             "id": "salandit-4",
             "pokemon": "salandit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

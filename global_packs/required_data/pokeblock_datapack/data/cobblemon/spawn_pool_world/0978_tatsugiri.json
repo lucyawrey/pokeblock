@@ -7,7 +7,7 @@
             "id": "tatsugiri-1",
             "pokemon": "tatsugiri",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

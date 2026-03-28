@@ -7,7 +7,7 @@
             "id": "sceptile-1",
             "pokemon": "sceptile",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

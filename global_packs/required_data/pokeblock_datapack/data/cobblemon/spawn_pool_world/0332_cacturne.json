@@ -7,7 +7,7 @@
             "id": "cacturne-1",
             "pokemon": "cacturne",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

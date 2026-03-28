@@ -7,7 +7,7 @@
       "id": "reshiram-1T",
       "pokemon": "reshiram min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

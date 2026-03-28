@@ -7,7 +7,7 @@
             "id": "makuhita-1",
             "pokemon": "makuhita",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "alakazam-1",
             "pokemon": "alakazam",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "alakazam-2",
             "pokemon": "alakazam",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

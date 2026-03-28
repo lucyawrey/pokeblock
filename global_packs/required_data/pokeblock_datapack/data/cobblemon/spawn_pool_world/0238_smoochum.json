@@ -7,7 +7,7 @@
             "id": "smoochum-1",
             "pokemon": "smoochum",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "smoochum-2",
             "pokemon": "smoochum",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

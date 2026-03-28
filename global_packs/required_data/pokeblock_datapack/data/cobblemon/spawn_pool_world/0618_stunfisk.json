@@ -91,7 +91,7 @@
             "id": "stunfisk-galarian-4",
             "pokemon": "stunfisk galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

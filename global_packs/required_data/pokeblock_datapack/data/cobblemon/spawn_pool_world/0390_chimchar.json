@@ -7,7 +7,7 @@
             "id": "chimchar-1",
             "pokemon": "chimchar",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "chimchar-2",
             "pokemon": "chimchar",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "totodile-1",
             "pokemon": "totodile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

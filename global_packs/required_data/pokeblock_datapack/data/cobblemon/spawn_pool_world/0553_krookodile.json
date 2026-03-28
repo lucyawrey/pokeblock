@@ -7,7 +7,7 @@
             "id": "krookodile-1",
             "pokemon": "krookodile",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "rabsca-1",
             "pokemon": "rabsca",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

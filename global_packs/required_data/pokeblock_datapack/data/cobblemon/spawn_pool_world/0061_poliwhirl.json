@@ -7,7 +7,7 @@
             "id": "poliwhirl-1",
             "pokemon": "poliwhirl",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "poliwhirl-3",
             "pokemon": "poliwhirl",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "poliwhirl-5",
             "pokemon": "poliwhirl",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -299,7 +299,7 @@
             "id": "poliwhirl-12",
             "pokemon": "poliwhirl",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

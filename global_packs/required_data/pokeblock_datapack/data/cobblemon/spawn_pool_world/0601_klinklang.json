@@ -7,7 +7,7 @@
             "id": "klinklang-1",
             "pokemon": "klinklang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "klinklang-2",
             "pokemon": "klinklang",
             "presets": [
-                "natural",
+                "base",
                 "redstone"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "klinklang-3",
             "pokemon": "klinklang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

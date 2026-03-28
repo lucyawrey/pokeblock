@@ -7,7 +7,7 @@
             "id": "graveler-1",
             "pokemon": "graveler",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "graveler-2",
             "pokemon": "graveler",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "graveler-alolan-3",
             "pokemon": "graveler alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

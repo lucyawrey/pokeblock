@@ -7,7 +7,7 @@
             "id": "diglett-1",
             "pokemon": "diglett",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "diglett-alolan-2",
             "pokemon": "diglett alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "fidough-1",
             "pokemon": "fidough",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "fidough-2",
             "pokemon": "fidough",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

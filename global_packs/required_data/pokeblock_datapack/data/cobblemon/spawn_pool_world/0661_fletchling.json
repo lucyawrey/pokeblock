@@ -7,7 +7,7 @@
             "id": "fletchling-1",
             "pokemon": "fletchling",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "fletchling-3",
             "pokemon": "fletchling",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "fletchling-4",
             "pokemon": "fletchling",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

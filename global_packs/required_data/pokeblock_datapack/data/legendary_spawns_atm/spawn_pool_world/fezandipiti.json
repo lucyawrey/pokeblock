@@ -7,7 +7,7 @@
       "id": "fezandipiti-1T",
       "pokemon": "fezandipiti min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

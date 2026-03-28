@@ -7,7 +7,7 @@
             "id": "aerodactyl-1",
             "pokemon": "aerodactyl",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

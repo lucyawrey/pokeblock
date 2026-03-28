@@ -7,7 +7,7 @@
             "id": "bunnelby-1",
             "pokemon": "bunnelby",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

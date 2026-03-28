@@ -7,7 +7,7 @@
             "id": "stufful-1",
             "pokemon": "stufful",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

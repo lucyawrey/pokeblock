@@ -7,7 +7,7 @@
             "id": "dodrio-1",
             "pokemon": "dodrio",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "dodrio-2",
             "pokemon": "dodrio",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

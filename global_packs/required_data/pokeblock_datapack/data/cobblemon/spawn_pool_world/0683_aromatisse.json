@@ -25,7 +25,7 @@
             "id": "aromatisse-1",
             "pokemon": "aromatisse",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

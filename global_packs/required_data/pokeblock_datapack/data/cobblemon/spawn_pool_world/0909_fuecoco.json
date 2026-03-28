@@ -7,7 +7,7 @@
             "id": "fuecoco-1",
             "pokemon": "fuecoco",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "fuecoco-2",
             "pokemon": "fuecoco",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

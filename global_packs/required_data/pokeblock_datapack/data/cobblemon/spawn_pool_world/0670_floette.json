@@ -7,7 +7,7 @@
             "id": "floette-red-1",
             "pokemon": "floette flower=red",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "floette-yellow-2",
             "pokemon": "floette flower=yellow",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -63,7 +63,7 @@
             "id": "floette-orange-3",
             "pokemon": "floette flower=orange",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -91,7 +91,7 @@
             "id": "floette-blue-4",
             "pokemon": "floette flower=blue",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -119,7 +119,7 @@
             "id": "floette-white-5",
             "pokemon": "floette flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -147,7 +147,7 @@
             "id": "floette-pink-6",
             "pokemon": "floette flower=pink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -175,7 +175,7 @@
             "id": "floette-white-7",
             "pokemon": "floette flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

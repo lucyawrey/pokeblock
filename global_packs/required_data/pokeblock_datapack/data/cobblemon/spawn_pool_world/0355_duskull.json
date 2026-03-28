@@ -7,7 +7,7 @@
             "id": "duskull-1",
             "pokemon": "duskull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "duskull-2",
             "pokemon": "duskull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

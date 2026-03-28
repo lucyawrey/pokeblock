@@ -7,7 +7,7 @@
             "id": "smoliv-1",
             "pokemon": "smoliv",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

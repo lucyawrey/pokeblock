@@ -7,7 +7,7 @@
             "id": "ferroseed-1",
             "pokemon": "ferroseed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "ferroseed-2",
             "pokemon": "ferroseed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

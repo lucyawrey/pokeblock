@@ -7,7 +7,7 @@
             "id": "spidops-1",
             "pokemon": "spidops",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "bisharp-1T",
       "pokemon": "bisharp",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
       "id": "bisharp-2T",
       "pokemon": "bisharp",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

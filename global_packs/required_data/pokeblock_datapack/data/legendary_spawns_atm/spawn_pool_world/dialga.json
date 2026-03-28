@@ -7,7 +7,7 @@
       "id": "dialga-1T",
       "pokemon": "dialga min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -26,7 +26,7 @@
       "id": "dialga-2T",
       "pokemon": "dialga",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

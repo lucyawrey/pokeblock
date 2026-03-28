@@ -7,7 +7,7 @@
             "id": "froslass-1",
             "pokemon": "froslass",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "froslass-2",
             "pokemon": "froslass",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -49,7 +49,7 @@
             "id": "froslass-3",
             "pokemon": "froslass",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -71,7 +71,7 @@
             "id": "froslass-4",
             "pokemon": "froslass",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

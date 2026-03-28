@@ -7,7 +7,7 @@
             "id": "ironmoth-1T",
             "pokemon": "ironmoth min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

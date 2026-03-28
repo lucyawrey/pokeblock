@@ -7,7 +7,7 @@
             "id": "weezing-1",
             "pokemon": "weezing",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "weezing-2",
             "pokemon": "weezing",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -61,7 +61,7 @@
             "id": "weezing-3",
             "pokemon": "weezing",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -78,7 +78,7 @@
             "id": "weezing-galarian-4",
             "pokemon": "weezing galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -103,7 +103,7 @@
             "id": "weezing-galarian-5",
             "pokemon": "weezing galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

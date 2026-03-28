@@ -7,7 +7,7 @@
             "id": "scolipede-1",
             "pokemon": "scolipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "scolipede-2",
             "pokemon": "scolipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -49,7 +49,7 @@
             "id": "scolipede-3",
             "pokemon": "scolipede",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -75,7 +75,7 @@
             "id": "scolipede-4",
             "pokemon": "scolipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -94,7 +94,7 @@
             "id": "scolipede-5",
             "pokemon": "scolipede",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "vanillite-1",
             "pokemon": "vanillite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "vanillite-2",
             "pokemon": "vanillite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "vanillite-3",
             "pokemon": "vanillite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

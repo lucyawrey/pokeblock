@@ -7,7 +7,7 @@
             "id": "hitmonlee-1",
             "pokemon": "hitmonlee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

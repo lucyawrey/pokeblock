@@ -7,7 +7,7 @@
       "id": "rayquaza-1T",
       "pokemon": "rayquaza min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "magmortar-1",
             "pokemon": "magmortar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "magmortar-2",
             "pokemon": "magmortar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "magmortar-3",
             "pokemon": "magmortar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

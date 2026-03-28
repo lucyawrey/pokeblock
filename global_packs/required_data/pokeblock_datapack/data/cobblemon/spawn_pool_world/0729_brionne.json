@@ -7,7 +7,7 @@
             "id": "brionne-1",
             "pokemon": "brionne",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

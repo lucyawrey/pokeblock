@@ -7,7 +7,7 @@
             "id": "snorlax-1",
             "pokemon": "snorlax",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "snorlax-2",
             "pokemon": "snorlax",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

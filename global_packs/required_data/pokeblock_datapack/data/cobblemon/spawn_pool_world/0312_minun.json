@@ -7,7 +7,7 @@
             "id": "minun-1",
             "pokemon": "minun",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

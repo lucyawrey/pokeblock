@@ -7,7 +7,7 @@
             "id": "skiddo-1",
             "pokemon": "skiddo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

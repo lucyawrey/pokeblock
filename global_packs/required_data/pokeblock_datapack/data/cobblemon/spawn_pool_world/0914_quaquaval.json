@@ -7,7 +7,7 @@
             "id": "quaquaval-1",
             "pokemon": "quaquaval",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "illumise-1",
             "pokemon": "illumise",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

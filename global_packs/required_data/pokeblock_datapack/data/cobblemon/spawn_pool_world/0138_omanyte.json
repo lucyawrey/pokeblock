@@ -7,7 +7,7 @@
             "id": "omanyte-1",
             "pokemon": "omanyte",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

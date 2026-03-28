@@ -7,7 +7,7 @@
             "id": "shroomish-1",
             "pokemon": "shroomish",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "shroomish-2",
             "pokemon": "shroomish",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

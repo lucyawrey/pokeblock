@@ -7,7 +7,7 @@
             "id": "squirtle-1",
             "pokemon": "squirtle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

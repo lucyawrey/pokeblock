@@ -7,7 +7,7 @@
             "id": "combee-1",
             "pokemon": "combee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -42,7 +42,7 @@
             "id": "combee-2",
             "pokemon": "combee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -80,7 +80,7 @@
             "id": "combee-3",
             "pokemon": "combee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

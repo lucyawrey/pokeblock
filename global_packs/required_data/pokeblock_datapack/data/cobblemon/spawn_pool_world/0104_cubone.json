@@ -7,7 +7,7 @@
             "id": "cubone-1",
             "pokemon": "cubone",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "cubone-alola-2",
             "pokemon": "cubone region_bias=alola",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -48,7 +48,7 @@
             "id": "cubone-alola-3",
             "pokemon": "cubone region_bias=alola",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

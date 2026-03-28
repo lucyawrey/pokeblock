@@ -7,7 +7,7 @@
             "id": "sableye-1",
             "pokemon": "sableye",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "sableye-2",
             "pokemon": "sableye",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

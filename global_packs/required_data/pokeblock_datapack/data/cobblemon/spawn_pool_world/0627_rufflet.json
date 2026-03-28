@@ -7,7 +7,7 @@
             "id": "rufflet-1",
             "pokemon": "rufflet",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -30,7 +30,7 @@
             "id": "rufflet-2",
             "pokemon": "rufflet",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -52,7 +52,7 @@
             "id": "rufflet-hisui-5",
             "pokemon": "rufflet region_bias=hisui",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -86,7 +86,7 @@
             "id": "rufflet-hisui-6",
             "pokemon": "rufflet region_bias=hisui",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

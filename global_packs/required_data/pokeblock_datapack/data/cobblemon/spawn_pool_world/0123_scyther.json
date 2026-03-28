@@ -7,7 +7,7 @@
             "id": "scyther-1",
             "pokemon": "scyther",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "scyther-2",
             "pokemon": "scyther",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -56,7 +56,7 @@
             "id": "scyther-3",
             "pokemon": "scyther",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

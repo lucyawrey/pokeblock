@@ -7,7 +7,7 @@
             "id": "snom-1",
             "pokemon": "snom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

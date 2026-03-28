@@ -7,7 +7,7 @@
             "id": "garchomp-1",
             "pokemon": "garchomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "garchomp-2",
             "pokemon": "garchomp",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -49,7 +49,7 @@
             "id": "garchomp-3",
             "pokemon": "garchomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -80,7 +80,7 @@
             "id": "garchomp-4",
             "pokemon": "garchomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "garchomp-5",
             "pokemon": "garchomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -131,7 +131,7 @@
             "id": "garchomp-6",
             "pokemon": "garchomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

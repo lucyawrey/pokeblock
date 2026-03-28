@@ -7,7 +7,7 @@
             "id": "thwackey-1",
             "pokemon": "thwackey",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

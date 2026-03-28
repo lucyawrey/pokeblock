@@ -79,7 +79,7 @@
             "pokemon": "rotom",
             "type": "pokemon",
 			"presets": [
-                "natural"
+                "base"
             ],
             "spawnablePositionType": "grounded",
             "bucket": "ultra-rare",

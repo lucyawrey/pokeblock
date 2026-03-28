@@ -7,7 +7,7 @@
             "id": "dolliv-1",
             "pokemon": "dolliv",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

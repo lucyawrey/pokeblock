@@ -7,7 +7,7 @@
             "id": "piplup-1",
             "pokemon": "piplup",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

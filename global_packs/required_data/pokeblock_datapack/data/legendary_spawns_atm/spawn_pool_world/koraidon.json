@@ -7,7 +7,7 @@
       "id": "koraidon-1T",
       "pokemon": "koraidon min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
       "id": "koraidon-2T",
       "pokemon": "koraidon min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

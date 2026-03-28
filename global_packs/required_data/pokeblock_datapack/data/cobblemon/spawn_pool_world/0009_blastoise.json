@@ -7,7 +7,7 @@
             "id": "blastoise-1",
             "pokemon": "blastoise",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

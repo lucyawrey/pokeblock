@@ -7,7 +7,7 @@
             "id": "shuppet-1",
             "pokemon": "shuppet",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "shuppet-2",
             "pokemon": "shuppet",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -48,7 +48,7 @@
             "id": "shuppet-3",
             "pokemon": "shuppet",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

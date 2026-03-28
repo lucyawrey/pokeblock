@@ -7,7 +7,7 @@
             "id": "brambleghast-1",
             "pokemon": "brambleghast",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "brambleghast-2",
             "pokemon": "brambleghast",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

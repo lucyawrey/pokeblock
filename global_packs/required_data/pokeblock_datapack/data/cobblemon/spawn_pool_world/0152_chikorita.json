@@ -7,7 +7,7 @@
             "id": "chikorita-1",
             "pokemon": "chikorita",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

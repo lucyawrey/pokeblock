@@ -7,7 +7,7 @@
       "id": "miraidon-1T",
       "pokemon": "miraidon min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
       "id": "miraidon-2T",
       "pokemon": "miraidon min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

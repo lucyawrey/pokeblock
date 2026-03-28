@@ -7,7 +7,7 @@
             "id": "stonjourner-1",
             "pokemon": "stonjourner",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "stonjourner-2",
             "pokemon": "stonjourner",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -59,7 +59,7 @@
             "id": "stonjourner-3",
             "pokemon": "stonjourner",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

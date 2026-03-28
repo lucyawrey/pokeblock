@@ -7,7 +7,7 @@
             "id": "ampharos-1",
             "pokemon": "ampharos",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

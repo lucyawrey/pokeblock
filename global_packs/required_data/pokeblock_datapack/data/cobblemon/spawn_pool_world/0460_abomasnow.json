@@ -7,7 +7,7 @@
       "id": "abomasnow-1T",
       "pokemon": "abomasnow",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

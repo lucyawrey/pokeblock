@@ -7,7 +7,7 @@
             "id": "bellossom-1",
             "pokemon": "bellossom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "bellossom-2",
             "pokemon": "bellossom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -47,7 +47,7 @@
             "id": "bellossom-valencian-3",
             "pokemon": "bellossom valencian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

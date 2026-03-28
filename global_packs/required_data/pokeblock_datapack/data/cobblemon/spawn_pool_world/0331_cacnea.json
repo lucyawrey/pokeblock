@@ -7,7 +7,7 @@
             "id": "cacnea-1",
             "pokemon": "cacnea",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

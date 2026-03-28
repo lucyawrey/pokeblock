@@ -7,7 +7,7 @@
             "id": "treecko-1",
             "pokemon": "treecko",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

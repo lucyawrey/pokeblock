@@ -7,7 +7,7 @@
             "id": "flareon-1",
             "pokemon": "flareon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "flareon-2",
             "pokemon": "flareon",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -47,7 +47,7 @@
             "id": "flareon-3",
             "pokemon": "flareon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

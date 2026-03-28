@@ -7,7 +7,7 @@
             "id": "arboliva-1",
             "pokemon": "arboliva",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

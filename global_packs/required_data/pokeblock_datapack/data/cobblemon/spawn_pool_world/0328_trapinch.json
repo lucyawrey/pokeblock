@@ -7,7 +7,7 @@
             "id": "trapinch-1",
             "pokemon": "trapinch",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "trapinch-2",
             "pokemon": "trapinch",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

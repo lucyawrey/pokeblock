@@ -7,7 +7,7 @@
             "id": "meditite-1",
             "pokemon": "meditite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "meditite-2",
             "pokemon": "meditite",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",

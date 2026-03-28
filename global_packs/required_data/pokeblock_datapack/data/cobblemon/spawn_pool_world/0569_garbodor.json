@@ -7,7 +7,7 @@
             "id": "garbodor-1",
             "pokemon": "garbodor",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "garbodor-2",
             "pokemon": "garbodor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

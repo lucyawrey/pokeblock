@@ -328,7 +328,7 @@
             "id": "grimer-alolan-10",
             "pokemon": "grimer alolan",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -354,7 +354,7 @@
             "id": "grimer-alolan-11",
             "pokemon": "grimer alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -382,7 +382,7 @@
             "id": "grimer-alolan-12",
             "pokemon": "grimer alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

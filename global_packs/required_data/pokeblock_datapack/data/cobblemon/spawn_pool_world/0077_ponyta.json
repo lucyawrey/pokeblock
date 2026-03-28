@@ -7,7 +7,7 @@
             "id": "ponyta-1",
             "pokemon": "ponyta",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -39,7 +39,7 @@
             "id": "ponyta-2",
             "pokemon": "ponyta",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -74,7 +74,7 @@
             "id": "ponyta-galarian-3",
             "pokemon": "ponyta galarian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -101,7 +101,7 @@
             "id": "ponyta-galarian-4",
             "pokemon": "ponyta galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

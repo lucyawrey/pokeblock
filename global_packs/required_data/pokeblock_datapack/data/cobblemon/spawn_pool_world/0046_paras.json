@@ -7,7 +7,7 @@
             "id": "paras-1",
             "pokemon": "paras",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "paras-2",
             "pokemon": "paras",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -50,7 +50,7 @@
             "id": "paras-3",
             "pokemon": "paras",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -72,7 +72,7 @@
             "id": "paras-4",
             "pokemon": "paras",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

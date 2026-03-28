@@ -7,7 +7,7 @@
             "id": "mismagius-1",
             "pokemon": "mismagius",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "mismagius-2",
             "pokemon": "mismagius",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -81,7 +81,7 @@
             "id": "mismagius-4",
             "pokemon": "mismagius",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -101,7 +101,7 @@
             "id": "mismagius-5",
             "pokemon": "mismagius",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

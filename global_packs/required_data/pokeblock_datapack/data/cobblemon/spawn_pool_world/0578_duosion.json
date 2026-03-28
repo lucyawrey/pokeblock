@@ -7,7 +7,7 @@
             "id": "duosion-1",
             "pokemon": "duosion",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "duosion-2",
             "pokemon": "duosion",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "durant-1",
             "pokemon": "durant",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "durant-2",
             "pokemon": "durant",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -47,7 +47,7 @@
             "id": "durant-3",
             "pokemon": "durant",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

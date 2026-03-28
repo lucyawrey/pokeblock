@@ -7,7 +7,7 @@
             "id": "fraxure-1",
             "pokemon": "fraxure",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

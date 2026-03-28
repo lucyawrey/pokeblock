@@ -7,7 +7,7 @@
             "id": "skarmory-1",
             "pokemon": "skarmory",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

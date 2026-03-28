@@ -7,7 +7,7 @@
             "id": "sandshrew-1",
             "pokemon": "sandshrew",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

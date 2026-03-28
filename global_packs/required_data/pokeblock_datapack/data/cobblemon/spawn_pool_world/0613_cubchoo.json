@@ -7,7 +7,7 @@
             "id": "cubchoo-1",
             "pokemon": "cubchoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

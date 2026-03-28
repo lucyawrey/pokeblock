@@ -26,7 +26,7 @@
             "id": "bronzong-1",
             "pokemon": "bronzong",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "bronzong-2",
             "pokemon": "bronzong",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",

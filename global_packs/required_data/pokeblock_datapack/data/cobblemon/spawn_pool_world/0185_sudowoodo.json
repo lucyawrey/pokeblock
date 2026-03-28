@@ -7,7 +7,7 @@
             "id": "sudowoodo-1",
             "pokemon": "sudowoodo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

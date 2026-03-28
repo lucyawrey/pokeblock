@@ -7,7 +7,7 @@
             "id": "xatu-1",
             "pokemon": "xatu",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

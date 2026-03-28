@@ -7,7 +7,7 @@
       "id": "okidogi-1T",
       "pokemon": "okidogi min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

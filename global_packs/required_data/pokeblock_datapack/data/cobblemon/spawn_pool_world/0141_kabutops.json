@@ -7,7 +7,7 @@
             "id": "kabutops-1",
             "pokemon": "kabutops",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

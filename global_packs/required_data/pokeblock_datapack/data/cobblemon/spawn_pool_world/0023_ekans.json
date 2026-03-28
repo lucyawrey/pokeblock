@@ -7,7 +7,7 @@
             "id": "ekans-classic-1",
             "pokemon": "ekans snake_pattern=classic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "ekans-legacy-2",
             "pokemon": "ekans snake_pattern=legacy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
             "id": "ekans-attack-2",
             "pokemon": "ekans snake_pattern=attack",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -64,7 +64,7 @@
             "id": "ekans-speed-2",
             "pokemon": "ekans snake_pattern=speed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -83,7 +83,7 @@
             "id": "ekans-elusive-2",
             "pokemon": "ekans snake_pattern=elusive",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -102,7 +102,7 @@
             "id": "ekans-sound-2",
             "pokemon": "ekans snake_pattern=sound",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -121,7 +121,7 @@
             "id": "ekans-dark-3",
             "pokemon": "ekans snake_pattern=dark",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "noctowl-1",
             "pokemon": "noctowl",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

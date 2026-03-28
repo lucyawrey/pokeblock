@@ -7,7 +7,7 @@
             "id": "poipole-1T",
             "pokemon": "poipole min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "poipole-2T",
             "pokemon": "poipole min_perfect_ivs=3",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

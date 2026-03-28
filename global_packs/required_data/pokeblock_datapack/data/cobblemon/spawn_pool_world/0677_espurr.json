@@ -7,7 +7,7 @@
             "id": "espurr-1",
             "pokemon": "espurr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -40,7 +40,7 @@
             "id": "espurr-2",
             "pokemon": "espurr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -75,7 +75,7 @@
             "id": "espurr-3",
             "pokemon": "espurr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -102,7 +102,7 @@
             "id": "espurr-4",
             "pokemon": "espurr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

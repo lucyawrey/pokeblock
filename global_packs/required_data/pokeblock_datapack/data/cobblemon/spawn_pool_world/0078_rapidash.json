@@ -7,7 +7,7 @@
             "id": "rapidash-1",
             "pokemon": "rapidash",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -39,7 +39,7 @@
             "id": "rapidash-2",
             "pokemon": "rapidash",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -74,7 +74,7 @@
             "id": "rapidash-galarian-3",
             "pokemon": "rapidash galarian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -101,7 +101,7 @@
             "id": "rapidash-galarian-4",
             "pokemon": "rapidash galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

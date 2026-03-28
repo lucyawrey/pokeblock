@@ -7,7 +7,7 @@
       "id": "thundurus-1T",
       "pokemon": "thundurus min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

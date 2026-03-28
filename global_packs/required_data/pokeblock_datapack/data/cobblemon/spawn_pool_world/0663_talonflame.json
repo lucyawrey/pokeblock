@@ -7,7 +7,7 @@
             "id": "talonflame-1",
             "pokemon": "talonflame",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "talonflame-3",
             "pokemon": "talonflame",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "talonflame-4",
             "pokemon": "talonflame",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "slowpoke-1",
             "pokemon": "slowpoke",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "slowpoke-2",
             "pokemon": "slowpoke",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -184,7 +184,7 @@
             "id": "slowpoke-galarian-7",
             "pokemon": "slowpoke galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "zacian-1T",
       "pokemon": "zacian min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

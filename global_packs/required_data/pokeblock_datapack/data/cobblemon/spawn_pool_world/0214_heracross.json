@@ -7,7 +7,7 @@
             "id": "heracross-1",
             "pokemon": "heracross",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -43,7 +43,7 @@
             "id": "heracross-2",
             "pokemon": "heracross",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -78,7 +78,7 @@
             "id": "heracross-3",
             "pokemon": "heracross",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

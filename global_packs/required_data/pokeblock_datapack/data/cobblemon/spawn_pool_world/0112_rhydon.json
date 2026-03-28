@@ -7,7 +7,7 @@
             "id": "rhydon-1",
             "pokemon": "rhydon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

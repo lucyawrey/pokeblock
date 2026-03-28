@@ -7,7 +7,7 @@
             "id": "grookey-1",
             "pokemon": "grookey",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

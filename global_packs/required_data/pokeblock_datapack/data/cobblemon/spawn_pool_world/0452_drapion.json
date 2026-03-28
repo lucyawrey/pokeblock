@@ -7,7 +7,7 @@
             "id": "drapion-1",
             "pokemon": "drapion",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "pancham-1",
             "pokemon": "pancham",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

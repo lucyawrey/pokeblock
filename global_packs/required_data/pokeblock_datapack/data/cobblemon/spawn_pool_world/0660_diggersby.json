@@ -7,7 +7,7 @@
             "id": "diggersby-1",
             "pokemon": "diggersby",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

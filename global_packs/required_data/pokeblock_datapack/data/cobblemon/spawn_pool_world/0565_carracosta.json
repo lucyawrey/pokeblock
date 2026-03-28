@@ -7,7 +7,7 @@
             "id": "carracosta-1",
             "pokemon": "carracosta",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

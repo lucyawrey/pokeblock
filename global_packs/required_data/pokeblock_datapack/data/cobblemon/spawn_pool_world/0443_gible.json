@@ -7,7 +7,7 @@
             "id": "gible-1",
             "pokemon": "gible",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "gible-2",
             "pokemon": "gible",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -49,7 +49,7 @@
             "id": "gible-3",
             "pokemon": "gible",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -80,7 +80,7 @@
             "id": "gible-4",
             "pokemon": "gible",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "gible-5",
             "pokemon": "gible",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -131,7 +131,7 @@
             "id": "gible-6",
             "pokemon": "gible",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

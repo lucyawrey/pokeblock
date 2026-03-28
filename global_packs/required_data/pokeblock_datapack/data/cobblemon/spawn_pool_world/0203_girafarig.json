@@ -7,7 +7,7 @@
             "id": "girafarig-1",
             "pokemon": "girafarig",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

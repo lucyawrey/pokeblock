@@ -7,7 +7,7 @@
             "id": "lairon-1",
             "pokemon": "lairon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "lairon-2",
             "pokemon": "lairon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

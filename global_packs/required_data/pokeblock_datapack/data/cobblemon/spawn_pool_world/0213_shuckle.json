@@ -7,7 +7,7 @@
             "id": "shuckle-1",
             "pokemon": "shuckle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -87,7 +87,7 @@
             "id": "shuckle-4",
             "pokemon": "shuckle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

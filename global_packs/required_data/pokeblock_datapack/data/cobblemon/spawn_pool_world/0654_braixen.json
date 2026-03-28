@@ -7,7 +7,7 @@
             "id": "braixen-1",
             "pokemon": "braixen",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

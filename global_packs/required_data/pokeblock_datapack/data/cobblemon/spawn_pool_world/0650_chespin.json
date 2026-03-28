@@ -7,7 +7,7 @@
             "id": "chespin-1",
             "pokemon": "chespin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

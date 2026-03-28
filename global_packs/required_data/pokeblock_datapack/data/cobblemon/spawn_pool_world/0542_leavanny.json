@@ -7,7 +7,7 @@
             "id": "leavanny-1",
             "pokemon": "leavanny",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

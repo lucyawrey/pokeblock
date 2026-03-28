@@ -7,7 +7,7 @@
             "id": "boldore-1",
             "pokemon": "boldore",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "boldore-2",
             "pokemon": "boldore",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

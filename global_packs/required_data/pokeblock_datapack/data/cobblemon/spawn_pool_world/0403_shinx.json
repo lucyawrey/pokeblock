@@ -7,7 +7,7 @@
             "id": "shinx-1",
             "pokemon": "shinx",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

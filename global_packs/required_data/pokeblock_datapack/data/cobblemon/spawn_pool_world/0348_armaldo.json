@@ -7,7 +7,7 @@
             "id": "armaldo-1",
             "pokemon": "armaldo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

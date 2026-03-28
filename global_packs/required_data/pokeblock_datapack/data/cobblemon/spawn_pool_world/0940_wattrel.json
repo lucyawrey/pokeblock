@@ -7,7 +7,7 @@
             "id": "wattrel-1",
             "pokemon": "wattrel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -58,7 +58,7 @@
             "id": "wattrel-3",
             "pokemon": "wattrel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

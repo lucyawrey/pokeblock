@@ -7,7 +7,7 @@
             "id": "tarountula-1",
             "pokemon": "tarountula",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

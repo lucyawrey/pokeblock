@@ -7,7 +7,7 @@
             "id": "vullaby-1",
             "pokemon": "vullaby",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

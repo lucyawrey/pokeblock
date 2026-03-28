@@ -7,7 +7,7 @@
             "id": "feraligatr-1",
             "pokemon": "feraligatr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

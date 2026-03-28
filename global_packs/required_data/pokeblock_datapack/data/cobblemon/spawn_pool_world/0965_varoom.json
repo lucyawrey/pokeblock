@@ -7,7 +7,7 @@
             "id": "varoom-1",
             "pokemon": "varoom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

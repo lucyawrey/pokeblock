@@ -7,7 +7,7 @@
             "id": "liepard-1",
             "pokemon": "liepard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "liepard-2",
             "pokemon": "liepard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "liepard-3",
             "pokemon": "liepard",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -94,7 +94,7 @@
             "id": "liepard-4",
             "pokemon": "liepard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -130,7 +130,7 @@
             "id": "liepard-5",
             "pokemon": "liepard",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -156,7 +156,7 @@
             "id": "liepard-6",
             "pokemon": "liepard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -202,7 +202,7 @@
             "id": "liepard-8",
             "pokemon": "liepard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

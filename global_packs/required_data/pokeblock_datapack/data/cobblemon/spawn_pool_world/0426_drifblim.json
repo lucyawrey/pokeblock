@@ -7,7 +7,7 @@
             "id": "drifblim-1",
             "pokemon": "drifblim",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "drifblim-2",
             "pokemon": "drifblim",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

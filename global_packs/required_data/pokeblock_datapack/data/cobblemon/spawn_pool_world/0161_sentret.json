@@ -7,7 +7,7 @@
             "id": "sentret-1",
             "pokemon": "sentret",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

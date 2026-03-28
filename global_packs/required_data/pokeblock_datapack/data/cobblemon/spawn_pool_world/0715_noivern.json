@@ -7,7 +7,7 @@
             "id": "noivern-1",
             "pokemon": "noivern",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

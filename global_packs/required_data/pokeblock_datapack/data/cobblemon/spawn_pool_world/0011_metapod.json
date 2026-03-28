@@ -7,7 +7,7 @@
             "id": "metapod-1",
             "pokemon": "metapod",
             "presets": [
-                "natural",
+                "base",
                 "foliage",
                 "treetop"
             ],
@@ -37,7 +37,7 @@
             "id": "metapod-valencian-2",
             "pokemon": "metapod valencian",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

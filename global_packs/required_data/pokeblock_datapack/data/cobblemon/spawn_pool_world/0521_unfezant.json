@@ -7,7 +7,7 @@
             "id": "unfezant-2",
             "pokemon": "unfezant",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "unfezant-3",
             "pokemon": "unfezant",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -61,7 +61,7 @@
             "id": "unfezant-4",
             "pokemon": "unfezant",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

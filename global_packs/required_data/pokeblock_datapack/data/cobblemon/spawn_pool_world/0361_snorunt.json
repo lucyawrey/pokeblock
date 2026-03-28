@@ -7,7 +7,7 @@
             "id": "snorunt-1",
             "pokemon": "snorunt",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "snorunt-2",
             "pokemon": "snorunt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "snorunt-3",
             "pokemon": "snorunt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -70,7 +70,7 @@
             "id": "snorunt-4",
             "pokemon": "snorunt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

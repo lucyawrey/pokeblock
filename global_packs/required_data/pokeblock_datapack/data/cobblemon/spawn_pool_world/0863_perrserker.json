@@ -7,7 +7,7 @@
             "id": "perrserker-1",
             "pokemon": "perrserker",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "perrserker-2",
             "pokemon": "perrserker",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

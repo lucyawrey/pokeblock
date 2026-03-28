@@ -7,7 +7,7 @@
       "id": "zamazenta-1T",
       "pokemon": "zamazenta min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

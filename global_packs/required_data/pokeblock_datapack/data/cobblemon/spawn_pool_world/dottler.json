@@ -7,7 +7,7 @@
             "id": "dottler-1",
             "pokemon": "dottler",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "dottler-2",
             "pokemon": "dottler",
             "presets": [
-				"natural",
+				"base",
                 "foliage",
                 "treetop"
             ],

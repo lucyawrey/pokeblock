@@ -7,7 +7,7 @@
       "id": "keldeo-1T",
       "pokemon": "keldeo sword_form=ordinary min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

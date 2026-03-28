@@ -7,7 +7,7 @@
             "id": "electivire-1",
             "pokemon": "electivire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

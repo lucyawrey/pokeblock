@@ -7,7 +7,7 @@
             "id": "smeargle-1",
             "pokemon": "smeargle",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "smeargle-2",
             "pokemon": "smeargle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

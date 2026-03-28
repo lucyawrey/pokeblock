@@ -7,7 +7,7 @@
             "id": "skorupi-1",
             "pokemon": "skorupi",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

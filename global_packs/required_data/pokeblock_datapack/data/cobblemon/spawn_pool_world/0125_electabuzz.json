@@ -7,7 +7,7 @@
             "id": "electabuzz-1",
             "pokemon": "electabuzz",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

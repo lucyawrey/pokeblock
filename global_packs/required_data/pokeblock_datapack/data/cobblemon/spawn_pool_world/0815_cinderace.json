@@ -7,7 +7,7 @@
             "id": "cinderace-1",
             "pokemon": "cinderace",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

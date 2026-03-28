@@ -7,7 +7,7 @@
             "id": "mienshao-1",
             "pokemon": "mienshao",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

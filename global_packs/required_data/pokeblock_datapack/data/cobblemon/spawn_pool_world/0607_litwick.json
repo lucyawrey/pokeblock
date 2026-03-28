@@ -7,7 +7,7 @@
             "id": "litwick-1",
             "pokemon": "litwick",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

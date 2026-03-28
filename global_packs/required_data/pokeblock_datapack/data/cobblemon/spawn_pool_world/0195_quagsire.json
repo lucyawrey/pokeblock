@@ -7,7 +7,7 @@
             "id": "quagsire-1",
             "pokemon": "quagsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -59,7 +59,7 @@
             "id": "quagsire-3",
             "pokemon": "quagsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -112,7 +112,7 @@
             "id": "quagsire-5",
             "pokemon": "quagsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -281,7 +281,7 @@
             "id": "quagsire-11",
             "pokemon": "quagsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -339,7 +339,7 @@
             "id": "quagsire-13",
             "pokemon": "quagsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

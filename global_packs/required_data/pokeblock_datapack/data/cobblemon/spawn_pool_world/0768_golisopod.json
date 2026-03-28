@@ -7,7 +7,7 @@
             "id": "golisopod-1",
             "pokemon": "golisopod",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "golisopod-2",
             "pokemon": "golisopod",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "golisopod-3",
             "pokemon": "golisopod",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

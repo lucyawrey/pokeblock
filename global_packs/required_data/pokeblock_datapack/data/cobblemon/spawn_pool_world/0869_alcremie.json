@@ -31,7 +31,7 @@
             "id": "alcremie-2",
             "pokemon": "alcremie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "alcremie-3",
             "pokemon": "alcremie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

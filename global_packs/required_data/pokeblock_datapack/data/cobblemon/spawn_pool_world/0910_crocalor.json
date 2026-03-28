@@ -7,7 +7,7 @@
             "id": "crocalor-1",
             "pokemon": "crocalor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "crocalor-2",
             "pokemon": "crocalor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

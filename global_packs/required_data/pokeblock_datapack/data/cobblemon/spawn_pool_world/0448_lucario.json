@@ -7,7 +7,7 @@
             "id": "lucario-1",
             "pokemon": "lucario",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "lucario-2",
             "pokemon": "lucario",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

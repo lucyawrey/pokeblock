@@ -7,7 +7,7 @@
             "id": "cufant-1",
             "pokemon": "cufant",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

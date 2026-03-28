@@ -7,7 +7,7 @@
             "id": "espathra-1",
             "pokemon": "espathra",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

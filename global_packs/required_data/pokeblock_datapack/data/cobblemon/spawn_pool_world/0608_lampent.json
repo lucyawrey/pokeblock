@@ -7,7 +7,7 @@
             "id": "lampent-1",
             "pokemon": "lampent",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

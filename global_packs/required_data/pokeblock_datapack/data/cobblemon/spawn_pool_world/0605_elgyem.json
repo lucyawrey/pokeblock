@@ -7,7 +7,7 @@
             "id": "elgyem-1",
             "pokemon": "elgyem",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
             "id": "elgyem-2",
             "pokemon": "elgyem",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "heatmor-1",
             "pokemon": "heatmor",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "heatmor-2",
             "pokemon": "heatmor",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

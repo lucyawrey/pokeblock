@@ -7,7 +7,7 @@
             "id": "ironcrown-1T",
             "pokemon": "ironcrown min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

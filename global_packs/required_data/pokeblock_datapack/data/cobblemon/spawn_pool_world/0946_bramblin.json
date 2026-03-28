@@ -7,7 +7,7 @@
             "id": "bramblin-1",
             "pokemon": "bramblin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "bramblin-2",
             "pokemon": "bramblin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

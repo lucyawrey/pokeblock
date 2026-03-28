@@ -7,7 +7,7 @@
             "id": "gossifleur-1",
             "pokemon": "gossifleur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "gossifleur-2",
             "pokemon": "gossifleur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

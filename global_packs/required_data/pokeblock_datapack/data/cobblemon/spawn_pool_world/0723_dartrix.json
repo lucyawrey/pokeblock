@@ -7,7 +7,7 @@
             "id": "dartrix-1",
             "pokemon": "dartrix",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "dartrix-hisui-3",
             "pokemon": "dartrix region_bias=hisui",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

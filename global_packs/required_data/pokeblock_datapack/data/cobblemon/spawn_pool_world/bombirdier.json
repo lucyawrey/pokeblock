@@ -7,7 +7,7 @@
             "id": "bombirdier-1",
             "pokemon": "bombirdier",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

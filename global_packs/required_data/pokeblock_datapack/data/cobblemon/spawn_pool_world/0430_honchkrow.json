@@ -7,7 +7,7 @@
             "id": "honchkrow-1",
             "pokemon": "honchkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "honchkrow-3",
             "pokemon": "honchkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -55,7 +55,7 @@
             "id": "honchkrow-5",
             "pokemon": "honchkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

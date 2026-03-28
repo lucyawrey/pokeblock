@@ -7,7 +7,7 @@
             "id": "charjabug-1",
             "pokemon": "charjabug",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

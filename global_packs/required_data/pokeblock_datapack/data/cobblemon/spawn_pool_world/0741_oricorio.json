@@ -7,7 +7,7 @@
       "id": "oricorio-1",
       "pokemon": "oricorio dance_style=baile",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
       "id": "oricorio-2",
       "pokemon": "oricorio dance_style=pom-pom",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
       "id": "oricorio-3",
       "pokemon": "oricorio dance_style=pau",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

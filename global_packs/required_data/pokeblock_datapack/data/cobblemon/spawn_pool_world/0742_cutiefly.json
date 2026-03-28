@@ -7,7 +7,7 @@
             "id": "cutiefly-1",
             "pokemon": "cutiefly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "cutiefly-2",
             "pokemon": "cutiefly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

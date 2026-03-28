@@ -7,7 +7,7 @@
             "id": "lombre-1",
             "pokemon": "lombre",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

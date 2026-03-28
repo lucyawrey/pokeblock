@@ -7,7 +7,7 @@
             "id": "wartortle-1",
             "pokemon": "wartortle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

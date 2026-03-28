@@ -7,7 +7,7 @@
             "id": "miltank-1",
             "pokemon": "miltank",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "miltank-red-2",
             "pokemon": "miltank mooshtank=red",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -57,7 +57,7 @@
             "id": "miltank-brown-3",
             "pokemon": "miltank mooshtank=brown",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

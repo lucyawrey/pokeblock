@@ -7,7 +7,7 @@
             "id": "manectric-1",
             "pokemon": "manectric",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

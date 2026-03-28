@@ -7,7 +7,7 @@
             "id": "granbull-1",
             "pokemon": "granbull",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "granbull-2",
             "pokemon": "granbull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

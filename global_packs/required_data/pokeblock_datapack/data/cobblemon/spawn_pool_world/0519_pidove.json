@@ -7,7 +7,7 @@
             "id": "pidove-2",
             "pokemon": "pidove",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "pidove-3",
             "pokemon": "pidove",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -61,7 +61,7 @@
             "id": "pidove-4",
             "pokemon": "pidove",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

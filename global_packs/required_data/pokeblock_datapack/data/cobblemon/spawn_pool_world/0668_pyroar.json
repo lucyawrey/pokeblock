@@ -7,7 +7,7 @@
             "id": "pyroar-1",
             "pokemon": "pyroar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "pyroar-2",
             "pokemon": "pyroar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

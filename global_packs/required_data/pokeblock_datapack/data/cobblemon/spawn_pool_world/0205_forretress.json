@@ -7,7 +7,7 @@
             "id": "forretress-1",
             "pokemon": "forretress",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

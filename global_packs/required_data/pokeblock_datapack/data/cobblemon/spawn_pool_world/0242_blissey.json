@@ -7,7 +7,7 @@
             "id": "blissey-1",
             "pokemon": "blissey",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "blissey-2",
             "pokemon": "blissey",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -61,7 +61,7 @@
             "id": "blissey-3",
             "pokemon": "blissey",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

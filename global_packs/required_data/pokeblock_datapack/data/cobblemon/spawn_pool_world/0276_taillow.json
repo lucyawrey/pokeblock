@@ -7,7 +7,7 @@
             "id": "taillow-1",
             "pokemon": "taillow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "taillow-3",
             "pokemon": "taillow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

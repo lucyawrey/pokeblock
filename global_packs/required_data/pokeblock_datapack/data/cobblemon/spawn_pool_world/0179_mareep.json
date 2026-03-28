@@ -7,7 +7,7 @@
             "id": "mareep-1",
             "pokemon": "mareep",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "teddiursa-1",
             "pokemon": "teddiursa",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "teddiursa-2",
             "pokemon": "teddiursa",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

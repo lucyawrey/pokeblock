@@ -7,7 +7,7 @@
       "id": "heatran-1T",
       "pokemon": "heatran min_perfect_ivs=3",
       "presets": [
-          "natural",
+          "base",
           "wild"
       ],
       "type": "pokemon",
@@ -28,7 +28,7 @@
       "id": "heatran-2T",
       "pokemon": "heatran min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

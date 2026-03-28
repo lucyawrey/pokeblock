@@ -7,7 +7,7 @@
             "id": "gougingfire-1T",
             "pokemon": "gougingfire min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

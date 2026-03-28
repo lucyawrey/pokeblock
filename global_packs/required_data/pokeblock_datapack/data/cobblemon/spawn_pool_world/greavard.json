@@ -7,7 +7,7 @@
             "id": "greavard-1",
             "pokemon": "greavard",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

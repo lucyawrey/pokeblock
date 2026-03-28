@@ -7,7 +7,7 @@
             "id": "scatterbug-1",
             "pokemon": "scatterbug",
             "presets": [
-                "natural",
+                "base",
                 "foliage"
             ],
             "type": "pokemon",

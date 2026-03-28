@@ -7,7 +7,7 @@
             "id": "farfetchd-1",
             "pokemon": "farfetchd",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -37,7 +37,7 @@
             "id": "farfetchd-galarian-2",
             "pokemon": "farfetchd galarian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "herdier-1",
             "pokemon": "herdier",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "herdier-2",
             "pokemon": "herdier",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

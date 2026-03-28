@@ -7,7 +7,7 @@
             "id": "drowzee-1",
             "pokemon": "drowzee",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "drowzee-2",
             "pokemon": "drowzee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

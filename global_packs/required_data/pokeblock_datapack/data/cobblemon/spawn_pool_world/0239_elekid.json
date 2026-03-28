@@ -7,7 +7,7 @@
             "id": "elekid-1",
             "pokemon": "elekid",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

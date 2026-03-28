@@ -7,7 +7,7 @@
             "id": "sunflora-1",
             "pokemon": "sunflora",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "sunflora-2",
             "pokemon": "sunflora",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -68,7 +68,7 @@
             "id": "sunflora-3",
             "pokemon": "sunflora",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

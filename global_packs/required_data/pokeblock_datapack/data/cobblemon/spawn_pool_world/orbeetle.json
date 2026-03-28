@@ -7,7 +7,7 @@
             "id": "orbeetle-1",
             "pokemon": "orbeetle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

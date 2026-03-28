@@ -7,7 +7,7 @@
             "id": "absol-1",
             "pokemon": "absol",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

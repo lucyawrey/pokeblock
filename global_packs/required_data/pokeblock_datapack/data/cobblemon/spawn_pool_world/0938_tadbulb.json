@@ -7,7 +7,7 @@
             "id": "tadbulb-1",
             "pokemon": "tadbulb",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

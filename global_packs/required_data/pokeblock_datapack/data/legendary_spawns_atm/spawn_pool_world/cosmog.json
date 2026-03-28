@@ -7,7 +7,7 @@
       "id": "cosmog-1T",
       "pokemon": "cosmog min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

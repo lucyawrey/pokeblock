@@ -7,7 +7,7 @@
             "id": "mimikyu-1",
             "pokemon": "mimikyu",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

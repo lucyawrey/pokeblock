@@ -7,7 +7,7 @@
             "id": "blipbug-1",
             "pokemon": "blipbug",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "blipbug-2",
             "pokemon": "blipbug",
             "presets": [
-				"natural",
+				"base",
                 "foliage",
                 "treetop"
             ],

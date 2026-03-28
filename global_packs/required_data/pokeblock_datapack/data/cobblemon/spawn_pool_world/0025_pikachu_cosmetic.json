@@ -7,7 +7,7 @@
       "id": "pikachu-cosmetic",
       "pokemon": "pikachu cosplay=cosplay",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

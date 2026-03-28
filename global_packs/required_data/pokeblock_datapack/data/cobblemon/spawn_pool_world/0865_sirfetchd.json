@@ -7,7 +7,7 @@
             "id": "sirfetchd-1",
             "pokemon": "sirfetchd",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

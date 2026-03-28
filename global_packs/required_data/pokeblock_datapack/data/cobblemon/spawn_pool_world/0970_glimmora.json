@@ -7,7 +7,7 @@
             "id": "glimmora-1",
             "pokemon": "glimmora",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

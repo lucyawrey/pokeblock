@@ -7,7 +7,7 @@
             "id": "magcargo-3",
             "pokemon": "magcargo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -65,7 +65,7 @@
             "id": "magcargo-2",
             "pokemon": "magcargo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

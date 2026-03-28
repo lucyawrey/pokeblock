@@ -7,7 +7,7 @@
             "id": "zangoose-1",
             "pokemon": "zangoose",
             "presets": [
-				"natural"
+				"base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

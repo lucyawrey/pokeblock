@@ -7,7 +7,7 @@
             "id": "slugma-3",
             "pokemon": "slugma",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -65,7 +65,7 @@
             "id": "slugma-2",
             "pokemon": "slugma",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

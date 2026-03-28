@@ -7,7 +7,7 @@
       "id": "eternatus-1T",
       "pokemon": "eternatus min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

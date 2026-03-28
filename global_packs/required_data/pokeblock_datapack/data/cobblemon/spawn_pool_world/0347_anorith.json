@@ -7,7 +7,7 @@
             "id": "anorith-1",
             "pokemon": "anorith",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

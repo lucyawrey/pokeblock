@@ -7,7 +7,7 @@
             "id": "rowlet-1",
             "pokemon": "rowlet",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "rowlet-hisui-3",
             "pokemon": "rowlet region_bias=hisui",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

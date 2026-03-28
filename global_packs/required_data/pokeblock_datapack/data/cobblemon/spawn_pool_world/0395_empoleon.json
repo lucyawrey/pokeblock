@@ -7,7 +7,7 @@
             "id": "empoleon-1",
             "pokemon": "empoleon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

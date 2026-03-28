@@ -7,7 +7,7 @@
             "id": "ledyba-1",
             "pokemon": "ledyba",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "ledyba-3",
             "pokemon": "ledyba",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

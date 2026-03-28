@@ -7,7 +7,7 @@
             "id": "pangoro-1",
             "pokemon": "pangoro",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

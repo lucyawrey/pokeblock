@@ -7,7 +7,7 @@
             "id": "salamence-1",
             "pokemon": "salamence",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "salamence-2",
             "pokemon": "salamence",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "salamence-3",
             "pokemon": "salamence",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

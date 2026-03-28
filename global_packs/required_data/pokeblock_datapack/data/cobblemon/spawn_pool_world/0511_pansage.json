@@ -7,7 +7,7 @@
             "id": "pansage-1",
             "pokemon": "pansage",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "pansage-2",
             "pokemon": "pansage",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -62,7 +62,7 @@
             "id": "pansage-3",
             "pokemon": "pansage",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

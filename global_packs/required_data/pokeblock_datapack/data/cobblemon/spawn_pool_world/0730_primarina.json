@@ -7,7 +7,7 @@
             "id": "primarina-1",
             "pokemon": "primarina",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

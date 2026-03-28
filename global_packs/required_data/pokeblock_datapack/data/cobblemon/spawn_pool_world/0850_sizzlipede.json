@@ -7,7 +7,7 @@
             "id": "sizzlipede-1",
             "pokemon": "sizzlipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "sizzlipede-2",
             "pokemon": "sizzlipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -59,7 +59,7 @@
             "id": "sizzlipede-3",
             "pokemon": "sizzlipede",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

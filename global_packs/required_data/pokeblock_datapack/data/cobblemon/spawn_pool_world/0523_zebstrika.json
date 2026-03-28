@@ -7,7 +7,7 @@
             "id": "zebstrika-1",
             "pokemon": "zebstrika",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

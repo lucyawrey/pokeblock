@@ -7,7 +7,7 @@
             "id": "zoroark-1",
             "pokemon": "zoroark",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -39,7 +39,7 @@
             "id": "zoroark-hisuian-1",
             "pokemon": "zoroark hisuian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -67,7 +67,7 @@
             "id": "zoroark-hisuian-2",
             "pokemon": "zoroark hisuian",
             "presets": [
-                "natural",
+                "base",
                 "nether_fossil"
             ],
             "type": "pokemon",

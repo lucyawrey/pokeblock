@@ -7,7 +7,7 @@
             "id": "slowking-1",
             "pokemon": "slowking",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -88,7 +88,7 @@
             "id": "slowking-galarian-4",
             "pokemon": "slowking galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "gogoat-1",
             "pokemon": "gogoat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

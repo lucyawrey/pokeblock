@@ -7,7 +7,7 @@
             "id": "greedent-1",
             "pokemon": "greedent",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

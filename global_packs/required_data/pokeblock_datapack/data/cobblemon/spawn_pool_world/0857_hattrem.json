@@ -7,7 +7,7 @@
             "id": "hattrem-1",
             "pokemon": "hattrem",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

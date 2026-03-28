@@ -7,7 +7,7 @@
             "id": "metang-1",
             "pokemon": "metang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
             "id": "metang-2",
             "pokemon": "metang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -42,7 +42,7 @@
             "id": "metang-3",
             "pokemon": "metang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

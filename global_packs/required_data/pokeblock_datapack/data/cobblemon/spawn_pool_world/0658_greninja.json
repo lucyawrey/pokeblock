@@ -7,7 +7,7 @@
             "id": "greninja-1",
             "pokemon": "greninja",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -55,7 +55,7 @@
             "id": "greninja-3",
             "pokemon": "greninja",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

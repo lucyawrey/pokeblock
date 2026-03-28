@@ -7,7 +7,7 @@
             "id": "gumshoos-1",
             "pokemon": "gumshoos",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

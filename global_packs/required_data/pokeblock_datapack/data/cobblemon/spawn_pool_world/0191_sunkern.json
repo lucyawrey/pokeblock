@@ -7,7 +7,7 @@
             "id": "sunkern-1",
             "pokemon": "sunkern",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "sunkern-2",
             "pokemon": "sunkern",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -68,7 +68,7 @@
             "id": "sunkern-3",
             "pokemon": "sunkern",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

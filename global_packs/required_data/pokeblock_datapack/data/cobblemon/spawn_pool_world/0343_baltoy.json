@@ -7,7 +7,7 @@
             "id": "baltoy-1",
             "pokemon": "baltoy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "baltoy-2",
             "pokemon": "baltoy",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",

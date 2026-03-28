@@ -7,7 +7,7 @@
             "id": "naclstack-1",
             "pokemon": "naclstack",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "pokemon": "naclstack",
             "presets": [
                 "salt",
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "kleavor-1",
             "pokemon": "kleavor",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "kleavor-2",
             "pokemon": "kleavor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

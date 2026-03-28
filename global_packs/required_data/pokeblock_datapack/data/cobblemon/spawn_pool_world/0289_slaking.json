@@ -7,7 +7,7 @@
             "id": "slaking-1",
             "pokemon": "slaking",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

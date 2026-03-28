@@ -7,7 +7,7 @@
             "id": "delibird-1",
             "pokemon": "delibird",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -37,7 +37,7 @@
             "id": "delibird-2",
             "pokemon": "delibird",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

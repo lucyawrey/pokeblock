@@ -7,7 +7,7 @@
             "id": "baxcalibur-1",
             "pokemon": "baxcalibur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

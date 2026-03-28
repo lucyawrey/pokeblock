@@ -7,7 +7,7 @@
             "id": "honedge-1",
             "pokemon": "honedge",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

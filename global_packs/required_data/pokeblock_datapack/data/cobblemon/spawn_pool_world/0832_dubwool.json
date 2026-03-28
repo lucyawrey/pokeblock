@@ -7,7 +7,7 @@
             "id": "dubwool-1",
             "pokemon": "dubwool",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "dubwool-2",
             "pokemon": "dubwool",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

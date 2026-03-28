@@ -7,7 +7,7 @@
             "id": "lycanroc-1",
             "pokemon": "lycanroc wolf_form=midday",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "lycanroc-2",
             "pokemon": "lycanroc wolf_form=midnight",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
             "id": "lycanroc-3",
             "pokemon": "lycanroc wolf_form=dusk",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

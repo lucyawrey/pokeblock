@@ -7,7 +7,7 @@
             "id": "blacephalon-1T",
             "pokemon": "blacephalon min_perfect_ivs=3",
 			"presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -26,7 +26,7 @@
             "id": "blacephalon-2T",
             "pokemon": "blacephalon min_perfect_ivs=3",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

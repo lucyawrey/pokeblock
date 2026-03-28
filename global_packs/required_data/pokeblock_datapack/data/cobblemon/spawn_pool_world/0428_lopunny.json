@@ -7,7 +7,7 @@
             "id": "lopunny-1",
             "pokemon": "lopunny",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

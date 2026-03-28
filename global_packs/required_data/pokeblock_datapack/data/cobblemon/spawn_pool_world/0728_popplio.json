@@ -7,7 +7,7 @@
             "id": "popplio-1",
             "pokemon": "popplio",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

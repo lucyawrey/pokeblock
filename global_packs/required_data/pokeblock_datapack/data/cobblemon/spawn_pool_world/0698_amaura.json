@@ -7,7 +7,7 @@
             "id": "amaura-1",
             "pokemon": "amaura",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

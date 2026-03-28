@@ -7,7 +7,7 @@
             "id": "beartic-1",
             "pokemon": "beartic",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

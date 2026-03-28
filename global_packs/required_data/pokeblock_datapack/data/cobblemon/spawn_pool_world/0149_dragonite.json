@@ -7,7 +7,7 @@
             "id": "dragonite-1",
             "pokemon": "dragonite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -54,7 +54,7 @@
             "id": "dragonite-4",
             "pokemon": "dragonite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "mawile-1",
             "pokemon": "mawile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "mawile-2",
             "pokemon": "mawile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

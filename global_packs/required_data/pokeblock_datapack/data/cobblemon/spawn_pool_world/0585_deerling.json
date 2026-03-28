@@ -7,7 +7,7 @@
             "id": "deerling-1",
             "pokemon": "deerling",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -43,7 +43,7 @@
             "id": "deerling-2",
             "pokemon": "deerling",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

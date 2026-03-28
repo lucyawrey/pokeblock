@@ -7,7 +7,7 @@
             "id": "turtwig-1",
             "pokemon": "turtwig",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

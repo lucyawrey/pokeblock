@@ -7,7 +7,7 @@
             "id": "psyduck-1",
             "pokemon": "psyduck",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "psyduck-2",
             "pokemon": "psyduck",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

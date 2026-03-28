@@ -8,7 +8,7 @@
         "id": "skuntank-1",
         "pokemon": "skuntank",
         "presets": [                
-            "natural"
+            "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "volbeat-1",
             "pokemon": "volbeat",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

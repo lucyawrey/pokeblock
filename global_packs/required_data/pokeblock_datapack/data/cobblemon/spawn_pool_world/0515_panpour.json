@@ -7,7 +7,7 @@
             "id": "panpour-1",
             "pokemon": "panpour",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "panpour-2",
             "pokemon": "panpour",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

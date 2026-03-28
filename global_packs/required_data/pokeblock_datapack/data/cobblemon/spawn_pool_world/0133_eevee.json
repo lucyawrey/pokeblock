@@ -7,7 +7,7 @@
             "id": "eevee-1",
             "pokemon": "eevee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "eevee-2",
             "pokemon": "eevee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "eevee-3",
             "pokemon": "eevee",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -72,7 +72,7 @@
             "id": "eevee-4",
             "pokemon": "eevee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

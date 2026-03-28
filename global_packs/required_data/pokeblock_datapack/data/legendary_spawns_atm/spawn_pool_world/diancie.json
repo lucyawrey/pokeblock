@@ -7,7 +7,7 @@
       "id": "diancie-1T",
       "pokemon": "diancie min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

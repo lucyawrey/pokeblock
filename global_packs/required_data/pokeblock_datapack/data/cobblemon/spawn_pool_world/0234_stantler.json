@@ -7,7 +7,7 @@
             "id": "stantler-1",
             "pokemon": "stantler",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -35,7 +35,7 @@
             "id": "stantler-2",
             "pokemon": "stantler",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

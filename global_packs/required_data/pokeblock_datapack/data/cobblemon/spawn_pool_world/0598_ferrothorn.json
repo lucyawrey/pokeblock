@@ -7,7 +7,7 @@
             "id": "ferrothorn-1",
             "pokemon": "ferrothorn",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "ferrothorn-2",
             "pokemon": "ferrothorn",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

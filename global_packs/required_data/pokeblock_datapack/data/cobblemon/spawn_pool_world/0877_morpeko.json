@@ -7,7 +7,7 @@
             "id": "morpeko-1",
             "pokemon": "morpeko",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

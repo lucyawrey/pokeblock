@@ -7,7 +7,7 @@
             "id": "throh-1",
             "pokemon": "throh",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

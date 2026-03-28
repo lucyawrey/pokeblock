@@ -7,7 +7,7 @@
             "id": "annihilape-1",
             "pokemon": "annihilape",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

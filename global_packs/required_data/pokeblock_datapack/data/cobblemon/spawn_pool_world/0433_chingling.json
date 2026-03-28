@@ -7,7 +7,7 @@
             "id": "chingling-1",
             "pokemon": "chingling",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "chingling-2",
             "pokemon": "chingling",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

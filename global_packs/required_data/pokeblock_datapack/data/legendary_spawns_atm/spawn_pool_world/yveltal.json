@@ -7,7 +7,7 @@
       "id": "yveltal-1T",
       "pokemon": "yveltal min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -28,7 +28,7 @@
       "id": "yveltal-2T",
       "pokemon": "yveltal min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

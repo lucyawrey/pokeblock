@@ -7,7 +7,7 @@
             "id": "skwovet-1",
             "pokemon": "skwovet",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

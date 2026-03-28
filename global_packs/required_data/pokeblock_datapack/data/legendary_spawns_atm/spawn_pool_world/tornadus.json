@@ -7,7 +7,7 @@
       "id": "tornadus-1T",
       "pokemon": "tornadus min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

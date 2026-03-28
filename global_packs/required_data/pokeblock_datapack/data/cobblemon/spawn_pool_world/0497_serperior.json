@@ -7,7 +7,7 @@
             "id": "serperior-1",
             "pokemon": "serperior",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

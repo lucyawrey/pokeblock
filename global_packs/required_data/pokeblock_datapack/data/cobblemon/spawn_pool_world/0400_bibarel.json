@@ -7,7 +7,7 @@
             "id": "bibarel-1",
             "pokemon": "bibarel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "bibarel-2",
             "pokemon": "bibarel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

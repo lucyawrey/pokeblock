@@ -7,7 +7,7 @@
       "id": "hooh-1T",
       "pokemon": "hooh min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -28,7 +28,7 @@
       "id": "hooh-2T",
       "pokemon": "hooh min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

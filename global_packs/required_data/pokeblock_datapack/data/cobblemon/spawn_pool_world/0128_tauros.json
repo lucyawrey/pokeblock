@@ -7,7 +7,7 @@
             "id": "tauros-1",
             "pokemon": "tauros",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -37,7 +37,7 @@
             "id": "tauros-combat-2",
             "pokemon": "tauros paldean bull_breed=combat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -62,7 +62,7 @@
             "id": "tauros-blaze-3",
             "pokemon": "tauros paldean bull_breed=blaze",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -97,7 +97,7 @@
             "id": "tauros-aqua-4",
             "pokemon": "tauros paldean bull_breed=aqua",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

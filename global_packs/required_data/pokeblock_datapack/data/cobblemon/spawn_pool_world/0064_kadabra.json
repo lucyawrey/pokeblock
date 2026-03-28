@@ -7,7 +7,7 @@
             "id": "kadabra-1",
             "pokemon": "kadabra",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "kadabra-2",
             "pokemon": "kadabra",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "landorus-1T",
       "pokemon": "landorus min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

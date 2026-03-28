@@ -7,7 +7,7 @@
             "id": "togedemaru-1",
             "pokemon": "togedemaru",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

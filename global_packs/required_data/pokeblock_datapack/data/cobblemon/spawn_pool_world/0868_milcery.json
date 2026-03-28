@@ -31,7 +31,7 @@
             "id": "milcery-2",
             "pokemon": "milcery",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "milcery-3",
             "pokemon": "milcery",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

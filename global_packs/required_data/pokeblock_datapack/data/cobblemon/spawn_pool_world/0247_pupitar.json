@@ -7,7 +7,7 @@
             "id": "pupitar-1",
             "pokemon": "pupitar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "pupitar-2",
             "pokemon": "pupitar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

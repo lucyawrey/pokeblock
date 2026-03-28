@@ -7,7 +7,7 @@
             "id": "mamoswine-1",
             "pokemon": "mamoswine",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

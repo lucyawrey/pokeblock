@@ -7,7 +7,7 @@
             "id": "turtonator-1",
             "pokemon": "turtonator",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

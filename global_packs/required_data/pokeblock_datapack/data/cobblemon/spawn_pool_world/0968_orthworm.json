@@ -7,7 +7,7 @@
             "id": "orthworm-1",
             "pokemon": "orthworm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "orthworm-2",
             "pokemon": "orthworm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "orthworm-3",
             "pokemon": "orthworm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -77,7 +77,7 @@
             "id": "orthworm-4",
             "pokemon": "orthworm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -106,7 +106,7 @@
             "id": "orthworm-5",
             "pokemon": "orthworm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

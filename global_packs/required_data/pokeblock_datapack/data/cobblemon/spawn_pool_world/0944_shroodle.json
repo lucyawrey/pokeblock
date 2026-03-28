@@ -7,7 +7,7 @@
             "id": "shroodle-1",
             "pokemon": "shroodle",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

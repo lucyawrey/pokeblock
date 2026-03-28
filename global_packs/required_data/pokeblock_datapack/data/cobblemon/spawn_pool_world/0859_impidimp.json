@@ -7,7 +7,7 @@
             "id": "impidimp-1",
             "pokemon": "impidimp",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "impidimp-2",
             "pokemon": "impidimp",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

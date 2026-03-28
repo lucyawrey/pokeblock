@@ -7,7 +7,7 @@
             "id": "mimejr-1",
             "pokemon": "mimejr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "mimejr-2",
             "pokemon": "mimejr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -77,7 +77,7 @@
             "id": "mimejr-galar-1",
             "pokemon": "mimejr region_bias=galar",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -97,7 +97,7 @@
             "id": "mimejr-galar-2",
             "pokemon": "mimejr region_bias=galar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

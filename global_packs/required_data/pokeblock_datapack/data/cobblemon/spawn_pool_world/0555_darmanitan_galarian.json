@@ -7,7 +7,7 @@
             "id": "darmanitan-galarian-1",
             "pokemon": "darmanitan galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "mrrime-1",
             "pokemon": "mrrime",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "mrrime-2",
             "pokemon": "mrrime",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

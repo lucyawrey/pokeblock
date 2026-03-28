@@ -7,7 +7,7 @@
             "id": "tinkatuff-1",
             "pokemon": "tinkatuff",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

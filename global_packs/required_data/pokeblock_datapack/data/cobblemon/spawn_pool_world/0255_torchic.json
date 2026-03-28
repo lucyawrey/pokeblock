@@ -7,7 +7,7 @@
             "id": "torchic-1",
             "pokemon": "torchic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "jigglypuff-1",
             "pokemon": "jigglypuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "jigglypuff-2",
             "pokemon": "jigglypuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -62,7 +62,7 @@
             "id": "jigglypuff-3",
             "pokemon": "jigglypuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

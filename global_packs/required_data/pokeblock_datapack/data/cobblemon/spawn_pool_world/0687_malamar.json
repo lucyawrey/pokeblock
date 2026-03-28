@@ -111,7 +111,7 @@
             "id": "malamar-1",
             "pokemon": "malamar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -152,7 +152,7 @@
             "id": "malamar-3",
             "pokemon": "malamar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

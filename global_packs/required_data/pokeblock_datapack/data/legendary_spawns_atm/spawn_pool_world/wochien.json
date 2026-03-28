@@ -7,7 +7,7 @@
       "id": "wochien-1T",
       "pokemon": "wochien min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "cottonee-1",
             "pokemon": "cottonee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "cottonee-3",
             "pokemon": "cottonee",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

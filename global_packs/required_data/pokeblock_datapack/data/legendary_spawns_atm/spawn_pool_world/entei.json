@@ -7,7 +7,7 @@
       "id": "entei-1T",
       "pokemon": "entei min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "helioptile-1",
             "pokemon": "helioptile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

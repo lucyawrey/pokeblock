@@ -32,7 +32,7 @@
             "id": "swanna-1",
             "pokemon": "swanna",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -104,7 +104,7 @@
             "id": "swanna-7",
             "pokemon": "swanna",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

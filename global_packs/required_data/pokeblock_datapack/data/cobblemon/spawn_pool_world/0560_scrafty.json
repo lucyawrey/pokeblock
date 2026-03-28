@@ -7,7 +7,7 @@
             "id": "scrafty-1",
             "pokemon": "scrafty",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "scrafty-2",
             "pokemon": "scrafty",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -51,7 +51,7 @@
             "id": "scrafty-3",
             "pokemon": "scrafty",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

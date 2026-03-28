@@ -7,7 +7,7 @@
             "id": "kabuto-1",
             "pokemon": "kabuto",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

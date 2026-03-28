@@ -7,7 +7,7 @@
             "id": "krabby-1",
             "pokemon": "krabby",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

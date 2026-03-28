@@ -115,7 +115,7 @@
             "id": "clobbopus-1",
             "pokemon": "clobbopus",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

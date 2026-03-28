@@ -7,7 +7,7 @@
             "id": "luxio-1",
             "pokemon": "luxio",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

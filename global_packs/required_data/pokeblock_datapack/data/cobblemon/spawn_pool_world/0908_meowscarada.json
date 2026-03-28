@@ -7,7 +7,7 @@
             "id": "meowscarada-1",
             "pokemon": "meowscarada",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

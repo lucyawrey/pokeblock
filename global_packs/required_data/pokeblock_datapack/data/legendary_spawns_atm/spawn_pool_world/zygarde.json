@@ -7,7 +7,7 @@
       "id": "zygarde-1T",
       "pokemon": "zygarde percent_cells=core shiny=no",
       "presets": [
-          "natural"
+          "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

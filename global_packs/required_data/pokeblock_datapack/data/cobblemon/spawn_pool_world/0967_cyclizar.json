@@ -7,7 +7,7 @@
             "id": "cyclizar-1",
             "pokemon": "cyclizar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

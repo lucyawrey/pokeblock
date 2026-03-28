@@ -7,7 +7,7 @@
             "id": "oinkologne-1",
             "pokemon": "oinkologne",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "oinkologne-2",
             "pokemon": "oinkologne",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -63,7 +63,7 @@
             "id": "oinkologne-3",
             "pokemon": "oinkologne",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

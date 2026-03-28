@@ -7,7 +7,7 @@
             "id": "rolycoly-1",
             "pokemon": "rolycoly",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "rolycoly-2",
             "pokemon": "rolycoly",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "pyukumuku-1",
             "pokemon": "pyukumuku",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

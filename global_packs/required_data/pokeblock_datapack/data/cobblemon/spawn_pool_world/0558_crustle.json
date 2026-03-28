@@ -7,7 +7,7 @@
             "id": "crustle-1",
             "pokemon": "crustle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

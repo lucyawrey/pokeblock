@@ -7,7 +7,7 @@
             "id": "mightyena-1",
             "pokemon": "mightyena",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "mightyena-2",
             "pokemon": "mightyena",
             "presets": [
-                "natural",
+                "base",
                 "pillager_outpost"
             ],
             "type": "pokemon",

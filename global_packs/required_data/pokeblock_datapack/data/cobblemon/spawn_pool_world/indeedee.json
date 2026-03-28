@@ -7,7 +7,7 @@
             "id": "indeedee-1T",
             "pokemon": "indeedee male",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
             "id": "indeedee-2T",
             "pokemon": "indeedee female",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

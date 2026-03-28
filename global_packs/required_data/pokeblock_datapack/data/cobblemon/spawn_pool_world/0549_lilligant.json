@@ -7,7 +7,7 @@
             "id": "lilligant-1",
             "pokemon": "lilligant",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "lilligant-2",
             "pokemon": "lilligant",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -91,7 +91,7 @@
             "id": "lilligant-hisuian-4",
             "pokemon": "lilligant hisuian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -124,7 +124,7 @@
             "id": "lilligant-hisuian-5",
             "pokemon": "lilligant hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

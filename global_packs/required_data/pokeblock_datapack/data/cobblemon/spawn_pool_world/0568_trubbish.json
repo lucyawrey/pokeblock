@@ -7,7 +7,7 @@
             "id": "trubbish-1",
             "pokemon": "trubbish",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "trubbish-2",
             "pokemon": "trubbish",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

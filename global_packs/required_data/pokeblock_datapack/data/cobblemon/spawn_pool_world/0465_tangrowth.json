@@ -7,7 +7,7 @@
             "id": "tangrowth-1",
             "pokemon": "tangrowth",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

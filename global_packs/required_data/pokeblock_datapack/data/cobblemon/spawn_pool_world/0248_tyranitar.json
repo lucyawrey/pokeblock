@@ -7,7 +7,7 @@
             "id": "tyranitar-1",
             "pokemon": "tyranitar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "tyranitar-2",
             "pokemon": "tyranitar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

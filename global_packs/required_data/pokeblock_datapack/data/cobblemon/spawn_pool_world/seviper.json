@@ -7,7 +7,7 @@
             "id": "seviper-1",
             "pokemon": "seviper",
             "presets": [
-				"natural"
+				"base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

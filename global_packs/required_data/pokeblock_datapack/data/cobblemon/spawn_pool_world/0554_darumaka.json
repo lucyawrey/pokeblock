@@ -7,7 +7,7 @@
             "id": "darumaka-1",
             "pokemon": "darumaka",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "darumaka-2",
             "pokemon": "darumaka",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "darumaka-3",
             "pokemon": "darumaka",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",
@@ -70,7 +70,7 @@
             "id": "darumaka-4",
             "pokemon": "darumaka",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

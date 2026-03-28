@@ -7,7 +7,7 @@
             "id": "woobat-1",
             "pokemon": "woobat",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "woobat-3",
             "pokemon": "woobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "poliwrath-1",
             "pokemon": "poliwrath",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -48,7 +48,7 @@
             "id": "poliwrath-3",
             "pokemon": "poliwrath",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "poliwrath-5",
             "pokemon": "poliwrath",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -299,7 +299,7 @@
             "id": "poliwrath-12",
             "pokemon": "poliwrath",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "fomantis-1",
             "pokemon": "fomantis",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "fomantis-2",
             "pokemon": "fomantis",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

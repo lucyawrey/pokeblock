@@ -7,7 +7,7 @@
             "id": "wiglett-1",
             "pokemon": "wiglett",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

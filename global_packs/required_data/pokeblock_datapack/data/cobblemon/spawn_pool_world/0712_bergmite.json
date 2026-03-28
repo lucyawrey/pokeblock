@@ -7,7 +7,7 @@
             "id": "bergmite-1",
             "pokemon": "bergmite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -67,7 +67,7 @@
             "id": "bergmite-4",
             "pokemon": "bergmite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "grubbin-1",
             "pokemon": "grubbin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "bewear-1",
             "pokemon": "bewear",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

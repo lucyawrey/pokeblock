@@ -7,7 +7,7 @@
        "id": "pawmi-1",
        "pokemon": "pawmi",
        "presets": [
-           "natural"
+           "base"
        ],
        "type": "pokemon",
        "spawnablePositionType": "grounded",

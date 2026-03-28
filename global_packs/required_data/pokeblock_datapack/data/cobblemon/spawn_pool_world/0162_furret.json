@@ -7,7 +7,7 @@
             "id": "furret-1",
             "pokemon": "furret",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

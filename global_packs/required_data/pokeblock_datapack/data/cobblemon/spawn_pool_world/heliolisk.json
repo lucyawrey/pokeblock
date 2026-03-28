@@ -7,7 +7,7 @@
             "id": "heliolisk-1",
             "pokemon": "heliolisk",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

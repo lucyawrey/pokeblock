@@ -7,7 +7,7 @@
             "id": "frosmoth-1",
             "pokemon": "frosmoth",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

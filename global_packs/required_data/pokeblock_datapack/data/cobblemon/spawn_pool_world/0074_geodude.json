@@ -7,7 +7,7 @@
             "id": "geodude-1",
             "pokemon": "geodude",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "geodude-2",
             "pokemon": "geodude",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "geodude-alolan-3",
             "pokemon": "geodude alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

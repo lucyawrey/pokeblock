@@ -7,7 +7,7 @@
             "id": "sprigatito-1",
             "pokemon": "sprigatito",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

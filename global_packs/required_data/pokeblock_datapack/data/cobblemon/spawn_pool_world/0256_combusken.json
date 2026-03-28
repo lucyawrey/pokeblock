@@ -7,7 +7,7 @@
             "id": "combusken-1",
             "pokemon": "combusken",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

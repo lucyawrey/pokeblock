@@ -7,7 +7,7 @@
             "id": "drilbur-1",
             "pokemon": "drilbur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

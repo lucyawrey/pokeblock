@@ -7,7 +7,7 @@
             "id": "swablu-1",
             "pokemon": "swablu",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -42,7 +42,7 @@
             "id": "swablu-2",
             "pokemon": "swablu",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -76,7 +76,7 @@
             "id": "swablu-4",
             "pokemon": "swablu",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

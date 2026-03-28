@@ -7,7 +7,7 @@
             "id": "vigoroth-1",
             "pokemon": "vigoroth",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

@@ -7,7 +7,7 @@
       "id": "suicune-1T",
       "pokemon": "suicune min_perfect_ivs=3",
       "presets": [
-          "natural",
+          "base",
           "wild"
       ],
       "type": "pokemon",

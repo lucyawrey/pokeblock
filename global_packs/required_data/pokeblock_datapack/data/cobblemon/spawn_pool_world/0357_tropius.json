@@ -7,7 +7,7 @@
             "id": "tropius-1",
             "pokemon": "tropius",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "tropius-3",
             "pokemon": "tropius",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

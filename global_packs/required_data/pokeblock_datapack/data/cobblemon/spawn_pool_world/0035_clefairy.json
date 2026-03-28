@@ -7,7 +7,7 @@
             "id": "clefairy-1",
             "pokemon": "clefairy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "clefairy-2",
             "pokemon": "clefairy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -47,7 +47,7 @@
             "id": "clefairy-3",
             "pokemon": "clefairy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -68,7 +68,7 @@
             "id": "clefairy-4",
             "pokemon": "clefairy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

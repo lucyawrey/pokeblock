@@ -7,7 +7,7 @@
             "id": "lillipup-1",
             "pokemon": "lillipup",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "lillipup-2",
             "pokemon": "lillipup",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

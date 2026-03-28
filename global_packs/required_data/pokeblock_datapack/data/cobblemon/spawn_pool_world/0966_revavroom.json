@@ -7,7 +7,7 @@
             "id": "revavroom-1",
             "pokemon": "revavroom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

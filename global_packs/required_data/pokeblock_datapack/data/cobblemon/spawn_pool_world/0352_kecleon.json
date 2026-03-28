@@ -7,7 +7,7 @@
             "id": "kecleon-1",
             "pokemon": "kecleon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

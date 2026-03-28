@@ -7,7 +7,7 @@
             "id": "sandshrew-alolan1",
             "pokemon": "sandshrew alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

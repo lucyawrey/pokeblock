@@ -7,7 +7,7 @@
             "id": "pichu-1",
             "pokemon": "pichu",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -37,7 +37,7 @@
             "id": "pichu-alola-2",
             "pokemon": "pichu region_bias=alola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

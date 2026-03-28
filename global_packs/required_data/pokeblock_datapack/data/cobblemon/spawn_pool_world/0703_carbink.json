@@ -7,7 +7,7 @@
             "id": "carbink-1",
             "pokemon": "carbink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "carbink-2",
             "pokemon": "carbink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

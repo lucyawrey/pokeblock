@@ -7,7 +7,7 @@
             "id": "floragato-1",
             "pokemon": "floragato",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

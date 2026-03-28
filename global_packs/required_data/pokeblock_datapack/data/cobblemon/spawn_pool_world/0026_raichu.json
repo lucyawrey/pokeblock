@@ -7,7 +7,7 @@
             "id": "raichu-1",
             "pokemon": "raichu",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -37,7 +37,7 @@
             "id": "raichu-alolan-2",
             "pokemon": "raichu alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

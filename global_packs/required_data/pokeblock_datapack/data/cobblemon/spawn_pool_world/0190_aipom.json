@@ -7,7 +7,7 @@
             "id": "aipom-1",
             "pokemon": "aipom",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

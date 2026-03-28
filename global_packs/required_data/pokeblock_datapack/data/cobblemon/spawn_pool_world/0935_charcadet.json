@@ -7,7 +7,7 @@
             "id": "charcadet-1",
             "pokemon": "charcadet",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

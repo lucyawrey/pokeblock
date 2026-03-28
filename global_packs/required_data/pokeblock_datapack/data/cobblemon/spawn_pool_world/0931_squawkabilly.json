@@ -7,7 +7,7 @@
             "id": "squawkabilly-1",
             "pokemon": "squawkabilly",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -31,7 +31,7 @@
             "pokemon": "squawkabilly",
             "presets": [
                 "urban",
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -59,7 +59,7 @@
             "id": "squawkabilly-3",
             "pokemon": "squawkabilly",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -90,7 +90,7 @@
             "id": "squawkabilly-4",
             "pokemon": "squawkabilly",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

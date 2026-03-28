@@ -7,7 +7,7 @@
             "id": "aegislash-1",
             "pokemon": "aegislash",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

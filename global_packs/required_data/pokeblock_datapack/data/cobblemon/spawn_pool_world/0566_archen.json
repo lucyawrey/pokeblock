@@ -7,7 +7,7 @@
             "id": "archen-1",
             "pokemon": "archen",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

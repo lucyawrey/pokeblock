@@ -7,7 +7,7 @@
             "id": "whimsicott-1",
             "pokemon": "whimsicott",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "whimsicott-3",
             "pokemon": "whimsicott",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "snivy-1",
             "pokemon": "snivy",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

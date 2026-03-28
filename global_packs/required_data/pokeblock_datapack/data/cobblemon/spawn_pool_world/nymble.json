@@ -7,7 +7,7 @@
         "id": "nymble-1",
         "pokemon": "nymble",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
         "id": "nymble-2",
         "pokemon": "nymble",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",

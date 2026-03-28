@@ -7,7 +7,7 @@
             "id": "clodsire-1",
             "pokemon": "clodsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -62,7 +62,7 @@
             "id": "clodsire-4",
             "pokemon": "clodsire",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

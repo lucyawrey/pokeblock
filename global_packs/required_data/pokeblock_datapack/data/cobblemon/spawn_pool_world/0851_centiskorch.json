@@ -7,7 +7,7 @@
             "id": "centiskorch-1",
             "pokemon": "centiskorch",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "centiskorch-2",
             "pokemon": "centiskorch",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -59,7 +59,7 @@
             "id": "centiskorch-3",
             "pokemon": "centiskorch",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

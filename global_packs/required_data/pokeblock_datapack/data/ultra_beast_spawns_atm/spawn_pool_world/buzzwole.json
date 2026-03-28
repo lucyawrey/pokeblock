@@ -7,7 +7,7 @@
             "id": "buzzwole-1T",
             "pokemon": "buzzwole min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "buzzwole-2T",
             "pokemon": "buzzwole min_perfect_ivs=3",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

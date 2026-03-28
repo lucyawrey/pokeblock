@@ -7,7 +7,7 @@
             "id": "simipour-1",
             "pokemon": "simipour",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "simipour-2",
             "pokemon": "simipour",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

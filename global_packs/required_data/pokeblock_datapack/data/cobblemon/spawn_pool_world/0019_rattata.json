@@ -7,7 +7,7 @@
             "id": "rattata-1",
             "pokemon": "rattata",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "rattata-2",
             "pokemon": "rattata",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -81,7 +81,7 @@
             "id": "rattata-alolan-4",
             "pokemon": "rattata alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -130,7 +130,7 @@
             "id": "rattata-alolan-6",
             "pokemon": "rattata alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "kangaskhan-1",
             "pokemon": "kangaskhan",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

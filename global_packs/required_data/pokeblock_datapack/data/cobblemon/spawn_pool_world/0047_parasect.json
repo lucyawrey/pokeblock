@@ -7,7 +7,7 @@
             "id": "parasect-1",
             "pokemon": "parasect",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "parasect-2",
             "pokemon": "parasect",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -50,7 +50,7 @@
             "id": "parasect-3",
             "pokemon": "parasect",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -72,7 +72,7 @@
             "id": "parasect-4",
             "pokemon": "parasect",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

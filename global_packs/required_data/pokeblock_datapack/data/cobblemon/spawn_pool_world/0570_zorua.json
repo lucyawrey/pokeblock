@@ -7,7 +7,7 @@
             "id": "zorua-1",
             "pokemon": "zorua",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -39,7 +39,7 @@
             "id": "zorua-hisuian-1",
             "pokemon": "zorua hisuian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -67,7 +67,7 @@
             "id": "zorua-hisuian-2",
             "pokemon": "zorua hisuian",
             "presets": [
-                "natural",
+                "base",
                 "nether_fossil"
             ],
             "type": "pokemon",

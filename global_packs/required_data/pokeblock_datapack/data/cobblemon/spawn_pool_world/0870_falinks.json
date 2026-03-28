@@ -7,7 +7,7 @@
             "id": "falinks-1",
             "pokemon": "falinks",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "falinks-2",
             "pokemon": "falinks",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

@@ -71,7 +71,7 @@
             "id": "chewtle-1",
             "pokemon": "chewtle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

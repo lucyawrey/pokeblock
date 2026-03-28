@@ -7,7 +7,7 @@
             "id": "golduck-1",
             "pokemon": "golduck",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "golduck-2",
             "pokemon": "golduck",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

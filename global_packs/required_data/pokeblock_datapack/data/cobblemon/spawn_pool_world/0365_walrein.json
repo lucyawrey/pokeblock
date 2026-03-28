@@ -7,7 +7,7 @@
             "id": "walrein-1",
             "pokemon": "walrein",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

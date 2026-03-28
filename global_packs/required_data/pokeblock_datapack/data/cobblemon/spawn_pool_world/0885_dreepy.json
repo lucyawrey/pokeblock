@@ -7,7 +7,7 @@
             "id": "dreepy-1",
             "pokemon": "dreepy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

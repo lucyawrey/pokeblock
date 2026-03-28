@@ -7,7 +7,7 @@
             "id": "purrloin-1",
             "pokemon": "purrloin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "purrloin-2",
             "pokemon": "purrloin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "purrloin-3",
             "pokemon": "purrloin",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -94,7 +94,7 @@
             "id": "purrloin-4",
             "pokemon": "purrloin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -130,7 +130,7 @@
             "id": "purrloin-5",
             "pokemon": "purrloin",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -156,7 +156,7 @@
             "id": "purrloin-6",
             "pokemon": "purrloin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -202,7 +202,7 @@
             "id": "purrloin-8",
             "pokemon": "purrloin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

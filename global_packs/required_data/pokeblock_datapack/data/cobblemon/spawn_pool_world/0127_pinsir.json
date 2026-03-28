@@ -7,7 +7,7 @@
             "id": "pinsir-1",
             "pokemon": "pinsir",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -41,7 +41,7 @@
             "id": "pinsir-2",
             "pokemon": "pinsir",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "crobat-1",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "crobat-3",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -67,7 +67,7 @@
             "id": "crobat-4",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -130,7 +130,7 @@
             "id": "crobat-6",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -156,7 +156,7 @@
             "id": "crobat-8",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -175,7 +175,7 @@
             "id": "crobat-9",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

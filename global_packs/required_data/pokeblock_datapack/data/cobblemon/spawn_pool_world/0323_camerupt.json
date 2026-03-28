@@ -7,7 +7,7 @@
             "id": "camerupt-1",
             "pokemon": "camerupt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "camerupt-2",
             "pokemon": "camerupt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -57,7 +57,7 @@
             "id": "camerupt-3",
             "pokemon": "camerupt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

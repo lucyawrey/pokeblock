@@ -7,7 +7,7 @@
             "id": "vanilluxe-1",
             "pokemon": "vanilluxe",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "vanilluxe-2",
             "pokemon": "vanilluxe",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "vanilluxe-3",
             "pokemon": "vanilluxe",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "scraggy-1",
             "pokemon": "scraggy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "scraggy-2",
             "pokemon": "scraggy",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -51,7 +51,7 @@
             "id": "scraggy-3",
             "pokemon": "scraggy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

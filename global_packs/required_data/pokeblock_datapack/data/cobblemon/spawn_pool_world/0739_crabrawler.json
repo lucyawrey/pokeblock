@@ -7,7 +7,7 @@
             "id": "crabrawler-1",
             "pokemon": "crabrawler",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

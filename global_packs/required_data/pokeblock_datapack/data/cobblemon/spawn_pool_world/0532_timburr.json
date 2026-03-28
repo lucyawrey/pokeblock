@@ -7,7 +7,7 @@
             "id": "timburr-1",
             "pokemon": "timburr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -39,7 +39,7 @@
             "id": "timburr-2",
             "pokemon": "timburr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "riolu-1",
             "pokemon": "riolu",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "riolu-2",
             "pokemon": "riolu",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

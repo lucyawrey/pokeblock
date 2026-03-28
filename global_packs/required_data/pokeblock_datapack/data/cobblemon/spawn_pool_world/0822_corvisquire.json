@@ -7,7 +7,7 @@
             "id": "corvisquire-1",
             "pokemon": "corvisquire",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

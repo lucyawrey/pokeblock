@@ -7,7 +7,7 @@
             "id": "growlithe-hisui-1",
             "pokemon": "growlithe hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
             "id": "growlithe-hisui-2",
             "pokemon": "growlithe hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "morelull-1",
             "pokemon": "morelull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "morelull-2",
             "pokemon": "morelull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -54,7 +54,7 @@
             "id": "morelull-3",
             "pokemon": "morelull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -71,7 +71,7 @@
             "id": "morelull-4",
             "pokemon": "morelull",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "rampardos-1",
             "pokemon": "rampardos",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

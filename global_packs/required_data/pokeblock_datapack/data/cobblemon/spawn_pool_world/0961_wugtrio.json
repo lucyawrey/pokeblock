@@ -7,7 +7,7 @@
             "id": "wugtrio-1",
             "pokemon": "wugtrio",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

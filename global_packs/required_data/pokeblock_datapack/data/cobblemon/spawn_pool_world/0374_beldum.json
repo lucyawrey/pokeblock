@@ -7,7 +7,7 @@
             "id": "beldum-1",
             "pokemon": "beldum",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
             "id": "beldum-2",
             "pokemon": "beldum",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -42,7 +42,7 @@
             "id": "beldum-3",
             "pokemon": "beldum",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

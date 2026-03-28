@@ -7,7 +7,7 @@
             "id": "chandelure-1",
             "pokemon": "chandelure",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

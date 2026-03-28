@@ -7,7 +7,7 @@
             "id": "reuniclus-1",
             "pokemon": "reuniclus",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "reuniclus-2",
             "pokemon": "reuniclus",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

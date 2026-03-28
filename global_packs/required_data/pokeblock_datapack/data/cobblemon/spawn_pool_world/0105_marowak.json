@@ -7,7 +7,7 @@
             "id": "marowak-1",
             "pokemon": "marowak",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "marowak-alolan-2",
             "pokemon": "marowak alolan",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -48,7 +48,7 @@
             "id": "marowak-alolan-3",
             "pokemon": "marowak alolan",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

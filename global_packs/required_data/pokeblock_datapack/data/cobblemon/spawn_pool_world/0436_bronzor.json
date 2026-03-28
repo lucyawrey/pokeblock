@@ -26,7 +26,7 @@
             "id": "bronzor-1",
             "pokemon": "bronzor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "bronzor-2",
             "pokemon": "bronzor",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "bellibolt-1",
             "pokemon": "bellibolt",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

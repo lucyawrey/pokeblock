@@ -7,7 +7,7 @@
             "id": "toedscruel-1",
             "pokemon": "toedscruel",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "toedscruel-2",
             "pokemon": "toedscruel",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

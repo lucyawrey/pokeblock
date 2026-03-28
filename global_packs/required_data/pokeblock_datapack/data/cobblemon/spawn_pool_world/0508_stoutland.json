@@ -7,7 +7,7 @@
             "id": "stoutland-1",
             "pokemon": "stoutland",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "stoutland-2",
             "pokemon": "stoutland",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

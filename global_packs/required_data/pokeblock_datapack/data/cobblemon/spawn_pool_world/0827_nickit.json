@@ -7,7 +7,7 @@
             "id": "nickit-1",
             "pokemon": "nickit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "nickit-2",
             "pokemon": "nickit",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

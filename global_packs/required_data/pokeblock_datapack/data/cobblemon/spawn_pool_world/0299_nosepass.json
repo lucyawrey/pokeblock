@@ -7,7 +7,7 @@
             "id": "nosepass-1",
             "pokemon": "nosepass",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

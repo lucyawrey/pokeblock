@@ -7,7 +7,7 @@
             "id": "torterra-1",
             "pokemon": "torterra",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -81,7 +81,7 @@
             "id": "spiritomb-5",
             "pokemon": "spiritomb",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",
@@ -101,7 +101,7 @@
             "id": "spiritomb-6",
             "pokemon": "spiritomb",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",

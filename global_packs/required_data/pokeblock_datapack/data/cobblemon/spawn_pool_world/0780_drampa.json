@@ -7,7 +7,7 @@
             "id": "drampa-1",
             "pokemon": "drampa",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "drampa-2",
             "pokemon": "drampa",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

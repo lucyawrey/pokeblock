@@ -7,7 +7,7 @@
             "id": "applin-1T",
             "pokemon": "applin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -25,7 +25,7 @@
             "id": "applin-2T",
             "pokemon": "applin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

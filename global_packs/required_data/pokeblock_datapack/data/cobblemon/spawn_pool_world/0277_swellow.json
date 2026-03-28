@@ -7,7 +7,7 @@
             "id": "swellow-1",
             "pokemon": "swellow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "swellow-3",
             "pokemon": "swellow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

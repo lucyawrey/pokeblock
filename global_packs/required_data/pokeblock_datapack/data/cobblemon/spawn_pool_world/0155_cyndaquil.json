@@ -7,7 +7,7 @@
             "id": "cyndaquil-1",
             "pokemon": "cyndaquil",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "cyndaquil-hisui-2",
             "pokemon": "cyndaquil region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "cyndaquil-hisui-3",
             "pokemon": "cyndaquil region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

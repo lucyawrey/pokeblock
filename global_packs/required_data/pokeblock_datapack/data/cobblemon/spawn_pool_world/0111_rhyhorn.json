@@ -7,7 +7,7 @@
             "id": "rhyhorn-1",
             "pokemon": "rhyhorn",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

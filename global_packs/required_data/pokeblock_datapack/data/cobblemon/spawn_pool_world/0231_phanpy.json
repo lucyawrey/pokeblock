@@ -7,7 +7,7 @@
             "id": "phanpy-1",
             "pokemon": "phanpy",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "phanpy-2",
             "pokemon": "phanpy",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

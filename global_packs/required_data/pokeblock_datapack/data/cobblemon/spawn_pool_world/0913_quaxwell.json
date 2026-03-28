@@ -7,7 +7,7 @@
             "id": "quaxwell-1",
             "pokemon": "quaxwell",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

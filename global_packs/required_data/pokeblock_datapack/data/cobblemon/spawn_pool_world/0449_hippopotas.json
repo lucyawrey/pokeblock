@@ -7,7 +7,7 @@
             "id": "hippopotas-1",
             "pokemon": "hippopotas",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

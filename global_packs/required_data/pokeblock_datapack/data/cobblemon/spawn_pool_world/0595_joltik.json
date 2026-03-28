@@ -7,7 +7,7 @@
             "id": "joltik-1",
             "pokemon": "joltik",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "joltik-2",
             "pokemon": "joltik",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "pokemon": "joltik",
             "presets": [
                 "webs",
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -76,7 +76,7 @@
             "id": "joltik-4",
             "pokemon": "joltik",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

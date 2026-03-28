@@ -7,7 +7,7 @@
             "id": "tsareena-1",
             "pokemon": "tsareena",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

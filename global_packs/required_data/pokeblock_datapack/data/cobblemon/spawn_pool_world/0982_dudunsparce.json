@@ -7,7 +7,7 @@
             "id": "dudunsparce-two-segment-1",
             "pokemon": "dudunsparce landsnake_form=two-segment",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "dudunsparce-three-segment-2",
             "pokemon": "dudunsparce landsnake_form=three-segment",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

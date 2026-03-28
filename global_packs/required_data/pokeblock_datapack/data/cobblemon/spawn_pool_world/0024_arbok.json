@@ -7,7 +7,7 @@
             "id": "arbok-classic-1",
             "pokemon": "arbok snake_pattern=classic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "arbok-legacy-2",
             "pokemon": "arbok snake_pattern=legacy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
             "id": "arbok-attack-2",
             "pokemon": "arbok snake_pattern=attack",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -64,7 +64,7 @@
             "id": "arbok-speed-2",
             "pokemon": "arbok snake_pattern=speed",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -83,7 +83,7 @@
             "id": "arbok-elusive-2",
             "pokemon": "arbok snake_pattern=elusive",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -102,7 +102,7 @@
             "id": "arbok-sound-2",
             "pokemon": "arbok snake_pattern=sound",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -121,7 +121,7 @@
             "id": "arbok-dark-3",
             "pokemon": "arbok snake_pattern=dark",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

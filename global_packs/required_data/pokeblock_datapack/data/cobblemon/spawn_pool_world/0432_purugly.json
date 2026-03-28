@@ -7,7 +7,7 @@
             "id": "purugly-1",
             "pokemon": "purugly",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -40,7 +40,7 @@
             "id": "purugly-2",
             "pokemon": "purugly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -75,7 +75,7 @@
             "id": "purugly-3",
             "pokemon": "purugly",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -102,7 +102,7 @@
             "id": "purugly-4",
             "pokemon": "purugly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

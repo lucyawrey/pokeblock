@@ -7,7 +7,7 @@
             "id": "nidoqueen-1",
             "pokemon": "nidoqueen",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

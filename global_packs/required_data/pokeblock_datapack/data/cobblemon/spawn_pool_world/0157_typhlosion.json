@@ -7,7 +7,7 @@
             "id": "typhlosion-1",
             "pokemon": "typhlosion",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "typhlosion-hisuian-2",
             "pokemon": "typhlosion hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "typhlosion-hisuian-3",
             "pokemon": "typhlosion hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

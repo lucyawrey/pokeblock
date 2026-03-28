@@ -7,7 +7,7 @@
             "id": "shelmet-1",
             "pokemon": "shelmet",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

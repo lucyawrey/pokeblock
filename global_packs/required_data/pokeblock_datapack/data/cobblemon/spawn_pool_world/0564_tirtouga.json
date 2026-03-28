@@ -7,7 +7,7 @@
             "id": "tirtouga-1",
             "pokemon": "tirtouga",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "zapdos-1T",
       "pokemon": "zapdos min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -40,7 +40,7 @@
       "id": "zapdos-galarian-1T",
       "pokemon": "zapdos galarian min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

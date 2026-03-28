@@ -7,7 +7,7 @@
             "id": "shelgon-1",
             "pokemon": "shelgon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "shelgon-2",
             "pokemon": "shelgon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

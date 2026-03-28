@@ -7,7 +7,7 @@
             "id": "staryu-1",
             "pokemon": "staryu",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

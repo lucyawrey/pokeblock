@@ -7,7 +7,7 @@
             "id": "rillaboom-1",
             "pokemon": "rillaboom",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

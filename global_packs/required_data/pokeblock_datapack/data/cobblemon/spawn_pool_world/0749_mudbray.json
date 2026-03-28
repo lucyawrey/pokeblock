@@ -7,7 +7,7 @@
             "id": "mudbray-1",
             "pokemon": "mudbray",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

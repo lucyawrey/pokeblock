@@ -7,7 +7,7 @@
             "id": "klang-1",
             "pokemon": "klang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "klang-2",
             "pokemon": "klang",
             "presets": [
-                "natural",
+                "base",
                 "redstone"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "klang-3",
             "pokemon": "klang",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "gligar-1",
             "pokemon": "gligar",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "gligar-2",
             "pokemon": "gligar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

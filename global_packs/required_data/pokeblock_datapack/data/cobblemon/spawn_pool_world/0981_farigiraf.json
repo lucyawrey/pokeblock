@@ -7,7 +7,7 @@
             "id": "farigiraf-1",
             "pokemon": "farigiraf",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

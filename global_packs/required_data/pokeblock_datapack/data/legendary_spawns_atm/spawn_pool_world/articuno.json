@@ -7,7 +7,7 @@
       "id": "articuno-1T",
       "pokemon": "articuno min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -47,7 +47,7 @@
       "id": "articuno-galarian-1T",
       "pokemon": "articuno galarian min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "budew-1",
             "pokemon": "budew",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

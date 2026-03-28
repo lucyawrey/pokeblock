@@ -7,7 +7,7 @@
             "id": "garganacl-1",
             "pokemon": "garganacl",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "pokemon": "garganacl",
             "presets": [
                 "salt",
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "aurorus-1",
             "pokemon": "aurorus",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

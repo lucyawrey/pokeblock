@@ -7,7 +7,7 @@
             "id": "luxray-1",
             "pokemon": "luxray",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "ambipom-1",
             "pokemon": "ambipom",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

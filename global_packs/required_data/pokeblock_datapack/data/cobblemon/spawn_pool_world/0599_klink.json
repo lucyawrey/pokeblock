@@ -7,7 +7,7 @@
             "id": "klink-1",
             "pokemon": "klink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "klink-2",
             "pokemon": "klink",
             "presets": [
-                "natural",
+                "base",
                 "redstone"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "klink-3",
             "pokemon": "klink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "fletchinder-1",
             "pokemon": "fletchinder",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "fletchinder-3",
             "pokemon": "fletchinder",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "fletchinder-4",
             "pokemon": "fletchinder",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "ursaluna-1",
             "pokemon": "ursaluna",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "ursaluna-2",
             "pokemon": "ursaluna",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

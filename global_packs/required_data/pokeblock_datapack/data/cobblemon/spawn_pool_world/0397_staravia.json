@@ -7,7 +7,7 @@
             "id": "staravia-1",
             "pokemon": "staravia",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

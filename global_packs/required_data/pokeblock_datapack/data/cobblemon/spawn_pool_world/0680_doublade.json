@@ -7,7 +7,7 @@
             "id": "doublade-1",
             "pokemon": "doublade",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

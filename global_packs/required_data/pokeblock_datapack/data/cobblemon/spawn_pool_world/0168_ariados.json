@@ -7,7 +7,7 @@
             "id": "ariados-1",
             "pokemon": "ariados",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -36,7 +36,7 @@
             "id": "ariados-2",
             "pokemon": "ariados",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -85,7 +85,7 @@
             "pokemon": "ariados",
             "presets": [
                 "webs",
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

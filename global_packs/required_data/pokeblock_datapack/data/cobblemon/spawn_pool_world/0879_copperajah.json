@@ -7,7 +7,7 @@
             "id": "copperajah-1",
             "pokemon": "copperajah",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

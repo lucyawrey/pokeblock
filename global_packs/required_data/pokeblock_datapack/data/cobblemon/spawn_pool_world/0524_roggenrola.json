@@ -7,7 +7,7 @@
             "id": "roggenrola-1",
             "pokemon": "roggenrola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "roggenrola-2",
             "pokemon": "roggenrola",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

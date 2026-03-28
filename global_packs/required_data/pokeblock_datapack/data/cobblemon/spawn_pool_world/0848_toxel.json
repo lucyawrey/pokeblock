@@ -7,7 +7,7 @@
             "id": "toxel-1",
             "pokemon": "toxel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "toxel-2",
             "pokemon": "toxel",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",

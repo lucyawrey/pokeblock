@@ -7,7 +7,7 @@
             "id": "kingler-1",
             "pokemon": "kingler",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

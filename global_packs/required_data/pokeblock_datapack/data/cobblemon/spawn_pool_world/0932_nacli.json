@@ -7,7 +7,7 @@
             "id": "nacli-1",
             "pokemon": "nacli",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "pokemon": "nacli",
             "presets": [
                 "salt",
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

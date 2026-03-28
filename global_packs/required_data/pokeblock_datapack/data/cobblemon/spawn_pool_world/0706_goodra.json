@@ -7,7 +7,7 @@
             "id": "goodra-1",
             "pokemon": "goodra",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "goodra-2",
             "pokemon": "goodra",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -52,7 +52,7 @@
             "id": "goodra-3",
             "pokemon": "goodra",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -136,7 +136,7 @@
             "id": "goodra-hisuian-7",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -156,7 +156,7 @@
             "id": "goodra-hisuian-8",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -185,7 +185,7 @@
             "id": "goodra-hisuian-9",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -211,7 +211,7 @@
             "id": "goodra-hisuian-10",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -234,7 +234,7 @@
             "id": "goodra-hisuian-11",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -261,7 +261,7 @@
             "id": "goodra-hisuian-12",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -288,7 +288,7 @@
             "id": "goodra-hisuian-13",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -316,7 +316,7 @@
             "id": "goodra-hisuian-14",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -343,7 +343,7 @@
             "id": "goodra-hisuian-15",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -370,7 +370,7 @@
             "id": "goodra-hisuian-16",
             "pokemon": "goodra hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",

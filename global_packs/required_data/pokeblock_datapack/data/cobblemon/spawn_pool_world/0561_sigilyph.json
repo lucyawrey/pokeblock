@@ -7,7 +7,7 @@
             "id": "sigilyph-1",
             "pokemon": "sigilyph",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "sigilyph-2",
             "pokemon": "sigilyph",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "sigilyph-3",
             "pokemon": "sigilyph",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",
@@ -92,7 +92,7 @@
             "id": "sigilyph-5",
             "pokemon": "sigilyph",
             "presets": [
-                "natural",
+                "base",
                 "end_city"
             ],
             "type": "pokemon",

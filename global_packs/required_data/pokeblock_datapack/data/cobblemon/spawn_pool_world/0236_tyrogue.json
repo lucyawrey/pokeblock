@@ -7,7 +7,7 @@
             "id": "tyrogue-1",
             "pokemon": "tyrogue",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "igglybuff-1",
             "pokemon": "igglybuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "igglybuff-2",
             "pokemon": "igglybuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -62,7 +62,7 @@
             "id": "igglybuff-3",
             "pokemon": "igglybuff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

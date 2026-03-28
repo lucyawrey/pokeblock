@@ -7,7 +7,7 @@
             "id": "kartana-1T",
             "pokemon": "kartana min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "kartana-2T",
             "pokemon": "kartana min_perfect_ivs=3",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

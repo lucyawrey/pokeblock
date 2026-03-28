@@ -7,7 +7,7 @@
             "id": "sobble-1",
             "pokemon": "sobble",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "sobble-2",
             "pokemon": "sobble",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

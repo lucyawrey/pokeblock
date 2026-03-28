@@ -7,7 +7,7 @@
             "id": "servine-1",
             "pokemon": "servine",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

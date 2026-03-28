@@ -7,7 +7,7 @@
             "id": "fennekin-1",
             "pokemon": "fennekin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

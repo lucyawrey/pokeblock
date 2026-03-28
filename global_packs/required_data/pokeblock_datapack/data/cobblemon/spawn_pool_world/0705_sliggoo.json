@@ -7,7 +7,7 @@
             "id": "sliggoo-1",
             "pokemon": "sliggoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "sliggoo-2",
             "pokemon": "sliggoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -52,7 +52,7 @@
             "id": "sliggoo-3",
             "pokemon": "sliggoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -136,7 +136,7 @@
             "id": "sliggoo-hisuian-7",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -156,7 +156,7 @@
             "id": "sliggoo-hisuian-8",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -185,7 +185,7 @@
             "id": "sliggoo-hisuian-9",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -211,7 +211,7 @@
             "id": "sliggoo-hisuian-10",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -234,7 +234,7 @@
             "id": "sliggoo-hisuian-11",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -261,7 +261,7 @@
             "id": "sliggoo-hisuian-12",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -288,7 +288,7 @@
             "id": "sliggoo-hisuian-13",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -316,7 +316,7 @@
             "id": "sliggoo-hisuian-14",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -343,7 +343,7 @@
             "id": "sliggoo-hisuian-15",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -370,7 +370,7 @@
             "id": "sliggoo-hisuian-16",
             "pokemon": "sliggoo hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",

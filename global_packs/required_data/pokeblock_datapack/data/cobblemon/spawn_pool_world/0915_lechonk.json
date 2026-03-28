@@ -7,7 +7,7 @@
             "id": "lechonk-1",
             "pokemon": "lechonk",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "lechonk-2",
             "pokemon": "lechonk",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -63,7 +63,7 @@
             "id": "lechonk-3",
             "pokemon": "lechonk",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

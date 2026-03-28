@@ -7,7 +7,7 @@
             "id": "spinarak-1",
             "pokemon": "spinarak",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -36,7 +36,7 @@
             "id": "spinarak-2",
             "pokemon": "spinarak",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -85,7 +85,7 @@
             "pokemon": "spinarak",
             "presets": [
                 "webs",
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

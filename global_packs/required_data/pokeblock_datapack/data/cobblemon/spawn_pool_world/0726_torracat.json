@@ -7,7 +7,7 @@
             "id": "torracat-1",
             "pokemon": "torracat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

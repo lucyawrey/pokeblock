@@ -7,7 +7,7 @@
             "id": "shieldon-1",
             "pokemon": "shieldon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

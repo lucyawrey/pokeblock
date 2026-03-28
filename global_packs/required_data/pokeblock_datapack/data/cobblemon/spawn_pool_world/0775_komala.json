@@ -7,7 +7,7 @@
             "id": "komala-1",
             "pokemon": "komala",
             "presets": [
-                "natural",
+                "base",
                 "foliage",
                 "treetop",
                 "wild"

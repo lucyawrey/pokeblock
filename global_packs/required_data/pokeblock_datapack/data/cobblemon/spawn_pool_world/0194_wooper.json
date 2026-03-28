@@ -7,7 +7,7 @@
             "id": "wooper-1",
             "pokemon": "wooper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -59,7 +59,7 @@
             "id": "wooper-3",
             "pokemon": "wooper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -112,7 +112,7 @@
             "id": "wooper-5",
             "pokemon": "wooper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -276,7 +276,7 @@
             "id": "wooper-11",
             "pokemon": "wooper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -334,7 +334,7 @@
             "id": "wooper-13",
             "pokemon": "wooper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -563,7 +563,7 @@
             "id": "wooper-paldean-21",
             "pokemon": "wooper paldean",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -600,7 +600,7 @@
             "id": "wooper-paldean-23",
             "pokemon": "wooper paldean",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "ninetales-1",
             "pokemon": "ninetales",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -38,7 +38,7 @@
             "id": "ninetales-2",
             "pokemon": "ninetales",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -60,7 +60,7 @@
             "id": "ninetales-alolan-3",
             "pokemon": "ninetales alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -86,7 +86,7 @@
             "id": "ninetales-alolan-4",
             "pokemon": "ninetales alolan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "unown-a-1",
             "pokemon": "unown character=a",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
             "id": "unown-b-1",
             "pokemon": "unown character=b",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -41,7 +41,7 @@
             "id": "unown-c-1",
             "pokemon": "unown character=c",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -58,7 +58,7 @@
             "id": "unown-d-1",
             "pokemon": "unown character=d",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -75,7 +75,7 @@
             "id": "unown-e-1",
             "pokemon": "unown character=e",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -92,7 +92,7 @@
             "id": "unown-f-1",
             "pokemon": "unown character=f",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -109,7 +109,7 @@
             "id": "unown-g-1",
             "pokemon": "unown character=g",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -126,7 +126,7 @@
             "id": "unown-h-1",
             "pokemon": "unown character=h",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -143,7 +143,7 @@
             "id": "unown-i-1",
             "pokemon": "unown character=i",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -160,7 +160,7 @@
             "id": "unown-j-1",
             "pokemon": "unown character=j",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -177,7 +177,7 @@
             "id": "unown-k-1",
             "pokemon": "unown character=k",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -194,7 +194,7 @@
             "id": "unown-l-1",
             "pokemon": "unown character=l",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -211,7 +211,7 @@
             "id": "unown-m-1",
             "pokemon": "unown character=m",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -228,7 +228,7 @@
             "id": "unown-n-1",
             "pokemon": "unown character=n",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -245,7 +245,7 @@
             "id": "unown-o-1",
             "pokemon": "unown character=o",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -262,7 +262,7 @@
             "id": "unown-p-1",
             "pokemon": "unown character=p",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -279,7 +279,7 @@
             "id": "unown-q-1",
             "pokemon": "unown character=q",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -296,7 +296,7 @@
             "id": "unown-r-1",
             "pokemon": "unown character=r",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -313,7 +313,7 @@
             "id": "unown-s-1",
             "pokemon": "unown character=s",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -330,7 +330,7 @@
             "id": "unown-t-1",
             "pokemon": "unown character=t",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -347,7 +347,7 @@
             "id": "unown-u-1",
             "pokemon": "unown character=u",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -364,7 +364,7 @@
             "id": "unown-v-1",
             "pokemon": "unown character=v",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -381,7 +381,7 @@
             "id": "unown-w-1",
             "pokemon": "unown character=w",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -398,7 +398,7 @@
             "id": "unown-x-1",
             "pokemon": "unown character=x",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -415,7 +415,7 @@
             "id": "unown-y-1",
             "pokemon": "unown character=y",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -432,7 +432,7 @@
             "id": "unown-z-1",
             "pokemon": "unown character=z",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -449,7 +449,7 @@
             "id": "unown-!-2",
             "pokemon": "unown character=!",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -466,7 +466,7 @@
             "id": "unown-?-2",
             "pokemon": "unown character=?",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

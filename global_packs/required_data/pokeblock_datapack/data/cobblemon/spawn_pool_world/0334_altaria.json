@@ -7,7 +7,7 @@
             "id": "altaria-1",
             "pokemon": "altaria",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -42,7 +42,7 @@
             "id": "altaria-2",
             "pokemon": "altaria",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -76,7 +76,7 @@
             "id": "altaria-4",
             "pokemon": "altaria",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

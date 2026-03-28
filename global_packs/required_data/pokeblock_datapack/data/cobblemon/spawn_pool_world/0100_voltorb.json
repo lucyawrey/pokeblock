@@ -7,7 +7,7 @@
             "id": "voltorb-1",
             "pokemon": "voltorb",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "voltorb-2",
             "pokemon": "voltorb",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -86,7 +86,7 @@
             "id": "voltorb-hisuian-4",
             "pokemon": "voltorb hisuian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

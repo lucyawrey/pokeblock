@@ -7,7 +7,7 @@
             "id": "yamask-1",
             "pokemon": "yamask",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "yamask-2",
             "pokemon": "yamask",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",

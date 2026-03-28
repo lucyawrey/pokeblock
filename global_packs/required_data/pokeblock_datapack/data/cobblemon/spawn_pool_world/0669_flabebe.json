@@ -7,7 +7,7 @@
             "id": "flabebe-red-1",
             "pokemon": "flabebe flower=red",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "flabebe-yellow-2",
             "pokemon": "flabebe flower=yellow",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -63,7 +63,7 @@
             "id": "flabebe-orange-3",
             "pokemon": "flabebe flower=orange",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -91,7 +91,7 @@
             "id": "flabebe-blue-4",
             "pokemon": "flabebe flower=blue",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -119,7 +119,7 @@
             "id": "flabebe-white-5",
             "pokemon": "flabebe flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -147,7 +147,7 @@
             "id": "flabebe-pink-6",
             "pokemon": "flabebe flower=pink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -175,7 +175,7 @@
             "id": "flabebe-white-7",
             "pokemon": "flabebe flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

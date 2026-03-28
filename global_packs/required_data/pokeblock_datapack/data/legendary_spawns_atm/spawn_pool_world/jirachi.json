@@ -7,7 +7,7 @@
       "id": "jirachi-1T",
       "pokemon": "jirachi min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -32,7 +32,7 @@
       "id": "jirachi-2T",
       "pokemon": "jirachi min_perfect_ivs=3",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

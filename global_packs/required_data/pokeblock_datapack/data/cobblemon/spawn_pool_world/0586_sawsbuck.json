@@ -7,7 +7,7 @@
             "id": "sawsbuck-1",
             "pokemon": "sawsbuck",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -43,7 +43,7 @@
             "id": "sawsbuck-2",
             "pokemon": "sawsbuck",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

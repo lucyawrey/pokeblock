@@ -7,7 +7,7 @@
             "id": "dewgong-1",
             "pokemon": "dewgong",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "jumpluff-1",
             "pokemon": "jumpluff",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "jumpluff-3",
             "pokemon": "jumpluff",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "jumpluff-4",
             "pokemon": "jumpluff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

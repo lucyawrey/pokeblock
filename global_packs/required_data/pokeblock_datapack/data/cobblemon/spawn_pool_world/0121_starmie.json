@@ -7,7 +7,7 @@
             "id": "starmie-1",
             "pokemon": "starmie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

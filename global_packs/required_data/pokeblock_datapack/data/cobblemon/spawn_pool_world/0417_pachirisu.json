@@ -7,7 +7,7 @@
             "id": "pachirisu-1",
             "pokemon": "pachirisu",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

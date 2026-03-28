@@ -7,7 +7,7 @@
             "id": "rookidee-1",
             "pokemon": "rookidee",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

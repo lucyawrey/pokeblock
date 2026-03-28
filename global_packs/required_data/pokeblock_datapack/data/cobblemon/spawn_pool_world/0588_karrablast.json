@@ -7,7 +7,7 @@
             "id": "karrablast-1",
             "pokemon": "karrablast",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

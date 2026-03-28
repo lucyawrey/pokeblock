@@ -7,7 +7,7 @@
             "id": "armarouge-1",
             "pokemon": "armarouge",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

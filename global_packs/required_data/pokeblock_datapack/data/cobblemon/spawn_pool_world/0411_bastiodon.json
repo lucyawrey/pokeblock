@@ -7,7 +7,7 @@
             "id": "bastiodon-1",
             "pokemon": "bastiodon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

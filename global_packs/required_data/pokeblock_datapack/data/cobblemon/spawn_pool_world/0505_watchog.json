@@ -7,7 +7,7 @@
             "id": "watchog-1",
             "pokemon": "watchog",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

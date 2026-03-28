@@ -7,7 +7,7 @@
       "id": "castform-1",
       "pokemon": "castform forecast=rainy",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -27,7 +27,7 @@
       "id": "castform-2",
       "pokemon": "castform forecast=snowy",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -46,7 +46,7 @@
       "id": "castform-3",
       "pokemon": "castform forecast=sunny",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -65,7 +65,7 @@
       "id": "castform-4",
       "pokemon": "castform",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "nidorino-1",
             "pokemon": "nidorino",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

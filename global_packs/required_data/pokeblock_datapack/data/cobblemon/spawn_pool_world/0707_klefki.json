@@ -7,7 +7,7 @@
             "id": "klefki-1",
             "pokemon": "klefki",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -25,7 +25,7 @@
             "id": "klefki-2",
             "pokemon": "klefki",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

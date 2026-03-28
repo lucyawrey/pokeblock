@@ -7,7 +7,7 @@
             "id": "probopass-1",
             "pokemon": "probopass",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

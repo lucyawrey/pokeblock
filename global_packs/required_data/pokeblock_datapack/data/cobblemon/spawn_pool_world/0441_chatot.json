@@ -7,7 +7,7 @@
             "id": "chatot-1",
             "pokemon": "chatot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "chatot-2",
             "pokemon": "chatot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -49,7 +49,7 @@
             "id": "chatot-3",
             "pokemon": "chatot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -91,7 +91,7 @@
             "id": "chatot-8",
             "pokemon": "chatot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

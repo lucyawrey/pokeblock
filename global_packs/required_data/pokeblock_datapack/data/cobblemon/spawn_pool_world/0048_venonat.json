@@ -7,7 +7,7 @@
             "id": "venonat-1",
             "pokemon": "venonat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

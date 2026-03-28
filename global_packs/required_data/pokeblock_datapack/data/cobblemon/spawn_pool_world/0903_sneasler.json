@@ -7,7 +7,7 @@
             "id": "sneasler-1",
             "pokemon": "sneasler",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

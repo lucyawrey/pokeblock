@@ -7,7 +7,7 @@
             "id": "gardevoir-1",
             "pokemon": "gardevoir",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "gardevoir-2",
             "pokemon": "gardevoir",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "gardevoir-3",
             "pokemon": "gardevoir",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

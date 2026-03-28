@@ -7,7 +7,7 @@
             "id": "quilava-1",
             "pokemon": "quilava",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "quilava-hisui-2",
             "pokemon": "quilava region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -51,7 +51,7 @@
             "id": "quilava-hisui-3",
             "pokemon": "quilava region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

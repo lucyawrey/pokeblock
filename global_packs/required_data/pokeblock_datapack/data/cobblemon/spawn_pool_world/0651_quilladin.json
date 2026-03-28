@@ -7,7 +7,7 @@
             "id": "quilladin-1",
             "pokemon": "quilladin",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

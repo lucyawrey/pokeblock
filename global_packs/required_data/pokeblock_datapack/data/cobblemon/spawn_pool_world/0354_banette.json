@@ -7,7 +7,7 @@
             "id": "banette-1",
             "pokemon": "banette",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "banette-2",
             "pokemon": "banette",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -48,7 +48,7 @@
             "id": "banette-3",
             "pokemon": "banette",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

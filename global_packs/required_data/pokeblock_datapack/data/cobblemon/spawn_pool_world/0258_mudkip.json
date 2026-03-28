@@ -7,7 +7,7 @@
             "id": "mudkip-1",
             "pokemon": "mudkip",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -50,7 +50,7 @@
             "id": "mudkip-3",
             "pokemon": "mudkip",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -187,7 +187,7 @@
             "id": "mudkip-9",
             "pokemon": "mudkip",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

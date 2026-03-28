@@ -7,7 +7,7 @@
             "id": "krokorok-1",
             "pokemon": "krokorok",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

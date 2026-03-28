@@ -7,7 +7,7 @@
             "id": "accelgor-1",
             "pokemon": "accelgor",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
       "id": "kyurem-1T",
       "pokemon": "kyurem min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

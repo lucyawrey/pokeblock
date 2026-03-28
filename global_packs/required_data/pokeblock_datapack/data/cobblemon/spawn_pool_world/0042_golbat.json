@@ -7,7 +7,7 @@
             "id": "golbat-1",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "golbat-3",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -67,7 +67,7 @@
             "id": "golbat-4",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -130,7 +130,7 @@
             "id": "golbat-6",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -156,7 +156,7 @@
             "id": "golbat-8",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -175,7 +175,7 @@
             "id": "golbat-9",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

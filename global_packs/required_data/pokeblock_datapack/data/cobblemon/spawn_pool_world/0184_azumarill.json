@@ -7,7 +7,7 @@
             "id": "azumarill-1",
             "pokemon": "azumarill",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

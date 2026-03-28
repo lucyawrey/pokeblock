@@ -7,7 +7,7 @@
       "id": "volcanion-1T",
       "pokemon": "volcanion min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

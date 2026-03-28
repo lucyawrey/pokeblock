@@ -7,7 +7,7 @@
             "id": "shiinotic-1",
             "pokemon": "shiinotic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "shiinotic-2",
             "pokemon": "shiinotic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -54,7 +54,7 @@
             "id": "shiinotic-3",
             "pokemon": "shiinotic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -71,7 +71,7 @@
             "id": "shiinotic-4",
             "pokemon": "shiinotic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "torkoal-1",
             "pokemon": "torkoal",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "torkoal-2",
             "pokemon": "torkoal",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -57,7 +57,7 @@
             "id": "torkoal-3",
             "pokemon": "torkoal",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "drifloon-1",
             "pokemon": "drifloon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "drifloon-2",
             "pokemon": "drifloon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

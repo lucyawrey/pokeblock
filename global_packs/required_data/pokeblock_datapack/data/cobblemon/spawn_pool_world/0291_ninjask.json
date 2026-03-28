@@ -7,7 +7,7 @@
             "id": "ninjask-1",
             "pokemon": "ninjask",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "ninjask-2",
             "pokemon": "ninjask",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

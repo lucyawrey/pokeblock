@@ -7,7 +7,7 @@
             "id": "darumaka-galarian-1",
             "pokemon": "darumaka galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

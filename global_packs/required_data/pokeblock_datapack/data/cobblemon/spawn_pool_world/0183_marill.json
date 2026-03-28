@@ -7,7 +7,7 @@
             "id": "marill-1",
             "pokemon": "marill",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

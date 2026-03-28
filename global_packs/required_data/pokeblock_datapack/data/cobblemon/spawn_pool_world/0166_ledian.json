@@ -7,7 +7,7 @@
             "id": "ledian-1",
             "pokemon": "ledian",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -53,7 +53,7 @@
             "id": "ledian-3",
             "pokemon": "ledian",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

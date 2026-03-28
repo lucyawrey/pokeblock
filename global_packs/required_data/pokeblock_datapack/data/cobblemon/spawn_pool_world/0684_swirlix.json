@@ -49,7 +49,7 @@
             "id": "swirlix-2",
             "pokemon": "swirlix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -78,7 +78,7 @@
             "id": "swirlix-3",
             "pokemon": "swirlix",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

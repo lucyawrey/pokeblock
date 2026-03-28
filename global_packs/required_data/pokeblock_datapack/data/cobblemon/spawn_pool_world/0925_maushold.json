@@ -7,7 +7,7 @@
             "id": "maushold-four-1",
             "pokemon": "maushold maushold_family=four",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "maushold-three-2",
             "pokemon": "maushold maushold_family=three",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -59,7 +59,7 @@
             "id": "maushold-four-3",
             "pokemon": "maushold maushold_family=four",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -91,7 +91,7 @@
             "id": "maushold-three-4",
             "pokemon": "maushold maushold_family=three",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -123,7 +123,7 @@
             "id": "maushold-four-5",
             "pokemon": "maushold maushold_family=four",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -157,7 +157,7 @@
             "id": "maushold-three-6",
             "pokemon": "maushold maushold_family=three",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -227,7 +227,7 @@
             "id": "maushold-four-9",
             "pokemon": "maushold maushold_family=four",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -246,7 +246,7 @@
             "id": "maushold-three-10",
             "pokemon": "maushold maushold_family=three",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

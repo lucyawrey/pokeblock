@@ -7,7 +7,7 @@
             "id": "lickitung-1",
             "pokemon": "lickitung",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "ceruledge-1",
             "pokemon": "ceruledge",
             "presets": [
-                "natural",
+                "base",
                 "nether_structures"
             ],
             "type": "pokemon",

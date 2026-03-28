@@ -7,7 +7,7 @@
             "id": "gigalith-1",
             "pokemon": "gigalith",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -32,7 +32,7 @@
             "id": "gigalith-2",
             "pokemon": "gigalith",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

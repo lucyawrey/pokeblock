@@ -7,7 +7,7 @@
             "id": "pansear-1",
             "pokemon": "pansear",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "pansear-2",
             "pokemon": "pansear",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

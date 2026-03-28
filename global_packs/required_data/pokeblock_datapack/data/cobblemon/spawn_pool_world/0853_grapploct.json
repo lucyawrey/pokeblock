@@ -115,7 +115,7 @@
             "id": "grapploct-1",
             "pokemon": "grapploct",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

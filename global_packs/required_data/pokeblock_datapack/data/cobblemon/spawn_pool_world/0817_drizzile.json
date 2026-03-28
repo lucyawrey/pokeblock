@@ -7,7 +7,7 @@
             "id": "drizzile-1",
             "pokemon": "drizzile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
             "id": "drizzile-2",
             "pokemon": "drizzile",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

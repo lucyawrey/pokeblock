@@ -7,7 +7,7 @@
         "id": "lokix-1",
         "pokemon": "lokix",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",
@@ -26,7 +26,7 @@
         "id": "lokix-2",
         "pokemon": "lokix",
         "presets": [
-          "natural"
+          "base"
         ],
         "type": "pokemon",
         "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "machamp-1",
             "pokemon": "machamp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

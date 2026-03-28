@@ -7,7 +7,7 @@
             "id": "yamper-1",
             "pokemon": "yamper",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "yamper-2",
             "pokemon": "yamper",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

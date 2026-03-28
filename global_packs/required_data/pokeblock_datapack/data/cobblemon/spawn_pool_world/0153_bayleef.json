@@ -7,7 +7,7 @@
             "id": "bayleef-1",
             "pokemon": "bayleef",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "mudsdale-1",
             "pokemon": "mudsdale",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

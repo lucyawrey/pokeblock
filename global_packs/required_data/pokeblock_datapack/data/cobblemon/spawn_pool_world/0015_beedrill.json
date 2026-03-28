@@ -7,7 +7,7 @@
             "id": "beedrill-1",
             "pokemon": "beedrill",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

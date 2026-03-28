@@ -7,7 +7,7 @@
             "id": "sandaconda-1",
             "pokemon": "sandaconda",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

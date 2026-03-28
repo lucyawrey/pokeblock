@@ -7,7 +7,7 @@
             "id": "floatzel-1",
             "pokemon": "floatzel",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

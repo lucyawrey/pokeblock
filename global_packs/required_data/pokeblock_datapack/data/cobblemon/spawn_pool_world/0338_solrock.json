@@ -7,7 +7,7 @@
             "id": "solrock-1",
             "pokemon": "solrock",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "solrock-2",
             "pokemon": "solrock",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -52,7 +52,7 @@
             "id": "solrock-3",
             "pokemon": "solrock",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -72,7 +72,7 @@
             "id": "solrock-4",
             "pokemon": "solrock",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -100,7 +100,7 @@
             "id": "solrock-5",
             "pokemon": "solrock",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

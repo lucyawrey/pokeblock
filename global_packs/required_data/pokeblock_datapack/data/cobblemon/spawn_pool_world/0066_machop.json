@@ -7,7 +7,7 @@
             "id": "machop-1",
             "pokemon": "machop",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

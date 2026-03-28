@@ -7,7 +7,7 @@
             "id": "musharna-1",
             "pokemon": "musharna",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "musharna-2",
             "pokemon": "musharna",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

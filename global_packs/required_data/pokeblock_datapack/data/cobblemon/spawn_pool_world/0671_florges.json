@@ -7,7 +7,7 @@
             "id": "florges-red-1",
             "pokemon": "florges flower=red",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "florges-yellow-2",
             "pokemon": "florges flower=yellow",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -63,7 +63,7 @@
             "id": "florges-orange-3",
             "pokemon": "florges flower=orange",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -91,7 +91,7 @@
             "id": "florges-blue-4",
             "pokemon": "florges flower=blue",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -119,7 +119,7 @@
             "id": "florges-white-5",
             "pokemon": "florges flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -147,7 +147,7 @@
             "id": "florges-pink-6",
             "pokemon": "florges flower=pink",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -175,7 +175,7 @@
             "id": "florges-white-7",
             "pokemon": "florges flower=white",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

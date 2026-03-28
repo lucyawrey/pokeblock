@@ -7,7 +7,7 @@
             "id": "piloswine-1",
             "pokemon": "piloswine",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

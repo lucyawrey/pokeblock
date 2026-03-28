@@ -7,7 +7,7 @@
             "id": "eldegoss-1",
             "pokemon": "eldegoss",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "eldegoss-2",
             "pokemon": "eldegoss",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "maschiff-1",
             "pokemon": "maschiff",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "maschiff-2",
             "pokemon": "maschiff",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -49,7 +49,7 @@
             "id": "maschiff-3",
             "pokemon": "maschiff",
             "presets": [
-                "natural",
+                "base",
                 "pillager_outpost"
             ],
             "type": "pokemon",
@@ -69,7 +69,7 @@
             "id": "maschiff-4",
             "pokemon": "maschiff",
             "presets": [
-                "natural",
+                "base",
                 "mansion"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "houndstone-1",
             "pokemon": "houndstone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

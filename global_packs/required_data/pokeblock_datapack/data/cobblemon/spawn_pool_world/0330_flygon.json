@@ -7,7 +7,7 @@
             "id": "flygon-1",
             "pokemon": "flygon",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

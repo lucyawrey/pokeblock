@@ -7,7 +7,7 @@
             "id": "passimian-1",
             "pokemon": "passimian",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

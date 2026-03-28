@@ -7,7 +7,7 @@
             "id": "larvitar-1",
             "pokemon": "larvitar",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "larvitar-2",
             "pokemon": "larvitar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "scorbunny-1",
             "pokemon": "scorbunny",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "noibat-1",
             "pokemon": "noibat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

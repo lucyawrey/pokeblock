@@ -7,7 +7,7 @@
             "id": "murkrow-1",
             "pokemon": "murkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "murkrow-3",
             "pokemon": "murkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "murkrow-4",
             "pokemon": "murkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -75,7 +75,7 @@
             "id": "murkrow-7",
             "pokemon": "murkrow",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

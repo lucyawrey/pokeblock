@@ -7,7 +7,7 @@
             "id": "froakie-1",
             "pokemon": "froakie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -55,7 +55,7 @@
             "id": "froakie-3",
             "pokemon": "froakie",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "croagunk-1",
             "pokemon": "croagunk",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

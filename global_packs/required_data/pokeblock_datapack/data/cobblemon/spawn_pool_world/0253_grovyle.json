@@ -7,7 +7,7 @@
             "id": "grovyle-1",
             "pokemon": "grovyle",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

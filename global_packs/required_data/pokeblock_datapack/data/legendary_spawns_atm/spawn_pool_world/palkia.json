@@ -7,7 +7,7 @@
       "id": "palkia-1T",
       "pokemon": "palkia min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",
@@ -26,7 +26,7 @@
       "id": "palkia-2T",
       "pokemon": "palkia min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

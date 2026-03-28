@@ -7,7 +7,7 @@
             "id": "bellsprout-1",
             "pokemon": "bellsprout",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

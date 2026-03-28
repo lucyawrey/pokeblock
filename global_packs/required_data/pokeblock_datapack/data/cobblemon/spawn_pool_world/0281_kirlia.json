@@ -7,7 +7,7 @@
             "id": "kirlia-1",
             "pokemon": "kirlia",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "kirlia-2",
             "pokemon": "kirlia",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "kirlia-3",
             "pokemon": "kirlia",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

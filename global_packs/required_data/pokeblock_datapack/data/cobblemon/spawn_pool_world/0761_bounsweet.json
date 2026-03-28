@@ -7,7 +7,7 @@
             "id": "bounsweet-1",
             "pokemon": "bounsweet",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

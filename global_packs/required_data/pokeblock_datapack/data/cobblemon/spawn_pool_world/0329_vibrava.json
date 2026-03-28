@@ -7,7 +7,7 @@
             "id": "vibrava-1",
             "pokemon": "vibrava",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

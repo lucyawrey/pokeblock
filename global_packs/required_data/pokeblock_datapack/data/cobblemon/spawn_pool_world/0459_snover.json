@@ -7,7 +7,7 @@
       "id": "snover-1T",
       "pokemon": "snover",
       "presets": [
-        "natural"
+        "base"
       ],
       "type": "pokemon",
       "spawnablePositionType": "grounded",

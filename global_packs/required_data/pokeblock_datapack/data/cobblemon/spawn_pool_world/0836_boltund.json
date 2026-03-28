@@ -7,7 +7,7 @@
             "id": "boltund-1",
             "pokemon": "boltund",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -38,7 +38,7 @@
             "id": "boltund-2",
             "pokemon": "boltund",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

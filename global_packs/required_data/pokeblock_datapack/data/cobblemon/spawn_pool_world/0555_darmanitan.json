@@ -7,7 +7,7 @@
             "id": "darmanitan-1",
             "pokemon": "darmanitan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -30,7 +30,7 @@
             "id": "darmanitan-2",
             "pokemon": "darmanitan",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",
@@ -50,7 +50,7 @@
             "id": "darmanitan-3",
             "pokemon": "darmanitan",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",
@@ -70,7 +70,7 @@
             "id": "darmanitan-4",
             "pokemon": "darmanitan",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

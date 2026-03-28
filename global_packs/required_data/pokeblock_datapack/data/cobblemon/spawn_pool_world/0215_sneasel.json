@@ -7,7 +7,7 @@
             "id": "sneasel-1",
             "pokemon": "sneasel",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "sneasel-hisuian-2",
             "pokemon": "sneasel hisuian",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "hawlucha-2",
             "pokemon": "hawlucha",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "hawlucha-1",
             "pokemon": "hawlucha",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

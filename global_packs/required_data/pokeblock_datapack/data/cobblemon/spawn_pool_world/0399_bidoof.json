@@ -7,7 +7,7 @@
             "id": "bidoof-1",
             "pokemon": "bidoof",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -31,7 +31,7 @@
             "id": "bidoof-2",
             "pokemon": "bidoof",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

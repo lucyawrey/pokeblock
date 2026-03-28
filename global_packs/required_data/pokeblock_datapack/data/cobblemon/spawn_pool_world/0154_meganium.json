@@ -7,7 +7,7 @@
             "id": "meganium-1",
             "pokemon": "meganium",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "avalugg-1",
             "pokemon": "avalugg",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -67,7 +67,7 @@
             "id": "avalugg-4",
             "pokemon": "avalugg",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

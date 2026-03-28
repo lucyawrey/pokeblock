@@ -7,7 +7,7 @@
             "id": "pidgeot-1",
             "pokemon": "pidgeot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -34,7 +34,7 @@
             "id": "pidgeot-3",
             "pokemon": "pidgeot",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "chimecho-1",
             "pokemon": "chimecho",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "chimecho-2",
             "pokemon": "chimecho",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

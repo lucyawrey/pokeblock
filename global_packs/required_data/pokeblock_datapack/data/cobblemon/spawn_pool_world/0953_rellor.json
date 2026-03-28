@@ -7,7 +7,7 @@
             "id": "rellor-1",
             "pokemon": "rellor",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

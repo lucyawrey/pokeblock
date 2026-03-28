@@ -7,7 +7,7 @@
             "id": "simisage-1",
             "pokemon": "simisage",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -35,7 +35,7 @@
             "id": "simisage-2",
             "pokemon": "simisage",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -62,7 +62,7 @@
             "id": "simisage-3",
             "pokemon": "simisage",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

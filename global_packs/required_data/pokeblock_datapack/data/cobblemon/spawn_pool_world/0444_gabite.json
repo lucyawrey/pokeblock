@@ -7,7 +7,7 @@
             "id": "gabite-1",
             "pokemon": "gabite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "gabite-2",
             "pokemon": "gabite",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -49,7 +49,7 @@
             "id": "gabite-3",
             "pokemon": "gabite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -80,7 +80,7 @@
             "id": "gabite-4",
             "pokemon": "gabite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -111,7 +111,7 @@
             "id": "gabite-5",
             "pokemon": "gabite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -131,7 +131,7 @@
             "id": "gabite-6",
             "pokemon": "gabite",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

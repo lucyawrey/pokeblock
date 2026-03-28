@@ -7,7 +7,7 @@
             "id": "leafeon-1",
             "pokemon": "leafeon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "leafeon-2",
             "pokemon": "leafeon",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -55,7 +55,7 @@
             "id": "leafeon-3",
             "pokemon": "leafeon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

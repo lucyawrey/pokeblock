@@ -7,7 +7,7 @@
             "id": "drapion-1",
             "pokemon": "drapion",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "drapion-2",
             "pokemon": "drapion",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -53,7 +53,7 @@
             "id": "drapion-3",
             "pokemon": "drapion",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
             "id": "grimmsnarl-1",
             "pokemon": "grimmsnarl",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "grimmsnarl-2",
             "pokemon": "grimmsnarl",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

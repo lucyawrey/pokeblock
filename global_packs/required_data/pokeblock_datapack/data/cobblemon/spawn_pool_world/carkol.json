@@ -7,7 +7,7 @@
             "id": "carkol-1",
             "pokemon": "carkol",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -30,7 +30,7 @@
             "id": "carkol-2",
             "pokemon": "carkol",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

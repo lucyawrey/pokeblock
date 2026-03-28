@@ -7,7 +7,7 @@
             "id": "patrat-1",
             "pokemon": "patrat",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

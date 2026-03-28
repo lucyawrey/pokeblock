@@ -7,7 +7,7 @@
             "id": "goomy-1",
             "pokemon": "goomy",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -28,7 +28,7 @@
             "id": "goomy-2",
             "pokemon": "goomy",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -52,7 +52,7 @@
             "id": "goomy-3",
             "pokemon": "goomy",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -136,7 +136,7 @@
             "id": "goomy-hisui-7",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -156,7 +156,7 @@
             "id": "goomy-hisui-8",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -185,7 +185,7 @@
             "id": "goomy-hisui-9",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -211,7 +211,7 @@
             "id": "goomy-hisui-10",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -234,7 +234,7 @@
             "id": "goomy-hisui-11",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -261,7 +261,7 @@
             "id": "goomy-hisui-12",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -288,7 +288,7 @@
             "id": "goomy-hisui-13",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -316,7 +316,7 @@
             "id": "goomy-hisui-14",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -343,7 +343,7 @@
             "id": "goomy-hisui-15",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",
@@ -370,7 +370,7 @@
             "id": "goomy-hisui-16",
             "pokemon": "goomy region_bias=hisui",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "fishing",

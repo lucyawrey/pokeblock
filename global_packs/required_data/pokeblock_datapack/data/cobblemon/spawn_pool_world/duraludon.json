@@ -7,7 +7,7 @@
             "id": "duraludon-1T",
             "pokemon": "duraludon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

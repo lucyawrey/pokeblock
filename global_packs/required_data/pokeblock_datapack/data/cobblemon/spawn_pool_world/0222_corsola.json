@@ -84,7 +84,7 @@
             "id": "corsola-galarian-5",
             "pokemon": "corsola galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -101,7 +101,7 @@
             "id": "corsola-galarian-6",
             "pokemon": "corsola galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -141,7 +141,7 @@
             "id": "corsola-galarian-8",
             "pokemon": "corsola galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -161,7 +161,7 @@
             "id": "corsola-galarian-9",
             "pokemon": "corsola galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

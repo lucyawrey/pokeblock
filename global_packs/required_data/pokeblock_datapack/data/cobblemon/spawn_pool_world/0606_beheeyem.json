@@ -7,7 +7,7 @@
             "id": "beheeyem-1",
             "pokemon": "beheeyem",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -45,7 +45,7 @@
             "id": "beheeyem-2",
             "pokemon": "beheeyem",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

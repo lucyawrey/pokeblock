@@ -7,7 +7,7 @@
             "id": "donphan-1",
             "pokemon": "donphan",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "donphan-2",
             "pokemon": "donphan",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

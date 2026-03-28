@@ -7,7 +7,7 @@
             "id": "stakataka-1T",
             "pokemon": "stakataka min_perfect_ivs=3",
 			"presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "stakataka-2T",
             "pokemon": "stakataka min_perfect_ivs=3",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "vileplume-1",
             "pokemon": "vileplume",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "vileplume-2",
             "pokemon": "vileplume",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -47,7 +47,7 @@
             "id": "vileplume-valencian-3",
             "pokemon": "vileplume valencian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

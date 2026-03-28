@@ -7,7 +7,7 @@
             "id": "eiscue-1",
             "pokemon": "eiscue",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

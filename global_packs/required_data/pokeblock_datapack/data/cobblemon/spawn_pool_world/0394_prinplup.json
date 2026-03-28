@@ -7,7 +7,7 @@
             "id": "prinplup-1",
             "pokemon": "prinplup",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

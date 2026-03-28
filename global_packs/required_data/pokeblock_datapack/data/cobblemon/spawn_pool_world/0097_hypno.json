@@ -7,7 +7,7 @@
             "id": "hypno-1",
             "pokemon": "hypno",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "hypno-2",
             "pokemon": "hypno",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

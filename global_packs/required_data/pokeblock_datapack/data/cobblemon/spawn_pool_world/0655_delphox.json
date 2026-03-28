@@ -7,7 +7,7 @@
             "id": "delphox-1",
             "pokemon": "delphox",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

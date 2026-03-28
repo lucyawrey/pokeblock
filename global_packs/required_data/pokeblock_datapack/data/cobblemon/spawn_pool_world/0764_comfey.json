@@ -7,7 +7,7 @@
             "id": "comfey-1",
             "pokemon": "comfey",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "comfey-2",
             "pokemon": "comfey",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

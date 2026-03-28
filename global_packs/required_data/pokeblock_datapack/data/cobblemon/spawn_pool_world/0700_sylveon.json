@@ -7,7 +7,7 @@
             "id": "sylveon-1",
             "pokemon": "sylveon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "sylveon-2",
             "pokemon": "sylveon",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -54,7 +54,7 @@
             "id": "sylveon-3",
             "pokemon": "sylveon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

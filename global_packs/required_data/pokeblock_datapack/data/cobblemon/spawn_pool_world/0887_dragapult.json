@@ -7,7 +7,7 @@
             "id": "dragapult-1",
             "pokemon": "dragapult",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

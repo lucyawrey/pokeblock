@@ -7,7 +7,7 @@
             "id": "volcarona-1",
             "pokemon": "volcarona",
             "presets": [
-                "natural",
+                "base",
                 "desert_pyramid"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "volcarona-2",
             "pokemon": "volcarona",
             "presets": [
-                "natural",
+                "base",
                 "jungle_pyramid"
             ],
             "type": "pokemon",
@@ -47,7 +47,7 @@
             "id": "volcarona-3",
             "pokemon": "volcarona",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

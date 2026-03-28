@@ -7,7 +7,7 @@
             "id": "poochyena-1",
             "pokemon": "poochyena",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -28,7 +28,7 @@
             "id": "poochyena-2",
             "pokemon": "poochyena",
             "presets": [
-                "natural",
+                "base",
                 "pillager_outpost"
             ],
             "type": "pokemon",

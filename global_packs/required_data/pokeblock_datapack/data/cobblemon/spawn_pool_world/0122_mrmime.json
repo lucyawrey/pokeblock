@@ -7,7 +7,7 @@
             "id": "mrmime-1",
             "pokemon": "mrmime",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "mrmime-2",
             "pokemon": "mrmime",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -77,7 +77,7 @@
             "id": "mrmime-galarian-1",
             "pokemon": "mrmime galarian",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -97,7 +97,7 @@
             "id": "mrmime-galarian-2",
             "pokemon": "mrmime galarian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

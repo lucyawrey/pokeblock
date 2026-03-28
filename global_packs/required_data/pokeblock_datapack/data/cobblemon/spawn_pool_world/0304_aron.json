@@ -7,7 +7,7 @@
             "id": "aron-1",
             "pokemon": "aron",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "aron-2",
             "pokemon": "aron",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

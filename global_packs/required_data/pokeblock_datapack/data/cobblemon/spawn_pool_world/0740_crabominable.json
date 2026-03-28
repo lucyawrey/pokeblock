@@ -7,7 +7,7 @@
             "id": "crabominable-1",
             "pokemon": "crabominable",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

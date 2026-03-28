@@ -32,7 +32,7 @@
             "id": "ducklett-1",
             "pokemon": "ducklett",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -82,7 +82,7 @@
             "id": "ducklett-2",
             "pokemon": "ducklett",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -107,7 +107,7 @@
             "id": "ducklett-7",
             "pokemon": "ducklett",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

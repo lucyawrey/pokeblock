@@ -7,7 +7,7 @@
             "id": "weepinbell-1",
             "pokemon": "weepinbell",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

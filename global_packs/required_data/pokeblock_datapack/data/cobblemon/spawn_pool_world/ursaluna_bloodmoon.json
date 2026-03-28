@@ -7,7 +7,7 @@
             "id": "ursaluna-bloodmoon-1",
             "pokemon": "ursaluna bloodmoon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "wyrdeer-1",
             "pokemon": "wyrdeer",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

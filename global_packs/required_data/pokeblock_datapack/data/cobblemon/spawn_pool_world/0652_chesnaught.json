@@ -7,7 +7,7 @@
             "id": "chesnaught-1",
             "pokemon": "chesnaught",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

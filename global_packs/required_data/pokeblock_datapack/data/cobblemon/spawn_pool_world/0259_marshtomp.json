@@ -7,7 +7,7 @@
             "id": "marshtomp-1",
             "pokemon": "marshtomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -50,7 +50,7 @@
             "id": "marshtomp-3",
             "pokemon": "marshtomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -187,7 +187,7 @@
             "id": "marshtomp-9",
             "pokemon": "marshtomp",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

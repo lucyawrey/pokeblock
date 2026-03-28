@@ -7,7 +7,7 @@
             "id": "sealeo-1",
             "pokemon": "sealeo",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

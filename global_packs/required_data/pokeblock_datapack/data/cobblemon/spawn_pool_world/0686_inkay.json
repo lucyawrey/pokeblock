@@ -111,7 +111,7 @@
             "id": "inkay-1",
             "pokemon": "inkay",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -152,7 +152,7 @@
             "id": "inkay-3",
             "pokemon": "inkay",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

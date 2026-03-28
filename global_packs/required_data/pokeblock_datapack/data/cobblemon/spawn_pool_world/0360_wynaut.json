@@ -7,7 +7,7 @@
             "id": "wynaut-1",
             "pokemon": "wynaut",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

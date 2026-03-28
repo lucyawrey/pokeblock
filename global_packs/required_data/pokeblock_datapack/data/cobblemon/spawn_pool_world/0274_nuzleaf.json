@@ -7,7 +7,7 @@
             "id": "nuzleaf-1",
             "pokemon": "nuzleaf",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

@@ -7,7 +7,7 @@
       "id": "tapukoko-1T",
       "pokemon": "tapukoko min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

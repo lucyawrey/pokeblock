@@ -7,7 +7,7 @@
             "id": "conkeldurr-1",
             "pokemon": "conkeldurr",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -39,7 +39,7 @@
             "id": "conkeldurr-2",
             "pokemon": "conkeldurr",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

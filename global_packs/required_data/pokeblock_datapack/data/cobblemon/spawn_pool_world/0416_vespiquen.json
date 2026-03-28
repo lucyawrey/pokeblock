@@ -7,7 +7,7 @@
             "id": "vespiquen-1",
             "pokemon": "vespiquen",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -42,7 +42,7 @@
             "id": "vespiquen-2",
             "pokemon": "vespiquen",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -80,7 +80,7 @@
             "id": "vespiquen-3",
             "pokemon": "vespiquen",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

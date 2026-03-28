@@ -7,7 +7,7 @@
             "id": "drakloak-1",
             "pokemon": "drakloak",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

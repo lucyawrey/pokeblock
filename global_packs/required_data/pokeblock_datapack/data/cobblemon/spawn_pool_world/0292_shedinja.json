@@ -7,7 +7,7 @@
             "id": "shedinja-1",
             "pokemon": "shedinja",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -34,7 +34,7 @@
             "id": "shedinja-2",
             "pokemon": "shedinja",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "ivysaur-1",
             "pokemon": "ivysaur",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

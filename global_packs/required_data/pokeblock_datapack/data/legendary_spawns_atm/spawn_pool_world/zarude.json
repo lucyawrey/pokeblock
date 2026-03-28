@@ -7,7 +7,7 @@
       "id": "zarude-1T",
       "pokemon": "zarude min_perfect_ivs=3",
       "presets": [
-        "natural",
+        "base",
         "wild"
       ],
       "type": "pokemon",

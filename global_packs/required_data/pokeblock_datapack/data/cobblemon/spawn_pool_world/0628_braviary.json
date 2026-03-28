@@ -7,7 +7,7 @@
             "id": "braviary-1",
             "pokemon": "braviary",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -30,7 +30,7 @@
             "id": "braviary-2",
             "pokemon": "braviary",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -52,7 +52,7 @@
             "id": "braviary-hisuian-5",
             "pokemon": "braviary hisuian",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],
@@ -86,7 +86,7 @@
             "id": "braviary-hisuian-6",
             "pokemon": "braviary hisuian",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

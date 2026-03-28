@@ -7,7 +7,7 @@
             "id": "pelipper-1",
             "pokemon": "pelipper",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

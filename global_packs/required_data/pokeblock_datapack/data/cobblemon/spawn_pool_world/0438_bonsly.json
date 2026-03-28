@@ -7,7 +7,7 @@
             "id": "bonsly-1",
             "pokemon": "bonsly",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

@@ -7,7 +7,7 @@
             "id": "infernape-1",
             "pokemon": "infernape",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",
@@ -33,7 +33,7 @@
             "id": "infernape-2",
             "pokemon": "infernape",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

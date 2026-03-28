@@ -7,7 +7,7 @@
             "id": "meowstic-1",
             "pokemon": "meowstic",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -40,7 +40,7 @@
             "id": "meowstic-2",
             "pokemon": "meowstic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -75,7 +75,7 @@
             "id": "meowstic-3",
             "pokemon": "meowstic",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -102,7 +102,7 @@
             "id": "meowstic-4",
             "pokemon": "meowstic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

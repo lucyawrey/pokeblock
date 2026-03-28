@@ -7,7 +7,7 @@
             "id": "oranguru-1",
             "pokemon": "oranguru",
             "presets": [
-                "natural",
+                "base",
                 "treetop"
             ],
             "type": "pokemon",

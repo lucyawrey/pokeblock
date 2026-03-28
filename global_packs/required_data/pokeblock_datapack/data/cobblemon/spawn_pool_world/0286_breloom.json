@@ -7,7 +7,7 @@
             "id": "breloom-1",
             "pokemon": "breloom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "breloom-2",
             "pokemon": "breloom",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

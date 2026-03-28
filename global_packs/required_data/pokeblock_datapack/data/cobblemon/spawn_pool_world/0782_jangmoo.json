@@ -7,7 +7,7 @@
             "id": "jangmoo-1",
             "pokemon": "jangmoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -26,7 +26,7 @@
             "id": "jangmoo-2",
             "pokemon": "jangmoo",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

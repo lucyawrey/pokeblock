@@ -7,7 +7,7 @@
             "id": "grumpig-1",
             "pokemon": "grumpig",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",
@@ -27,7 +27,7 @@
             "id": "grumpig-2",
             "pokemon": "grumpig",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

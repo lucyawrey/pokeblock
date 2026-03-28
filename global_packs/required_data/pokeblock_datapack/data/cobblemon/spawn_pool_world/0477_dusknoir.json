@@ -7,7 +7,7 @@
             "id": "dusknoir-1",
             "pokemon": "dusknoir",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -27,7 +27,7 @@
             "id": "dusknoir-3",
             "pokemon": "dusknoir",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

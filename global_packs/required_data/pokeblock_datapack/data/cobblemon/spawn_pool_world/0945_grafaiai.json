@@ -7,7 +7,7 @@
             "id": "grafaiai-1",
             "pokemon": "grafaiai",
             "presets": [
-                "natural",
+                "base",
                 "treetop",
                 "wild"
             ],

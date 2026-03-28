@@ -7,7 +7,7 @@
             "id": "togekiss-1",
             "pokemon": "togekiss",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -36,7 +36,7 @@
             "id": "togekiss-2",
             "pokemon": "togekiss",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

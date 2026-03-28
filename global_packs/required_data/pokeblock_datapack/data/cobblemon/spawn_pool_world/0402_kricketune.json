@@ -7,7 +7,7 @@
             "id": "kricketune-1",
             "pokemon": "kricketune",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

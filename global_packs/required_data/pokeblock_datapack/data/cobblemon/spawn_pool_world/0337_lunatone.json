@@ -7,7 +7,7 @@
             "id": "lunatone-1",
             "pokemon": "lunatone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -33,7 +33,7 @@
             "id": "lunatone-2",
             "pokemon": "lunatone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -58,7 +58,7 @@
             "id": "lunatone-3",
             "pokemon": "lunatone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -84,7 +84,7 @@
             "id": "lunatone-4",
             "pokemon": "lunatone",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

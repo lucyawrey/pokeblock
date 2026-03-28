@@ -7,7 +7,7 @@
             "id": "arcanine-1",
             "pokemon": "arcanine",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -32,7 +32,7 @@
             "id": "arcanine-2",
             "pokemon": "arcanine",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

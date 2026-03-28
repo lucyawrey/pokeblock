@@ -7,7 +7,7 @@
             "id": "togetic-1",
             "pokemon": "togetic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -36,7 +36,7 @@
             "id": "togetic-2",
             "pokemon": "togetic",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

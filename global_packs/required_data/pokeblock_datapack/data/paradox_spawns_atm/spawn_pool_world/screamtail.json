@@ -7,7 +7,7 @@
             "id": "screamtail-1T",
             "pokemon": "screamtail min_perfect_ivs=3",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

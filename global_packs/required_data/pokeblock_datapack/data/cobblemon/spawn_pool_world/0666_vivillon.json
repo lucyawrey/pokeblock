@@ -7,7 +7,7 @@
             "id": "vivillon-high-plains-1",
             "pokemon": "vivillon vivillon_wings=high-plains",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -35,7 +35,7 @@
             "id": "vivillon-fancy-2",
             "pokemon": "vivillon vivillon_wings=fancy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -64,7 +64,7 @@
             "id": "vivillon-ocean-3",
             "pokemon": "vivillon vivillon_wings=ocean",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -100,7 +100,7 @@
             "id": "vivillon-sandstorm-4",
             "pokemon": "vivillon vivillon_wings=sandstorm",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -131,7 +131,7 @@
             "id": "vivillon-meadow-5",
             "pokemon": "vivillon vivillon_wings=meadow",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -184,7 +184,7 @@
             "id": "vivillon-garden-7",
             "pokemon": "vivillon vivillon_wings=garden",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -224,7 +224,7 @@
             "id": "vivillon-river-8",
             "pokemon": "vivillon vivillon_wings=river",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -256,7 +256,7 @@
             "id": "vivillon-polar-9",
             "pokemon": "vivillon vivillon_wings=polar",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -285,7 +285,7 @@
             "id": "vivillon-tundra-10",
             "pokemon": "vivillon vivillon_wings=tundra",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -319,7 +319,7 @@
             "id": "vivillon-jungle-11",
             "pokemon": "vivillon vivillon_wings=jungle",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -351,7 +351,7 @@
             "id": "vivillon-monsoon-12",
             "pokemon": "vivillon vivillon_wings=monsoon",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -388,7 +388,7 @@
             "id": "vivillon-archipelago-13",
             "pokemon": "vivillon vivillon_wings=archipelago",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -422,7 +422,7 @@
             "id": "vivillon-marine-14",
             "pokemon": "vivillon vivillon_wings=marine",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -455,7 +455,7 @@
             "id": "vivillon-modern-15",
             "pokemon": "vivillon vivillon_wings=modern",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -479,7 +479,7 @@
             "id": "vivillon-modern-15",
             "pokemon": "vivillon vivillon_wings=modern",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -501,7 +501,7 @@
             "id": "vivillon-continental-16",
             "pokemon": "vivillon vivillon_wings=continental",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -536,7 +536,7 @@
             "id": "vivillon-savanna-17",
             "pokemon": "vivillon vivillon_wings=savanna",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -570,7 +570,7 @@
             "id": "vivillon-sun-18",
             "pokemon": "vivillon vivillon_wings=sun",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -601,7 +601,7 @@
             "id": "vivillon-elegant-19",
             "pokemon": "vivillon vivillon_wings=elegant",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -634,7 +634,7 @@
             "id": "vivillon-icy-snow-20",
             "pokemon": "vivillon vivillon_wings=icy-snow",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -666,7 +666,7 @@
             "id": "vivillon-fancy-21",
             "pokemon": "vivillon vivillon_wings=fancy",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

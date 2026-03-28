@@ -7,7 +7,7 @@
             "id": "capsakid-2",
             "pokemon": "capsakid",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -24,7 +24,7 @@
             "id": "capsakid-1",
             "pokemon": "capsakid",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",

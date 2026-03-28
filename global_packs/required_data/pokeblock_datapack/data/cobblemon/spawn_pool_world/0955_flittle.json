@@ -7,7 +7,7 @@
             "id": "flittle-1",
             "pokemon": "flittle",
             "presets": [
-                "natural",
+                "base",
                 "wild"
             ],
             "type": "pokemon",

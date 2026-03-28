@@ -7,7 +7,7 @@
             "id": "persian-1",
             "pokemon": "persian",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -41,7 +41,7 @@
             "id": "persian-2",
             "pokemon": "persian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -77,7 +77,7 @@
             "id": "persian-3",
             "pokemon": "persian",
             "presets": [
-                "natural",
+                "base",
                 "urban"
             ],
             "type": "pokemon",
@@ -103,7 +103,7 @@
             "id": "persian-4",
             "pokemon": "persian",
             "presets": [
-                "natural"
+                "base"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
@@ -131,7 +131,7 @@
             "id": "persian-alolan-5",
             "pokemon": "persian alolan",
             "presets": [
-                "natural",
+                "base",
                 "illager_structures"
             ],
             "type": "pokemon",
@@ -164,7 +164,7 @@
             "id": "persian-alolan-6",
             "pokemon": "persian alolan",
             "presets": [
-                "natural",
+                "base",
                 "illager_structures"
             ],
             "type": "pokemon",
