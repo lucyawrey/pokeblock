@@ -1,14 +1,16 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Add more drops from tall grass, potentially with the farmers delight tool (can be spawned by bone meal).
-- [ ] Configure https://modrinth.com/mod/cobblemon-droploottables/versions to have all pokemon passively drop their loot tables
-- [ ] Replace shulker boxes with apricorn boxes (use sophisticated versions)
+- [ ] Set up pokemon dropping items from their species drop list passively when in the world in all cases except in battle (wild, released by trainer, pasture).
+	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
+	- [ ] Another option is to make a custom mod that does this using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) as a referance.
 - [ ] Custom Pokemon Spawning Rules
 	- [ ] Fix pokemon not spawning on Skyblocks (core spawning config)
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.
 	- [ ] Refernce https://wiki.cobblemon.com/index.php/Tutorials/Creating_Custom_Spawns
+- [ ] Add more drops from tall grass, potentially with the farmers delight tool (can be spawned by bone meal).
+- [ ] Replace shulker boxes with apricorn boxes (use sophisticated versions)
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
