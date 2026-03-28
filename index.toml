@@ -6,7 +6,7 @@ hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "99605b52bbc842691435bcc3589704850f8378b5b470cf6b1177ede4365609d5"
+hash = "8b82ea672fe8762afdc70270445315aadd7e62a8d81e2bcaa4f9d93f4a6c7e6a"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -215,43 +215,47 @@ hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/base.json"
-hash = "548bdf65284077b09acde0131b4f269fcfa77552a89d202aa29e78b883808b0c"
+hash = "d2314a9f0909471cf35e4edfb3855567fbead7a487026edb6b0d666c7232964e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/nether.json"
+hash = "b9784191208d2f715c508a1c9bb17543259277621da91af38c1f9ad403024f74"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0001_bulbasaur.json"
-hash = "26a80f086d7b16534906b2b629943f45c60f0fb132bb6c0fdf632b4694f4246c"
+hash = "5df0142933c3c804c91bbd4a193fb35fc996d29ff503fb4953346888c4c79bc1"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0002_ivysaur.json"
-hash = "3dfa682b686895128ea8f9ce1b89bd2c2221d05efecff63e08d580a3bb4fd07e"
+hash = "5c39c62d10d0b0207266015fa47c0aeee2310b1d595278105aa80ff19ee76815"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0003_venusaur.json"
-hash = "012b093c5d6b014ca965d12463c96cd2260a559a6cfa5aa000feb06ab6bfd57a"
+hash = "6254fd8e5c4ba441905c447341fc4b693c7ec839977302a9fb7a5c055a163716"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0004_charmander.json"
-hash = "a98f7a4e029882a2605e932662029c1f7d5b7d10cc5acff857f4443ad6e467cf"
+hash = "ff1fefd8c871077b68b244567078d0e183d268e1258b32624826334d60e2f363"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0005_charmeleon.json"
-hash = "34958fda43531c5d678fcb2a6af1a590d5c2b9e045a04e8f7a943c66343da2e4"
+hash = "e30deec2a35ddc0a5c4586db7c22ed30a47ba9ba36f686f264b14e41728ae7a0"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0006_charizard.json"
-hash = "d04026d0164a4529f37bc17fb0ab1b2c77f18867cf061149bd46f706a25bbf90"
+hash = "6582691c7419011a08067160b01d7fad33afc34b6d8503be6e1104f3b97d1c26"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0007_squirtle.json"
-hash = "455569d8374a9cf8a21a456c0e0b39f55930756232f7e30e15ba7f3df06359ce"
+hash = "a27e33ad9198ebc155d7c55bbb34a9a48a544646b5c5e808159d2105ca3a49ac"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0008_wartortle.json"
-hash = "5acbe324b10b154eecb55f5af47a5655d83e276268ac8247564e74452cc80cdf"
+hash = "c8ffef55d2919a940b36691bc128a58ba0d017ee19f67a3aad06d299247d8dee"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0009_blastoise.json"
-hash = "ae861808c506273c8c84e5087115f1b64148afe96dd6e69dceb16ecc037c1181"
+hash = "5d182ddfb9af5cf112b0aabdf6b014351d057b2f825737be2345c8ff96ff2be7"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0010_caterpie.json"
