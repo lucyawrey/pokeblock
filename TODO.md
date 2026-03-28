@@ -1,6 +1,5 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Hunger can’t be reduced below 2 (no starvation), and most actions cause less exhaustion
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Configure cobbleworkers.
