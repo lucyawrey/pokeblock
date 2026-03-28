@@ -1,10 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Current Pokemon Spawn: Caterpie
+- [ ] Re adjust cobblemon pokemon spawning to be slightly less common.
 - [ ] Set up pokemon dropping items from their species drop list passively when in the world in all cases except in battle (wild, released by trainer, pasture).
 	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
 	- [ ] Another option is to make a custom mod that does this using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) as a referance.
 - [ ] Custom Pokemon Spawning Rules
-	- [ ] Fix pokemon not spawning on Skyblocks (core spawning config)
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
 	- [ ] Still separate spawns based on dimension.

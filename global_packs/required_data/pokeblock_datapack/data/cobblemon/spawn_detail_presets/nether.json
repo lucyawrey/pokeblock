@@ -9,7 +9,7 @@
             "minecraft:bedrock"
         ],
         "biomes": [
-            "#cobblemon:is_plains"
+            "#cobblemon:nether/is_wasteland"
         ]
     },
     "anticondition": {

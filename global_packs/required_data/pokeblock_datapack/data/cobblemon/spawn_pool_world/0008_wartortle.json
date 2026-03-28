@@ -17,20 +17,8 @@
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
-                "biomes": [
-                    "#cobblemon:is_freshwater",
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_jungle",
-                    "#cobblemon:is_temperate",
-                    "#cobblemon:is_tropical_island"
-                ],
                 "neededNearbyBlocks": [
                     "minecraft:water"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
                 ]
             }
         },
@@ -46,19 +34,7 @@
             "level": "16-40",
             "weight": 3.6,
             "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_freshwater",
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_jungle",
-                    "#cobblemon:is_temperate",
-                    "#cobblemon:is_tropical_island"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
-                ]
+                "canSeeSky": true
             }
         },
         {
@@ -70,74 +46,7 @@
             "level": "16-40",
             "weight": 3.6,
             "condition": {
-                "canSeeSky": true,
-                "biomes": [
-                    "#cobblemon:is_freshwater",
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_jungle",
-                    "#cobblemon:is_temperate",
-                    "#cobblemon:is_tropical_island"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
-                ]
-            }
-        },
-        {
-            "id": "wartortle-4",
-            "pokemon": "wartortle",
-            "presets": [
-                "water"
-            ],
-            "type": "pokemon",
-            "spawnablePositionType": "submerged",
-            "bucket": "ultra-rare",
-            "level": "16-40",
-            "weight": 3.6,
-            "condition": {
-                "canSeeSky": false,
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "#cobblemon:is_freshwater",
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_jungle",
-                    "#cobblemon:is_temperate",
-                    "#cobblemon:is_tropical_island"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
-                ]
-            }
-        },
-        {
-            "id": "wartortle-5",
-            "pokemon": "wartortle",
-            "type": "pokemon",
-            "spawnablePositionType": "fishing",
-            "bucket": "ultra-rare",
-            "level": "16-40",
-            "weight": 3.6,
-            "condition": {
-                "canSeeSky": false,
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "#cobblemon:is_freshwater",
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_jungle",
-                    "#cobblemon:is_temperate",
-                    "#cobblemon:is_tropical_island"
-                ]
-            },
-            "anticondition": {
-                "biomes": [
-                    "#cobblemon:is_freezing"
-                ]
+                "canSeeSky": true
             }
         }
     ]

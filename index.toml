@@ -6,7 +6,7 @@ hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "ab145cf5247588e43b70dae823a83b450608b78932056ca1a0ab133f05b694c4"
+hash = "99605b52bbc842691435bcc3589704850f8378b5b470cf6b1177ede4365609d5"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -214,12 +214,3936 @@ file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/mast
 hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
 
 [[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/base.json"
+hash = "548bdf65284077b09acde0131b4f269fcfa77552a89d202aa29e78b883808b0c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0001_bulbasaur.json"
+hash = "26a80f086d7b16534906b2b629943f45c60f0fb132bb6c0fdf632b4694f4246c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0002_ivysaur.json"
+hash = "3dfa682b686895128ea8f9ce1b89bd2c2221d05efecff63e08d580a3bb4fd07e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0003_venusaur.json"
+hash = "012b093c5d6b014ca965d12463c96cd2260a559a6cfa5aa000feb06ab6bfd57a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0004_charmander.json"
+hash = "a98f7a4e029882a2605e932662029c1f7d5b7d10cc5acff857f4443ad6e467cf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0005_charmeleon.json"
+hash = "34958fda43531c5d678fcb2a6af1a590d5c2b9e045a04e8f7a943c66343da2e4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0006_charizard.json"
+hash = "d04026d0164a4529f37bc17fb0ab1b2c77f18867cf061149bd46f706a25bbf90"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0007_squirtle.json"
+hash = "455569d8374a9cf8a21a456c0e0b39f55930756232f7e30e15ba7f3df06359ce"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0008_wartortle.json"
+hash = "5acbe324b10b154eecb55f5af47a5655d83e276268ac8247564e74452cc80cdf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0009_blastoise.json"
+hash = "ae861808c506273c8c84e5087115f1b64148afe96dd6e69dceb16ecc037c1181"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0010_caterpie.json"
+hash = "cb7bda5922228b254a08773e86479702138ce431b553cfd3db9aa0a49d296ba1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0011_metapod.json"
+hash = "6a70d7e21ed12f439140165c302b5877239446d6aada5f472c33a95755e1c81e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0012_butterfree.json"
+hash = "b71010155175129b9064007f4079d284b1447da190ecb2d8e20c869a00842f95"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0013_weedle.json"
+hash = "08dcd1965b414e0ee97c16ec5911d9442c076dc9d07235c69e07618e6fe3942b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0014_kakuna.json"
+hash = "ffdd939ade486549d9e72868d11aec94614af29c36f3e7963853642b611b3406"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0015_beedrill.json"
+hash = "0dc6d254247d090543271a8c8775f8c71aede2ed31a53ac07166cbb90f4c9da9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0016_pidgey.json"
+hash = "2e44907ed7af089af00825d12a13fde0a4ee8f5ac6b32f39c790416f8b4a09da"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0017_pidgeotto.json"
+hash = "f60c53e93ccc1b5433f2a94eb3ac370dc1f800d5c475406625d4ab283503cb75"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0018_pidgeot.json"
+hash = "7675eb7be14477759475b6088ea9bf4b0ebfb689e9dd67c17bdaaa397f50ed47"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0019_rattata.json"
+hash = "277a89abc3df137fca3e5d5a816c2c3afb69945b5c815f0931a1c38bf8b5086a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0020_raticate.json"
+hash = "b3b600b8d29636e9925f6cb5ca6e9467472cd3d911c45d28120c0dd994abd0b0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0021_spearow.json"
+hash = "3f94aa10e50abd31775fea6098e31c3604d8fe1116acf027b9c14a1d2676c489"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0022_fearow.json"
+hash = "e735e31e4f0c0800f12fa3d033f9c16d28f1364359a65f9615683d7a590e6970"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0023_ekans.json"
+hash = "414a359403cad02d935abd9b8caff126bc79c679b2eb67018e6bf751dbe6e85a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0024_arbok.json"
+hash = "abbbb41021a1161881df56c64c1848e3a4726e28f70984423cf52c1f3e7eb71e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0025_pikachu.json"
+hash = "45e102441dbb90c11e5eefbb6f0dd3bb59571d7089c13d0057f91ccad2c37988"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0025_pikachu_cosmetic.json"
+hash = "23bae0791327177b1a8afacfabb0f55284705d6d432e10ae3fb7ec4be2b6da7d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0026_raichu.json"
+hash = "f2b894fc3e1e7cd4b2bd8f19d5c2a545f87716965966041876a8ca0815762fc6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0027_sandshrew.json"
+hash = "ccd6a91132d8c3b6d159be34e8fa4388059fe6838bcdc304d553f9c4e1308b7c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0028_sandslash.json"
+hash = "2cce90f1d35d0e7155bf730fa40edc3a25cb94c1361eb3c9133686c6ce83bfcf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0029_nidoranf.json"
+hash = "1554be0084b0004b60ed8ea228e07c1465c53a778584a9e277b45fb54a756719"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0030_nidorina.json"
+hash = "baec785725b10e48e1d283d3937db2a813a273ebd05d5f05888d8326770866b7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0031_nidoqueen.json"
+hash = "41bcacc7ba07466a229b03effb1b90458960abd5d26dfeff003ff9f499c64bba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0032_nidoranm.json"
+hash = "462d6a1867a690fe8eb45c81ca53746d7d9f201d6c0b6c6a65e2adea95c65caa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0033_nidorino.json"
+hash = "db09c8e84e1788d1bb5bf11f5345fcfb9ec5dcfe61d63116a5a6e905b2f816dd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0034_nidoking.json"
+hash = "35338ca88f345e97c7e0a044938283368dea5f1bb53d071651afcc328fd1d215"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0035_clefairy.json"
+hash = "662d38c4813e5dc57affe800146471d1f865d1ca90e11a5ce996fc0df037955b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0036_clefable.json"
+hash = "0f7b54453ef72ec19d2fab0fa55476987f2024327d252862792abed433d29ebf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0037_vulpix.json"
+hash = "86f8fb8cd910d1a4514d4a74caa229be5cfd779a91b6a43cbd48c19ce7a9699b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0038_ninetales.json"
+hash = "72921b8a6e3d6a68213c877244488a400ffd9fcc88f5a6ade3be9514d387be04"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0039_jigglypuff.json"
+hash = "6a862c300dcede7ffb060f7197b42d08eae2cc472175f1180b3bab20656ed2a5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0040_wigglytuff.json"
+hash = "ba03d70053fbbfa74033959fdeacd1586964c8f4fd971eb33443de6b002ac807"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0041_zubat.json"
+hash = "51ee05a80c9b29fc914c2e48bed6a54be93a0626759ec54f9bc86d2e60fd66a5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0042_golbat.json"
+hash = "171214bb86c91459b213c5be9cf95aedcf4311e8998a0ba88c6a3bda023fe6b0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0043_oddish.json"
+hash = "62550483d2c43740e5a84f6aaee742276356638c6946490ae2f6d865a4548ad1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0044_gloom.json"
+hash = "96508b7e2535964538456cec0114f9a511f1e3ff17951b33d95ef68b3d4058a8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0045_vileplume.json"
+hash = "2ef361016a9d9327c9d489da17703175d29887a60f3dcd1a009ecf1aa1329d4f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0046_paras.json"
+hash = "b1c299b12aa2b69f1b6ad4ad6f0ac73cc8292e138a7faaad75d49b897e6f2eca"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0047_parasect.json"
+hash = "af6f26ba67f82cd6fd7056eb7fae1d7901f8835bebc616e6f9eb2df8511cf63d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0048_venonat.json"
+hash = "da37ffb4d6fb431c0c1ecd2b2c1eb22f67d7ae06449577b2527438b181b88f0d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0049_venomoth.json"
+hash = "0169e98c1e3ed84d331f976857d480bebf32b28f15dd37eb5861f481e216b5c6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0050_diglett.json"
+hash = "65ab82d72e2e0f4eee1201edbf7d6af7f00f2016ce821650ac16f25b5c749b88"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0051_dugtrio.json"
+hash = "b9d569f5a9fbdc639679e82b5652ba184a309fd917c41fcc282b5870e39b6ffc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0052_meowth.json"
+hash = "023586e7a96adf71fb37a7005dd9cc2675bf98c615fc54109adf96cbe0ae4f74"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0053_persian.json"
+hash = "7bac1d643c672760898badb4d0eef777c10bcb586b1398554c9b49737bc3ab7e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0054_psyduck.json"
+hash = "5705293779a8c7076c03a5a2138ca69fb7fc33feed544e6483332ded83ae6ba6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0055_golduck.json"
+hash = "a3fae80a5d70662eee910783dc102c0818e098c66ff941b89e0d661520b2bc40"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0056_mankey.json"
+hash = "389de337ec0424651b5492b07f33d8688901004362879164371dcd5498e622d0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0057_primeape.json"
+hash = "50325fb1c7a6d83f1d1098765b5b776de0bb24e1c258714e1f130daefa9aa6ac"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0058_growlithe.json"
+hash = "843068244942934298512874bd0211fe6f1e4189bad7f8756be68b626175a175"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0059_arcanine.json"
+hash = "c8bd491cc41741555b2d145f5745741f74d56b5d39a0f0d68edc9bb80dc27b93"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0060_poliwag.json"
+hash = "7eda83fe9caa1565203dd611bc0311f9d31454c12f9f0c84054f54258838ef51"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0061_poliwhirl.json"
+hash = "2b33c27c1ac7a9ad27ebfe8c3bc6e13be82912bede04fd2e4934573dbac7ebe1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0062_poliwrath.json"
+hash = "85b98abec7e6e7399149191665487d7c969be02050161fffecbf5f5a1ba37be4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0063_abra.json"
+hash = "e638bba67ccae01a15e5ad8ed0c236e7afc736ed99d4351a0d334ccaec825a81"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0064_kadabra.json"
+hash = "97bb260e04de278bc8b9f196047b24cb692f100ba02e6da94f73af028637a304"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0065_alakazam.json"
+hash = "d41f2ee18c9b2bf0ba9b27999f38a4128f648c4f0cee8a165bd1b3c50346fa8a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0066_machop.json"
+hash = "4e3cfc0c93451abb426278c699e277539da18fc6c5850027e6caa425f11c00cf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0067_machoke.json"
+hash = "5c716a989abfa670ecd4903d57160087b79b051d37487347a71f44ec60ebe101"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0068_machamp.json"
+hash = "118b0eeeb01cd70b4ff4ffc87862d8a21d614a46d440b5aff10cd4dddf46e7d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0069_bellsprout.json"
+hash = "18915c60c3b96c8cc950eff40780b9bc1edd6b0b4fe76fbda6ad240487ba93c5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0070_weepinbell.json"
+hash = "6c4f5dd82bb61467c7deeb7315786c2354d1e73f3915e2071e7be53d86be7fa5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0071_victreebel.json"
+hash = "1a9714d73f5d222fd6362c07bce6542b2d83ccf155c2e5c5e0a2e440e532c65c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0072_tentacool.json"
+hash = "57e0e57492504c5d9c850ea384d7030fea704662d80a7bf41318454925c18c76"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0073_tentacruel.json"
+hash = "dfe52a93aad8f5b5d2af7eb7e24e040778fe0aa065463cf43137d2714dabce2e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0074_geodude.json"
+hash = "1dfad6156e9a91d2e4ea83f6f38420e845560a0a8dfcec3fc92983dfdf77679f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0075_graveler.json"
+hash = "e37965ff2cac4361e8566ed6cec38ecaa514e52e0e7587c39513c64c81762630"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0076_golem.json"
+hash = "fc99b5212e3198a904d441a9d62a061b540da34cd612aa37e95133f4d3d395f6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0077_ponyta.json"
+hash = "1a4bf59567e51273721df6a89d7289b804887cfa04b1e62e0df4d7a86bab761d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0078_rapidash.json"
+hash = "943d94aea24ffe0e463583839c76455c841147ae56618e844242aae304280af1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0079_slowpoke.json"
+hash = "cd2da231ce61d87fc6b407fe3f06f88508b48d3db93d31544c18b1ea18579037"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0080_slowbro.json"
+hash = "f5b46a0683c27edd9f4a74dc76837a942fd3695841825047dfaa751d5f4fe795"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0081_magnemite.json"
+hash = "09a74c4d190f7faafb8c06c0748fe42abc8b7df54714a75573e91c0c27c8aa6d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0082_magneton.json"
+hash = "adbfab16bbc2f2a7210824aab7a46045315b3eb2b8acdd9a4510019ad4756121"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0083_farfetchd.json"
+hash = "427f66fce223eb47bc9c28aae2e6f8325e589e01bc1c0f7a28d715909f155cd5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0084_doduo.json"
+hash = "b2060e1371eb749756e7a9fb8282f1a9a327747e71902ef656f363678bad4add"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0085_dodrio.json"
+hash = "3210379f88ca6bee9c444785738c7d770731bfdb920d74a856471855cd98f4d4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0086_seel.json"
+hash = "cb31dcbb8f5ac8f97fe9e5396073a006d440af0bbcac3c2399ccb52f2c5cbfe4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0087_dewgong.json"
+hash = "58bd32cb47f66cc255c2574b4e3dc9900e027ecf9a70f4082b633486c4ea25b8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0088_grimer.json"
+hash = "45a2c1dafdae2cc535ff3228ba08c8d3c80e7897951066b6a12c8427ae89b69a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0089_muk.json"
+hash = "3a4c0fd7c4b153b8dc9b3b9b899bb385cbb81e0520491fd32eb6ba09c2ec7de3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0090_shellder.json"
+hash = "d1bef6b3c948497010cbb6ef540d4465315cf154636a49e25ad42e428fcd6d2b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0091_cloyster.json"
+hash = "e98f8f39c38345b02dc75a0b2be40287966834f1674e5bff6abdc3d5f8643464"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0092_gastly.json"
+hash = "c4e15485b60cbe656efbe00e31b57eaac316b963fd21f843d0a6579c145b2dde"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0093_haunter.json"
+hash = "42a6b4eb4004360988281ec68bbc2d0661a0b8037a58036720a01fe406ebae01"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0094_gengar.json"
+hash = "987115d6735110a8c255faaabf75d1a6a2c338895eda53d9bcae0ccc3c742d78"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0095_onix.json"
+hash = "1917f5ea8ebda5948576049fc22b8f929ffb4bbb287065261d7594da9d86fd87"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0096_drowzee.json"
+hash = "9a01a6a59c502d66faa415a75ecc01d5fa15fceee59af324d8efa566093097b2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0097_hypno.json"
+hash = "e407ca46ee0c670ff8394690e43150c9d15e0fd0294de52840333f4f93da4149"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0098_krabby.json"
+hash = "ab24e06be01cf1f1d7ec9f61b0f0fe41509a0ce9910ddad8d77036835fc99529"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0099_kingler.json"
+hash = "6c649206ca0820da3a057bbb6ec6f92c79023ce006a48a75e8d751e2d7beb50a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0100_voltorb.json"
+hash = "7d79d288b72cdcae87ec041748f651d3999180f97f4bc8f3570256cced388738"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0101_electrode.json"
+hash = "0d47373085649ba24d6dc8c14a77df6a492ee9ed129c55761ad036711a1be2a5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0102_exeggcute.json"
+hash = "ae49f0f91c874c33dfbdc2b47768bff1d26b179e72c43bed71a403a412d722d7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0103_exeggutor.json"
+hash = "da5359507f688d82f8a084cfc50866844365c83a5c60e8ec57f9f94383f55bba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0104_cubone.json"
+hash = "531068bf2ded0140c297c05c4d47cc58fb919e5fdde4e010d0ec72f12f620459"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0105_marowak.json"
+hash = "b4d0bfeb5cfe96455d61d29372cc55675e1507876824bf867fa847fdb33ab7c1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0106_hitmonlee.json"
+hash = "1c54a3575e8800749639a8b234f419fa5a1aa13ea87bdda40c8747e9c63f6023"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0107_hitmonchan.json"
+hash = "1aa804bb94f89436778de2d61117861a4b5046f5259f0a6365d0c03716223636"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0108_lickitung.json"
+hash = "9ce29bbd488e4466d1ea876d8e1dba7aa6abb291c7297fc44b326f9f2d764b4b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0109_koffing.json"
+hash = "a6b81353e7e801be9378bec5ac04bda8a81198f4911e0bbe3333a9a9a01cf86d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0110_weezing.json"
+hash = "2799f55b8798bfc23101f6544837647c2e484f969b15f8e641b4d408ac0b6596"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0111_rhyhorn.json"
+hash = "d47cb58838497ebf12aa539af8ccebb7f3ee85355d2db60aa08f5b57b0de39c9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0112_rhydon.json"
+hash = "8cbde43cd1b2a3f4c71a19efa9f76d643a7c23d7ebcc97342902a6caedf29676"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0113_chansey.json"
+hash = "14c13f0f600a6a7903e34f16f4ade446ba2c0ea8e4e1fb3a2e85141f3b56181f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0114_tangela.json"
+hash = "00ad4d69d347e26e761e18c099af28728ae500bfdd4b946b05946f0d358b8554"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0115_kangaskhan.json"
+hash = "ba34c9f8563525b0d005698ef4e776d53a5c0702c76ac953fb9123d36fadc250"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0116_horsea.json"
+hash = "4d83317d58cfd76900545e283bcf38b70becdf316de6c233187f5d8405ab9bb0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0117_seadra.json"
+hash = "f45a2b08faa24af772a42c0439733b0adbf6086c152d1a2ae10ffb0997a18c6d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0118_goldeen.json"
+hash = "35a4520471126c2e730c2570f48d172b93fa71f3cef801af5380e2d28dd21190"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0119_seaking.json"
+hash = "1241b6fc6c2f0a8d6fb98d580cd9bab806b65be1af83f7f81dd0bda37ced2369"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0120_staryu.json"
+hash = "d7db849d4fe794d0b4a856bf49a5e6dcbb322099cd5e87e5b423f58424597d5d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0121_starmie.json"
+hash = "940166aca081ed92914e98e6240732cfb896be0805f792fa36f1829b6288d737"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0122_mrmime.json"
+hash = "44254493bf83c8059ced37f90ed3116f18f5fa12bbcc7437950287eb2d9578d8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0123_scyther.json"
+hash = "9dc1683464bce0601d7f4e951da9a745bffb6b6cf56acc3903fa15e9403e5d51"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0124_jynx.json"
+hash = "b41f69fe883d41852cbb41ddea4792e2fdcba9b3e412e2a3c66ad816b40dbdc6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0125_electabuzz.json"
+hash = "80c1972bf9c7060b8e96fb6cae40e9bbf33a33df504e57aa743eae4ce02d92f0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0126_magmar.json"
+hash = "417dd33868ec8527174fa45ac07acabc5781e98cfc14d83f8269f707b96d41c7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0127_pinsir.json"
+hash = "674683e65de4aa4a281d1f368d89e094b6efaf18851b22106769598e3fd7e4fc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0128_tauros.json"
+hash = "e528bc396aa91371549aa182b31ece5388ba0418b1f8beaf4951dda9f5ae88f6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0129_magikarp.json"
+hash = "bd65acb71807d9c7053d28f9b61078153d2ac94d759141ac9ead1de6b0ea56c8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0130_gyarados.json"
+hash = "8aac8898cc0ac463122dc73a159637a26612ff74ed3651218a4ba5bc243bd74c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0131_lapras.json"
+hash = "f0921cfd034f54ea2b332639a43ce7c1d55ce10203f907b1e1f4c169e7ebc8a4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0132_ditto.json"
+hash = "1c1276a91f4856d548b30e1329d52b404687880cc7dc9d220902f0cb21d57bbd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0133_eevee.json"
+hash = "3b8542c11b3ec775d8096b85c16bfe427e24136ff2db4fe5e061bb25ea15ff03"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0134_vaporeon.json"
+hash = "4c6c3d73c17409d49775c20ace4bdea087ab173db9ad02330ca5b9848eca3f90"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0135_jolteon.json"
+hash = "d5373e3cdf966ba9ab8fad7e6d253a18fb08c237208a3a1469a86086aa4eb88d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0136_flareon.json"
+hash = "adf4a8ee1099b2214b0013c03497f9471feabafd9961cd218699cd0531f95f3e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0137_porygon.json"
+hash = "a611af0fdddea9176626a5566ece5d3b11559c440b06b0108b0d95a4daa808fa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0138_omanyte.json"
+hash = "87796b72dd41fae4ba210813172c670f2599a08b5942d42d310d26b8273a1d04"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0139_omastar.json"
+hash = "2c91a7d77015230ce4c7a5f1abc9806a36cd833d40596479d2c45f0d65023250"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0140_kabuto.json"
+hash = "0103b427187bc6f93b0bfa224063d28d5701738bf8823e79f979f696a972cee1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0141_kabutops.json"
+hash = "ef0f94ffc8ece8371e5cf3f2dc86484c238940caca9c166c192e78b3482a0c80"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0142_aerodactyl.json"
+hash = "1a238aecadffb95e707aede99a149e80f21a3c0cd0639c0463bc54713290bd6f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0143_snorlax.json"
+hash = "7fd66f8f648ee9c1747b8fa24cd867079926b1e3a53bfddfbff12ec49c2648f6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0147_dratini.json"
+hash = "4b2a74da5df8d4fee3370c0e629df997152e8f26ff69dc9e623824290358593d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0148_dragonair.json"
+hash = "0d0ff04ada291761a00c340d81f81b96a8ea7b250313216473b2bf2905944e8d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0149_dragonite.json"
+hash = "05761dd5b0fe48d6e3ce044c1825d96a0851f04d9eaa218b010a892da3d8b7b4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0152_chikorita.json"
+hash = "99ae329ea7b67aa621dae9a18acfdffc39340c677c960ae8e27b1bb9e7cb152e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0153_bayleef.json"
+hash = "81b52c411068156ead160847420f184b52ddc03f9cce989277fd251b5b362492"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0154_meganium.json"
+hash = "888a3e4f6f6646130bfd87b2b3a7243a18b264f68d23c932ef8b39165a800329"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0155_cyndaquil.json"
+hash = "253e1bd34032610619a3daef683e7d54ba537be1665b47cf02054f81360821b7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0156_quilava.json"
+hash = "da600cc152e89e7560f43902eb1db11ddb6589869037c4a5413f74848e816d49"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0157_typhlosion.json"
+hash = "c6eebbd80633b225160063bac1adf47e7c8bd49bc5a740b2c225bf2019a7dc65"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0158_totodile.json"
+hash = "4726a19d74369dcd9a0ee56cea2c715d707389ab1e25e1f8e38d266d0a41ff7a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0159_croconaw.json"
+hash = "c524de3ec932a63e248185d6e30395d6cad26f7a52e706bca33f3e00497c2715"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0160_feraligatr.json"
+hash = "cf39a31e9581e73cbbfb085c966e5605dd0c85d4a04a77ef8f4bc6a735b2b60d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0161_sentret.json"
+hash = "78d182e5fad535a2c9b615d1a666c01659f1b7da4483f7debe31e039cf297b27"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0162_furret.json"
+hash = "797f789fb57d66cdc1e6b485b5a0f282b9de6f2e9bbebf0bf612884b558622bf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0163_hoothoot.json"
+hash = "76ce6f378d4d41a727f4b8890324af5db89a45b5470e1afcc65393b4f980d3c5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0164_noctowl.json"
+hash = "1580182b9e72fd2b5a7fa0ab515587b2f7a21b18f4e81937ff6c1304e663131d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0165_ledyba.json"
+hash = "029311e94ec37ab799dfadc34ea612f6e221d6af8580977357adcec2ed5ff13b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0166_ledian.json"
+hash = "d5c183498e79e30b65558f0e107bab07380f3476b9d36fdda01903835c00256b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0167_spinarak.json"
+hash = "c8f4bfc47392488f2348898b6623bab4b247400a8a9a8bf2644d340a9103f546"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0168_ariados.json"
+hash = "c7ad60d4956435f76f2dff449c62796bf7e8f5c796a076e32a9dadca8d2a9331"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0169_crobat.json"
+hash = "51e90fc74a63722692a8f0e5de8b36ad9e3328d749ea31a02ad2e6c780d077a7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0170_chinchou.json"
+hash = "3de31d1e6f4c4a1f7f086e914d7487225e4e3dee0127e93559ffc96b3e520a26"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0171_lanturn.json"
+hash = "35cb4ac6e571e898edd8fbd6dc2723dfc0a117ae52894ca8cf07818415889bcb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0172_pichu.json"
+hash = "f4b5a821368eb24a01b49a8c8b0e5761321da3d53cac375a04566914031e30fb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0173_cleffa.json"
+hash = "2aa7371621495475f8adf97f243b8482af798d086c8a8a2bfce1f1fa1d05c6ed"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0174_igglybuff.json"
+hash = "4afa2d425070dc3858f1c9ab2f7b63c774930a9883ec4e41171f32f15c8f237c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0175_togepi.json"
+hash = "46cf9e59ca259bcd12f7767dbf32c0d60222d0b71762a75b8e4e38d093ff301e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0176_togetic.json"
+hash = "9d2f4ca6262ad051fd9012e5d731e83fa88c3fd3559b0bdfd4ffa1ea9f5f055e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0177_natu.json"
+hash = "0a8631cdb353a0c6be6d2302d8612fb97c0be798b57cb4338974641b5d44acf7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0178_xatu.json"
+hash = "95d56c48c05bdb5249758d2649b26ac7aab2632c2584d4d1a4a567f7860988f8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0179_mareep.json"
+hash = "f8be18b4d95b774672d5fa287cf904c7d73ee048b75b0d9ec79f69d7057e3038"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0180_flaaffy.json"
+hash = "66a46ab5274aca95864367bb188da7e298c7004d2b9751767a5c2b9a7860c8e0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0181_ampharos.json"
+hash = "366a64f5cddbb2d72d8cb53b58b9b56a10dd34a565ebcd3463a968e907c52f42"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0182_bellossom.json"
+hash = "e82d5ccd611d1f8c2d5b291bd7c6731247fb9b13264966761484b52769049e4b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0183_marill.json"
+hash = "206c731ddcf3b2b9d9ec12365f695b12df8f74d2a82384b36b3fc0226ee0e442"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0184_azumarill.json"
+hash = "b3cf68e8dbc20cf11da34eac6f3eaa49eb38e042d38d500fba567c6ecbf8c6ea"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0185_sudowoodo.json"
+hash = "2538a73fbfd5b9cd2810f6125c477dad4741a3aa74c790b93b9914e549df471a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0186_politoed.json"
+hash = "8b259786dc5e0eba21d9478381cf9112f781ad353c197316c1315325152ffe0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0187_hoppip.json"
+hash = "e34d04564900cd6a3557dd2bca51bc4b5cec43151984c0c50b3ee0ccb13664cc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0188_skiploom.json"
+hash = "a7c0c4dd2fac8e2da60d60e094cca68e7a9f50835f8cf11ad3e2740b6f518b2e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0189_jumpluff.json"
+hash = "16d3da3dc7236c7d37fa11b4b82077844554e91da4fef8734274eb2b4dbeca1c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0190_aipom.json"
+hash = "5af8b6e4fb17148199dfc8ecdd0b055b36e5931dc5436617b4428c29cb88e428"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0191_sunkern.json"
+hash = "4e7fdffe16a9e2115747bd44c089a555775b6f0ebd7f9b6809bb4808fc657b4f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0192_sunflora.json"
+hash = "79d78460c5147437c6261a78653bf7a392d9545a7ea0010b4c19fd2f5ef0bbdd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0193_yanma.json"
+hash = "946ce38b7b78d4bbb52a0940877aa757229e1feeeee878a56afe50b76aaad9a1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0194_wooper.json"
+hash = "32ddc0c3a2b6740aef17432804c540f3daa02ac89b8ebb56a4abbed8c4d934b8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0195_quagsire.json"
+hash = "a2a7a4bb8864b84ea927749f6b29ff7be94149f945303ba6c09bdddf2ca09eed"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0196_espeon.json"
+hash = "6e475a43ba56631e8b6b439e59bf70c8c256aee38814a9ac64c836e2c1610a29"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0197_umbreon.json"
+hash = "632e661ca60bcdfb18e680f4196c6947acd130bb0261b5fa75dc600a549de217"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0198_murkrow.json"
+hash = "0a274ed53f6a30e50e66ee34bce5b63dbd2b2f9cd59e028af739846eea633187"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0199_slowking.json"
+hash = "175308545f7a559ebbad5526703f4e4a72804c2374d138f6809d96e2fa1a80fc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0200_misdreavus.json"
+hash = "997564ae8c3cfa952a6c6561b16e7cbdd95e887dae4817cba0f83c50c5d4f385"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0201_unown.json"
+hash = "eb444e77138750466750d33b879a8652a2f393a60a9566be9fc8acdafe188c17"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0202_wobbuffet.json"
+hash = "b7f58d5318496a18f6b88649dded1ea2e2ab3821903792feaecf4d1791107e25"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0203_girafarig.json"
+hash = "2bafec666a10bec592846fb4f0cf3d43fa8df3f713640b50fdd1f9a2b3d59337"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0204_pineco.json"
+hash = "d6734ece4a6cfe459b2333ec77bbe92fd4f054d091948c06b8f8f1385f87d582"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0205_forretress.json"
+hash = "163d8250fefd347a3dcb4d4384e228a1ff4ae18ba5629453a4186374942152b6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0206_dunsparce.json"
+hash = "18c0699cbafe2759283ae947608268aef2011e13f1f3fff91e14ad375ab23adf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0207_gligar.json"
+hash = "23b7674e0757d8c62cb4c72ed6925bdff4ed313d8904a0550a93c3378120650e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0208_steelix.json"
+hash = "869daa3feaa1daa6e1b3bb27ae92f788d39d7baa0c2aad0e784edf378c121773"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0209_snubbull.json"
+hash = "d7db7dc3c1bf07aa61749edf5ce125546c4afad739970c3af56beeacfc8b5d86"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0210_granbull.json"
+hash = "f012d394f3f4a5f2074740b0e8a810f8a8a74a27d6b0a92528d7a7a039394434"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0211_qwilfish.json"
+hash = "f7a79fd216ac4c94b056ebf5aa6a671c677b23311aee738b33bf46a4cb6f48c0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0212_scizor.json"
+hash = "55e3e8cc241d5db8358a99cd07a5819769d187a2f814772768bf7ad88eb29d7e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0213_shuckle.json"
+hash = "a905b4a8aea6dc53abcef74794eab85f6d7cdd6eb7b8741ffd54253eb8bfe0d4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0214_heracross.json"
+hash = "05eca2aac6efed74a7b14d610cd6eb38d45831c5fd5c495d7f7a020a655dbfdb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0215_sneasel.json"
+hash = "75334c4789394eed79c5314a7e6de48600a18f3128624b72f9bea56988824c0a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0216_teddiursa.json"
+hash = "cb5ba2d95df6dbb1b909d4b543b01a97cd4d76c2ed30e77881c64a4cba7c93ab"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0217_ursaring.json"
+hash = "065efe4b0ef7fce37d46d5971000cba981df67a367e2b4a07d9c3e42b8e68cb4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0218_slugma.json"
+hash = "04c087221a12e02666f0cdc4b9a8d57afdc72c346bd9967c4907b2db33af1897"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0219_magcargo.json"
+hash = "c47293eab2f0c742538a627d55f19c57e43f025b0499dbbcea1fbed3adf097a3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0220_swinub.json"
+hash = "906dfa0a6c0a4836b03bebf6778ccdc1bfafaf71b87756981cc2a04b10bb7bb8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0221_piloswine.json"
+hash = "b7c096f350d0ce72e2ef2c680faddcd4015f4d64322e40b484d666a4b7227716"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0222_corsola.json"
+hash = "3b6445c196e9f7ece6ea26b5fa816d2378624a26656ee23bdb34fdefbcf66e6f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0223_remoraid.json"
+hash = "94ea87e52040273c53be17f7a33fcf4ad70bf9820be45bd83a0544119f0b190c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0224_octillery.json"
+hash = "5f4b7ebccfe80e4e907a8cc2e3e7b6bd26604b31507f5d5a3e87546173d42ea3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0225_delibird.json"
+hash = "53623d9b5f36ede6c0ac8f36437ad98e3b8a0905eca5e77f5fd2d0dbb639dc04"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0226_mantine.json"
+hash = "c77c27d033706863d8a8a7d6e29f3810b3220d0027f34af195062882550279e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0227_skarmory.json"
+hash = "7a6fb3d466a1204410fa019341a224dcc4c1ad173236effadab550053603544b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0228_houndour.json"
+hash = "4c71facfd51816c2f103a5b6918220eb02537e671e2dc69e2ce9a3564327e86e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0229_houndoom.json"
+hash = "24964ffc492dade3845064fc95702f03efccd5df3cef3964a72e122c2031a251"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0230_kingdra.json"
+hash = "7d9bd59495646ee01fe4ad3cbb802e1f3d1e8ebd02b3327ce3ffbbcd27cbcf4a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0231_phanpy.json"
+hash = "187d08eb0f9baf336fbf3b188b100f57f470cbcdc98f1264e68cf041b034cdcc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0232_donphan.json"
+hash = "4d6d2de28e00e8df6ed323c13e65500130d13ac36ea99906cc4d66a876b4f304"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0233_porygon2.json"
+hash = "5cf009af0d13bdc64de22ef4dec5eee9f26ceda86b7ee1e33177c291a31578a6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0234_stantler.json"
+hash = "e4efd7b990e085128be98393026ec36f6f47ade801e1aacbf23702c65c0885b2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0235_smeargle.json"
+hash = "fe6d9ead544e8a1aecf37130031c375933f43913763fb76a45bfc6f9850cfff9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0236_tyrogue.json"
+hash = "c4f67f9decfd3af76371fc266bdb313718264f48c09c1c43ce6e74f07882983c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0237_hitmontop.json"
+hash = "8ea467a386f1edf08bd7f6e9e03a56f2e2f214cd6000c46e92e3681526f499ad"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0238_smoochum.json"
+hash = "a9da38252acc19725ddd2a5066d7c881af658358451754d877acc36491ed874f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0239_elekid.json"
+hash = "9957cec9fd465a8f1c09898cb6132d05e7d89661eceb1eb557cb82975fce2326"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0240_magby.json"
+hash = "adeadbe4941be6893351934864a3c4e609521eba7a350568e56f772e3d1b0f2a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0241_miltank.json"
+hash = "75e5354a0078325e43f0b3c90ed674624e6a126ea203c80a14b6880bbca73665"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0242_blissey.json"
+hash = "f6e6d3095a3293cb02542eb9ba6296d42813d6d832a91f99532d62940e80ca6e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0246_larvitar.json"
+hash = "6becca5c422c1ac73a0851d3e26ecc016c3cd88cd01d63c3109ba3e070952321"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0247_pupitar.json"
+hash = "09046a283c1a5f3819e9b931b8cbe30a14bb8c3f39a00800370d9a37156320e2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0248_tyranitar.json"
+hash = "94c28ea869dfaf05094f37ec49711b00db724029c22ef67c245c029b5268f3e2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0252_treecko.json"
+hash = "990c1ef45cc8caa474778f1365afd9ecebe9c229be22a40e55ff7f0d30b29232"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0253_grovyle.json"
+hash = "9ace0ffe15c7fcc8a34b086563aac3b7315b0b90df01bcf115e5eed3db47a770"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0254_sceptile.json"
+hash = "efe9fd414b88489dfe25162b1b8c6101aa8fc295cafcf456a7d99f50e1bf2dd0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0255_torchic.json"
+hash = "872bc79233e62c2b3b7f7a6a5fc930704901c681598bbfc84b89865c62d047bf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0256_combusken.json"
+hash = "5e9143f4a1943832e8ff6bdb6dae1ccd35d18d7d2c52a55d78de1f2a80a6df65"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0257_blaziken.json"
+hash = "754c1dccacd38b9cf56d5381579831ecb84d87dfd5a6f05ee32c769ada576fda"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0258_mudkip.json"
+hash = "b258245fb0e54452a2d34a44cd78f457fa2ad521034b4a5317f8a6209486d2c0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0259_marshtomp.json"
+hash = "75fefe24bdf2e9062d4eca38904f84b2e187aec81eecc0578e06353591ced056"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0260_swampert.json"
+hash = "7e51e91d0bf97ad9956808cc3c6f55ba3659e841efacf8948fa64991fe152e6b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0261_poochyena.json"
+hash = "2273d8041825f064509267eda8f7d1443e48a1b4771e6c6b7e6871fd12fa3cc7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0262_mightyena.json"
+hash = "e092e863c09126c8d74aa3331ad2e358259cff8a431616084ac5fa0e0b1cf1a8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0263_zigzagoon.json"
+hash = "c8fc19d272e7663116ec147b18f48070896bc564df4d1088f7ac4889fbfc2e7a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0264_linoone.json"
+hash = "ce510dca0acdd499df6209ea8e48170cbb46f7dc3e7010f74ff7de2266346c21"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0270_lotad.json"
+hash = "79f85b5cc00bedd54d83eb45ca882ad24334ec387c0574d95051dabba930ca23"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0271_lombre.json"
+hash = "579568a52301080c49faa0a0c2d5270a76fce243761f404946c7d3d60a376f88"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0272_ludicolo.json"
+hash = "a7d729b73dc535138c0d7c7e60cea19b5b9014829ae19fccc3c460bed8a3b4e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0273_seedot.json"
+hash = "17d770d21939ab748984253d588cc4ae8a56a2be65cb901024538adaceafe70a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0274_nuzleaf.json"
+hash = "78c6413d2cbaf91906844cf12638bc205f4121c8bb8dacfc4d690e606db3f28c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0275_shiftry.json"
+hash = "050bd579f9a6645e43fd82cb1bc545a843014a2d3b308f41b197e79bd6ac0ad9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0276_taillow.json"
+hash = "4e4a89a5aa70a996fabf2efbb6ff1bcd7f546defa897eeca1072427eb5cec097"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0277_swellow.json"
+hash = "73c5e98c53a13b17b361641d4f1651f5670715580c48c432cbb000d6aa32135e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0278_wingull.json"
+hash = "92616fc7a8c4c0dae1336cf3f20b8e034d13923255676ef9902773b1f157bc95"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0279_pelipper.json"
+hash = "c374573ffa4894035779cc0dded971dbcec3b48af5aa644a9df0e39e1579c89f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0280_ralts.json"
+hash = "41fbc134910b66b9574f089922a86700477daa9126d0bc00a6a1f41cd4b9e98e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0281_kirlia.json"
+hash = "82bbd7f1ee139f731b19ae608c2767bba565d82827ececb108a5fbadcc9c2447"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0282_gardevoir.json"
+hash = "245ebf93eaed46af07cea7250c2a0c9a48fa2a27a80f0a465bb1d093b43c77bb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0283_surskit.json"
+hash = "33cabd80b9206d73e1c72d868cb0a33256fd77ef49ae5ba7a40f7b3333f266c4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0284_masquerain.json"
+hash = "e006d63664d5b25808012aab56362fbdf2e10fd2d3a084b42c42b54e0e1070c3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0285_shroomish.json"
+hash = "6f93f05d6d5ae1149c0c1311402cf1823d9a374255b3d9db1330ec96438b5099"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0286_breloom.json"
+hash = "5332a2b5910858018cd0048404e32c59a4e3a2393c730ed5c500bea09658aa80"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0287_slakoth.json"
+hash = "a76e0fce972a098fd5802877f5c3375f75e1b714d67ec23ae8ceddf67f5bac7f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0288_vigoroth.json"
+hash = "ca9f780538dca2a7514cacd8acdf10d78f605ecd1c586f23581146ea0e1897d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0289_slaking.json"
+hash = "aa3385c8db4cfe15205a8f0a8d49a64ecfc44f2d32b731e0b45ef3cc133f0529"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0290_nincada.json"
+hash = "d00ac6b14211b2bd0726f2b6bea156def3c463431754f94a83002568115eb318"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0291_ninjask.json"
+hash = "10dd093d8712f8e89cdf5a52adac6a6162d2c8d7c8f96869e70699095c89a19d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0292_shedinja.json"
+hash = "1d22fb1788ee3f431dcdaef7169e0229abeeb064e304d408aa426afcb20caac5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0293_whismur.json"
+hash = "1163dc51d8d628f58e4dcb87440b370967d3c207640c339e469105a6951d122e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0294_loudred.json"
+hash = "8c46acac74e083933b6e95d5bee52b502b84975a8f045f5ef635b5072fd16ca8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0295_exploud.json"
+hash = "37f5ab1926a438183000c453462dd34157577caa20d355850f8e006c1d74cb49"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0296_makuhita.json"
+hash = "79856299c0f9b27639ed511b094207deb8ea614d9ab0801ca60648f0026aae78"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0297_hariyama.json"
+hash = "c78cbfeaddf381cba5828f31d2bf6b8b0044d02a0bc3ae9a0d7afc296e9c1c8e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0298_azurill.json"
+hash = "53926aed5f3111363908d0ddbbab9c7bf524b713ff1aea1ee68a69611fecb262"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0299_nosepass.json"
+hash = "e9c9de1599ee3e256521fc47f2f357bf862f33b0f1994e33af0273a3bc6c9cd0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0302_sableye.json"
+hash = "9b579a859a2c586d7d15537dbdd0eff97ae2ec8f46a3a91f1cf71b1470fe124d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0303_mawile.json"
+hash = "5bf976661250f4089705393fd1d46de287377b1a8e1386ca9ea120ce9ea50d45"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0304_aron.json"
+hash = "c4eada732117df38ca5a7b9b08bf665cdbb69e7872895dd6cfba3e5c286b2748"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0305_lairon.json"
+hash = "947ffa2b240596bbe485d7dfaea4ac8ff8751677bf37ae40da818c68f81b74c5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0306_aggron.json"
+hash = "ebed5a82ce21e133ea5fc22e35031cf10d113d788242612a909387d8cdc69415"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0307_meditite.json"
+hash = "96ba6422676be49281023cf7a48e1d1a73e8e1882f91a2ded6c7b5dbadc37c28"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0308_medicham.json"
+hash = "690dc97bf842acc5f8c87544b93da2ff216c695db01d054205e0e3e89872bfbd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0309_electrike.json"
+hash = "32097fb35585f29dc0c66ed8b877e6be1ca4824482675bc58f6b341773a7cc1b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0310_manectric.json"
+hash = "1f19e15659795ce50ca2f97cc60c587b45b9110b224469f52bc86ca49b78eb88"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0311_plusle.json"
+hash = "7a818e55171f774857bbecf5d1fae5ff45664db3e3d92cc31f81a9e3c471c28f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0312_minun.json"
+hash = "c655ec624160bba3636024f3c4876c9774331c6390e89589aa4bae4676fa72e5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0313_volbeat.json"
+hash = "3e2e604186402d92f9cf4440b0cc17aeea0b018d4d9c41235a8a38e15a85ee62"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0314_illumise.json"
+hash = "0b72871bf999f8b6bd91526150a72a0f53e7aec9c1fe06d30aff9998865fdf65"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0315_roselia.json"
+hash = "07585812c1fd2b0fabb2e96a967ac82a68d7515f17565a473e5c3aa4a96ed17c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0318_carvanha.json"
+hash = "2003c13ad17b1535881093e1ce49cd0593a101b8f1a8eff1d4d1c5006fac873e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0319_sharpedo.json"
+hash = "0121449328ab54f8e72276b14906b513ab99a6ae91f813968788566545290c48"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0320_wailmer.json"
+hash = "68826086c51e114f4cc3c8189aac85b7efbb8e6b7170663e9fc1c5070d50ec47"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0321_wailord.json"
+hash = "77df17548b2b402ee1eb83dea0b56f07c388a38093814c32be051b4d54d11700"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0322_numel.json"
+hash = "018e0c64ccd3fc583b8379b7dc6bb574430c1adbb8146a4577f2237439ae8b83"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0323_camerupt.json"
+hash = "171a90c1e72b3cf03f5a16ce052c5ca7320684b31b0d3d73875980065884cb53"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0324_torkoal.json"
+hash = "7238fabc5bdf19bfde3999cbe77d7f42f9b96ae7025053ebbf60978ecb42868b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0325_spoink.json"
+hash = "dddcfc10bddf76f3b237e14697312ac63161429e0dda4445e09b5341f9ba296a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0326_grumpig.json"
+hash = "7f4cd538b92de9610d536ffbb80b03d8ad09d592b52b426935658f7a6300a94f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0327_spinda.json"
+hash = "271d17cdb1e51fadf0e38a01d2e290a5cd4f32d8a313ee5044d30b616e16f384"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0328_trapinch.json"
+hash = "4ddce0a4d25129bdca68022b80fc0d8447218c298ac24e7f6c5fcbfed9ffc867"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0329_vibrava.json"
+hash = "7d065e11a1f6360bbab0aa9ab7f1048e2f0b4ad8e0c88b5e8ece98044e291527"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0330_flygon.json"
+hash = "f05652d89d30c7666a786645bedc9c33f91d5ea7b33953e38d25f8b1c6c97022"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0331_cacnea.json"
+hash = "f55448733a4e5cc29962819cb5526270becc889ec8dec98435920a1eec05e368"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0332_cacturne.json"
+hash = "104f3d170df9c063231020858e4977b427a1822c863be76c2d70f5f467a02702"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0333_swablu.json"
+hash = "6ae7803a92f23a14a5d31c28ae0770ac714ca4ef1677ff650880094ed380827f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0334_altaria.json"
+hash = "3f275c35be0c0764f82919769f2fc3efe1af3892425835ebe88fd3581dee344b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0337_lunatone.json"
+hash = "ba9c5e0d84fc90c660116f73b971085c834c24ec23d3d1a0fe548e2600d295d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0338_solrock.json"
+hash = "71e9b5603cdb1f8cf73e0c61361f5e97c0d7d36e592a2622915b655eaeb093d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0339_barboach.json"
+hash = "bfce03cf4857ec764fe1f3db679d9242d03802108dcc3da1c82751de32432f98"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0340_whiscash.json"
+hash = "fa25eb38692174646961c6fe55e9eacefacf81570cb78a7b03cd8e2214715796"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0341_corphish.json"
+hash = "56d2a3903fa9fb8912ea8526168bbebbc36e79b6fed3da2c1eab52b15a53f9bf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0342_crawdaunt.json"
+hash = "dc6e00f1050502cbba0d0240035549daeb327c92c07bbca213500a3318a1839b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0343_baltoy.json"
+hash = "922360604d6275c466fd06dae9955f5dafc49777671ce3f535971694912a7b27"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0344_claydol.json"
+hash = "5d84a0e3176b4f6143d922edd4a773b4191bb53c8d2cad0199706069bcfa5ed7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0345_lileep.json"
+hash = "80e0e950a21fc8b9e5285aba52912d5a83372836bbd6db396cf5ef7e34c5ca2e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0346_cradily.json"
+hash = "688690eac2a73dab6f347e653d5c0ce709170eb60a635778199f04399fb8ebdf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0347_anorith.json"
+hash = "433a782f725e53e3192f45474a7da4ae54faad8e4f6f545e0644f0aa8532cf23"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0348_armaldo.json"
+hash = "598619a53bf07de7935960b4cac7b7150c70db9e21a13a2d697c6295f10f5933"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0349_feebas.json"
+hash = "efcc99aa2fa0a5b87aa9a0b3de81b86cff2fe68236cccd0fc78701524bf6afb2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0350_milotic.json"
+hash = "86acb5fa84a8e11e9adf82822ac4f008e6b32fbd3965932a4d6182637b769ccf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0351_castform.json"
+hash = "d4e9827b8b0decde2439e4a9ed77f3a5e0f321accb7673c03248fb8c371f99df"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0352_kecleon.json"
+hash = "7c5e426323672f7f472da90b1f40c61a1a1f46036e86623c5cd3af056501876b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0353_shuppet.json"
+hash = "4e77d3a099784e2eb8cfbd2f56274bc47db3c879443c342ef2a6fdacdb1546a6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0354_banette.json"
+hash = "9d9b41906689db3a15e059e8bc846959bc6ae9c353b2baf19196b1a7f2120ff0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0355_duskull.json"
+hash = "101262fa86867486ce48065ef6ed78e3d7bff17263bdda7dd709c8bfbaa185cc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0356_dusclops.json"
+hash = "5a2961c321efb08c831f62363c7b2d35016a04531152102c09f274b0ea67e2b1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0357_tropius.json"
+hash = "5098af9ddb332e969b312aced82cbb9c416473b8916b976be6a1401b5f5be70a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0358_chimecho.json"
+hash = "e1e4bb6cd51588a1560b35cb6590dfcef07bfd888d7747c47217f24b176b01f9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0359_absol.json"
+hash = "bb4dde3f2c03b1002f87e0cc528a83e7f9ed6654a993d5a1cae41dc5bcf03722"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0360_wynaut.json"
+hash = "36b14a4d905e4afe0e062f27fdec624d51f8ae577a592186cef0efc45e9e67d7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0361_snorunt.json"
+hash = "9bbd28ef93ccc43c2b247c94cf8080519772dab6e703d8faa7cbbc58a0ff2f29"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0362_glalie.json"
+hash = "3e15c424a722646686f1308bb255bae68908bdb2d9050b0f547a02acc5fcbd00"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0363_spheal.json"
+hash = "fb16a97da1e4bdebc3ca1b7c3b8304aa773b78cd7866a11362aae4f6eab4173e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0364_sealeo.json"
+hash = "aec9302ab47c5d0a4c35cc38bbc773b4f40740502ae9d061560de09cd8039f3b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0365_walrein.json"
+hash = "d84b99bbfeb5f85a44bad092ba18a886116e2a9f5948f63bfd079f8a705e1268"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0366_clamperl.json"
+hash = "b589ffb27b052b47e3a93ebf2a9c70c81039063e83fdd37f20453e3c4b87c7ec"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0367_huntail.json"
+hash = "77416679792cdf3530c466909702b79e82d054f34ca8e9d7efdf6a0cd3080998"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0368_gorebyss.json"
+hash = "00e5ce6d9f17a075e5be7de87e1170019db398d1abe325fb656fd1420e39a0f8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0369_relicanth.json"
+hash = "9490d3fa937cf542f26c2a6fd1af4c0f65d776d10a31b932b78a804c316ed37a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0370_luvdisc.json"
+hash = "b9171024fec5b68634697de6f1b6a87b53c433bddc33980a470ebbd40278dfe9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0371_bagon.json"
+hash = "ff23e8072689641a0eada29327a0bf2e007527a6ed9eafa17ecb57f4812e4175"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0372_shelgon.json"
+hash = "7a425723fd0ee051506a53d56e8dcb2ac11c7eaf9ac5de0669fbafbbb38cf0ee"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0373_salamence.json"
+hash = "3ccb8fa5470d609119f0a64db70b372b449b7475037c4dde727f4ceddf3a676a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0374_beldum.json"
+hash = "28994a9f831e76d962bb1906cb7f26772b1ef6bea30e1274cc09c4be0018f145"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0375_metang.json"
+hash = "91b9d59ceab4775bb07012ad8862ac29cc0e70c2b1119e285d76231991abc45c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0376_metagross.json"
+hash = "8121c3685dc7d9e49c2045e4cbdff8e0ca6eb470148327a5e3b1eec4169e4b73"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0387_turtwig.json"
+hash = "5a9546dfcb82440bf9e9ad8b39e98dc2bf8009acf21b1de01879d8a854670898"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0388_grotle.json"
+hash = "bc4f6a38259f71b787155a073d9ee3fb8d294db42d1bb8a99bdaca90bbb4a04f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0389_torterra.json"
+hash = "4b461d655363c34ff6b6a1e56dff2fdea74d25d1ab71ec4af73f6d9a7b46e68a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0390_chimchar.json"
+hash = "9a4edf651cbfe8e526970277304e2fbf6d07c0854266f16caad18c8d1616001e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0391_monferno.json"
+hash = "c12c5387dc1d36b20745204d0cf08280aab5a114230ef00b043e7a473ae9b98a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0392_infernape.json"
+hash = "8a034d88e8811bd4cbd2ae67a672ceb1b359ae1b1ba92fd0451517f3edc72582"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0393_piplup.json"
+hash = "30ff87a4745a60832b919b8e3710e6931115de5ebe1980dc2e92801f5a388775"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0394_prinplup.json"
+hash = "dd85a15789680fd3ea71166b00ca20891b541b6e0aa360748b0e0bada2034e98"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0395_empoleon.json"
+hash = "5ab2e947ed6703191179c6f6bf24fbb202f6c109cfddb69c409cf94ef4815864"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0396_starly.json"
+hash = "ff6e1c69ca52574d9f0049c06abf6c496a6be565e54f5e74e8a1a7397c40b3a5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0397_staravia.json"
+hash = "13f2defb02affcf6d932db0aa7f218324d46e6634fe90f4c0ce309373a5e2a48"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0398_staraptor.json"
+hash = "5cce8da9acb539810b0259e6b4f08954ee97851babc3f87834d60b6d7dd09c41"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0399_bidoof.json"
+hash = "b1ebb9435b29deb354f5c9d544c7f4eaabe5924363f6372add8d6eb08676ec84"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0400_bibarel.json"
+hash = "def37cb81add7f94f0a0e0ba97a361b41bdf6f95b0cd860d197b987756cf327a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0401_kricketot.json"
+hash = "098f91fa0dbf6be278c92baf2ec9811e50f2cd2da3aa12b79462829b15d42911"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0402_kricketune.json"
+hash = "5770ad1adc59d50dea986524a1c2bb2c45d0d723f546f392991e48b136862068"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0403_shinx.json"
+hash = "27f3b66875eec876d8da8efaa602141d49e5bbf22815b94a15b54a695b180250"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0404_luxio.json"
+hash = "527010af8249e1419c9888854d411dae3e4cdf8e2122d9d6fa74e90331ac76f7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0405_luxray.json"
+hash = "d8ebd97b428589d7147afb61aa8d4fb7e0b238662021392c325b871d2c8e2cf1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0406_budew.json"
+hash = "794c03879eb4597de813444db5b8b44e8ea79589c77bf7bf4a0828147abd2b35"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0407_roserade.json"
+hash = "b9be5bc02c0e27598740f0ca493711e359f4b0d6e0ae3284a09effddd7f7d354"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0408_cranidos.json"
+hash = "d8dbfdc3628373544522cf89bd18793ff7266775535654e406d25869626fd517"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0409_rampardos.json"
+hash = "a3824d3e444e3944f23f687b015b511a0be84233ef12d6f2d894478098e739e6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0410_shieldon.json"
+hash = "7172d891449c39656126f67b933038a4a4a80392364d147a734d250f06094855"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0411_bastiodon.json"
+hash = "1d308731a019ea9b678744dc70c8f711135ca8ec9b045fe7d20b9a5b072f75e0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0412_burmy.json"
+hash = "316a1dac967c03b841dd15fc1a8f061d56e4a8c4c570cdf7f7df023aa76a74aa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0412_burmy_sandy.json"
+hash = "5533d19730d61dd812ecd74b6ec3cfb058466f567a696820754caf233263e293"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0412_burmy_trash.json"
+hash = "44d31b7028c6e422794ad142ccacd493e34d39d8442ab63af5a26ace01f45856"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0413_wormadam.json"
+hash = "3738b75bee3ece648a6804675e2f5dca87754240f5182de1ba428c3286fd5908"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0413_wormadam_sandy.json"
+hash = "0411a7084682db1e5dfb500305416245ef7a92e379d395ebf533919a5b9eec76"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0413_wormadam_trash.json"
+hash = "78121cf20b624c58c3fc634d0538e0d4ed543a54c6574a70e2e4588997760e38"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0414_mothim.json"
+hash = "28e9bd10b9a1a1cceba443f522418e056ff82d9c064e4d8afa2faaa44a647e98"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0415_combee.json"
+hash = "01be96eb8354ff41deb2d0e3c458d51b58959da2069138f1d7c9f15f75508204"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0416_vespiquen.json"
+hash = "c8b6e2b670dcd7d5ecea304f0885c321c744f382ae6b818f17b9acf73228807a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0417_pachirisu.json"
+hash = "f24b0bd9757eceba31a58abedae2bc1c18ffd5f2d0888b396c577f4cba435b30"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0418_buizel.json"
+hash = "60188e79ca6940dd1cc58046ccb51392665988985d6cb7d250e773752d38aa9d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0419_floatzel.json"
+hash = "7091935fed00da8b0e0110432cac8188e92df0f7cba3e7f6da7fd5396c0bd507"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0420_cherubi.json"
+hash = "0a5c02353dc0f07fb81dd4bbfeb4b12d70ea886d048e69ad7d3fa2da7b6faa9d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0421_cherrim.json"
+hash = "5b900298d313f2eb7ab7ca934a69ecdffaaa8763c8457b5feb506b0617d66350"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0422_shellos.json"
+hash = "13e4de24443dfca742a786508ee4c0c4e66225c771cc3cfe7bdd33061c546817"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0423_gastrodon.json"
+hash = "8b7d073b76598395b89513ca90c65eb4a22287105a31f0db3713f89666c9eacb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0424_ambipom.json"
+hash = "e2d6ad458d7bdd005510ac7dc4abe7b730a9378b261b0ab40639571c3f18f8cb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0425_drifloon.json"
+hash = "544b34fc1f5ebcca9164bed5de950d275c57866e6e6bf73b48fbf6a66b4fb7fa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0426_drifblim.json"
+hash = "2b845f9416ddc94c4a23d863959be386989286536c909a71db9d2914a464be0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0427_buneary.json"
+hash = "bc24fdfe7582882f50db3fdc414c36583804d845e1376dd549c30eaf58e2329a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0428_lopunny.json"
+hash = "e525ff27e8844de3ebab0fb7fea1a20b00e8d3b1ea192cf207db3c5eafc9fdb2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0429_mismagius.json"
+hash = "836d8506213de6d7e5c186ff317a0c6cc71532b46b0dfac7563b8a590d9f9ccf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0430_honchkrow.json"
+hash = "dfc63e6c6b6157454eeb3df0b2b7af891c367ad87c8b705242df0118e9bc325c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0431_glameow.json"
+hash = "867e15a33e39e2676b8bd7087cccdf12cef8cda191289b795394ed9841a962dc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0432_purugly.json"
+hash = "e9602987397739d79aab481eeb9452892aa29959136b5ed65bd91f913871e6fc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0433_chingling.json"
+hash = "e89142a21cfe9e7ee832d8d2960e5c956de7e5d1e9ab4fe2a4fd714c3b1fcc22"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0436_bronzor.json"
+hash = "e4187f4d891121bc22f4d32b14b08575c01e9f5515114b89b96e4ed06fdff283"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0437_bronzong.json"
+hash = "a34be903b0b7e2973001257862ec910210f687094eb4ed764cbced758980eb69"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0438_bonsly.json"
+hash = "24f8efc185ce538fea0ae411eefd4099d2e2a96c8471fcabdadd4fa205cb0cc9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0439_mimejr.json"
+hash = "d1c299df817b42b5d0d9a71e46e28fc958feb4f16f38a58dbc61d3ddb483c35a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0440_happiny.json"
+hash = "8651a9bf5966e7edaae2988e35f33216a5a54a1ed632cf1a0cc017f3d4e59d71"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0441_chatot.json"
+hash = "3d3a9f5806ea58af946af54d7b34cde05b9d8e5a9d78b2a0ada6b000fee2136e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0442_spiritomb.json"
+hash = "d65b1768ae4cda903e42ccc5970cf2d3e37bd88e274b1d038fc69291876c6eb9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0443_gible.json"
+hash = "cd006eba730c568532f8438625b0392a25bafb62a5c88d68f7699b4614863f6e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0444_gabite.json"
+hash = "11f64192b01ac4c79f056be0d731ea1d111c13685f65ab37505b5ba3b4e257e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0445_garchomp.json"
+hash = "0590a3c41082ce22b85ac8f726d2cca13737aaf69cdedc9c1618a98de2a2c025"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0446_munchlax.json"
+hash = "13a2638b3728f554dfe1dddf7c307c0d639fc73ce7a676b449349cad39f849bb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0447_riolu.json"
+hash = "6359f34180fe0fe5de19ab55be67d6051b4149e6f0ea5091fd3bfbc942e92e74"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0448_lucario.json"
+hash = "a27ebb39e036b7cdbab9db0c005c89095e831a702e3065280eff27a0cb567224"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0449_hippopotas.json"
+hash = "f9806958a6dca9b71cf2c294fe36bede774ab5faa352b468c0f28129a2f17301"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0450_hippowdon.json"
+hash = "37a0f0c19a7fafa60da2016fd84268e0fc2db370c9e11c78674d4c3024976309"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0451_skorupi.json"
+hash = "7cee32c60e6587cfb5bdeea737228ab0880e1ba4db5c8c002ee4867fe7230b04"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0452_drapion.json"
+hash = "42e7bc51cdccf19e7dc4576ed9abaefeaf622f1b38b3c5a0647bd3e4c8911005"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0453_croagunk.json"
+hash = "bbbf060b8358cf1281833ba09d41ae76616e407cb26d00df0cc50aefc89941c1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0454_toxicroak.json"
+hash = "d6a08c1e15d6340cb72101219366fa7b3297b8984c9f5190d81fc5da2d33daa1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0455_carnivine.json"
+hash = "7351cf66c8aceb59e4b076bccec91900c1b5b418fc67cc054b0a42492403156a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0456_finneon.json"
+hash = "3d95b467757fee8c0d6408d0c78cca5ed9104bc73a6f5c25018babbc05dd1b37"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0457_lumineon.json"
+hash = "da7eb20dcc2bd5ea817786cc02ae94cfc52dbc02182d07cf2ee6a7f4a46c5ff9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0458_mantyke.json"
+hash = "e0b22c4ae828223ea6692612f9d7d405bf625237e33c6513e31f018552e333e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0459_snover.json"
+hash = "33d8b87839aa22759e96ad2ea063edb18d4fbda2c1d2fdbcdb646adf33737ab8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0460_abomasnow.json"
+hash = "ea7c43558018c03d6df232e6dc7a59a0a556c7c6db69e754c4014e1b3f2bac81"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0461_weavile.json"
+hash = "8f441aed4096129975a59498b28a388e678a2a092c02f8f2eac0bf3190eeaff8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0462_magnezone.json"
+hash = "5423cf423a55d8e995a1b8531e532c1bd9f45577210839913adb2dd8ea439cc0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0463_lickilicky.json"
+hash = "b54afc8064ee960f3729fdf7cb393814bd7d58b9cbef8eb1d1ef9bced09c7ff7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0464_rhyperior.json"
+hash = "5696bb69ce45ecbb0d9fcdd8dda8d11d1fb98a5fcf79fac6bcb66a72d47db7a7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0465_tangrowth.json"
+hash = "28fd238be877f94e6073dea91db6403d17842666b52f1454746b680c7c1fc289"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0466_electivire.json"
+hash = "7d81f4ef756b4952d7428597ee070c0e1f25122dcaa396e964b0cac8104b123f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0467_magmortar.json"
+hash = "8a4305641e07fed26d7ece81c000937b59e5604a7c90bad1abb60fe59efdc5cb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0468_togekiss.json"
+hash = "f18814e1d38121bb784a2f20b889bf80e20d92f187e9d76186c9fd8c2120a416"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0469_yanmega.json"
+hash = "1d9251893fe8c3d1f77b4cd5682a8c8705c56975552c5d6d4703b5772ef73d22"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0470_leafeon.json"
+hash = "562fac23b7f63a1c33ed293205b36a5420965a440c10e6efda50ea7496d9a314"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0471_glaceon.json"
+hash = "298152ae90d600c0e83640119c3de8c677d9c7ec8d0360a64a0493c52a5c90d0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0472_gliscor.json"
+hash = "c0da87251d61001dc512a10068a8058f95155817d70324f8eb65eab62012b175"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0473_mamoswine.json"
+hash = "984d061610c446ae6b703de231a04f5901fc874e095e964f020213d539edc557"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0474_porygonz.json"
+hash = "8b5857182a232efce545deca44ba78cc69d7a5b0648bbb80642e3ef9dc6e6043"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0475_gallade.json"
+hash = "62752d2a3e2f75756acb80498e9aadfb6910e742895d83505ae584c6aea4c642"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0476_probopass.json"
+hash = "6c95a23c0588d2cbe1bab77e7a4dff14eaee78c50c93e77af61387efd28e7577"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0477_dusknoir.json"
+hash = "11c4fdc52b05c8b56b23f1686b3831814eb68d1ef1b860dad3698db8a5a075d0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0478_froslass.json"
+hash = "9918f8892a2bd7f6766cdc4a0f72a934d819d3a284ff8b002e78da62f8c769d4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0479_rotom.json"
+hash = "21a333193dc6dd835adf81a09f351380249a630f8375779cf9d161816a05c656"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0495_snivy.json"
+hash = "f057f9c3f30046da43eacfdea67b9b7a0fadaacc43a08fb054b47a8e6d4908e3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0496_servine.json"
+hash = "20bd2e9fe34a4ef2e7c1d05dcd969722a5db47479e7d05be0f4b3baa4118804f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0497_serperior.json"
+hash = "659e93ecf36c43c378f47b3418b4b47cb1df1faae56b63c0c766c1cc95317a37"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0498_tepig.json"
+hash = "e8f5bfd5f0f2fbba57aadc4223548d87223da1bd07ed7aea1d4fa51294e249b7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0499_pignite.json"
+hash = "9bc8449a71a3ba4de03a82957a1cc18e6a3dc0884e516677c80970bf25b592ec"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0500_emboar.json"
+hash = "39a9c6922ebbcfaee7d2d437f5b6a7b9da31ea9ca46866abe2cab833d48257ed"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0501_oshawott.json"
+hash = "496954df28a2013f7c7e9a91da6c13fd46dcb8d3a42ce2ce630b90626a1d4ee5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0502_dewott.json"
+hash = "d9bc81954093d2d10ffb25dd8c7965166f6aed04084372d31aeaf8ab7b542937"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0503_samurott.json"
+hash = "4f7e6aaffe5d82c7723ee88749238d83bf2850aad525910f2a6f981ecf37c577"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0504_patrat.json"
+hash = "6ddd3f6a72ce8f935dcb0343e95869375a30ea58cd9e16f0ce748a4e3efec907"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0505_watchog.json"
+hash = "797a72d09acc57cdceb458e73cf53325ab120d56f7aada4526ba72b582f0b330"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0506_lillipup.json"
+hash = "9ea03235de05429f43efecdadd07540a99d67eabce2dcfb9a3da7b77b1e87df3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0507_herdier.json"
+hash = "8334ec3a8fcd2d394a4acae1d508098e1168b1e35dd3bd0fbfdc88456b69aa63"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0508_stoutland.json"
+hash = "ae1ee0135aef7fb88c46835107add3a86e820d9c085568c288a1d9239c7f8edb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0509_purrloin.json"
+hash = "24c893fef19126e8c9eee825082197d8edfa4f01a4ecd0e90466744d80a8ff79"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0510_liepard.json"
+hash = "dad8174ec7a3135af3f628731ab6709e64e451b1715158726f8bc7cd684e61f9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0511_pansage.json"
+hash = "fd91ebafca36a3f6988a27543c08e223e11df509bf3368a709d793d8e2e6e152"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0512_simisage.json"
+hash = "533ea60b83866bf6656a3aa39c1f5b51f8ad532fbe808d91596a208e19987e8e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0513_pansear.json"
+hash = "62b24032b51b922eff06f07b22091b4ad11be63ac688aa9e1faf8e1d47403185"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0514_simisear.json"
+hash = "06a2c57510dad793eec47062c36f45b56c7d5e519f41ee6b9e20fc58dc61ad9c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0515_panpour.json"
+hash = "6c848f405bcc67408d542d7caf8df656a45682e94d244daf02b0752b2aba097b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0516_simipour.json"
+hash = "ec64dc2bbcfae6568a62c476498983eee16873abc1d41bab89772d4309ccd398"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0517_munna.json"
+hash = "b97fd0ae46a8426c511baa0e894d467b688f29b96b9472d26e31d8bf87d85c5a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0518_musharna.json"
+hash = "1d65a9f9ff587d5bab4ed9a03114d2e775a609645be4fcd72707578e6ce58cc7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0519_pidove.json"
+hash = "9f709874e237613b5cc6529c1f6344155edb91f8f20b69fa6987856848cdf615"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0520_tranquill.json"
+hash = "a0e98fc8593e492c657cf39d0cb18d7f6a8c11d0bceffae82ab31607c6e9f576"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0521_unfezant.json"
+hash = "d1d92b55221139f48f903a4d79bc66fc312d4764e9e701dc0842c69bd2dfd3d9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0522_blitzle.json"
+hash = "b91176ef1ee0188fb15cef3ea00c15e1994fdaffe6b0ba885d70f561fed6e9f8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0523_zebstrika.json"
+hash = "0d80eaa8ff8c35ff24bdad91ce66e611c5bb36809d6b5d470f27f0e9f6b37042"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0524_roggenrola.json"
+hash = "374d1818fcc16f90e1836b1727d41043b42e69cdd1748562fdd68debd98d1a79"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0525_boldore.json"
+hash = "ad77b1f62d524878196ac348e5e6c84a91e3a8a3753e75b8617c95bea0ab3123"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0526_gigalith.json"
+hash = "38374cb89ff79c72cb7c732c8a47cc6840dfb24460f70f336cddb04d3fccc73b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0527_woobat.json"
+hash = "29476610b795e0cca454598b3c9436ccdbc254b93a69368191254232632b83f9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0528_swoobat.json"
+hash = "50c0237de5fc89f73c39b3561d56d16dd96d3d89f86de09b3a3c8d7156f9467f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0529_drilbur.json"
+hash = "9cd0088fceac6905fa45bb0e8f177c14fc8ec2f37ad4688c602aa3962e0f6982"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0530_excadrill.json"
+hash = "d98310620a054ab0793f5cb5d0c93a6ab5ca32ca725b8effa98344aecfec5edf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0531_audino.json"
+hash = "2cda85b477afd864917fa3dbdd74707e372eaefd261c7596a196efd68a2d1831"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0532_timburr.json"
+hash = "c0701e5904e1c76d5f8899682a5f41d8019dbe9fc8c7bfbbfdf8cce734ffaf6c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0533_gurdurr.json"
+hash = "d8580edfaf0638809b2b869d757a532f5e95324ce78ecaafc20a921dca0e7507"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0534_conkeldurr.json"
+hash = "9af114e0c85242beb6b7c81688a523846ebda65895ccd4e08e363746589bbb4c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0538_throh.json"
+hash = "554fdf4dee8436634bf64fc187712debe88b8826aa375cc6a6898b396ba23c49"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0539_sawk.json"
+hash = "dc732237e81e9c8966c1721d28c0e80e7f829b6b87c514caed401d5d33938901"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0540_sewaddle.json"
+hash = "e0e0b668232b96401f9428ca4b5b60977547e154d65145dc65d7092640d3f667"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0541_swadloon.json"
+hash = "8b5a0340dea23e52b336eb9c4e5da33908b415e441ed39f69d9ead4847371090"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0542_leavanny.json"
+hash = "9dcad872f8a5f214301dcae2bc27abd14ae1351466b2b074bde8c8fe7225b8a2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0543_venipede.json"
+hash = "fc53ca5d188d091f90832e6a3aadd602338d6b4755428c0468c502740e399865"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0544_whirlipede.json"
+hash = "481b44c108fe850b3085821d786f8fea1cea9c7561a4fd6339bbd074b00f5f71"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0545_scolipede.json"
+hash = "7c2c270b58e93eb88ebaed8393b65aefbe0fe69ef3c2717b01e5049ca9726938"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0546_cottonee.json"
+hash = "e1faed0c8d371b8a6bc7d16576c5b629ab1013d03b12f0eaf97a02c299523b40"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0547_whimsicott.json"
+hash = "4aaad739846c20e448b48c623b2d5a427bab9c4edb04944b2725c2c5338cbf13"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0548_petilil.json"
+hash = "e91320dfbbd4aa3d9e693981b7ef80b957cb773d104a8d042ca3d98f04b0d231"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0549_lilligant.json"
+hash = "801b581f36d2a62b56317911396a765ed352297c71c5878592e5535d38ce8541"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0550_basculin.json"
+hash = "948fd668942e765e551f2e274930d5f72384d000c301b83d2009fbee1aeadb9d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0551_sandile.json"
+hash = "44471e2b5bb6af4e40d67333fb16cad4876c6c2faf798e9452c7bd0ba68914d9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0552_krokorok.json"
+hash = "1c04a5920f48a5b50886446d16fbf5cf5b74831d115dfbc3939aab5edd9c726a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0553_krookodile.json"
+hash = "0001158b402ad3a15b24cadcb478a63ebf20537abb22307e76477c8916480eec"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0554_darumaka.json"
+hash = "87ab539c8d6df9efebdfda49e9b1339a9d7b282d47201cf1fe4d482a417b9ef1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0554_darumaka_galarian.json"
+hash = "defa31575e92b5672a7bc361c15476d115411caab3b3426ed5f7cf18a460eb7b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0555_darmanitan.json"
+hash = "e254dd99da3b83bec0a36db3c39914cddf432b4778cebffc775044c1d02615d7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0555_darmanitan_galarian.json"
+hash = "243ac3d8d57294ed5a52f2caf0fc8e597b6296dab5e3cbfa8c24045bad42fdac"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0556_maractus.json"
+hash = "d5b219fa22737c18c0a34f4f5a1abe272631fea241cac2da36d9295cb8146118"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0557_dwebble.json"
+hash = "7d511b18dcdeccbf048984faed3df139969c8e619034b2b8c1d37e35b52aef58"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0558_crustle.json"
+hash = "d84c1ba718a6485c32d4dd9b5f54a36a8034344c3b426468fda04ffc06d1f06c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0559_scraggy.json"
+hash = "d141643fa41997f3cb55d73e1be0a04d4a76e2908a726e6c0d929d2a1691f4db"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0560_scrafty.json"
+hash = "76bf272fdbe5ae31970f6cf106b2d03a88b305cbacd978f6d7ef20ad5c89d56f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0561_sigilyph.json"
+hash = "e50cf7895dfceed490288f7b99d61e575373d254ff933c0dd090900a2eb5ba53"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0562_yamask.json"
+hash = "6012c457a851f087e767902615484b4800405d63aabeac0683b1121f9497a055"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0563_cofagrigus.json"
+hash = "e9d02a038fbe18a7edb824f5f2ead1afb5b0776ab8f86cb99f33e7c8c1536f0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0564_tirtouga.json"
+hash = "16dc5e5e9cd790f1a1e1d36550c0bf8ce01c2e24a2bfcdba4608a0a66080c32d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0565_carracosta.json"
+hash = "66d7b5ef89ebe41be8a41c5fcae43e29cb81d08aef9936d2cc986a5c6843cb57"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0566_archen.json"
+hash = "58e7cee2640cc58fac4d5a92f6f25fad6f3edff791188c327807f334c2c2cfe7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0567_archeops.json"
+hash = "ee64a40d492ca0f6a9947bfd1a0957d356ebe9077869049929a3981657847848"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0568_trubbish.json"
+hash = "f957786dcd55adf255aefc5fff70fe132762e2e53e05b75570133d04f506ea6a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0569_garbodor.json"
+hash = "a7aa3ec68499b0b961310a05e3873caa22b2b23693faa8e4cec0627086ad9483"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0570_zorua.json"
+hash = "0d0f9bc6d581d2f912699bcc60524154ce54f608355d8e587ba39133fb27231e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0571_zoroark.json"
+hash = "b47498890ba5c8dbc54499985de03fd18bc6725ae624b13f40aff91addc80acb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0572_minccino.json"
+hash = "befd8c6b0365f126eeef5bca8a1f1b82cfd4447d9eb6e1ac0e8ea31578d061c2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0573_cinccino.json"
+hash = "bd18202f4e86241071fbf6832fd3cd2d118f0391640d42230b487f7b85cb5dd3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0574_gothita.json"
+hash = "ddee2ff96111eec56f2d7723e21ac10713ff64365ae05d5dfe7bd780ebac7c41"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0575_gothorita.json"
+hash = "c1fc06bc9a0269e852b7453f0a31c3ee57fe795aead48ec6b36f668afd4cd3e6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0576_gothitelle.json"
+hash = "876fd0c11a1bb15867325eda69ad0627f3344777f7c6fe7836e3d24dcf3c023c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0577_solosis.json"
+hash = "36e640e939bef4feb526994c612851d874fd99c5703d18d96b508c30ed49e580"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0578_duosion.json"
+hash = "e09534597780d51dbc6594ce89363d17f9ed2e483c4bdb905f84e980ed2ca4d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0579_reuniclus.json"
+hash = "b1ff2f43326b39be2cf3932bc9165d784c410417d0b9289002ddfb02bd545cf1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0580_ducklett.json"
+hash = "7f83f2cfef0686aa0f8c1b732aa39fbb5e0d87c1096eee8a172893d8457246c8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0581_swanna.json"
+hash = "6cdaf0c8f96a1b67b07d2233cfb61e613c795878614edd2c49f0a3165648a7bb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0582_vanillite.json"
+hash = "2811896c78dd4b2e3aa2e4ec9627ede6e9bad0f0609842c6fc23a7407dee8445"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0583_vanillish.json"
+hash = "4fad1e0f66ad91d886566a01e8ffefe9618727529674898e7dadb4d14d5f9e15"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0584_vanilluxe.json"
+hash = "b1f16b34faa696c0e4fb6a06b0dd2abf33c353bd584a85d71c4e8ce6998c4119"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0585_deerling.json"
+hash = "343e43f219a526716c9dd859f4358bc6036f8d598f1a54e69d0715c7e58b4b6d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0586_sawsbuck.json"
+hash = "27e7508699b4a7233446dc3fac40fd6ec70b464cccf2d01be8cf9e23ebb83349"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0587_emolga.json"
+hash = "eac0154440c8422c01add7f7cf463733cbaec2ae5d3fbc55f67f44875c69cc1b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0588_karrablast.json"
+hash = "88d4cc19eabec738c3360b1f32b2d0af4a786cfeaff14c087f858e38cc113989"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0589_escavalier.json"
+hash = "25cf5872987d966c094326886c72c0fa6ddb3b67c913c04155878e3a0eee83c9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0590_foongus.json"
+hash = "a074702cb917ebb632e2b9be3c7a3878e43fb79249d699a7c8e140d48628a4d0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0591_amoonguss.json"
+hash = "4a4c9db64cc90f3f83e1a5e416acedd73aecd1f980290b1ffba993a2860ddd86"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0592_frillish.json"
+hash = "37906519d0e79a174a9e07b2b7865878cc1a66fb4a8e9c348bae2958dcbe6f5b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0593_jellicent.json"
+hash = "01e281540a06c0cc32e231bfb2633fd24dfe578d676def2334e9fd1b2521e78b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0594_alomomola.json"
+hash = "588fbb9452b959996e7078d7c7d05c944a6a9c7901475ace7f42fa6bc786f4bc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0595_joltik.json"
+hash = "0ebcdcf2083d7b1eb7c570de21494047cc1f3418c0aabe45e6cc411a5c29996b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0596_galvantula.json"
+hash = "dd0d4450d1a10b40d6368820dd5a3dbfe98d74d01a96cbb8a2dc0c575ba754a9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0597_ferroseed.json"
+hash = "1a4aeeff85a2e4a6d96392dba46d08aa541c01f801c88422beb6df0c2b4fd636"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0598_ferrothorn.json"
+hash = "f08e1f286f3475392114b7f43049ad0467101344647d7dcd0d9ce619c9113d79"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0599_klink.json"
+hash = "89fe64327f517dea41cc55952a9f9b337b51d20651a9a46b7d5bc426a1cf87e8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0600_klang.json"
+hash = "f4ce0fb0710701676ad48d545e67031b93e3c4497284f3cdadbb80c694d147d1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0601_klinklang.json"
+hash = "5ffc9339f7035bfafd7c2dfae613afe8f57abd8bd48b80f5de8b2d4b7f3fa250"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0602_tynamo.json"
+hash = "c0fb6f56a1dd4a6b72438efecfa9e29f4b29308118927d559aee69a59c372a3b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0603_eelektrik.json"
+hash = "a0199cb2d2fe16f707199821d4cf1a8de1de75987155dc356ab2a7fbcf27edd3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0604_eelektross.json"
+hash = "e4f4bf48d6df0bb40efbc409aae2b151bf8c8b9aa9b743c6c5b12c0bcdd32668"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0605_elgyem.json"
+hash = "25221b6bbac114a6fbd9835c3f26b0fe7cafde479b3d7bec95d1f0bdf3c6c7c6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0606_beheeyem.json"
+hash = "2935ec53ba03ab70839541520bfcda6d9c51b7b71d541e8b1664678328d17f00"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0607_litwick.json"
+hash = "ba80b518c603a0a6aa0209f7d71e9df8fa6105979b0f9498c04f513b16a2d39c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0608_lampent.json"
+hash = "3fab3063b89bf855adf87c9d0fe2c0cd845dfe8489d6a3e1f17cdaa065340711"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0609_chandelure.json"
+hash = "ab177d2048d2cf747d015de8fe4bcbd3bb9c728c18d515957832bed1979d7794"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0610_axew.json"
+hash = "f064e7ec766cb16fb5d228e45a43e39e725c4ffe61d7ee01c7863c7e600a5735"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0611_fraxure.json"
+hash = "37c27e794505117bf330eeb17b623112a7e5e5ee89ac0242a98a79b52c611211"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0612_haxorus.json"
+hash = "bf4d44cd0cae1b9e236a970444b1ae3e0241fd18f85e6446aa1ae912289d7ed8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0613_cubchoo.json"
+hash = "ad63e2a8d012b88abcc0559a23b1adca208114c7c90f90b034c07065ff84554c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0614_beartic.json"
+hash = "a8ecb7c7e519e433c7fc971f0447d9def579d766c6fc6109772df1f383c0aadc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0615_cryogonal.json"
+hash = "6218fe21152b8197d84cf04998ac9c31a6024d12ce951f13bb09f7385658d199"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0616_shelmet.json"
+hash = "aa3befaebea09e9276bc766a38eef5f7413bcb85fd1fc7e7cb504ca8d1e2aa0a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0617_accelgor.json"
+hash = "8cf55ff0026c1ba3e42393c478ca9388afab0996e03821703e4ef783d299a26c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0618_stunfisk.json"
+hash = "08366a3dab743bbe3afc760f5e8b0733af7e3cd8a85467f15d9debe942383e1e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0619_mienfoo.json"
+hash = "6f3684ec1bae7acc6ebf2678f4fec096d56cd332c69533b6c4b98ba595961fba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0620_mienshao.json"
+hash = "68012ef1b49a72c19b59ebdec2cdcfbdb4d43766d3e5a73c0a95f2eac1300aa6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0621_druddigon.json"
+hash = "16718d566a67054ee11a3d8d0f39ac4af67934abaac8f894f9ea3c6bae07f704"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0622_golett.json"
+hash = "38da3970216402f0359eaa837f031bcd56458505803772f37cac861301377bc9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0623_golurk.json"
+hash = "4e9b124d05ffcc068de8cf58b0ebd312e99c1d828aa0a63b72695b0203289f41"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0626_bouffalant.json"
+hash = "fc35a42d39db8bab6dc0041f9215117fdb0ff254a56f1cb493796690008cefaa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0627_rufflet.json"
+hash = "a89f5a67918c2a681a5c2243d4997ce74c6bd4d8109844c3133c102270c77094"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0628_braviary.json"
+hash = "2c7b31f3122295ec0d4ee05155b052ef918d1159df05aac07bb102d69bcc91f5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0631_heatmor.json"
+hash = "1e17ae7b46137d040a8416ea45ae6aa5eba0e8fc53e1a880ff51f4408a660932"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0632_durant.json"
+hash = "b30a475f76bc8d7f8286f85941b3705856cfd9d54f80734b434b241b6f770c2d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0633_deino.json"
+hash = "72027c9d5f1aedfa5f38a01d0b555834e181c978486ccd4afbb6363cef44bc80"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0634_zweilous.json"
+hash = "191bf6f2aba44c8b4c130ead5fcbf12f7c3ec7cb6987043653855d3146143c88"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0635_hydreigon.json"
+hash = "3dacaa87a4ebf6f8df6389a9dde473e6557cc5426f87f56ba0b5f9717576e97b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0636_larvesta.json"
+hash = "339b363414d50f2d54a4293c5626d98623dcb73843f628ab3f9437a62fd895bb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0637_volcarona.json"
+hash = "75e77d3ae9d8f5ad8fe121bd7ceb774bebac186dc13a54b78d9868e4cff11118"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0650_chespin.json"
+hash = "d5efee255e2fa549014ad66e5cd10b8c161a82f4f4b6234c1f5413f3b18f8c6d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0651_quilladin.json"
+hash = "63e669993d06cb2839b3b577f4422bffc4ce6db0513b5319454e86ce6ba8e722"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0652_chesnaught.json"
+hash = "fa6ab281a078f60e6745e2e0cd30fe23cfa6a4254f29602deb022b1231cf4f65"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0653_fennekin.json"
+hash = "b4b5c568e9abbc5da321bd86fc0b4bcb0fc6800a6f87792094e73efc6a56a090"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0654_braixen.json"
+hash = "9b67d53ec7cf286e6a60546c019f2602a05083bcadbc74b4f1b8c632675a6c12"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0655_delphox.json"
+hash = "1f208697237b5a6460635d32c6ce7efad2c22132f2186493d630524934325e8c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0656_froakie.json"
+hash = "9e8d5f4f8abbcfcd6ff4d9f0563278b9a33fa42b2ca4b4bf3472ac09f8fcf888"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0657_frogadier.json"
+hash = "6e2baab9b0fbfba701eb9a7873a9020a3510fe5fdb365f54b9abdb6c5ed35560"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0658_greninja.json"
+hash = "2830fdcb3189734025f99cb07a064851b5aabfb857244c4e50703afc73551afd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0659_bunnelby.json"
+hash = "33bf239886ca6c02cc6777704850806dc90ad016e39d4183b7aed8783bdb0875"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0660_diggersby.json"
+hash = "3b236025a78d31331a322aa2466bc8d67e9067c18789d6ad29461d43535005b5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0661_fletchling.json"
+hash = "d6b2aabc5efbb667fbdc4a7b7bbaec7a114d83e547b5bb02c6f90b3199c684be"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0662_fletchinder.json"
+hash = "5f2544007c4a8223c86d5ccc28307cbc16a28ab1f0ad5b29e5bc1f27e1bdfe23"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0663_talonflame.json"
+hash = "04acfc0fe7ee290b5d13d58b71240d1601273437699b1e29c317a93ef2eb8e48"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0664_scatterbug.json"
+hash = "85354edaed66d14492d57e3fac454b151e3be5dcc23113920323ef83d3c355ff"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0665_spewpa.json"
+hash = "a26aa5bd3579b5466d10063e6f1449670153a4f737f30902141a8a7ec1292167"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0666_vivillon.json"
+hash = "f2b721c7143b50ab82444fa418322bf51bdf77fbbf2f8ed2172b404ae3df3d33"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0667_litleo.json"
+hash = "0df5515a7432e0b6d3d57c1b64cfad5dced49180835d8441b0d785f047eb8ee8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0668_pyroar.json"
+hash = "2777be69f46dcd5f7fecab652197a15d82302a05197c2906b357c4460436469f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0669_flabebe.json"
+hash = "859c3cbdb7baccb13312f9f243a0a3dca4450eefbc3eea6e287735ffb886b179"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0670_floette.json"
+hash = "3733081664f6e17a7cd48e5b81cf56d1780d3db297ac76656e98a7b60709e21e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0671_florges.json"
+hash = "f22593d6e47833484f928d768cdada9ca20fdb813eef54506ad8b075089eaf88"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0672_skiddo.json"
+hash = "9c2f7d0408455391ad198c055fdcbc23aa1c4eccd362a5a96c87f8a2bb71670e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0673_gogoat.json"
+hash = "0e59e7d208ee1ce0520b9ec4d615f69947de7de965b82416faaf5f6a71adf8b0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0676_furfrou.json"
+hash = "ab2095ba306cc72313b5c8fa1068df3a660e55fec0516ada209c0fe273b75fda"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0677_espurr.json"
+hash = "0d476f617c31ddc2bad8519d6b4385adcb6fb9f5aca6945d03f85a69f6c38e1c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0678_meowstic.json"
+hash = "49ba5f5be404722dd6962071974d6ff4e1b3505eb3fbef20f5631c7a02e8f467"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0679_honedge.json"
+hash = "3e4c277dd4a60d6f9a388e54137f1eb00ac8f53139a23c56be9b793dd0bc7713"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0680_doublade.json"
+hash = "ee9a1632bd35514da5e2eb4643c4c3544055f2f398184b64a2dd8b4428dd4042"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0681_aegislash.json"
+hash = "333994eb3d1d674f254672f76b4f6f5ee9e6795079c71df001607131de701c8a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0682_spritzee.json"
+hash = "550dae8205c837671baeada5201275db8cefb5465c12ae1de199562a129d33ef"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0683_aromatisse.json"
+hash = "66189f71cb6904fb0b9efe702229defd157b4e3584aa094ee91564f6d5809b71"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0684_swirlix.json"
+hash = "92bcb84946f3c7c44f08db870ff5b36e7cdeff8ca93bbea2b70cb98a7a9ce02a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0685_slurpuff.json"
+hash = "9bf7f15f262d7c1ac6f96615cff408fe05d1ffb991795f137971f30102ed37c9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0686_inkay.json"
+hash = "2de8f60bd15b4a0717d79ab14114442c17017ed68663a36cbc860e5a0acca8cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0687_malamar.json"
+hash = "6bc83aaaccfb40b7ea1bc785648652e6ec262f0fe5535dbdf109d119508cd093"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0688_binacle.json"
+hash = "0d7bd54ef94f923307503f00e710ddea51f3858c27778e656715ae2108e3995d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0689_barbaracle.json"
+hash = "ac8a872ec988bc3b340bb8c08696cc3f7ac03aaf1ea9980569fe1bab065f5fe2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0690_skrelp.json"
+hash = "f0b2e0ee9db8a1ea463a01d85e1028c4d7f4911a351581f673d0db580040e709"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0691_dragalge.json"
+hash = "cd889214f10de359d77982a939799f9fb3c19b39b01f25ac2b8e39982a033f9c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0692_clauncher.json"
+hash = "eb99e2f3a3d43c9f968fce8c1596c48124b5614257984ebc15608596afd77b8e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0693_clawitzer.json"
+hash = "09f479cda53a52dca29304ad400b2389fb6ddcb785fd6e47c540192a31f6aabc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0696_tyrunt.json"
+hash = "a667d9b6adf7d5b259eec29cedb309f80b119224acc4bbd9765fb48613f412bc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0697_tyrantrum.json"
+hash = "514f9f22d1efc4e7fed508a8b684a0940eddd0ee8a46c7cda6855c31a2e9cd98"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0698_amaura.json"
+hash = "dd92d53975208d6c6aaca0f22db1f261eb3f216677a67a2f5df125ef451ef38b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0699_aurorus.json"
+hash = "b609e5cb719c655773a2307472f1bd0688427a5f693d6d6843f62d5a9079d343"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0700_sylveon.json"
+hash = "7f1523a3b7fbc902c0d182e8cc061ccdb3bfcddafa4003cfa9db721686f1d1e7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0701_hawlucha.json"
+hash = "8ddc56b508ad9d46ff40c47ea75250f8fc8a5278eb25b28bf50cc3577318509d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0702_dedenne.json"
+hash = "4f77d0d0b0106940ed0b7929d1562959c26313c89e1798368fdac9ec2334aaae"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0703_carbink.json"
+hash = "f1b5d0e211fdd314f3d7a3c74f7ad064d9336dcad94a0be536a22e82c9e833d0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0704_goomy.json"
+hash = "5ff413a4b61c3c91ab1455015167618f6eb399c95b38518188bea44864ddde01"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0705_sliggoo.json"
+hash = "a19592c3806f4cc4be1a4b4892c8bf764042036d391965382fc9e5601a6cfe30"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0706_goodra.json"
+hash = "d026214587db7d85ea88a6797f06fa0c15ae80cc78154075b5b34b604b8fc365"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0707_klefki.json"
+hash = "a8b735d28cf51a175b9909352732f747ee5e151ffd0be82ea2d7a77b67211a0a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0708_phantump.json"
+hash = "50f0372946d91465f7b682626e510da632d1a8a27e194ee8d3b7b624ca49357f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0709_trevenant.json"
+hash = "6a7a9c483d062aaf6f17a9262028e888c42d88c7fdb0718dd012004a2a5dfceb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0710_pumpkaboo.json"
+hash = "f91ea6e18852333e10a571b574b4de473a98b392e7948ef34713986009480864"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0711_gourgeist.json"
+hash = "efe3e6d1bcd0ba42161ae3af0459315f9b0a3764f73f57569208887ddd68cd48"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0712_bergmite.json"
+hash = "a3923d0e8bfb42c33f9a60eb57905f08c7bc22a6d13d27c21a85144d8a863807"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0713_avalugg.json"
+hash = "6bf63a831dde1aeee4e4432bcc72fa1390f64fbdfa9f22ea6bee72d0eefbb220"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0714_noibat.json"
+hash = "0bdb2cda102b2f71ca04eb524ae70d020fb5683f8b856e15e620f238ae1c95e0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0715_noivern.json"
+hash = "901446f5e6c4418c235a3b18bed0756bea19d064fa305ad46eb478d8e9779b93"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0722_rowlet.json"
+hash = "af83af2b529178d635dffd6700ca87670a1eb88fa6b4d7c0d05779103482b209"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0723_dartrix.json"
+hash = "52fd82bdf0bb34b9c89a9a9beba1559aadfe894c53a922436e0a24d74e3680cf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0724_decidueye.json"
+hash = "34e9006e6046ee1a81a57710b03b404451e08355924b96b95bed9f26223b218d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0725_litten.json"
+hash = "f9d079706ceb28678d1e5a55fcd613e5e80f6b8c48a990dc9bb57dee38adcba3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0726_torracat.json"
+hash = "810b3b90a1e53b81e580484648260e08a48487b4c0923122de7c37a81edf6a46"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0727_incineroar.json"
+hash = "7b4475c496320f425368b4be2dbb13791aaa00da3fee5795e7086fd895021cd3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0728_popplio.json"
+hash = "bcec8cea22e5994a85760aa3ab4cc6e7a38cfb01d0601232ca27862ce1092ef5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0729_brionne.json"
+hash = "046434f221283c04feb6ec78b86259c87d87bbf2bc116565cb36ea7857e8d8f9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0730_primarina.json"
+hash = "1b4e903fb9b3c64749d510918bb87ea56263c5aa180336df5727126b2b585d07"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0731_pikipek.json"
+hash = "ed8f1d69f462ce5e6a557a07f83900f9b38d6099a10622e88a37a68f7e3f59dc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0732_trumbeak.json"
+hash = "3c4738c78f70d003f38852bade33eba565867f559cf20e89d6581d29e8ead482"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0733_toucannon.json"
+hash = "8f26192895a8b9750b2c01ffd022eeb729966db3860b5659e9d364720a9b297a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0734_yungoos.json"
+hash = "2afd3f4304f6197446e663452a61d4e52ee87c751182b21403a1e215c8bdc2b6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0735_gumshoos.json"
+hash = "a15ebe7a1cb34d1f44eeb4657d60f63c0888f3bacdcb63d453fbe80d717a2113"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0739_crabrawler.json"
+hash = "58f59d005665a2024f841f255c17b0fc66db8592eb33917105bdd3bfd16dcfb9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0740_crabominable.json"
+hash = "9a40f5eabcd311362254fb303e16f9f195d7568e4cafc50794a60b6a031cc4fb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0741_oricorio.json"
+hash = "2dc0b0c6f217d9e3d60e5262f9ca685d06787887201e5973f9c101776dce59f3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0742_cutiefly.json"
+hash = "466c61feca2f28378030ebe2944715e3a535ba6be2d6421f195918fc591c1fb6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0743_ribombee.json"
+hash = "f47657c3c202d38fdb8251c313d3ee769ece17e1922954fe7d3091efa19fc586"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0744_rockruff.json"
+hash = "518b165d285029c5b0fba1465e7b6bdcd4930b4766f47f37559613c1eadadec4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0745_lycanroc.json"
+hash = "a670629130302623cfbb80549b3a40fb4dfaf7333a7a26099ad69a54a4285617"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0746_wishiwashi.json"
+hash = "d7d9e2065ccac029969173ce76f135999c19d5eaadef48b42b1110968d525e35"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0747_mareanie.json"
+hash = "dfe7af5d62ec9dc2981555db47f25adfd6276f59be4721f1ec122c5b71a9eb46"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0748_toxapex.json"
+hash = "2c5fd8e7fa35e274e94266af446d6015adb2f272587d2430c78aac52d421e622"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0749_mudbray.json"
+hash = "dc114583b1a8f7f03437abdc3cfeab45ceb95ef9b2f8c06117c341539b14ef62"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0750_mudsdale.json"
+hash = "552eab2b35c588d9655043ba544c3c404fcdb9c8504966e1641d8b849b138c7b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0751_dewpider.json"
+hash = "aff3eacf4bcc237d87d0f43c469eb8f4c70c6533b90026a33fcaf417cd719395"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0752_araquanid.json"
+hash = "f553a4da1700ff5eed63c973c4b0c153e110727ceff541ccdb8b8b7a24a34dbc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0753_fomantis.json"
+hash = "59d9a768500d5c9397ef404309918c791f133620a60419c51c036d02d7f93519"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0754_lurantis.json"
+hash = "a4767fc71439c39f3b0ac78945685544e5c9f2e60cede73aed94ca7f67a76e15"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0755_morelull.json"
+hash = "e1f8fa39c0ab95b2b532a5bd61cf53905e85f51835408c1790f3250b19abcf24"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0756_shiinotic.json"
+hash = "e36b81d171d2795c327660fcb0a0bc235690d76470987e207f6d3621c97c10d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0757_salandit.json"
+hash = "7a04153060a55668b9447a87dcf9f775e13674dc2e18b4adfdd41f66d5990980"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0758_salazzle.json"
+hash = "df8518c61a548b76f8657b2a57e7b77e4944ec174ba1f2d80888ec1655cbb215"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0759_stufful.json"
+hash = "0e1d23de6f6635f00fdd431b9fd1605e727730894c971b585a46087a001f0b6d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0760_bewear.json"
+hash = "a3a84850b49292d9d9bc0a2828e29a061251fbc023674e95ae7c477aab7e0d84"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0761_bounsweet.json"
+hash = "a4b6aa0bbf7b6aa5445b4224e62e23f02808028ad2882e76c9574775a43b8e21"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0762_steenee.json"
+hash = "8da46011c043d92729e2d72857deb266560cc663a116c718c1adc1c4b213e9ba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0763_tsareena.json"
+hash = "8ae691656df80665e959f403f87b12c44e55ff688bd0dc961bea6bc0fbf667d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0764_comfey.json"
+hash = "4d14dfd9fcc3816de4711a18a69854e0090b41e4f75025c771f37135219d0983"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0767_wimpod.json"
+hash = "e42f245edac42956a250251ecf008cfb5f3430567dd74381dd7897f975f53f47"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0768_golisopod.json"
+hash = "a7370cca95617258abdbeeaf4912d400858432afde982c6b83d30f7cbb15180c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0769_sandygast.json"
+hash = "c6a20392ed3db0a64cb8a8de7d89b63c98857905d119210227277d117b79f71b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0770_palossand.json"
+hash = "167aca2fe25bafddfcc934390f7b73ccb93ef1a2c5fbb27a18d34cbd7d733b84"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0771_pyukumuku.json"
+hash = "9858d9c3e5c3fc7ac351e6eacd0c450542afe04c4d2799467b381eb339d09c1a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0774_minior.json"
+hash = "85d7e4de904a14adcdaac18e3f6e212ae66447717fb11fde53ae15e818304a9f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0775_komala.json"
+hash = "1eb9c499219fc6f7506a843f2165e766a8883df857af78ca69986a2167f99a10"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0776_turtonator.json"
+hash = "87974b371b85c648b7f6d78984850d1b26df628c37b14c036cd612805fb4e000"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0777_togedemaru.json"
+hash = "d4f835757d583cf9dcb2d86b69a2550b7c154f358a491ff6b2340e91d0f5150e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0778_mimikyu.json"
+hash = "8b93258ea99baa073c5c805a2f14d87b5f5d51c3ada358aba3c8353ef3c5048f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0779_bruxish.json"
+hash = "4c937f3157308f1a8a83a2c0d6d8759ce007cd349bd280a0909e4febba092ac5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0780_drampa.json"
+hash = "48a4b04cf8337051f33a02cf1868b83a06cfc6208aed2a72442169dc0aa30b85"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0781_dhelmise.json"
+hash = "f181b0a0b04a1dc4f34c2fccd2fe8c87dad608eca381b37dbd847398d9ae0b44"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0782_jangmoo.json"
+hash = "ba1d08ecc40c76d7f4a913498176957c6c5a5a1147c49f51193e2982905c4e59"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0783_hakamoo.json"
+hash = "123ec113ce40eed63bc99254595bf4245ac22a95a9dbe74715caee4fa66b02d3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0784_kommoo.json"
+hash = "cc4d072fade52d4f0b87cdd5171e9ed31c87d2a8654f1b4249b1a0292b60aba6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0810_grookey.json"
+hash = "2b52016eb33b73e1fb5bc3081df04c1939154df74ca277391372f07e2990736f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0811_thwackey.json"
+hash = "a059f36f6dced0c9822ac68f8d18466aea871dad922aeac5ce198b9d6ecf1675"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0812_rillaboom.json"
+hash = "75444d8ac56d5d7b3b6015dd5f0c8e5b2a2dacf401865dc7c4ab2f7258a9b6d8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0813_scorbunny.json"
+hash = "1a26b4e1353919b7b0f385e02363feaefecc70d413160348b2eb1a1fb476e2c5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0814_raboot.json"
+hash = "d9f881d6e481f5cb011cccf1677f8f1d82e24e43362e67d7389f153c24f1d0b3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0815_cinderace.json"
+hash = "53ffe9db8978ca310d9597bbf655dc64ee627b4d5690d91bbe1df40b5127a545"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0816_sobble.json"
+hash = "cc85649a56e64d76dd1338fe445d8a52c0ef8ac14dfa1844abddd6ebd8cf1a7b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0817_drizzile.json"
+hash = "725b0aedd2ed91e07c3be055f0fcd69a4fb7d649ec48c478e9e201ed503b7d36"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0818_inteleon.json"
+hash = "140294f65b7b4d4a7ca5ce4e1623202db04f5ffd641d9defd9dfbc2b27a4c78b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0819_skwovet.json"
+hash = "463159404036f43b088b5d4151e2c8e04f7ae3be4947f7f16b2be4bd95f6d14d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0820_greedent.json"
+hash = "b3e87b657379d4d3faca05aba0ef6072e21b262f42bac9baae0f742294bb6459"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0821_rookidee.json"
+hash = "42647214ce3cc0d22a8e77598aced3a7d92f163037fc2bd5c44ac121f00f823e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0822_corvisquire.json"
+hash = "1403558a1fb00e9c26388bda9b57cd0d148d06a8cf092e41bf2c40de6a44806e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0823_corviknight.json"
+hash = "66e67fc36dc345e72909f97edc86238b8ecea1c4562e8aa845f79b5cf6c39063"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0827_nickit.json"
+hash = "9cc1c8ddb5eb99cbbd2043a3b286c1bd0722de7a24bca2233aa0435f185c4878"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0828_thievul.json"
+hash = "14f377f96f9a42c15f1fa5be0e946ee48237d52061639a87948219f2413b6186"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0829_gossifleur.json"
+hash = "e55cab4f53e1009f9414ffda556d49673de3a0fbb4e78652e0e101ec779e68cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0830_eldegoss.json"
+hash = "244ad0f8d91a6b3db37dcac3535302f5115bcb7fe3602d45fbf87632ea384b3a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0831_wooloo.json"
+hash = "4b59aaf397db062ff9cc1e3f4f677983b28daba36e68fb25a1f87e2c53bfdc81"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0832_dubwool.json"
+hash = "ce738a2de220ccf92bf11393591e23c4f0ee9c35061400f5ec588b328e894e0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0833_chewtle.json"
+hash = "65d8aa245b4b51bd55a616442b3575d2dde04a4c2ef6696a94e2ecbb3f216251"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0834_drednaw.json"
+hash = "d20524b40b3c23f53d7c202557595ce826bca8cbfcc1231f6ac85b2e3c0cb876"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0835_yamper.json"
+hash = "b4da7b06212674018907f15210aea8dd63c78ea7598744042aac1544eb7e069a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0836_boltund.json"
+hash = "c438e4ab66d4cb1998fd0bbb83cf6c925650268d2c07dba691e2b0a7857d2a12"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0843_silicobra.json"
+hash = "04d0cc5fcaf0176987b46c7667e1f6d60baa5f69e51d63d87273e4aaec8c8319"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0844_sandaconda.json"
+hash = "f721e439d3ddae3c1be10f800bd119762e60cd7a2311d8f24513b43f2d7ac1b3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0845_cramorant.json"
+hash = "28842185ba884a719d5f437cc2a92d85b8f1910357acc0b2464e18439c6ea023"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0846_arrokuda.json"
+hash = "e743e62028d4d366a7918e7270ffa51faa48989ff6d01281a79d328c0e017134"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0847_barraskewda.json"
+hash = "4f981129b86424d00849ec20fabfe7dd99f6012b27fe78d2ca2dedbe0f34eea1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0848_toxel.json"
+hash = "054f440352ec9701b1179615bdaacbab552dcb2fb6c847f5b533cfb505b5700b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0849_toxtricity.json"
+hash = "c70b00c4c78fbd4855bc45d164de402de0bd716ae729d4cdfb3fc21566e6e509"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0850_sizzlipede.json"
+hash = "2026af17943cb23aafb9050a860d12c0840f54fe5403051f89c4671a2f353120"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0851_centiskorch.json"
+hash = "63c2ecbcdccab8c904cdb8f1db26d2e16b2ac1ad51c564655fa3541a4530a004"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0852_clobbopus.json"
+hash = "136899c8e996f6b4bb55cd1675e8013e5c6032eabd5f36dfd2cedde50c62d1db"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0853_grapploct.json"
+hash = "d0be6fdc0fb286818995bed3be3da72dfadfb99c99dfed9ccbeab9a78f3b8f67"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0854_sinistea.json"
+hash = "44ec38067dc937a92d7ff67883c883daac08df64431b8a31e21912d2bcdee50d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0855_polteageist.json"
+hash = "cfa10a1d042c5f5e487f050af9e2d283526ea6811b1e3e49019f10314f1d13ee"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0856_hatenna.json"
+hash = "c5a30ebf0def200c7c05cf322704970e92d965dc69e792fa65dc56403aade7a9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0857_hattrem.json"
+hash = "593b84a31736f07111bb87746c3b3a6e595df502df347be66b7274f5ceb90475"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0858_hatterene.json"
+hash = "f58a11ed942902c881fc1ab45c0ea84a1bc7415e772a15d265355ff2427931e2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0859_impidimp.json"
+hash = "1318785e8f90eeb5437348692afbb654da93d1d9b50bef97c23693c55e5cbee1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0860_morgrem.json"
+hash = "fbf7a2c092721f7e67cc89423b3c5d6a207b264c3f7f22965828092146838b50"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0861_grimmsnarl.json"
+hash = "c7560a3aa7a2d5db90045b9e0186d8f6cd820408f0976a4c93053858ae5d7ed9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0862_obstagoon.json"
+hash = "37d047e402d165f7d8f47781672d1d9929e086f8b8d72d09b2cc866cd8cc4135"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0863_perrserker.json"
+hash = "83ed4d8e245f8190c2f9f325ba2ea66ea242108d3a4cf6866d0a20016ce8f5d7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0864_cursola.json"
+hash = "c23585b1d8242cb74c49d3482cf37d38412455c916f96dc9e71b0639af8747c6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0865_sirfetchd.json"
+hash = "2650dabcbcc32afc4cc44beecb44e2f68b53558fd8b9a9e99cbb0e1665dc4ff3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0866_mrrime.json"
+hash = "af32722a58503462eb1ef0137ebcd428673ea2d8c19f9d5b811b51d734bf5ba2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0868_milcery.json"
+hash = "212d2f13172b0597986bf6a18b61a5d77d06d69719d5f1583cf51d843ad00b46"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0869_alcremie.json"
+hash = "5d7f7325f01c77938c8f330eb530c71c3deefcc638703d00c7fc19314c3dd2d1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0870_falinks.json"
+hash = "884f2963661afb66e49612f891d086daa301683398b10592ae41f5365f4cc13e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0871_pincurchin.json"
+hash = "a4e8f141ec64a7b9e5ba1ee4dc188ca33b33d7b89bab16dd6f9b95902ade0374"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0874_stonjourner.json"
+hash = "f86f5bf9501124c016c00433a6a83bff5ffc5bdeff257d5635e18613218e556e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0875_eiscue.json"
+hash = "d25625f300b7383f33f54a8811972950a41136d4147ea42e5988897ba8db97bc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0877_morpeko.json"
+hash = "70c84149d46d620e3f2f1968f677d6e810eea93c9ad793ceb82cd1be8f59d40d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0878_cufant.json"
+hash = "ed42bede5303036b5e030375f8d350b1e40995a0112a77201c3bccb71a09348a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0879_copperajah.json"
+hash = "d606214b796e3f5bb57454792dce4e8aa1aab87d19fc702732dab5a773860d75"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0885_dreepy.json"
+hash = "341ee1586b349c8f4b8fb27389a7d51e26d14f3cb432a9e82f87691b5c37b8e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0886_drakloak.json"
+hash = "837018ac0715385ebf3bb956629f827230b6b4c0560c981487636fdaa8a1c34e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0887_dragapult.json"
+hash = "588d0eeccabd2a03947e4fb023305d1617da0cd4464f7982963ea81eef0fbbcf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0899_wyrdeer.json"
+hash = "e8eb062d48805d8cbf152e9997edcdfadb5f5959dc7def4d03044167a0dfce9d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0900_kleavor.json"
+hash = "db68a8f43e7fde72058613b31977e0ebbef34bc00a91ca50634ed7e0ff3beba7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0901_ursaluna.json"
+hash = "c8c0c9ce22733b21eb8378ae58faa900d661469a93fc7f4d2da206a18fdde0c3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0902_basculegion.json"
+hash = "5f7db3f8daf91fb66644cf147dec021aa3c62413cc551b85d3f9b1fdae21b393"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0903_sneasler.json"
+hash = "37d1c8e43695fdd5a3936c1950b45b2ee64a3c82773af20fa381019e8206a794"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0904_overqwil.json"
+hash = "52b18db6ab41e173ceddee5ec07284dbddc3b81a105323a84ffb844edd1e214b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0906_sprigatito.json"
+hash = "972ee20eaea6df9b5e9779cf210cfa3f680d136707be43c1b78ccf4c834e82b9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0907_floragato.json"
+hash = "af736273f9aa03f667a428c5b52178312a8d6c768d5614764d62c44d94beee22"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0908_meowscarada.json"
+hash = "0cec5c370e6a89a8ed3823510b4a20356f1d12428adfaeb432c48ff63b1af074"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0909_fuecoco.json"
+hash = "f7c85fcf729066f37cda02ff46f8f47944691c2cf9715920db48df8387504985"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0910_crocalor.json"
+hash = "7bff537202069fec55356e84a6bdbf0d9820852bcacbfc2c98b3c8f01c4a61a6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0911_skeledirge.json"
+hash = "a79cb25f9bba1093c05689b576cf5c6aa0b844edf8e765e0d55b819a10b763cc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0912_quaxly.json"
+hash = "e99385e9fe13816be118196b1fdc3492b0397a76b78a400a5475b94a7aa70f8a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0913_quaxwell.json"
+hash = "f84550fabaa4f8fb0ea0e389282a3a124b7df198eff8c7895f1d001787a7846e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0914_quaquaval.json"
+hash = "a8992653f9aafbcd157ce6aa7e530ae59d972aeb5fe701fdebffa456f27f1633"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0915_lechonk.json"
+hash = "8e68d49daf72e2d65579e76b01fa03fd03e973667bda671ac73c5592bc1282b2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0916_oinkologne.json"
+hash = "34b0181d43aa49a0451545668a965fb94c3ea72624d5c6c40b1a2c4b23047150"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0917_tarountula.json"
+hash = "dc76dc3969bf31f1b542fa4fdc5cd170afb32a555909bb7f99e0bf8084eb872f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0918_spidops.json"
+hash = "97334410c51959a1f6f1942aeea727ad84203ec8b3bd00211eafc2c741cb17f1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0924_tandemaus.json"
+hash = "c523de7400d18c394df46c357546010fe1d095315a7f867cfcb0374d6a544e11"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0925_maushold.json"
+hash = "078555e91fb670da558a9cafb4105d0e0d9023d05b9d5490ef228edbc9beb1ec"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0926_fidough.json"
+hash = "810ebb34b93af136df7ec3453aca6637b92034a89d02bcb2094efea43ab4f2e0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0927_dachsbun.json"
+hash = "cc3e8e3d09b892a49af7a20f60a9912f41f7231bdf897f0233ddfa2a43f74e5d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0928_smoliv.json"
+hash = "8aa3e7b787cca4ba3b483ac75e8506a99222b7c56e21036c5a4f87c159743904"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0929_dolliv.json"
+hash = "8c2616ad52070b2485902a98e60b60ac33562a92c9b4d689318a401476d4263c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0930_arboliva.json"
+hash = "39c34fbc5922b677145fb7f1eda3be3f4eb8e257cc7f1af9eafe55e56b4fe725"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0931_squawkabilly.json"
+hash = "8c12afb844a5718acaea2ed0d3f201129b32c9fafb7039401d8a3909ace617eb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0932_nacli.json"
+hash = "13ddbd31d539667a72f64aefaf535a28c2748de3adb6a170422c5a138cb6632a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0933_naclstack.json"
+hash = "23468ff54fbee1b18001b6d5d4b381ede7783ed6764027b8b93014b65a7f7bdf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0934_garganacl.json"
+hash = "f756f48bf976927552ca353b633e80ddd6887a3907ee85a3c2e826bd1626701a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0935_charcadet.json"
+hash = "d35f133d378c235a0362bc87ed0b1584d3d88c46074a92bdd9b890c64b8d0558"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0936_armarouge.json"
+hash = "931121cdd1aee5b06d4b1f8196148f439a10c0ef5969ec749a4c82a8c712bbca"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0937_ceruledge.json"
+hash = "042732aa8fe44bdfe940a4cbc563a188ebe90a0f728adc80eb3094ab7809fd69"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0938_tadbulb.json"
+hash = "d27ae2922ef68490e918c8b1152c3b602601b36730f1c7c941b7b840a8cc05ca"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0939_bellibolt.json"
+hash = "94bcf63480f1e458516d73f3ddbbf6a73dd69157dee56c40c0fa972b1be80947"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0940_wattrel.json"
+hash = "85c6a0ed216a5fe62f27b947ba64551af2d9a599227dd6a5b5a9dc493f53f26b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0941_kilowattrel.json"
+hash = "6b077dc61bd3605946e690e5fcd340f6262ca1832d150b6dd59dfdde32d01a82"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0942_maschiff.json"
+hash = "faed8e0602bbd941f7ddcf609243285906d089591dbd30466415202e31b7c948"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0943_mabosstiff.json"
+hash = "ccef8342fafcb350853d50f842dce9a57594e6e889520ea457d6341fe1e9a6a5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0944_shroodle.json"
+hash = "e18c899b2473846734c49afef559b938241ebe25d279d8353235d3e884bf99ef"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0945_grafaiai.json"
+hash = "bd2cf35bc86b715b104dc3bba522a20361f04ae44fb86ab7cd8fbb9f125b68c6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0946_bramblin.json"
+hash = "185fb338a41371c308bd682170c64074916c7afe58026ecd08e275ddf48b059a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0947_brambleghast.json"
+hash = "3174bf96eda9fb4a0c494b9f6db48f7775d4b2c2bd1729ec1b98c1efbd2aabce"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0948_toedscool.json"
+hash = "bed63e18d61447e9c513d10436c4caf91b17473780caf2c393cbf177c0567aab"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0949_toedscruel.json"
+hash = "0645ac5e5508ae03f85a562fe2bc4d13d22a5dd856ce0ea382b9b80fa2cd1cb7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0950_klawf.json"
+hash = "c2457b47944187a8cf20d98e0bdddac61094fe6bf2eb153bc2ba7cfcf90538d4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0951_capsakid.json"
+hash = "1aece80498b070deab0a30cc6170933a9aa72c647cbf72ef3d5cae6bf45de9fb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0952_scovillain.json"
+hash = "b4273f72371e633fd051a6031b9a576238b00a57fcc102aeb6bdc61632276a8d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0953_rellor.json"
+hash = "92206449bc1f50cedfd1bc72b9e45c6bfe3c47beb8db7c2225a2a0870c600159"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0954_rabsca.json"
+hash = "703641f820fe1aee04afea1fe6676e3000771b1bea9e4891e6d7bdd53795846a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0955_flittle.json"
+hash = "a76a322659f729a4f8bc9671f40bcc84681cd213eaeebeb3a75456d55b159f98"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0956_espathra.json"
+hash = "a536a5b0632ad002293cfbd47b7b343afc60bee25d87d4dec75addf55bfd4b6a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0957_tinkatink.json"
+hash = "49a7421d4054d39f10f88d6192b06f096984eb566da7fc369f542b9f84e9213e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0958_tinkatuff.json"
+hash = "53494825f2710f446970c3b9152e86e39de13443d3dde0706478190bbee5d19d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0959_tinkaton.json"
+hash = "61992ff584ec7fd266075da7dfbcdf390ddfb342bbc6d5ee61659115ded9fabf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0960_wiglett.json"
+hash = "614e0709f00ad7eb91cf673bc5937bf4cfa25dcf1c770adcf5cf08e6b13737d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0961_wugtrio.json"
+hash = "6189542841d516d7fb92d1c460873b414f37691d5d7dc0b3009bb51bbe188462"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0963_finizen.json"
+hash = "d5d1c6b68907fec86b8eb4deb8bb10032709d1bd7dca22efb7d1ee77eacfbb44"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0964_palafin.json"
+hash = "9933a9ef85ce0f5cece71c54e6749ab07af91d71c503bc93fb945cc4fefb8bd1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0965_varoom.json"
+hash = "27d0b41ea2a10ddffc5a62a992cb25864849be4516b7580fc22fdf4d1cbd7e63"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0966_revavroom.json"
+hash = "f6e05a2c08fb9bfd9a314ae35c0450953c0274fb88beea7e174e214fdc418683"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0967_cyclizar.json"
+hash = "b6c9764f4c90396c6535d95765876fd1970e0cf62c687bd40437437c9bd0e5b3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0968_orthworm.json"
+hash = "119945c9ba4a2a811665ef061cc7c6f31619dbc095bd8e094be75295f6ae4fef"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0969_glimmet.json"
+hash = "a9991e6789ad2ca4524b699326c1ae22ced868173f33fc02581ca399f37ba1e7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0970_glimmora.json"
+hash = "de0ba4550cf1a02ed5452ec7947cc025a70a5862e94eed27e988817f057a17e0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0973_flamigo.json"
+hash = "c7bacf6361d72da71ada6bbcfe6eccb08f278959830c763695c776a95443ee00"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0974_cetoddle.json"
+hash = "92a6b831f11cdf0bf00abaa9f9a01bd7348d74d0bcbf7a8e4659a514e451463c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0975_cetitan.json"
+hash = "d24cd53a831de50a1ac39dfe79a11211e381a72fbdc699075955bff6aa0cc778"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0976_veluza.json"
+hash = "71fb8c06645e43c397f84ec0a0a91cb3169dd1c1fc0dad0bf6ee2241c40d6adc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0977_dondozo.json"
+hash = "1ec36adcc51f678eb9d929a3b66d245bf270b2c240ad4bd64af0dfca21340df8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0978_tatsugiri.json"
+hash = "092d9e17aefaf2eaba448489dbe49bcdb45f19692a86bccf5d3f079247bc1ae5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0979_annihilape.json"
+hash = "d27d9fb769917d1085b92308eef9ccd55e23df859803f2174ffa1ac6b07f056b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0980_clodsire.json"
+hash = "c727c293f01712bfd5e69c40308590e9b2786871e575e72ca911522ff07310a0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0981_farigiraf.json"
+hash = "0c1fec8b65d3126e623deccc0ec79525f9e5a4ff8e69662ba0be379ee29fb4cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0982_dudunsparce.json"
+hash = "e93b469540036c3534a82d36d1a41bdd553d7439dfdcbc4ebeb46fc6714ae016"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0999_gimmighoul.json"
+hash = "7286ed44563d9546536b799adda8b712bc6a3710ed0fe1c29f6ddb30e1f87607"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/1012_poltchageist.json"
+hash = "e6ff302523ab2276d318218c673396c547d44afdbb75feff4a51f1c1f0d392ed"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/1013_sinistcha.json"
+hash = "e7debfe39113d5f9266eb5e493c8ae0a27e0677bdee320af43de1f2b07a60b53"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/applin.json"
+hash = "2a27fe6b1a65868ba225ca53665cf7bfe166111b4d2b69d2268a033be5647b29"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/arcanine_hisuian.json"
+hash = "1b085a6fce8a8f7eb5b0e8222c573f6aab4e396aace0e628cd39cbaf4db77b7c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/arctibax.json"
+hash = "d3893617555e4d5b4465da943f8f1176e0f0feaf8513d20cdcffc873334414ab"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/baxcalibur.json"
+hash = "80a7330693f80ed5d3f3d0fc4582915a979f2880935b0cbc1956a2abc952e1a3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/bisharp.json"
+hash = "ff17c97168894856357dd9cbbd4a48c6c5c8776a043ec21bb4141ddcb6556713"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/blipbug.json"
+hash = "ddbeb0d2f2324e5f179b568d4ae3faf986c56f1b596d78aed5a6b44a58accfd1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/bombirdier.json"
+hash = "3db6d05f326fdab3958e9a88e71660047e873598ada585fb695ab3ce6f442986"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/carkol.json"
+hash = "637d044d1626f77bca4fffb3ff9808f6671b7650c6648e4e6784d968f3a07772"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/charjabug.json"
+hash = "d61c8fd2093aa78f204ac58653b8f50d03af00885232e1467fc52d753f399039"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/coalossal.json"
+hash = "0584c574468a75f8891d6caea3efd6d15b4cfec7695dccf0bb3107f3558012c3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/delcatty.json"
+hash = "814a1520c7ddc3b6ff4aa999f180c7bb0c2120227f2516b31e14fffc461b2f01"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/dottler.json"
+hash = "0d388ad4ba765873db2a0fc5b003bdf145167e44f7f2d1d64d7c94155aab1d11"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/drapion.json"
+hash = "a307c6a93ef4d47f7e9cb6ec1b691a3853ee0e70cbf64e967136826038b96e58"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/duraludon.json"
+hash = "0cf843522b27e2d77746745b3c480beb8eb5f1ae798f757153596a7ca609a5b9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/frigibax.json"
+hash = "c519736fa633f7a10636ea66a5a0f551fe0654dbde6437b6732afe20424c91c8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/frosmoth.json"
+hash = "fe4101625013170597acf2e0ea20601ddb0ab145908983210f4f8ca644faaddb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/greavard.json"
+hash = "f938b67c0c74331ab01cd7f78abeeda2327acdf35c724910ff13ab5606c28f99"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/growlithe_hisuian.json"
+hash = "bb496a700b2e58c3336731e2c9cb5742a2abd4aeaf22dc8c70c04b977f8a38cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/grubbin.json"
+hash = "64da57f9c58fe781e5cbaddb341c18b8212838aa37f9d64ec91f586683311e0c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/gulpin.json"
+hash = "39c99c1e8fc916703a286e5dcd5b662db398e882cfb2c1a358651b0b9b5e50a3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/heliolisk.json"
+hash = "1e8af2f6d7d4612132d4e4b8dd9f229c1866865faae240a73255a4e6f603852b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/helioptile.json"
+hash = "856a01232717c155e9bc5d744f80d56af657704af459f26a24ffa50df933a482"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/houndstone.json"
+hash = "d82d2c835ead929789ebc1491e1fd8942f5a8d927df7cab797d7415f8372a776"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/indeedee.json"
+hash = "28717150c250ad9164be1be8ad76460549f9536c4cdf55f332a1cf54b3c765b1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/lokix.json"
+hash = "734756e2fa0aa80b3f5f6c037d3689bcff212c95e4e8bc79fcc25a04b570db86"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/mandibuzz.json"
+hash = "09f00c79f3d24292afb0ad799c222e14664b556e4763f363783d27f0170a71c0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/nymble.json"
+hash = "f8ce463a79ff07c969064764465a761548f44da327cd3b4187bf0ddbd3c8a9a1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/oranguru.json"
+hash = "814283d844aacf4051d13f344e5fbb6c1d3f261cff9084272a8e5ede5a809760"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/orbeetle.json"
+hash = "b6035a56ae5239d1ff66d80fcc462e8794bb0d9701630cd1787f5a35b307910c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pancham.json"
+hash = "37f719e0c01170e82fd0a1c3b7b2be54511e1bd4e8bc9aa1affaa0ede40cabd5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pangoro.json"
+hash = "c8e230f5fb551f34a05e17b4e8c49d040060a85d4062c77eee9688033555b690"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/passimian.json"
+hash = "95c5de10e6206ee1f5aa27dd7ca2acb872004dd62dc79681996bf5ec840f4ad2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pawmi.json"
+hash = "5fe3bcdcaed050beb4001d2c73b066fb0c97d07f7a9eca18272d8b532af3d7df"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pawmo.json"
+hash = "3b60ccdeefb7f854e8a68cd2386db9585d6de31837a1b702672ba5ac2808b1ba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pawmot.json"
+hash = "cbf45a81d8c9e843c8a8b1902f1def539301c178139e5bf44da2df77fb89e2b3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/pawniard.json"
+hash = "f16380964d43ed71f2469be21634b27591db49038e9cf34d4b850f0cd02a4961"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/rolycoly.json"
+hash = "73255306c5526a5a7ebe9e72a6b5a85bf6015d003bfedf42b9958b0970426077"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/runerigus.json"
+hash = "0dfa1e4b3a0dfd85edd5a72a57baf55d4da1e94900302f88e2b8bdd115615c61"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/sandaconda.json"
+hash = "94996331174cb6be954294b5c922b153c8c0fc67d6dcbc7ca7e7f0954b3e3acd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/sandshrew_alolan.json"
+hash = "ae877b3e92e3eedd834aff95dd729a075b56725c3c8dcffbbfc1b840eaa0c5f8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/sandslash_alolan.json"
+hash = "b7a0ceda628dcec3a915303a912c06b4f6a03157397784998cc88cb6bedf23ed"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/seviper.json"
+hash = "762571eb8f72dfa4470c5a36784f2e349c98b787957c7039e142b90927e4ab80"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/sewaddle.json"
+hash = "dd7af744ebcfc30c18b8bc1174e650d29eb51cfe61bbd2d8cc832374f1616be4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/silicobra.json"
+hash = "504057603a73c7dae5c4f8f25c5101e20b295bffdaaa1d0d5db54b0bfdba17bc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/skitty.json"
+hash = "8654ccf7cd9c8e32381e4cd8d8b3f62faff1e47adf83a86f64068fbc602ae14e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/skuntank.json"
+hash = "4c39d81a0e9911277a27d9ed13beab3809ff46f1c8b50efce2dd29e1d62ce4ac"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/snom.json"
+hash = "e163bab13ffe0dd2b97c3f1f2871f0dab0ac01f070dadeeb71844a37afc89ad7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/stunky.json"
+hash = "da451ca24f71522e40c4ea37ca2433a32bd90a5112360e32e9a1c59c09062d29"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/swalot.json"
+hash = "ea1f33ac16dff7bf31a7b57927cae21168e00cd0b31acf78ca85f8d1d55bcfac"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/ursaluna_bloodmoon.json"
+hash = "eb6dbc84b7405563b80cd347878631a742babf912cd4f129e2ec11d5085b6186"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/vikavolt.json"
+hash = "f739b362917c8971ca2ea5956cf2ddb73f6ee6d1666513843dae8e387fe8b98c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/vullaby.json"
+hash = "c7fb20467825cb5461d6de8389f113e8267dcb3842d196772967cb2eb231605a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/yamask_galarian.json"
+hash = "342f78c1a6ccab5f0b9af1fa448216c45dcc0fee98d1a630472cda645815d483"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/zangoose.json"
+hash = "030708550a1bd9b9d620135d30ef756ae7f7785559616525c962d7684c1a0edb"
+
+[[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/create/recipe/milling/gravel.json"
 hash = "a64f5f1841637855bad1ff83d2c76ec819a6a46cff48f8a7c6107af862074b98"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/global/advancement/pokeblock.json"
 hash = "a768924b7c45b39b15295094ab6f1594c0350fab6087f66469da5b5417f3cef4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/arceus.json"
+hash = "d99b8766922ddff95775b6a19ee43125f81337ecf55046ec6404457839f30888"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/articuno.json"
+hash = "430341b5ded2934152979f86af9475978d880d7c8f86b5f6f06d608f5cdd6a23"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/azelf.json"
+hash = "f46ead0a7e5782ac596b43fdaf3164827b7d8b5ac8d7a786c4534bd116ed7ad2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/calyrex.json"
+hash = "2154000b8ea21ad4ec6c6301168f049767da801a6a349e43d191004c17478f37"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/celebi.json"
+hash = "5c0c7ae3ae13de2cd49b1bf5e83055f8c5006f015337ff19a6ac5bbf968fa089"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/chienpao.json"
+hash = "5b70f50d55c780fbee8adee6be07f0bd58c94bb4f289ce8dd0984026cf12b8d8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/chiyu.json"
+hash = "28bea9f0b4b5f2dd71ecf49c7316bd8c745e985ab63b3da9fb2f12f8db1cb58d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/cobalion.json"
+hash = "35e0dd27109bbbbf10056f1c36dd3cd23fd5450917e5819d5da9719f6b240910"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/cosmog.json"
+hash = "71717f2639ad2f56af16d5c970b2c7600701adee958799d6fe74c6ed0ac36abe"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/cresselia.json"
+hash = "adc0edc65034d6d99082ac90fee027f3261c4e3c36b14c2c7e23c7419999c057"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/darkrai.json"
+hash = "09d6baff5358abc36c30213627d80d0065df97b77d28bade8ec52b19669f9afd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/deoxys.json"
+hash = "6ad78dace2854306ab99a34d6276d0cc9fd59dab37297879f52b37e57422faea"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/dialga.json"
+hash = "5aef3579de22096ee6d922d44f4c336131099938d66197ae5a2e388e0502ebc6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/diancie.json"
+hash = "3a6a6a4402ffec082d63b1056829b04687adcaf3cdabadafca7a29d81bfac4db"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/enamorus.json"
+hash = "e807e4333ba110f1afc09bb7134eb5ed8ce62dcb81ebc7ed2e56044b9b48156c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/entei.json"
+hash = "7ccca794bc5a62c1131dbe6db8e7f52251d36391f7addc1fab7ac78388d69807"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/eternatus.json"
+hash = "f5fa3101e6bdd4d086950e7b9fd208561c5b78a2ff02dbc026e84c20e8d5e4cd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/fezandipiti.json"
+hash = "a95b4a945c78c98f40c7c675eb38692134d7485263b281f37668d064bdc1f37c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/giratina.json"
+hash = "36e5e98853a9a1f04a7a7281f461c9860c22707985d91a7ac05b253434f6795e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/glastrier.json"
+hash = "8a720bc47cb325c0534bbf71ad190cb04590de9a40d7a14050a27c6ed938188b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/groudon.json"
+hash = "ae2f02d66d82a065e7ea2bc2344668a6a9c9071c5e3d2f094ba5436831801db4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/heatran.json"
+hash = "8849834a39924396069e08a5438ca251823dcc21b09ff5e667501a3fadba7b1e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/hooh.json"
+hash = "fdf4f1ba9e33df27d6edb3a02221dc7023ebc1fc1144d9c5fb2cd2b35e6f5647"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/hoopa.json"
+hash = "80f0daed2a21b977d509d61cfc0e5fe2302c8bb25797f770953fb7b15435a4c3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/jirachi.json"
+hash = "ee52df2a4a110d2d54b3449b1c013cc7494b8d4bd0fa6e10d5149fb69e818d29"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/keldeo.json"
+hash = "a27125549bcc10a4a9103f97428671e763a672dcdfc6037421c07004db460239"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/koraidon.json"
+hash = "cf43e9c376a970a45b495199cb2b7b53ca97d815d235fe6691f3ca08f868e5b5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/kubfu.json"
+hash = "491e873bb53e1b10f75b5a6f1451c38366ee6027b40b1692d6428cf6c2d61375"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/kyogre.json"
+hash = "860488e3ac24a2e5d20218f92c6c550b0ac500a73504a6c1e66cf4fdccfd645d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/kyurem.json"
+hash = "caa55cafd4ba953669c71820c4aebea865982c10cff622d18e74522b5394c50c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/landorus.json"
+hash = "f2610a711264b8f0606f5989a06c949d44d6b0e8e810b2de79b47383869365fb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/latias.json"
+hash = "c5c48d2820b27bb9d31af1625d4d47490d61be25690e020608ea227a53a5dd2f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/latios.json"
+hash = "0be0ef1aa3c407f31af3c44c6d91d88f943682ff70f469434b6df317b2ee14b1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/lugia.json"
+hash = "1a5aed6b39a71f96b2f8680767f9fd8276f01ce000f2ad39018eee0b4b076d31"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/magearna.json"
+hash = "29025076dbc2e0c00abdf5d1c71354c62364410cc297c0527a4e7755188011d2"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/manaphy.json"
+hash = "8e6f07253884be7b0ffc1b0bdaed17ea18e9d3c798cf91281472dcdc97aa938e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/marshadow.json"
+hash = "c9a76dda09296e97bbbb942a883533498c80155ae474a3ba87eac174bd0a0681"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/meloetta.json"
+hash = "70866ca7daed99a9edafab9587e44c5e9060e40f6242c5860376f2175b21f092"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/meltan.json"
+hash = "f6383033ca8a9e184cf09410d1213b26cab70f2860500c87eb367b6e09ece161"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/mesprit.json"
+hash = "c4546c709dc64f8a8554bdd4e695709388cbd2a1e4400e59968cbab9cdc93edd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/mew.json"
+hash = "60c036ee1fc330096f0793f034396094826f2c027d0a872686fd9c6595976e41"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/miraidon.json"
+hash = "18b60f7ffca5487081e86c2ecec46c49a96ab6b691c90439952243f040cea4e1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/moltres.json"
+hash = "c4c3858458a7a99602ca3aee8eb15f4adb11326205a73a195615a87cca416f1c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/munkidori.json"
+hash = "dfb0497240de412f4c7ed138a1f87d95bf0ceb346623b1cf74b71cc78982c29a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/necrozma.json"
+hash = "4aebb91e29ea21c2e433d5e5dadc09efca4f068779ade664f9dd3009d0bf8412"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/ogerpon.json"
+hash = "844b2d3d7e040939077bb997d363b3351ac15931c3cf3eb36458546f0624c3af"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/okidogi.json"
+hash = "2bf835dac659f3b42cd9c249c5dbc3b9c7e119d9804a270d8dd811c27a9834bf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/palkia.json"
+hash = "2f7cda90d9fe8881b30c95346613e6ee95f2a4b2e6ac3dfb87af1d990eb25566"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/pecharunt.json"
+hash = "89f450d27a66ae3e99a50148f32bbd3cc77a718b9debb71d2e1d5fe7b552d457"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/phione.json"
+hash = "effb13a19202450389b876fac24bedb85310f17613322efce6611c2da78c9e85"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/raikou.json"
+hash = "4d6bf287ed112bbc809976f27f78b8abcda3005b4af691d02d559920860396d6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/rayquaza.json"
+hash = "f72a5f3fc3b03a32503b6033544e027c144accf8fe41ed56cdd044e0c0460f0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/regice.json"
+hash = "aca90631ca595a2f2a0ead418f69a89e8528cb0499a5b5b26efd7f87b8b66d5a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/regidrago.json"
+hash = "3e37b6a17f8351ca5ee530bf07d55ed92b4f450b6ed1666c8dd3d3d9fcc1f32c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/regieleki.json"
+hash = "fcd04b5e919ec1614d6f42f360298d037efbc773602e86e604be9248919d8588"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/regigigas.json"
+hash = "ee4ca5a8a04f7852083fffd22b80b6610ff9b1c92507c5cc055baafb5561fafa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/regirock.json"
+hash = "6d1c5f6f65e2b1d2a657f1724e7269231583c47d84c13ef36f9ca70c9b78bb25"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/registeel.json"
+hash = "175f96a45ee310a51e3643e0a9fe0948b12a9941983eab4d530fc1e8a2312f51"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/reshiram.json"
+hash = "af8b981839002944460897ea3b75a55663c4e62d554c936b501652ee32f17d0c"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/shaymin.json"
+hash = "9254da7340b02ade550c596a6d79c6aea79d5be0ea019b1f5cd3a9823afc7afd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/spectrier.json"
+hash = "4a6aa4a3ea349dc5321a34ae0b0899313e72b1902b724ca774105642f239ea35"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/suicune.json"
+hash = "b5a7174a4043b870fb5c5f8173695e00ebba6ba5a6bef9f95f1d2788679e888e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/tapubulu.json"
+hash = "263fb551b25d46e1df2ad1b7490390408c4ae20a2622d909cba5c3cc9d11b2d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/tapufini.json"
+hash = "53cd2c6150986ea8f970ca452600e3eaf0ca471c6d966297e281bea2fc8cb889"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/tapukoko.json"
+hash = "de09cb5753908348d8436ec760a683b21ab440ebeb187831ee7b114f025fbe82"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/tapulele.json"
+hash = "3444fed2a8a600840da2b3908a6113aa92e015324e14c45db210072f5ce42b35"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/terrakion.json"
+hash = "6456e0b0473647a6317dcb2f191d6ef7107dfbd32a81168bfb95c4889dfdb88d"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/thundurus.json"
+hash = "757940e7235c7c3e8d22ae4fbb6a33126eb08dc93fc22e33a030c32a29711ede"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/tornadus.json"
+hash = "877976e6ce7ff82486a6172952d10e6d25fa7989944db34e42ae21df27d57ace"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/uxie.json"
+hash = "97f70cd72ae7e1da00b18b1ff8d5a02b045a65b19afb0c4bb8266cb91e202245"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/victini.json"
+hash = "a70c0e1585eb6a66415fdf5f742f1a2302132f691b60bfcb9684c2d6d6caa32b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/volcanion.json"
+hash = "892780715949cb53de3d2b8d1b1d974e7974be4031d5d74ac623ea609e0353a4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/wochien.json"
+hash = "251af7b8f030f3b54637c36a9b32134d271b25cf22277a49a158c83aabb56e83"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/xerneas.json"
+hash = "9ee7836430a152014cc1d08508dc7b46c4f9546811b479dfa68c79b97b630ea7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/yveltal.json"
+hash = "33654018f940874ab81a1e8788d72d92a33fca06a468cbdaf45d0413f61ed9a0"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zacian.json"
+hash = "8f52d110d93547a4d6aab857464c14a39d676ebd615b1f7b79da78097f8bbd42"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zamazenta.json"
+hash = "48965fa34c48b784ff5b46421ea9ccf544d07d8e6ca8cbf6b4eea3c20f52f3f3"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zapdos.json"
+hash = "840c51f1d012f17679477fedb83156c778d94403201f71e09debefa48c7ddbfa"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zarude.json"
+hash = "ed86e0c88c5ea1e55eeb5c2098dd0c6888ef0663c0ff210bb430e32bdd1a32b5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zekrom.json"
+hash = "b16f86d084c8f0e06b09926d3b7ddfab6bf28fd71aa70454262da26fa283b625"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zeraora.json"
+hash = "d09f81988e0cd27d4eeb95722ece14ee12bfd24753be1c647ea46060431d073a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/legendary_spawns_atm/spawn_pool_world/zygarde.json"
+hash = "424446a58ca6b4d9de0f4f4e3b5d9de14f4ac4c9545d12e329bc5ee733ba70ea"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/minecraft/loot_table/blocks/gravel.json"
@@ -232,6 +4156,74 @@ hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/minecraft/tags/function/tick.json"
 hash = "0ae812cbe7b14f0baf8760508fea35e2f3fc22ee735b71cd9f0d810c888fed71"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/brutebonnet.json"
+hash = "aa68f8c779d5f82287f154ac1239c79faf63b48d7c7ee26edc9dfaac54d7313f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/fluttermane.json"
+hash = "3374046bb28d098a30b48f7eda7895e4cd4dc96a00694ee05d4802708488b0ef"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/gougingfire.json"
+hash = "7800fc574b870065d5ab4e8e287b9f5a5ba028d666bc52e702438faa856243af"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/greattusk.json"
+hash = "270cd715b53f091f63d94bd172d60fab6a35e86bf86c9417056a798ac73a9ebe"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironbundle.json"
+hash = "5fda27fc60c24ff03ed9d43373ecb24d0c7feffafd4dc97d26561aafdb82e132"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironcrown.json"
+hash = "eaa85a78faff8507df763fd4a6a065c27654aeb1ae28a52e8650232720e27d21"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironleaves.json"
+hash = "089033f31d91c0fc89aad977d1c8b5cea312c3ace0517991f37a2b123d190ffc"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironmoth.json"
+hash = "898df18277b14af969d5c90665fe9d8c753dc08e890dcf3cea1b13e1881f23f5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironthorns.json"
+hash = "b4d5ce754f58f3238283e50eab6100d3bd4fbaea473c0a242f9b75ca7966f903"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/irontreads.json"
+hash = "577d3f0645e4db174f2eca800716be3433797a97247dc23a7063cdd6fec87aa7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ironvaliant.json"
+hash = "f669a72fe49b1bc174194c2438007f72485b9974c16f0c7fa8b911d5a5d326cf"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/ragingbolt.json"
+hash = "30f31586f1c8b97fd936d9dd4daa2b7d7f958b2fd96b89591aeb399085954748"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/roaringmoon.json"
+hash = "714ee0bc5869addfd31c06eeee4480a7bd428d1cec959fade1fe41ae2624c497"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/sandyshocks.json"
+hash = "40c6ed8ed7d0308dfc6df11aa66805e76879d74b327f3797941a47304235d1eb"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/screamtail.json"
+hash = "717c0eeb9ff7f0880cf6d8dbc43c255977a8d0256f7c5fd66a7f07718a32f90f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/slitherwing.json"
+hash = "d3259454d13997fd89fd9db698d8c3bbf53f9d0fa9f14b7979233d8bc6944dca"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/paradox_spawns_atm/spawn_pool_world/walkingwake.json"
+hash = "abd9af615d4e96ccb7cd4e7d749a85bea3c688c7dee6c23fc7d15131cf2e6573"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/pokeblock/advancement/pokeblock-advancedment.json"
@@ -248,6 +4240,38 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/blacephalon.json"
+hash = "3a3878d47939dae1d6e529b8cf06f2357f07cc11876a9ca58098e9fb431f1be4"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/buzzwole.json"
+hash = "dbaccbfa312d72c94e3d648e5bb21f9bb6d25bb597689ebb2670fb7b4c655dca"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/guzzlord.json"
+hash = "bcefeab4f066848701393bb0db562db1471994f9ba088c8dab0aa61499f100d9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/kartana.json"
+hash = "c686f6c6c2462e0b62e3add83e296952670e0227cabb0f60acbf764f91807d5e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/nihilego.json"
+hash = "1521cd0697fb5520cf7ed9da0a72bc89f9341eafcff1be966a6842cc92205ff7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/poipole.json"
+hash = "89d0415c15bb94c96ac7dc028799505d6686e8e172e223aeb440721cefd397e9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/stakataka.json"
+hash = "06f5c201065225352c86f9977d7d61e1e8777ac5a601307ca598c4e48643030e"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/ultra_beast_spawns_atm/spawn_pool_world/xurkitree.json"
+hash = "3bfaec85352c54b80783a8e571987b3a3b3bb62d0ccbadd7c2cbcf3a47a68380"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/pack.mcmeta"
@@ -327,6 +4351,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/catch-indicator.pw.toml"
+hash = "e2fe421bdcbadf9210174b2a60b7ad7899eb39c65f21422b6a20297291d5a7dd"
 metafile = true
 
 [[files]]

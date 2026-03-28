@@ -17,9 +17,10 @@
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
-                "biomes": [
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_volcanic"
+                "neededNearbyBlocks": [
+                    "minecraft:torch",
+                    "minecraft:campfire",
+                    "minecraft:fire"
                 ],
                 "isRaining": false
             }
@@ -28,18 +29,13 @@
             "id": "charmeleon-2",
             "pokemon": "charmeleon",
             "presets": [
-                "base"
+                "nether"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
             "bucket": "ultra-rare",
             "level": "16-40",
-            "weight": 3.6,
-            "condition": {
-                "biomes": [
-                    "#cobblemon:nether/is_basalt"
-                ]
-            }
+            "weight": 3.6
         }
     ]
 }

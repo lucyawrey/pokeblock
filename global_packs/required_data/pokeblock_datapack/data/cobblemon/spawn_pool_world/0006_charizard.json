@@ -17,9 +17,10 @@
             "condition": {
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
-                "biomes": [
-                    "#cobblemon:is_hills",
-                    "#cobblemon:is_volcanic"
+                "neededNearbyBlocks": [
+                    "minecraft:torch",
+                    "minecraft:campfire",
+                    "minecraft:fire"
                 ],
                 "isRaining": false
             }
@@ -28,18 +29,13 @@
             "id": "charizard-2",
             "pokemon": "charizard",
             "presets": [
-                "base"
+                "nether"
             ],
             "type": "pokemon",
             "spawnablePositionType": "grounded",
             "bucket": "ultra-rare",
             "level": "36-53",
-            "weight": 0.4,
-            "condition": {
-                "biomes": [
-                    "#cobblemon:nether/is_basalt"
-                ]
-            }
+            "weight": 0.4
         }
     ]
 }
