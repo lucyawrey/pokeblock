@@ -10,14 +10,15 @@
 	- [ ] Still separate spawns based on dimension.
 	- [ ] Refernce https://wiki.cobblemon.com/index.php/Tutorials/Creating_Custom_Spawns
 - [ ] Add more drops from tall grass, potentially with the farmers delight tool (can be spawned by bone meal).
+- [ ] Remove spawn block requirements but not spawn fluid requirements. Enable pokenav's hideNaturalBlockConditions after.
 - [ ] Replace shulker boxes with apricorn boxes (use sophisticated versions)
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
 
-
 ## Low Priority
+- [ ] Consider renaming pack to Cobbleblock.
 - [ ] Remove ancient pokeballs from cobblemon create
 - [ ] Update master ball recipe for cobblemon create
 - [ ] More detailed cobbleworkers configuration.

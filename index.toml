@@ -5,6 +5,22 @@ file = "config/cobblegen.json5"
 hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "ab145cf5247588e43b70dae823a83b450608b78932056ca1a0ab133f05b694c4"
+
+[[files]]
+file = "config/cobblenav/client-config.json"
+hash = "c285afc93dfd0c9604990e2dd2a21c014d0fb411d504b83953f527ce001cad53"
+
+[[files]]
+file = "config/cobblenav/server-config.json"
+hash = "100152996b42686f3e565e7e6a6ef2dfd6dbe3607a22d75ab57d657ffd4b1269"
+
+[[files]]
+file = "config/cobbleworkers.json"
+hash = "88a035d0befe83a47e219043a47e69457b6a5ebf69349a7a1a414a331ee9696e"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30746af7cea00d7898241249fb8d68c3c6c6b19e9f41fe4f160ebecad5722d9a"
 
