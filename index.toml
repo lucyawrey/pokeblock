@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "0f62b173a685f05f6751c1747e0d63c235320dfcf47bf8911931914b6cf1375c"
+hash = "d7a20f79767c1e39f319c5f2dc12c1309d97f44fa7e3c9f2d5d28ee50d25c7e5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -268,7 +268,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "6ba07e3a4a49b8111294181b69b9c992a895f6d1244f2c94f7ea216ab3ccef18"
+hash = "f9eb8979e6f7b3e230add3a38e7f8eea326dc27415c7f8c252114d86f609af29"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

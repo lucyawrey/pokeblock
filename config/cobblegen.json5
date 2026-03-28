@@ -39,15 +39,15 @@
 			"minecraft:bedrock": [
 				{
 					"id": "minecraft:diamond_ore",
-					"weight": 1.0
+					"weight": 0.5
 				},
 				{
 					"id": "minecraft:emerald_ore",
-					"weight": 2.0
+					"weight": 0.5
 				},
 				{
 					"id": "minecraft:redstone_ore",
-					"weight": 2.0
+					"weight": 1.0
 				},
 				{
 					"id": "minecraft:lapis_ore",
@@ -83,7 +83,7 @@
 				},
 				{
 					"id": "minecraft:cobblestone",
-					"weight": 33.0
+					"weight": 35.0
 				}
 			],
 			"minecraft:weathered_copper": [
@@ -158,13 +158,6 @@
 		"basaltGen": {
 			"minecraft:bedrock": [
 				{
-					"id": "minecraft:ancient_debris",
-					"weight": 0.5,
-					"dimensions": [
-						"minecraft:the_nether"
-					]
-				},
-				{
 					"id": "minecraft:nether_gold_ore",
 					"weight": 10.0,
 					"dimensions": [
@@ -180,7 +173,7 @@
 				},
 				{
 					"id": "minecraft:blackstone",
-					"weight": 80.5,
+					"weight": 80.0,
 					"dimensions": [
 						"minecraft:the_nether"
 					]
@@ -189,7 +182,7 @@
 			"minecraft:netherrack": [
 				{
 					"id": "minecraft:netherrack",
-					"weight": 79.0,
+					"weight": 100.0,
 					"dimensions": [
 						"minecraft:the_nether"
 					]

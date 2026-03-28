@@ -2,7 +2,6 @@
 ## Normal Priority
 - [ ] Setup sophisticated storage. Replace vanilla chests with sophisticated ones. Replace pokeblock island spawn chest with sophisticated one. Make sure sophisticated chests work with cobbleworkers.
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
-- [ ] Iron Copper Nuggets, Tumblestones from Washing Gravel and from farmer's delight cutting board with a shovel.
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Configure cobbleworkers.
 - [ ] Configure https://modrinth.com/mod/cobblemon-droploottables/versions to have all pokemon passively drop their loot tables
@@ -19,6 +18,7 @@
 - [ ] Update master ball recipe for cobblemon create
 
 ## Low Priority
+- [ ] Remove KubeJs addons (farmer's delight, create) and replace with `event.custom()`.
 - [ ] Remove ancient pokeballs from create
 - [ ] Purple apricorns for master balls, spinel balls (new), replace shulker boxes with purple apricorn boxes.
 - [ ] Fix Skyblock Builder World Spawn
