@@ -1,0 +1,13 @@
+name = "Cobblemon Catch Rate Display"
+filename = "catchrate-display-neoforge-2.8.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vADO40xp/versions/5IESNUpz/catchrate-display-neoforge-2.8.4.jar"
+hash-format = "sha512"
+hash = "72ad0ed82ac761b5ac451d9b6ebbc3a814f22681c126c415f9e487238695074703a0829c1fe0f14bfe6503bd0f669b24fc13226eef9c8426649d9fb622e4f8c9"
+
+[update]
+[update.modrinth]
+mod-id = "vADO40xp"
+version = "5IESNUpz"

@@ -330,6 +330,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/catch-rate-display.pw.toml"
+hash = "e0b3f4dad9886802c34f0c322c7eeb548a2100f604d8339bfc623c803be38f88"
+metafile = true
+
+[[files]]
 file = "mods/clear-void.pw.toml"
 hash = "aa346562402cbf2d46cdd6b0cce661ba70bfbb3ca29f35aa8327b291a4e55860"
 metafile = true
@@ -567,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/more-cobblemon-tweaks.pw.toml"
+hash = "10670552c1fc1fd9bfad1c34f1c8bd8b0bbc0f8dfb4c8929b65ce5be9b914af7"
 metafile = true
 
 [[files]]
