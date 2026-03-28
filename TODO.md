@@ -1,10 +1,9 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Only hammers hammer can be used for crushing recepies with a farmer's delight cutting board.
-- [ ] Remove extra only hammers made of vanilla materials that are not usually usable for tools.
-- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
+- [ ] Setup sophisticated storage. Replace vanilla chests with sophisticated ones. Replace pokeblock island spawn chest with sophisticated one. Make sure sophisticated chests work with cobbleworkers.
 - [ ] Add more drops from tall grass (can be spawned by bone meal)
 - [ ] Iron Copper Nuggets, Tumblestones from Washing Gravel and from farmer's delight cutting board with a shovel.
+- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Configure cobbleworkers.
 - [ ] Configure https://modrinth.com/mod/cobblemon-droploottables/versions to have all pokemon passively drop their loot tables
 - [ ] Custom Pokemon Spawning Rules

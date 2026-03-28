@@ -252,7 +252,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+hash = "d85faaa30225f6a8c32ff767550266fb54d07eae633c3cb41c1eaed305dd2308"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -267,8 +267,12 @@ file = "kubejs/config/web_server.json"
 hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "6ba07e3a4a49b8111294181b69b9c992a895f6d1244f2c94f7ea216ab3ccef18"
+
+[[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+hash = "2b2afa43aeae7da611de4925b9df8004abd62733463c18736b2edb4a3404afd6"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -498,6 +502,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "631adbbd5fb0115ae38f113b75d940c971cf2779c6dbd0cefa33aa9a60028a88"
 metafile = true
 
 [[files]]
