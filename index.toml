@@ -13,6 +13,10 @@ file = "config/defaultoptions/options.txt"
 hash = "e6edc6e6c785ca09ab92eb996a5a00590eaf6cdc96824e0ea53617e323d25b3e"
 
 [[files]]
+file = "config/melancholic_hunger.json5"
+hash = "5436927c5492101a2f75de8b8cb304001bce8983baca5cceffde2f81c563157f"
+
+[[files]]
 file = "config/neoforge-common.toml"
 hash = "4341e9c04ad5acd9158c8f4de46e5e7601b35af5d50a120f49f40e3ceb321d0b"
 
