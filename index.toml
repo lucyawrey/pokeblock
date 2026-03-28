@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "d7a20f79767c1e39f319c5f2dc12c1309d97f44fa7e3c9f2d5d28ee50d25c7e5"
+hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -236,6 +236,11 @@ hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
 [[files]]
 file = "global_packs/required_resources/allthemons-x-mega-showdown-legacy.pw.toml"
 hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/cobblemon-classic-grass-pack.pw.toml"
+hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
 metafile = true
 
 [[files]]
@@ -622,6 +627,16 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "bafe866eb40c643c722790d99e546ec5c105feecd9a3328fa491420af94fd1e7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
 metafile = true
 
 [[files]]
