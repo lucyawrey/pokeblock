@@ -1,0 +1,16 @@
+{
+    "condition": {
+        "neededBaseBlocks": [
+            "#cobblemon:natural",
+            "#c:cobblestones",
+            "#minecraft:planks",
+            "minecraft:stone_bricks",
+            "#cobblemon:concrete_blocks"
+        ]
+    },
+    "anticondition": {
+        "neededBaseBlocks": [
+            "minecraft:farmland"
+        ]
+    }
+}

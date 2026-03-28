@@ -18,6 +18,7 @@
 - [ ] Setup default minimap config
 
 ## Low Priority
+- [ ] Create IV soda mod. Bottle cap (expensive and made of metal and gems) + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Consider renaming pack to Cobbleblock.
 - [ ] Remove ancient pokeballs from cobblemon create
 - [ ] Update master ball recipe for cobblemon create
