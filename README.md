@@ -1,7 +1,15 @@
 # Pokéblock - Cobblemon Skyblock
 An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 
-# MultiMC Pre Launch Command
+## Modpack Features
+- Start on a classic Skyblock island with only ice, lava, and a single apricorn tree.
+- Multiplayer support! Each player can create their own skyblock island (or share one with a team of players).
+- 800+ Pokémon to catch.
+- Unique Skyblock progression with new types of cobblestone generators and custom loot from Pokémon.
+- No hunger interupting your Pokémon adventure. Food heals health over time instead.
+
+# Development
+## MultiMC Pre Launch Command
 ```
 $INST_JAVA -jar $INST_DIR/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
 ```
