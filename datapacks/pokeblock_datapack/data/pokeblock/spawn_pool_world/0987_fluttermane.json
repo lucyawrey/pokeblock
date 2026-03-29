@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "fluttermane-1",
+      "pokemon": "fluttermane min_perfect_ivs=3",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 6,
+      "level": "40-75",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:short_grass",
+          "minecraft:tall_grass",
+          "minecraft:fern",
+          "minecraft:vine"
+        ],
+        "timeRange": "night"
+      }
+    }
+  ]
+}

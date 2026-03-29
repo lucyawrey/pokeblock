@@ -1,8 +1,40 @@
-import { file } from "bun";
 import { parse } from "csv-parse/sync";
-import { time } from "node:console";
 
-const outPath = "../datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
+type SpawnType = "ground" | "surf" | "dive" | "fishing" | "lava";
+
+const outPath =
+  "../datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
+
+const presets: Record<
+  SpawnType,
+  { spawnablePositionType: string; condition: any }
+> = {
+  ground: {
+    spawnablePositionType: "grounded",
+    condition: {
+      neededBaseBlocks: ["#cobblemon:natural"],
+    },
+  },
+  surf: {
+    spawnablePositionType: "surface",
+    condition: {
+      fluid: "#minecraft:water",
+    },
+  },
+  dive: {
+    spawnablePositionType: "submerged",
+    condition: {
+      fluid: "#minecraft:water",
+    },
+  },
+  fishing: { spawnablePositionType: "fishing", condition: {} },
+  lava: {
+    spawnablePositionType: "surface",
+    condition: {
+      fluid: "#minecraft:lava",
+    },
+  },
+};
 
 // Pull CSV from Google Sheets
 const target = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=spawns`;
@@ -48,13 +80,7 @@ data.forEach((row: any) => {
     dimension: parseStringWithAny(row.dimension)
       ? `minecraft:${parseString(row.dimension)}`
       : undefined,
-    types: parseStringSplit(row.types) as (
-      | "ground"
-      | "surf"
-      | "dive"
-      | "fishing"
-      | "lava"
-    )[],
+    types: parseStringSplit(row.types) as SpawnType[],
     timeRange: parseStringWithAny(row.timeRange) as
       | "morning"
       | "day"
@@ -93,14 +119,13 @@ data.forEach((row: any) => {
     };
     pokemon.types.forEach((type, i) => {
       const spawn: any = {
-        id: `${pokemon.pokemon}-${i+1}`,
-        pokemon: `${pokemon.pokemon} ${pokemon.data}`,
-        presets: [`type_${type}`],
+        id: `${pokemon.pokemon}-${i + 1}`,
+        pokemon: `${pokemon.pokemon}${pokemon.data ? " " + pokemon.data : ""}`,
         type: "pokemon",
         bucket: pokemon.bucket,
         weight: pokemon.weight,
         level: pokemon.level,
-        condition: {},
+        ...presets[type],
       };
 
       // Handling for non-overworld dimensions, diving, and fishing
@@ -143,7 +168,10 @@ data.forEach((row: any) => {
       if (pokemon.canSeeSky == false) {
         spawn.condition.canSeeSky = false;
       }
-      if (pokemon.weather && (type === "ground" || type === "fishing" || type === "surf")) {
+      if (
+        pokemon.weather &&
+        (type === "ground" || type === "fishing" || type === "surf")
+      ) {
         if (pokemon.weather === "isClear") {
           spawn.condition.isRaining = false;
           spawn.condition.isThundering = false;
@@ -163,7 +191,10 @@ data.forEach((row: any) => {
       if (pokemon.moonPhase) {
         spawn.condition.moonPhase = pokemon.moonPhase;
       }
-      if (pokemon.neededNearbyBlocks && (type === "ground" || type === "dive")) {
+      if (
+        pokemon.neededNearbyBlocks.length > 0 &&
+        (type === "ground" || type === "dive")
+      ) {
         spawn.condition.neededNearbyBlocks = pokemon.neededNearbyBlocks;
       }
 

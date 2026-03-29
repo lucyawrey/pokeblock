@@ -1,6 +1,0 @@
-{
-    "condition": {
-        "fluid": "#minecraft:lava",
-        "spawnablePositionType": "surface"
-    }
-}

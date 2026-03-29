@@ -1,8 +1,0 @@
-{
-    "condition": {
-        "spawnablePositionType": "grounded",
-        "neededBaseBlocks": [
-            "#cobblemon:natural"
-        ]
-    }
-}
