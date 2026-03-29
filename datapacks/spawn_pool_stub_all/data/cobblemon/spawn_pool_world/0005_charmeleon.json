@@ -1,0 +1,41 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "charmeleon-1",
+            "pokemon": "charmeleon",
+            "presets": [
+                "base"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "ultra-rare",
+            "level": "16-40",
+            "weight": 3.6,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "neededNearbyBlocks": [
+                    "minecraft:torch",
+                    "minecraft:campfire",
+                    "minecraft:fire"
+                ],
+                "isRaining": false
+            }
+        },
+        {
+            "id": "charmeleon-2",
+            "pokemon": "charmeleon",
+            "presets": [
+                "nether"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "ultra-rare",
+            "level": "16-40",
+            "weight": 3.6
+        }
+    ]
+}
