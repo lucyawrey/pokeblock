@@ -4530,6 +4530,11 @@ hash = "7f64ed4a0fafc2f78e947b3405a38e31938a5783c4aca5d3446f0930f70a6b5d"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pasture-loot-neoforged.pw.toml"
+hash = "0f2a9ba512081d234429f95b6cf2a46c2a3dd2c2b99314cc32ca4cbe8b7d49a5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
 metafile = true

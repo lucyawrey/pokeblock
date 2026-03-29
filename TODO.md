@@ -2,9 +2,6 @@
 ## Normal Priority
 - [ ] Current Pokemon Spawn: #13
 - [ ] Investigate clearing all pre-existing cobblemon spawns, and generating new spawn data from a google spreadsheet with a script.
-- [ ] Set up pokemon dropping items from their species drop list passively when in the world in all cases except in battle (wild, released by trainer, pasture).
-	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
-	- [ ] Another option is to make a custom mod that does this using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) as a referance.
 - [ ] Custom Pokemon Spawning Rules
 	- [ ] Remove most spawning requirements such as height or biome.
 	- [ ] Make many Pokemon spawn based on nearby blocks, like Rotom.
@@ -15,6 +12,10 @@
 - [ ] Remove spawn block requirements but not spawn fluid requirements. Enable pokenav's hideNaturalBlockConditions after.
 - [ ] Replace shulker boxes with apricorn boxes (use sophisticated versions)
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
+- [ ] Set up pokemon dropping items from their species drop list passively when in the world and not in battle, such as when wild or out of pokeball.
+	- [ ] Currently using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) to get drops from at least pastures. Will want to get rid of it later.
+	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
+	- [ ] Another option is to make a custom mod that does this using the  as a referance.
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
