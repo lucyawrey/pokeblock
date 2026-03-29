@@ -14,7 +14,7 @@ hash = "c285afc93dfd0c9604990e2dd2a21c014d0fb411d504b83953f527ce001cad53"
 
 [[files]]
 file = "config/cobblenav/server-config.json"
-hash = "100152996b42686f3e565e7e6a6ef2dfd6dbe3607a22d75ab57d657ffd4b1269"
+hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
 
 [[files]]
 file = "config/cobbleworkers.json"
@@ -247,6 +247,10 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_detail_presets/type_ground.json"
+hash = "b3d5b7344e582c54643ad6f534ef2be02a00e2ad375676cc34b1d4221c7bf9a4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/pack.mcmeta"
@@ -4306,7 +4310,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "f9eb8979e6f7b3e230add3a38e7f8eea326dc27415c7f8c252114d86f609af29"
+hash = "ccdd0b3b8d2b3de1c38e5af6c615a1c0892ba46b3fe88327fa89ab8ac1d12986"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

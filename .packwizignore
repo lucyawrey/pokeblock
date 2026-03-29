@@ -1,4 +1,6 @@
 *.md
+*.mrpack
 *.DS_STORE
 reference_data
 scripts
+*.csv

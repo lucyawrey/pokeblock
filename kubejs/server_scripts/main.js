@@ -1,6 +1,16 @@
 // Visit the wiki for more info - https://kubejs.com/
 console.info("Loaded KubeJs server scripts.");
 
+// Cobblemon natural block handling used in spawn detail presets
+ServerEvents.tags("item", (event) => {
+  event.add("cobblemon:natural", [
+    "#c:cobblestones",
+    "#minecraft:planks",
+    "#minecraft:stone_bricks",
+    "minecraft:bedrock",
+  ]);
+});
+
 ServerEvents.recipes((event) => {
   // Hammer on cutting board handling
   event.remove({ id: "onlyhammers:emerald_hammer" });
