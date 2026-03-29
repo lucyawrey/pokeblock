@@ -1,2 +1,4 @@
 *.md
 *.DS_STORE
+reference_data
+scripts
