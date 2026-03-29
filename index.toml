@@ -371,15 +371,15 @@ hash = "5d182ddfb9af5cf112b0aabdf6b014351d057b2f825737be2345c8ff96ff2be7"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0010_caterpie.json"
-hash = "033c693d3a792451f878cca62b433accb4ddd68c0e542ee3f2ddff34f1e8d134"
+hash = "749cebbd94a744b279f7f7b4904c4c40a18e62a81b28f5bb6d257738d8589d3f"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0011_metapod.json"
-hash = "6a70d7e21ed12f439140165c302b5877239446d6aada5f472c33a95755e1c81e"
+hash = "0f414ea0a6ca5a3d89f33a6a52240875f9d2aa27d3a844c6c391c302889f4883"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0012_butterfree.json"
-hash = "b71010155175129b9064007f4079d284b1447da190ecb2d8e20c869a00842f95"
+hash = "0f60aaa135604c7a7e137d2868fd614e8547ccfdb7f4db2d30af67da8f384ccc"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0013_weedle.json"
@@ -4500,6 +4500,11 @@ hash = "01c5e56d337dee60a5527f7757faa41569c2cdc67fc340e1720d82d830ffcfe3"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "68ae0e6a13c1110e2c169ce2bd92a6d82c13d59eab7a7e1fdb0c4e7122aa9763"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "418e00920f24ef960858eec94feaa9ea7361ca2b53dda230efee45c2fbd50576"
 metafile = true
@@ -4527,6 +4532,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-safepastures.pw.toml"
+hash = "c9276959e9375f398c974b348a670447092647e206e100b681c14bc36faef738"
 metafile = true
 
 [[files]]

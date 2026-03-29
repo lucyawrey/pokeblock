@@ -1,6 +1,6 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Current Pokemon Spawn: Caterpie
+- [ ] Current Pokemon Spawn: #13
 - [ ] Re adjust cobblemon pokemon spawning to be slightly less common.
 - [ ] Set up pokemon dropping items from their species drop list passively when in the world in all cases except in battle (wild, released by trainer, pasture).
 	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
