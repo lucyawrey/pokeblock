@@ -214,12 +214,124 @@ file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/recipe/mast
 hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
 
 [[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/ancient_city.json"
+hash = "5adb099823690a66b049717aef900ded67654d56984188b301b91439fd2e94ca"
+
+[[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/base.json"
 hash = "d2314a9f0909471cf35e4edfb3855567fbead7a487026edb6b0d666c7232964e"
 
 [[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/derelict.json"
+hash = "c88aff37da3080c8adb2913a0de413ec5717d1039e507aae5fdc93c30fd2021f"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/desert_pyramid.json"
+hash = "686a846a60e7bfcff84d13f487ced3b60557dbef2ac276976c7c83a07f266e0b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/end_city.json"
+hash = "39e5f1dd46d4fd76f666dbc81bcf39e0f04ae142dfc1c4cca9d501a3d4d8da86"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/foliage.json"
+hash = "32cd7d5ef77d4f2c8fa805c985405cdb4e2e9f534d59f824ddaabfd8227c8859"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/illager_structures.json"
+hash = "ddf51ca2f10ab3fe05afced64fa2f004e05fee14d192219971f07474cb3a35ba"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/jungle_pyramid.json"
+hash = "b70d96e543cad8517c4bfdf9d66122c8287dbb221e1b52dbeefaa16212af9ec7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/lava.json"
+hash = "fce770290d434c4ad1ce9a1ab2571442d99b4ca29d3b298993f6adc022552e56"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/mansion.json"
+hash = "15e16c1ac1d7e423a9ab3828ba9e61ce9a676da336a2399b4eca3816513cb6ac"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/mansion_bedrooms.json"
+hash = "ccafd52e56c3b8fefd3f8403629f8074e510db41a203a7c5d3be5a4100fb95f5"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/mansion_dining.json"
+hash = "2e7f8e274a45939ed1d59546c624d0ecf4cf858eab26bed900cee57104721d56"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/natural.json"
+hash = "32b743fa08b3ee9357c4deee949892f4fba5bce7dac480cb4d95a1bbf870a07d"
+
+[[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/nether.json"
 hash = "b9784191208d2f715c508a1c9bb17543259277621da91af38c1f9ad403024f74"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/nether_fossil.json"
+hash = "5fa4c8af146986ddb74d5b61e6548052253157fc9638ce7e9935d74a978e63e6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/nether_structures.json"
+hash = "d9613784e403ef68e6a6096985322647808028e8a3adb1f3b1d4c5cc02bd3ccd"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/ocean_monument.json"
+hash = "671a665a5ae7a280312e9dfa29940c63ff1c6b40d48d5d2f3b7b03b30d3301d8"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/ocean_ruins.json"
+hash = "ab220450403437c4791906f2204ec3d82bc421bca31ae2dd12cbe1c58ad55b93"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/pillager_outpost.json"
+hash = "d1bf0a33ac96e62ea724ebdbf2a366c74fd53c7b550deba7843282d2ed5e73f9"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/redstone.json"
+hash = "eceb4bb36e21c253588c709b009bb4636cdafc67778f9d093e893c0e1d7b004b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/ruined_portal.json"
+hash = "6b94c3d44b10dd6bceb65f95627df8d1225ae74cd772d69bf66ce4de6decf7db"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/saccharine_tree.json"
+hash = "62e14c75a443d4cb5f132806f13084c326c25fc61db60ca59f6aa178770f993b"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/salt.json"
+hash = "1b9ee472b9dabd50751d85db251e30d25763cc065213c767ffa14f309b5cb909"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/stronghold.json"
+hash = "9079c9b14cf4ed6736ec1e784535689c1e7c7c629cac8267bee4b496e475309a"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/trail_ruins.json"
+hash = "42517ebb120b198a807413b204a0512177ef5a4ec82b2cd1610e6101de72a709"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/treetop.json"
+hash = "9e530f9561d065b9b23f17260fc8c1f2671957647291294e7ed02479485575a1"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/urban.json"
+hash = "904e872097c45111de2b0fc8ed8b8e8196faa5ba3b6929ba85c7513f85634739"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/water.json"
+hash = "209add9d28fb4ef470f3968a7e94cb77b223956feeb437635a39398c29e26fc7"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/webs.json"
+hash = "e618c6c9eb873233d68c428cf842d085584fb2be0f93aa63e7425ff0453b59d6"
+
+[[files]]
+file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_detail_presets/wild.json"
+hash = "2484e524d7604fd69e51be1a228ad96631981b7c573980eba7266c7f131949ae"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0001_bulbasaur.json"
@@ -259,7 +371,7 @@ hash = "5d182ddfb9af5cf112b0aabdf6b014351d057b2f825737be2345c8ff96ff2be7"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0010_caterpie.json"
-hash = "cb7bda5922228b254a08773e86479702138ce431b553cfd3db9aa0a49d296ba1"
+hash = "033c693d3a792451f878cca62b433accb4ddd68c0e542ee3f2ddff34f1e8d134"
 
 [[files]]
 file = "global_packs/required_data/pokeblock_datapack/data/cobblemon/spawn_pool_world/0011_metapod.json"

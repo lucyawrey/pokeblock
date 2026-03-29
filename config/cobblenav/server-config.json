@@ -2,7 +2,7 @@
   "hideUnknownPokemon": false,
   "showPokemonTooltips": true,
   "hideUnknownPokemonTooltips": false,
-  "hideNaturalBlockConditions": false,
+  "hideNaturalBlockConditions": true,
   "syncLabelsWithClient": true,
   "checkSpawnWidth": 8,
   "checkSpawnHeight": 16,
