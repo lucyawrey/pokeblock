@@ -9,6 +9,10 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - No hunger interupting your Pokémon adventure. Food heals health over time instead.
 
 # Development
+## Generate Spawn Data
+```
+bun run ./generate_pokemon_spawns.ts
+```
 ## MultiMC Pre Launch Command
 ```
 $INST_JAVA -jar $INST_DIR/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
