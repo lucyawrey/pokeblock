@@ -12,7 +12,7 @@ for (const filePath of glob.scanSync(path)) {
     const match = /([0-9]{4})_([a-z]+?)\.json/g.exec(filePath);
     if (match) {
       const [_, _dex, id] = match;
-      const dex = parseInt(_dex);
+      const dex = parseInt(_dex || "1");
       pokemonIds[dex - 1] = id;
     }
   } catch (error) {

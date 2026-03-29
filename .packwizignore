@@ -4,3 +4,4 @@
 reference_data
 scripts
 *.csv
+**/node_modules
