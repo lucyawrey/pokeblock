@@ -1,29 +1,3 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "ivysaur-1",
-            "pokemon": "ivysaur",
-            "presets": [
-                "base"
-            ],
-            "type": "pokemon",
-            "spawnablePositionType": "grounded",
-            "bucket": "ultra-rare",
-            "level": "16-40",
-            "weight": 3.6,
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "neededNearbyBlocks": [
-                    "minecraft:short_grass",
-                    "minecraft:tall_grass",
-                    "minecraft:fern",
-                    "minecraft:vine"
-                ]
-            }
-        }
-    ]
+  "enabled": false
 }

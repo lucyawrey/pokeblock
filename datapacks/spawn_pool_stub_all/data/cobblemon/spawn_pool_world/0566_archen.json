@@ -1,26 +1,3 @@
 {
-    "enabled": true,
-    "neededInstalledMods": [],
-    "neededUninstalledMods": [],
-    "spawns": [
-        {
-            "id": "archen-1",
-            "pokemon": "archen",
-            "presets": [
-                "base"
-            ],
-            "type": "pokemon",
-            "spawnablePositionType": "grounded",
-            "bucket": "ultra-rare",
-            "level": "15-40",
-            "weight": 6.0,
-            "condition": {
-                "minSkyLight": 0,
-                "maxSkyLight": 7,
-                "biomes": [
-                    "#cobblemon:is_lush"
-                ]
-            }
-        }
-    ]
+  "enabled": false
 }
