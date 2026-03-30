@@ -261,6 +261,30 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0003_venusa
 hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0004_charmander.json"
+hash = "e5a1b568204af5b836693eba9bd98445772925b58b57de34394fd402b4dfe470"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0005_charmeleon.json"
+hash = "a5feb80cd9612f31e45c72973744a3c522132b64f95cc355c9069017dc99cac1"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0006_charizard.json"
+hash = "39e65ec0c4d0ad67c6fd474fd425260873c77fbcd758ea8f4dca68d238ccb11b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0007_squirtle.json"
+hash = "0fd67fd5af4b533835894f72e74ac8dfd9c96c9842dc0a195eb62910bf95278c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0008_wartortle.json"
+hash = "a7787375c8f559911f2e7058fefe40c916f1ecae48252cc79e0f0ef978489366"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0009_blastoise.json"
+hash = "b6862ce952af5ca6241d155d03b50be8093cf36beade0262b7ad960fe0ca3e60"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
 hash = "f595ba87a3b56bc95b0f9e788161603bbfba09207ed34b1ad58664ffddf0ee65"
 

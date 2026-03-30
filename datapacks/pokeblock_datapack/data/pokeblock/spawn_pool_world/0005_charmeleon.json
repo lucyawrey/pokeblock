@@ -1,0 +1,34 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "charmeleon-1",
+      "pokemon": "charmeleon",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 3.5,
+      "level": "16-40",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:torch",
+          "minecraft:campfire",
+          "minecraft:fire",
+          "minecraft:lit_furnace"
+        ],
+        "isRaining": false,
+        "isThundering": false
+      }
+    }
+  ]
+}

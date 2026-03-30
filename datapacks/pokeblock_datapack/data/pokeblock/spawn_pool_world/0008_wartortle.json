@@ -1,0 +1,63 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "wartortle-1",
+      "pokemon": "wartortle",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 3.5,
+      "level": "16-40",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:water"
+        ],
+        "isRaining": false,
+        "isThundering": false
+      }
+    },
+    {
+      "id": "wartortle-2",
+      "pokemon": "wartortle",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 3.5,
+      "level": "16-40",
+      "spawnablePositionType": "surface",
+      "condition": {
+        "fluid": "#minecraft:water",
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15
+      }
+    },
+    {
+      "id": "wartortle-3",
+      "pokemon": "wartortle",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 3.5,
+      "level": "16-40",
+      "spawnablePositionType": "fishing",
+      "condition": {
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": true
+      }
+    }
+  ]
+}

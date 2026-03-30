@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "blastoise-1",
+      "pokemon": "blastoise",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 0.5,
+      "level": "32-52",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:water"
+        ],
+        "isRaining": false,
+        "isThundering": false
+      }
+    },
+    {
+      "id": "blastoise-2",
+      "pokemon": "blastoise",
+      "type": "pokemon",
+      "bucket": "ultra-rare",
+      "weight": 0.5,
+      "level": "32-52",
+      "spawnablePositionType": "surface",
+      "condition": {
+        "fluid": "#minecraft:water",
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15
+      }
+    }
+  ]
+}
