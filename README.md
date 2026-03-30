@@ -8,6 +8,9 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - Unique Skyblock progression with new types of cobblestone generators and custom loot from Pokémon.
 - No hunger interupting your Pokémon adventure. Food heals health over time instead.
 
+## Credits
+- [pokeapi](https://pokeapi.co)
+
 # Development
 ## Generate Spawn Data
 ```
