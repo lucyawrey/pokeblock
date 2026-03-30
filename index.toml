@@ -229,6 +229,14 @@ file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/gravel.jso
 hash = "1fdcfac7855b931b593deada31c451b27971a2b6d1a7b16407b2babfb797234a"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/short_grass.json"
+hash = "eb37189f87b60287bcad2c17869b9b2d023974d8fb440b2e7f3746da7cfc0d3f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/tall_grass.json"
+hash = "6cd0cfafb97b69f965319d87df53713c27ea96cc84a4b6060efdc051cfa5ff36"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/tags/function/load.json"
 hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
 
