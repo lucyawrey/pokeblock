@@ -65,7 +65,10 @@ async function getPokemonIds(path: string, legendary = false) {
         if (res.ok) {
           const data = (await res.json()) as { id: number };
           const dex = data.id;
-          pokemonIds[dex - 1] = { id, legendary: legendary ? "legendary" : "common" };
+          pokemonIds[dex - 1] = {
+            id,
+            legendary: legendary ? "legendary" : "common",
+          };
         } else {
           console.error(`${id}`);
         }
