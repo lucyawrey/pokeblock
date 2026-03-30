@@ -42,7 +42,7 @@ await getPokemonIds(pathLegends, true);
 for (let i = 0; i < pokemonIds.length; i++) {
   let dex: any = i + 1;
   const id = pokemonIds[i]?.id || "";
-  const legendary = pokemonIds[i]?.legendary === true ? "legendary" : "";
+  const legendary = pokemonIds[i]?.legendary || "";
   dex = id ? dex : "";
   const implemented = id ? "yes" : "";
   const spawn = id ? "no" : "";
@@ -65,7 +65,7 @@ async function getPokemonIds(path: string, legendary = false) {
         if (res.ok) {
           const data = (await res.json()) as { id: number };
           const dex = data.id;
-          pokemonIds[dex - 1] = { id, legendary };
+          pokemonIds[dex - 1] = { id, legendary: legendary ? "legendary" : "common" };
         } else {
           console.error(`${id}`);
         }
