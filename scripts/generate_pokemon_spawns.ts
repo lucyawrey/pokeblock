@@ -126,9 +126,8 @@ for (const row of data) {
         bucket: pokemon.bucket,
         weight: pokemon.weight,
         level: pokemon.level,
-        ...presets[type],
+        ...structuredClone(presets[type]),
       };
-
       // Handling for non-overworld dimensions, diving, and fishing
       const is_overworld = pokemon.dimension === "minecraft:overworld";
       if (!is_overworld) {
@@ -200,7 +199,7 @@ for (const row of data) {
       }
 
       spawn_pool.spawns.push(spawn);
-    };
+    }
     // Write out spawn pool file to datapack
     const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon}.json`;
     const json = JSON.stringify(spawn_pool, null, 2);
@@ -209,7 +208,7 @@ for (const row of data) {
       `Generated spawn pool file "${filename}" for Pokemon #${pokemon.dex_number}: ${pokemon.pokemon}.`,
     );
   }
-};
+}
 
 function parseString(value: any): string {
   return value?.toString()?.trim() || "";

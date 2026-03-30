@@ -22,9 +22,7 @@
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "minecraft:water"
-        ],
-        "isRaining": false,
-        "isThundering": false
+        ]
       }
     },
     {
