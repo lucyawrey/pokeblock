@@ -250,15 +250,15 @@ hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0001_bulbasaur.json"
-hash = "84a3464a4a16c7fede60983093beb0f6a229ebf892bfc64e1aafa88c2398ef80"
+hash = "c38c9dcfcf16141dbe21ac69d6630cf9e233bcb776221e7201d9c8ccf444a233"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0002_ivysaur.json"
-hash = "85bb7b8c28536a413afefa6c164f6fcf7e8fa29f31c2a8edd87f7df8b593be34"
+hash = "795fd302accf2a536afcc65a6b7915bf1ec3ffcdee01eee33fff75c2718b990c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0003_venusaur.json"
-hash = "fdd9ba01ba0f99d6b7b7de4d4c576a11a1ad06b8b559e0b2ec81e684b49dc9ae"
+hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
@@ -4536,6 +4536,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+metafile = true
+
+[[files]]
+file = "mods/fix-cobblemon-pokemon-experience.pw.toml"
+hash = "593ff5155c49d682e7b6896176f2d1951c8d419a28596dc715228ceb5f5f69e8"
 metafile = true
 
 [[files]]

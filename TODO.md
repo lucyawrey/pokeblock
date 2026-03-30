@@ -1,32 +1,33 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Generating new spawn data from a google spreadsheet with a script.
 - [ ] Fill out all pokemon string ids in spreadsheet, properly check "implemented" for pokemon supported by ATM x Mega Showdown and base Mega Showdown.
 - [ ] Create all the spawning rules...
 - [ ] Setup pokemon drop list overrides using a spreadsheet, script, and https://wiki.cobblemon.com/index.php/Species_Additions.
+- [ ] Auto fill out existing drops by searching species data json files from cobblemon, all the mons x msd and base msd.
 - [ ] Add more drops from tall grass, potentially with the farmers delight tool (can be spawned by bone meal).
-- [ ] Concider readjusting pokemon spawning to be slightly less common.
-- [ ] Replace shulker boxes with apricorn boxes (use sophisticated versions)
 - [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
 - [ ] Set up pokemon dropping items from their species drop list passively when in the world and not in battle, such as when wild or out of pokeball.
 	- [ ] Currently using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) to get drops from at least pastures. Will want to get rid of it later.
 	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
 	- [ ] Another option is to make a custom mod that does this using the  as a referance.
-- [ ] Install and setup FancyMenu for custom pack menu.
+- [ ] Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
+- [ ] Craftable Elytra.
+- [ ] Rename shulker boxes to Apricorn Boxes, replace with new crafting recipe (7 apricorns, 1 psychic eye, 1 chest) with colors!
+- [ ] Concider readjusting pokemon spawning to be slightly less common.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
+- [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
+- [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys eventually.
 
 ## Low Priority
-- [ ] Create IV soda mod. Bottle cap (expensive and made of metal and gems) + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
+- [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Consider renaming pack to Cobbleblock.
 - [ ] Remove ancient pokeballs from cobblemon create
 - [ ] Update master ball recipe for cobblemon create
 - [ ] More detailed cobbleworkers configuration.
-- [ ] Replace vanilla chest recepies with sophisticated ones. Remove Replace pokeblock island spawn chest with sophisticated one. Make sure sophisticated chests work with cobbleworkers.
 - [ ] Fix Skyblock Builder World Spawn
-- [ ] Change Cobblemon+Create brewing to use fluids properly. Currently brewing uses bottles and is based on Farmers Delight-Create-Cobblemon compatability interactions
+- [ ] Replace vanilla chest recepies with sophisticated ones. Remove Replace pokeblock island spawn chest with sophisticated one. Make sure sophisticated chests work with cobbleworkers.
 - [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge), and thus not having skyblock as default world type
-- [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
 - [ ] Deepslate ores at low y values
-- [ ] Try setting up Cobble Cuisine and Cobble Delight with Sinatra Connector (fabric api adapter for neoforge)
 - [ ] Allow users to reenable vanilla mob spawning
+- [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
