@@ -58,12 +58,12 @@ try {
   process.exit(-1);
 }
 
-const data = parse(rawData, {
+const data: any[] = parse(rawData, {
   columns: true,
   skip_empty_lines: true,
 });
 
-data.forEach((row: any) => {
+for (const row of data) {
   const pokemon = {
     dex_number: parseInt(row.dex || "0"),
     pokemon: parseString(row.pokemon),
@@ -117,9 +117,10 @@ data.forEach((row: any) => {
       neededUninstalledMods: [],
       spawns: [] as any[],
     };
-    pokemon.types.forEach((type, i) => {
+    let counter = 1;
+    for (const type of pokemon.types) {
       const spawn: any = {
-        id: `${pokemon.pokemon}-${i + 1}`,
+        id: `${pokemon.pokemon}-${counter++}`,
         pokemon: `${pokemon.pokemon}${pokemon.data ? " " + pokemon.data : ""}`,
         type: "pokemon",
         bucket: pokemon.bucket,
@@ -199,7 +200,7 @@ data.forEach((row: any) => {
       }
 
       spawn_pool.spawns.push(spawn);
-    });
+    };
     // Write out spawn pool file to datapack
     const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon}.json`;
     const json = JSON.stringify(spawn_pool, null, 2);
@@ -208,7 +209,7 @@ data.forEach((row: any) => {
       `Generated spawn pool file "${filename}" for Pokemon #${pokemon.dex_number}: ${pokemon.pokemon}.`,
     );
   }
-});
+};
 
 function parseString(value: any): string {
   return value?.toString()?.trim() || "";
