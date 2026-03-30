@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/PastureLoot.json"
+hash = "246139674efc619fb13bc2552a43ed8ed8b0fbdfd2bf6c86031b1bf750fb340e"
+
+[[files]]
 file = "config/cobblegen.json5"
 hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
@@ -18,7 +22,7 @@ hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
 
 [[files]]
 file = "config/cobbleworkers.json"
-hash = "88a035d0befe83a47e219043a47e69457b6a5ebf69349a7a1a414a331ee9696e"
+hash = "f90a55967657962ffde5c4f0166e58e0553db52737323a7b0a239f167ee5ebbc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -262,31 +266,31 @@ hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0004_charmander.json"
-hash = "e5a1b568204af5b836693eba9bd98445772925b58b57de34394fd402b4dfe470"
+hash = "77ca3baac0f07f4ef8ee5e75567ad58a052b48ad8ae591c4e6d2b2e993db46e3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0005_charmeleon.json"
-hash = "a5feb80cd9612f31e45c72973744a3c522132b64f95cc355c9069017dc99cac1"
+hash = "eec9b8219498c7abba199f3d7bead9b2354bd2dd839d70fc8b6c9da73e5e4133"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0006_charizard.json"
-hash = "39e65ec0c4d0ad67c6fd474fd425260873c77fbcd758ea8f4dca68d238ccb11b"
+hash = "45afb1bd81ca5fa0b2853f7d22a02afd4932b914df32b2276d84dca7f7ac294f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0007_squirtle.json"
-hash = "0fd67fd5af4b533835894f72e74ac8dfd9c96c9842dc0a195eb62910bf95278c"
+hash = "5b68b140d36d1fd61e6803d7ab1d87091c3b43153883d9d5b9e9718ffd6653ba"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0008_wartortle.json"
-hash = "a7787375c8f559911f2e7058fefe40c916f1ecae48252cc79e0f0ef978489366"
+hash = "ffe6d0fc2c568fe2d97f4bf559d562c4e84ff83768cb1f7098bf507ea03aea3c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0009_blastoise.json"
-hash = "b6862ce952af5ca6241d155d03b50be8093cf36beade0262b7ad960fe0ca3e60"
+hash = "de049f8d590e4552268a123d60e2a6234ad9c37cb52665da6f9406809236ba84"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
-hash = "f595ba87a3b56bc95b0f9e788161603bbfba09207ed34b1ad58664ffddf0ee65"
+hash = "260e53f672d5005f6f35bfeeafda3c78f92731b796383fd547c1c610ccdad5d0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/pack.mcmeta"

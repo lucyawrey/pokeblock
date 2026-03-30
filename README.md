@@ -7,6 +7,7 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - 800+ Pokémon to catch.
 - Unique Skyblock progression with new types of cobblestone generators and custom loot from Pokémon.
 - No hunger interupting your Pokémon adventure. Food heals health over time instead.
+- Pokemon have jobs! Physic Pokémon and Pokémon that can have the pickup ability will pick up drops.
 
 ## Credits
 - [pokeapi](https://pokeapi.co)

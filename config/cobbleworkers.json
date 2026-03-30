@@ -6,101 +6,77 @@
   },
   "apricorn": {
     "apricornHarvestersEnabled": true,
-    "apricornHarvesters": [
-      "ditto"
-    ],
+    "apricornHarvesters": [],
     "typeHarvestsApricorns": "BUG"
   },
   "irrigation": {
     "cropIrrigatorsEnabled": true,
-    "cropIrrigators": [
-      "ditto"
-    ],
+    "cropIrrigators": [],
     "irrigationRadius": 1,
     "typeIrrigatesCrops": "WATER"
   },
   "amethyst": {
     "amethystHarvestersEnabled": true,
-    "amethystHarvesters": [
-      "ditto"
-    ],
+    "amethystHarvesters": [],
     "typeHarvestsAmethyst": "ROCK"
   },
   "tumblestone": {
     "tumblestoneHarvestersEnabled": true,
-    "tumblestoneHarvesters": [
-      "ditto"
-    ],
+    "tumblestoneHarvesters": [],
     "shouldReplantTumblestone": true,
     "typeHarvestsTumblestone": "STEEL"
   },
   "cropHarvest": {
     "cropHarvestersEnabled": true,
-    "cropHarvesters": [
-      "ditto"
-    ],
+    "cropHarvesters": [],
     "shouldReplantCrops": true,
     "typeHarvestsCrops": "GRASS"
   },
   "berries": {
     "berryHarvestersEnabled": true,
-    "berryHarvesters": [
-      "ditto"
-    ],
+    "berryHarvesters": [],
     "typeHarvestsBerries": "GRASS"
   },
   "honey": {
     "honeyCollectorsEnabled": true,
     "combeeLineCollectsHoney": true,
-    "honeyCollectors": [
-      "ditto"
-    ],
+    "honeyCollectors": [],
     "typeHarvestsHoney": "NONE",
     "combeeLineGeneratesHoney": true,
     "honeyGenerationCooldownSeconds": 120
   },
   "mints": {
     "mintHarvestersEnabled": true,
-    "mintHarvesters": [
-      "ditto"
-    ],
+    "mintHarvesters": [],
     "typeHarvestsMints": "FAIRY"
   },
   "lava": {
     "lavaGeneratorsEnabled": true,
-    "lavaGenerators": [
-      "ditto"
-    ],
+    "lavaGenerators": [],
     "lavaGenerationCooldownSeconds": 90,
     "typeGeneratesLava": "FIRE"
   },
   "water": {
     "waterGeneratorsEnabled": true,
-    "waterGenerators": [
-      "ditto"
-    ],
+    "waterGenerators": [],
     "waterGenerationCooldownSeconds": 90,
     "typeGeneratesWater": "WATER"
   },
   "snow": {
     "snowGeneratorsEnabled": true,
-    "snowGenerators": [
-      "ditto"
-    ],
+    "snowGenerators": [],
     "snowGenerationCooldownSeconds": 90,
     "typeGeneratesSnow": "ICE"
   },
   "fishing": {
-    "fishingLootGeneratorsEnabled": true,
-    "fishingLootGenerators": [
-      "ditto"
-    ],
+    "fishingLootGeneratorsEnabled": false,
+    "fishingLootGenerators": [],
     "fishingLootGenerationCooldownSeconds": 80,
     "fishingLootTreasureChance": 1,
     "typeGeneratesFishingLoot": "WATER"
   },
   "pickup": {
-    "pickUpLootersEnabled": true,
+    "pickUpLootersEnabled": false,
     "pickUpLootingCooldownSeconds": 120,
     "lootTables": [
       "cobblemon:sets/any_ancient_held_item",
@@ -114,7 +90,7 @@
     ]
   },
   "diving": {
-    "divingLootersEnabled": true,
+    "divingLootersEnabled": false,
     "divingLootingCooldownSeconds": 210,
     "lootTables": [
       "cobbleworkers:dive_treasure"
@@ -123,24 +99,35 @@
   "groundItemGathering": {
     "groundItemGatheringEnabled": true,
     "groundItemGatherers": [
-      "ditto",
-      "zigzagoon"
+      "zigzagoon",
+      "meowth",
+      "aipom",
+      "teddiursa",
+      "phanpy",
+      "linoone",
+      "pachirisu",
+      "ambipom",
+      "munchlax",
+      "lillipup",
+      "bunnelby",
+      "diggersby",
+      "dedenne",
+      "pumpkaboo",
+      "gourgeist",
+      "tandemaus",
+      "greavard"
     ],
     "typeGathersGroundItems": "PSYCHIC"
   },
   "netherwartHarvest": {
     "netherwartHarvestersEnabled": true,
-    "netherwartHarvesters": [
-      "ditto"
-    ],
+    "netherwartHarvesters": [],
     "shouldReplantNetherwart": true,
     "typeHarvestsNetherwart": "GHOST"
   },
   "healing": {
     "healersEnabled": true,
-    "healers": [
-      "ditto"
-    ],
+    "healers": [],
     "healingMoves": [
       "wish",
       "softboiled",
@@ -159,35 +146,27 @@
   },
   "fuel": {
     "fuelGeneratorsEnabled": true,
-    "fuelGenerators": [
-      "ditto"
-    ],
+    "fuelGenerators": [],
     "fuelGenerationCooldownSeconds": 80,
     "burnTimeSeconds": 80,
     "typeGeneratesFuel": "FIRE"
   },
   "brewingStandFuel": {
     "fuelGeneratorsEnabled": true,
-    "fuelGenerators": [
-      "ditto"
-    ],
+    "fuelGenerators": [],
     "fuelGenerationCooldownSeconds": 80,
     "addedFuel": 5,
     "typeGeneratesFuel": "DRAGON"
   },
   "extinguisher": {
     "extinguishersEnabled": true,
-    "extinguishers": [
-      "ditto"
-    ],
+    "extinguishers": [],
     "extinguishingRadius": 1,
     "typeExtinguishesFire": "WATER"
   },
   "archeology": {
-    "archeologistsEnabled": true,
-    "archeologists": [
-      "ditto"
-    ],
+    "archeologistsEnabled": false,
+    "archeologists": [],
     "archeologyLootingCooldownSeconds": 120,
     "lootTables": [
       "cobbleworkers:archeology_treasure"
@@ -195,10 +174,8 @@
     "typeDoesArcheology": "GROUND"
   },
   "scouts": {
-    "scoutsEnabled": true,
-    "scouts": [
-      "ditto"
-    ],
+    "scoutsEnabled": false,
+    "scouts": [],
     "scoutGenerationCooldownSeconds": 120,
     "useAllStructures": false,
     "mapNameIsHidden": true,
