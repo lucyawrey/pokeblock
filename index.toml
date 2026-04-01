@@ -297,8 +297,12 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0009_blasto
 hash = "de049f8d590e4552268a123d60e2a6234ad9c37cb52665da6f9406809236ba84"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0493_arceus.json"
+hash = "fbe421f64f25f8f9139db1659b476a9af96ee29be40bd3e8fc103fc5bd4bbeb4"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
-hash = "260e53f672d5005f6f35bfeeafda3c78f92731b796383fd547c1c610ccdad5d0"
+hash = "d115daab54ad7f3e0b18e45da4b8ed60581a24f7f6b3ffd38d2815203a26111a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
