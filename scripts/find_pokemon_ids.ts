@@ -29,8 +29,8 @@ const idMap: any = {
 };
 
 const glob = new Glob("**/*.json");
-const path = "../reference_data/spawn_pool_world";
-const pathLegends = "../reference_data/legendary_spawns_atm/spawn_pool_world";
+const path = "./reference_data/spawn_pool_world";
+const pathLegends = "./reference_data/legendary_spawns_atm/spawn_pool_world";
 const outputPath = "./pokemon_ids.csv";
 
 const pokemonIds: any = [];

@@ -6,7 +6,7 @@ hash = "3871e4df0aea091add79ca87550171f080e272bdbd1808dcba8444f4c856c43e"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "0fc36b7367185fde4cb4d8b25ac6fa5cc48951ccb28a294abcc1329b30ab1ef4"
+hash = "1b9b2ff5fcf7dae7148f8d0ec5a2b07df042f9547ad3ad637497ad2c668d0cc4"
 
 [[files]]
 file = "config/cobblemon/main.json"
@@ -297,12 +297,48 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0009_blasto
 hash = "de049f8d590e4552268a123d60e2a6234ad9c37cb52665da6f9406809236ba84"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0010_caterpie.json"
+hash = "40b4dc21886bce2a9a6bc0bb0c5e12845724e35c2bf2efc7325b4f1874672f51"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0011_metapod.json"
+hash = "0c397ff9f9fb38c32e9e38f067805d1ef7161ffa2c223ef35e1201117c525e1a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0012_butterfree.json"
+hash = "3c022459d561120e5c2e8fc89bb11da46738cef8432b175e49c95340b8b9670b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0013_weedle.json"
+hash = "9ed5232ee4e5a9a0a3cb009542625a752f7b4364a626dfc5a02650ea4d1f2567"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0014_kakuna.json"
+hash = "57476585acc41540b253aef77f70a635457a7bab2a3ec171e89f9d7abffcbdd7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0015_beedrill.json"
+hash = "01d2e02da5c8a951e5f09680d346db7a05e508e0dc6e8cb8550c8444dea88dc2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0327_spinda.json"
+hash = "704198d0125ff56e7fccc76a258ab312d5a77cffaa7a8607be689a13a768216d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0674_pancham.json"
+hash = "ff48d8a1d721a90fc408785bae89c13e925d4dbd41cda7089d1da021cc59bf00"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0675_pangoro.json"
+hash = "3e377d644688caf635379f9e3378b09da90db521f919cdeff4eae22b4203a71c"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
 hash = "d115daab54ad7f3e0b18e45da4b8ed60581a24f7f6b3ffd38d2815203a26111a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
-hash = "66bd616f270b30ce36f3e51c55bc004ae3336c4e542e7c16193342f4ee8e4b3d"
+hash = "6903f42f566af205d23d7b845531fd1690033289671ea3ad5f823cbaad99cbb8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/pack.mcmeta"
@@ -4362,7 +4398,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "85a80a22522eb142e62344325777614742afc0113c9003713568c1dae2e9b307"
+hash = "6160d6772867132f7c14375f76b266668b44f9863dfcb5e518161ebccd32758f"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

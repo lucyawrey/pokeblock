@@ -1,9 +1,9 @@
 import { parse } from "csv-parse/sync";
 
-type SpawnType = "ground" | "surf" | "dive" | "fishing" | "lava";
+type SpawnType = "ground" | "treetop" | "surf" | "dive" | "fishing" | "lava";
 
 const outPath =
-  "../datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
+  "./datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
 
 const presets: Record<
   SpawnType,
@@ -13,6 +13,13 @@ const presets: Record<
     spawnablePositionType: "grounded",
     condition: {
       neededBaseBlocks: ["#cobblemon:natural"],
+    },
+  },
+  treetop: {
+    spawnablePositionType: "grounded",
+    condition: {
+      neededBaseBlocks: ["#minecraft:leaves", "#cobblemon:natural"],
+      neededNearbyBlocks: ["#minecraft:leaves"],
     },
   },
   surf: {
@@ -195,7 +202,11 @@ for (const row of data) {
         pokemon.neededNearbyBlocks.length > 0 &&
         (type === "ground" || type === "dive")
       ) {
-        spawn.condition.neededNearbyBlocks = pokemon.neededNearbyBlocks;
+        if (spawn.condition.neededNearbyBlocks) {
+          spawn.condition.neededNearbyBlocks.push(...pokemon.neededNearbyBlocks);
+        } else {
+          spawn.condition.neededNearbyBlocks = pokemon.neededNearbyBlocks;
+        }
       }
 
       spawn_pool.spawns.push(spawn);

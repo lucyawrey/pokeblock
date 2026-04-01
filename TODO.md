@@ -1,5 +1,7 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
+- [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
 - [ ] Wild Loot: Optional multiplier for Pokémon item drop rate when in your party.
 - [ ] Create all spawning rules.
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
