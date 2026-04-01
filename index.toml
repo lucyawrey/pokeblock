@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CobblemonWildLoot.json"
+hash = "3871e4df0aea091add79ca87550171f080e272bdbd1808dcba8444f4c856c43e"
+
+[[files]]
 file = "config/cobblegen.json5"
 hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
 
@@ -295,6 +299,10 @@ hash = "de049f8d590e4552268a123d60e2a6234ad9c37cb52665da6f9406809236ba84"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
 hash = "260e53f672d5005f6f35bfeeafda3c78f92731b796383fd547c1c610ccdad5d0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
+hash = "66bd616f270b30ce36f3e51c55bc004ae3336c4e542e7c16193342f4ee8e4b3d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/pack.mcmeta"
@@ -4787,4 +4795,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
 hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaeroscobblemon.pw.toml"
+hash = "8d00514cbd63c8a83fe13119bf36776e30a195de5c47205ea664e57ce1351110"
 metafile = true

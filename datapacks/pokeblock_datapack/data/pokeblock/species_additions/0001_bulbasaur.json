@@ -1,0 +1,19 @@
+{
+  "target": "cobblemon:bulbasaur",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "cobblemon:vivichoke_seeds",
+        "percentage": 25
+      },
+      {
+        "item": "minecraft:melon_seeds",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}
