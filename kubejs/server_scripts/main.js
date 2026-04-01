@@ -9,7 +9,11 @@ ServerEvents.tags("item", (event) => {
     "#minecraft:stone_bricks",
     "minecraft:bedrock",
   ]);
+
+  // Crop spawning with bone meal right click on grass (can spawn any flower)
+  event.add("minecraft:flowers", "#farmersdelight:wild_crops", "minecraft:bamboo_sapling", "cobblemon:revival_herb");
 });
+
 
 ServerEvents.recipes((event) => {
   // Hammer on cutting board handling

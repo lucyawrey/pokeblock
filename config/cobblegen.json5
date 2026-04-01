@@ -55,15 +55,23 @@
 				},
 				{
 					"id": "minecraft:lapis_ore",
-					"weight": 4.0
+					"weight": 2.0
 				},
 				{
 					"id": "minecraft:gold_ore",
-					"weight": 4.0
+					"weight": 2.0
+				},
+				{
+					"id": "minecraft:calcite",
+					"weight": 6.0
+				},
+				{
+					"id": "minecraft:zinc_ore",
+					"weight": 6.0
 				},
 				{
 					"id": "minecraft:iron_ore",
-					"weight": 8.0
+					"weight": 6.0
 				},
 				{
 					"id": "minecraft:coal_ore",
@@ -87,7 +95,7 @@
 				},
 				{
 					"id": "minecraft:cobblestone",
-					"weight": 34.5
+					"weight": 28.5
 				}
 			],
 			"minecraft:weathered_copper": [
@@ -112,6 +120,36 @@
 				{
 					"id": "minecraft:dripstone_block",
 					"weight": 100.0
+				}
+			],
+			"minecraft:diorite": [
+				{
+					"id": "minecraft:diorite",
+					"weight": 50.0
+				},
+				{
+					"id": "minecraft:cobblestone",
+					"weight": 50.0
+				}
+			],
+			"minecraft:andesite": [
+				{
+					"id": "minecraft:andesite",
+					"weight": 50.0
+				},
+				{
+					"id": "minecraft:cobblestone",
+					"weight": 50.0
+				}
+			],
+			"minecraft:granite": [
+				{
+					"id": "minecraft:granite",
+					"weight": 50.0
+				},
+				{
+					"id": "minecraft:cobblestone",
+					"weight": 50.0
 				}
 			]
 		},

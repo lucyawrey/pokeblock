@@ -1,6 +1,6 @@
 name = "Fix Cobblemon Pokemon Experience"
 filename = "fix_cobblemon_pokemon_experience-1.1.1+1.21.1-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UsGc71LY/versions/5XJQbNBl/fix_cobblemon_pokemon_experience-1.1.1%2B1.21.1-neoforge.jar"

@@ -6,7 +6,7 @@ hash = "3871e4df0aea091add79ca87550171f080e272bdbd1808dcba8444f4c856c43e"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "65a1f8d8e77adeda6b9c9297508c4139d2a4f65c9bb7466c1722bbff8fbb8502"
+hash = "0fc36b7367185fde4cb4d8b25ac6fa5cc48951ccb28a294abcc1329b30ab1ef4"
 
 [[files]]
 file = "config/cobblemon/main.json"
@@ -230,11 +230,11 @@ hash = "1fdcfac7855b931b593deada31c451b27971a2b6d1a7b16407b2babfb797234a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/short_grass.json"
-hash = "eb37189f87b60287bcad2c17869b9b2d023974d8fb440b2e7f3746da7cfc0d3f"
+hash = "d59896918d218c32b83415b1f095ed860e5ff3af9807fb64b287992d78abffbd"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/tall_grass.json"
-hash = "3e35f072f4651c53c0d972938da3b9864ced48a80bdd0f77e5bcf0d72da987ef"
+hash = "75f80946fcd0ce98a6876109bce75c4021db6ab3149f4c729dfb958bd6371465"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/tags/function/load.json"
@@ -295,10 +295,6 @@ hash = "ffe6d0fc2c568fe2d97f4bf559d562c4e84ff83768cb1f7098bf507ea03aea3c"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0009_blastoise.json"
 hash = "de049f8d590e4552268a123d60e2a6234ad9c37cb52665da6f9406809236ba84"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0493_arceus.json"
-hash = "fbe421f64f25f8f9139db1659b476a9af96ee29be40bd3e8fc103fc5bd4bbeb4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
@@ -4366,7 +4362,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "ccdd0b3b8d2b3de1c38e5af6c615a1c0892ba46b3fe88327fa89ab8ac1d12986"
+hash = "85a80a22522eb142e62344325777614742afc0113c9003713568c1dae2e9b307"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -4473,7 +4469,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
-hash = "c9276959e9375f398c974b348a670447092647e206e100b681c14bc36faef738"
+hash = "a8ece9671c4ee2b8793693d5da734c189c561c9410a0a758006f5a568aceaa96"
 metafile = true
 
 [[files]]
@@ -4499,6 +4495,11 @@ metafile = true
 [[files]]
 file = "mods/cobbreeding.pw.toml"
 hash = "bd78ebd2b96cdfd35557a337bafe9bdaf7c743a6a80eb6b9f38e4c9fd17ae21b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -4583,7 +4584,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-cobblemon-pokemon-experience.pw.toml"
-hash = "593ff5155c49d682e7b6896176f2d1951c8d419a28596dc715228ceb5f5f69e8"
+hash = "506d434b1b53569ab8070b6c9f397d81a8cf0fc21cc108bebac4c72fe0370731"
 metafile = true
 
 [[files]]
@@ -4704,6 +4705,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/random-bone-meal-flowers.pw.toml"
+hash = "be3375c1f12ecfe83d71669083c37d7d8c28a22bcd9743f9f5143c504e54833a"
 metafile = true
 
 [[files]]

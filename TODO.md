@@ -1,15 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Add more drops from tall grass and short grass (vivichoke, melon)
 - [ ] Create all spawning rules.
-- [ ] Add more plants that can randomly grow from bone meal when used on grass blocks (wild crops) and when used on
-- [ ] Setup pokemon drop list overrides using a spreadsheet, script, and https://wiki.cobblemon.com/index.php/Species_Additions.
-- [ ] Auto fill out existing drops by searching species data json files from cobblemon, all the mons x msd and base msd.
-- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All possible suspicious gravel and sand loot should be available fro mcrafted instances because no specific structures generate.
+- [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
+- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All suspicious gravel and sand loot from vanilla and cobblemon should be available from crafted instances because no specific structures generate. This will be hard because my default placing suspicious gravel does not create the associated block entity.
 - [ ] Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
 - [ ] Craftable Elytra.
 - [ ] Rename shulker boxes to Apricorn Boxes, replace with new crafting recipe (7 apricorns, 1 psychic eye, 1 chest) with colors!
-- [ ] Concider readjusting pokemon spawning to be slightly less common.
 - [ ] Setup default controls and other core settings
 - [ ] Setup default minimap config
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
@@ -21,6 +17,7 @@
 - [ ] Remove ancient pokeballs from cobblemon create
 - [ ] Update master ball recipe for cobblemon create
 - [ ] Fix Skyblock Builder World Spawn
+- [ ] Add more plants that can randomly grow from bone meal when used on grass blocks (wild crops) and when used on
 - [ ] Replace vanilla chest recepies with sophisticated ones. Remove Replace pokeblock island spawn chest with sophisticated one. Make sure sophisticated chests work with cobbleworkers.
 - [ ] Fix neoforge-common.toml not copying correctly (gets overwritten immediately by forge), and thus not having skyblock as default world type
 - [ ] Deepslate ores at low y values
