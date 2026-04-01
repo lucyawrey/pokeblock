@@ -1,9 +1,8 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Set up pokemon dropping items from their species drop list passively when in the world and not in battle, such as when wild or out of pokeball.
-	- [ ] Currently using [this](https://github.com/YoruTheWizard/cobblemon-pasture-loot-neoforge-port) to get drops from at least pastures. Will want to get rid of it later.
-	- [ ] This may solveable with https://modrinth.com/mod/cobblemon-droploottables/versions but would require forking the mod to allow `preserve_base_drops` on the tick event. Highest priority task.
-	- [ ] Another option is to make a custom mod that does this using the  as a referance.
+	- Custom mod made!
+	- Figure out mod ranaming and publishing to modrinth!
 - [ ] Add more drops from tall grass and short grass (vivichoke, melon)
 - [ ] Create all spawning rules.
 - [ ] Add more plants that can randomly grow from bone meal when used on grass blocks (wild crops) and when used on
