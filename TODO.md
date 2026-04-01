@@ -1,8 +1,9 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Set up pokemon dropping items from their species drop list passively when in the world and not in battle, such as when wild or out of pokeball.
-	- Custom mod made!
-	- Figure out mod ranaming and publishing to modrinth!
+- [ ] Set up pokemon dropping items from their species drop list passively. Custom mod done. Next up:
+	- Figure out how to build non dev-slim jars.
+	- Figure out how to make mod work in this pack (currently only works in dev enviornemnt).
+	- Publish mod to modrinth.
 - [ ] Add more drops from tall grass and short grass (vivichoke, melon)
 - [ ] Create all spawning rules.
 - [ ] Add more plants that can randomly grow from bone meal when used on grass blocks (wild crops) and when used on
