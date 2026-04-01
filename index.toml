@@ -4361,6 +4361,10 @@ file = "kubejs/startup_scripts/main.js"
 hash = "2b2afa43aeae7da611de4925b9df8004abd62733463c18736b2edb4a3404afd6"
 
 [[files]]
+file = "mods/CobblemonWildLoot-neoforge-1.0.0.jar"
+hash = "87bcf1eb226621116488a89172c818aa997a5fb1482b0e2d6b08952a41a1ccb4"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true

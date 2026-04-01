@@ -1,0 +1,5 @@
+{
+  "tick_per_minute": 1200,
+  "drop_chance_per_minute": 0.1,
+  "item_blacklist": []
+}
