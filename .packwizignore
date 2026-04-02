@@ -5,3 +5,4 @@ reference_data
 scripts
 *.csv
 **/node_modules
+working_notes.txt

@@ -17,6 +17,9 @@
 - [ ] Setup default controls and other core settings
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
+- [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
+    - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
+    - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.

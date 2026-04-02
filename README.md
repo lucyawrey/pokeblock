@@ -16,9 +16,9 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - [pokeapi](https://pokeapi.co)
 
 # Development
-## Generate Data
+## Generate Data and Serve
 ```
-bun run ./scripts/generate_pokemon_spawns.ts && bun run ./scripts/generate_pokemon_drops && packwiz refresh
+bun run scripts/generate_pokemon_spawns.ts && bun run scripts/generate_pokemon_drops && bun run scripts/generate_archaeology_loot.ts && packwiz refresh && packwiz serve
 ```
 ## MultiMC Pre Launch Command
 ```

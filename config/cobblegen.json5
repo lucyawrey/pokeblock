@@ -109,7 +109,7 @@
 			"pokeblock:suspicious_cobblestone": [
 				{
 					"id": "pokeblock:suspicious_cobblestone",
-					"weight": 10.0
+					"weight": 20.0
 				},
 				{
 					"id": "minecraft:cobblestone",
