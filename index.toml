@@ -285,6 +285,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspi
 hash = "8cdf4372e9e9d0177800c132fdbcafeac0c17955c6788e2834d73105d6821a2a"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
+hash = "7bca1e52f03553c3be4982d7991ae0ba0e740356f914a3ca9c64011d2f5213d0"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
@@ -4457,11 +4461,15 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
-hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
+file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
+hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
 
 [[files]]
-file = "kubejs/assets/pokeblock/textures/item/suspicious_cobblestone.png"
+file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
+hash = "dbc7321e8d5074077d9ed77d5fa7a5ec20fa064c6e5c4bd20d95d586aa0cbf3a"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
 hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
 
 [[files]]
@@ -4486,7 +4494,7 @@ hash = "f2f0fe31f0986e781a7b6e974c38578c13c7b3c2305b3a5d34c938d33a2d8396"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "571acc110e2a39ad087e58136b3e02eea09b958b1595adacc931c5e83460187a"
+hash = "2d5b714944f0c3fc682a79876e8ac20ff854674a80ac4e5685fe2e6095cac071"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"

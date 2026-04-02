@@ -1,6 +1,7 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Chance of mega meteorid block from crushing crimsite (iron).
+- [ ] Mega stone drops without diamond pickaxe.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)

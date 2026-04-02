@@ -13,3 +13,16 @@ StartupEvents.registry("block", (event) => {
     .tagBlock("minecraft:cobblestone") // Makes it behave like cobblestone
     .tagBlock("minecraft:mineable/pickaxe"); // Requires a pickaxe
 });
+
+// Meteor Beacon
+StartupEvents.registry("block", (event) => {
+  event
+    .create("pokeblock:meteor_beacon")
+    .displayName("Meteor Beacon")
+    .renderType("cutout")
+    .soundType("stone")
+    .hardness(3.0)
+    .resistance(1200.0)
+    .requiresTool(true)
+    .tagBlock("minecraft:mineable/pickaxe"); // Requires a pickaxe
+});
