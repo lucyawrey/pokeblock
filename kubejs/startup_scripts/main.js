@@ -21,10 +21,22 @@ StartupEvents.registry("block", (event) => {
     .displayName("Meteor Beacon")
     .renderType("cutout")
     .fullBlock(false)
-    .box(3, 0, 3, 6, 10, 6, true)
+    .box(6, 0, 6, 9, 14, 9, true)
     .soundType("stone")
     .hardness(3.0)
-    .resistance(1200.0)
+    .resistance(10)
     .requiresTool(true)
-    .tagBlock("minecraft:mineable/pickaxe"); // Requires a pickaxe
+    .tagBlock("minecraft:mineable/pickaxe")
+    .randomTick((callback) => {
+      // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
+      const level = callback.level;
+      const block = callback.block;
+      if (Math.random() < 0.9) {
+        console.log("Ticked.");
+        // TODO make explosion work
+        level.createExplosion(block.x, block.y, block.z).causesFire(false).exploder(block).explosionMode("block").explode();
+        // TODO custom structure, make placing structure commadn actualy work
+        level.runCommand(`place structure mega_showdown:megaroid ${block.x} ${block.y} ${block.z}`)
+      }
+    });
 });
