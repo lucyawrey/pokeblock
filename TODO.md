@@ -3,6 +3,7 @@
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
 - [ ] #c:grasses tag = minecraft:short_grass, minecraft:tall_grass, minecraft:fern
+- [ ] Probably done down pokemon spawns.
 - [ ] Create all spawning rules.
 - [ ] Collapse all biomes into one for fishing.
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
