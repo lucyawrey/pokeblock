@@ -42,7 +42,7 @@ hash = "a2125ad6e5d29679bf96bd986be4c17a4bd825af74364f2f1114d30ad6099ee6"
 
 [[files]]
 file = "config/fightorflight.json5"
-hash = "539505ed6484a1ee1582407e4cbae1b899360c5f3cb0859cee025b3bf492c87d"
+hash = "791b7111edb04631e300b57143f22d0a84f121830fd3ed94def40ae2cbd35caa"
 
 [[files]]
 file = "config/fightorflight_visual_effect.json5"
