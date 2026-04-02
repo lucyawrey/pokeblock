@@ -11,7 +11,7 @@ ServerEvents.tags("item", (event) => {
   ]);
 
   // Crop spawning with bone meal right click on grass (can spawn any flower)
-  event.add("minecraft:flowers", "#farmersdelight:wild_crops", "minecraft:bamboo_sapling", "cobblemon:revival_herb");
+  event.add("minecraft:flowers", "#farmersdelight:wild_crops", "minecraft:bamboo", "cobblemon:revival_herb");
 });
 
 
