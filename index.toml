@@ -41,6 +41,14 @@ file = "config/defaultworldtype/client-config.toml"
 hash = "a2125ad6e5d29679bf96bd986be4c17a4bd825af74364f2f1114d30ad6099ee6"
 
 [[files]]
+file = "config/fightorflight.json5"
+hash = "539505ed6484a1ee1582407e4cbae1b899360c5f3cb0859cee025b3bf492c87d"
+
+[[files]]
+file = "config/fightorflight_visual_effect.json5"
+hash = "0a0d4f381b4f1832b7f80d9a2d4f628f81f2a14569b9c003edb70eba8e0d048b"
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "1e2baf719212dd1d4b13f008807f0021b70b2e6d9cdb2eeb3dbd4fc5e61b0a60"
 
