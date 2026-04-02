@@ -20,6 +20,8 @@ StartupEvents.registry("block", (event) => {
     .create("pokeblock:meteor_beacon")
     .displayName("Meteor Beacon")
     .renderType("cutout")
+    .fullBlock(false)
+    .box(3, 0, 3, 6, 10, 6, true)
     .soundType("stone")
     .hardness(3.0)
     .resistance(1200.0)
