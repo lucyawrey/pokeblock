@@ -253,6 +253,10 @@ file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/tall_grass
 hash = "75f80946fcd0ce98a6876109bce75c4021db6ab3149f4c729dfb958bd6371465"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/wheat.json"
+hash = "99db2a771919dc581cdb18c991166957bc330e87ff374036efa638ba43d664cf"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/tags/function/load.json"
 hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
 
@@ -362,7 +366,7 @@ hash = "f1839adf29fa35921b0d03d20d8936fcfbb13e56179d3f597a28bbefc49ef5f0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0022_fearow.json"
-hash = "159f30ec3485f0338aa78573f70e53ba3e4094780a9e21f743e019c546f37a0f"
+hash = "28464aa10aa3afd236428d178274e24b0bc728dabc3e9351325a1ef58955a2b4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans.json"
