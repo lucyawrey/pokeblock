@@ -5,3 +5,8 @@
 - Heart grains
 - Bamboo
 - Dirt (automate coarse dirt -> Dirt)
+
+## Suspicious Gravel Loot
+- 
+## Suspicious Sand Loot
+- 

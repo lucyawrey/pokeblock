@@ -5,9 +5,8 @@
 - [ ] #c:grasses tag = minecraft:short_grass, minecraft:tall_grass, minecraft:fern
 - [ ] Probably done down pokemon spawns.
 - [ ] Create all spawning rules.
-- [ ] Collapse all biomes into one for fishing.
+- [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Also add medicinal leaks!
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
-- [ ] Craftable suspicious gravel and sand. Made by crushing suspicious cobblestone (new) that occassionally generates from standard cobblestone generators. All suspicious gravel and sand loot from vanilla and cobblemon should be available from crafted instances because no specific structures generate. This will be hard because my default placing suspicious gravel does not create the associated block entity.
 - [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys eventually.
 - [ ] Wild Loot: Optional multiplier for Pokémon item drop rate when in your party.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
