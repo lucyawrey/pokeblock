@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        },
+        {
+            "item": "minecraft:gravel"
+        }
+    ],
+    "result": {
+        "id": "minecraft:suspicious_gravel",
+        "count": 3,
+        "components": {
+            "minecraft:block_entity_data": {
+                "id": "minecraft:suspicious_gravel",
+                "LootTable": "pokeblock:archaeology/suspicious_gravel"
+            }
+        }
+    }
+}

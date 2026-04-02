@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:archaeology",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:diamond"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:miner_pottery_sherd"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:armor_fossil",
+                    "weight": 2
+                }
+            ],
+            "rolls": 1.0
+        }
+    ],
+    "random_sequence": "pokeblock:archaeology/suspicious_gravel"
+}
