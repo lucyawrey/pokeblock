@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CobblemonWildLoot.json"
-hash = "3871e4df0aea091add79ca87550171f080e272bdbd1808dcba8444f4c856c43e"
+hash = "b74bd5f23fc0885b6e71e14d7c830264946014491ee5a98320fada7243fe38e1"
 
 [[files]]
 file = "config/cobblegen.json5"
