@@ -1,10 +1,13 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
 - [ ] #c:grasses tag = minecraft:short_grass, minecraft:tall_grass, minecraft:fern
-- [ ] Probably done down pokemon spawns.
-- [ ] Create all spawning rules.
+- [ ] Cobblemon configuration
+    - [ ] Probably tone down Pokémon spawns quanitty and density slightly.
+    - [ ] Possibly make rarer rarity buckets slightly more common.
+- [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Also add medicinal leaks!
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
 - [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys eventually.
@@ -17,6 +20,7 @@
 - [ ] Setup default controls and other core settings
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
+- [ ] Figure out why cobbleworkers item pikcup is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins or sophisticated storage for magnet chests.
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst

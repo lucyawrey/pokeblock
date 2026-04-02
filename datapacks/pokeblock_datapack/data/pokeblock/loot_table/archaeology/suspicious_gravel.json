@@ -136,16 +136,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:wayfinder_armor_trim_smithing_template",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:raiser_armor_trim_smithing_template",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:shaper_armor_trim_smithing_template",
           "weight": 1
         },
@@ -162,6 +152,51 @@
         {
           "type": "minecraft:item",
           "name": "mega_showdown:sparkling_stone_dark",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:old_amber_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sail_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:claw_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fossilized_dino",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:skull_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fossilized_drake",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:root_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:armor_fossil",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:jaw_fossil",
           "weight": 1
         }
       ],

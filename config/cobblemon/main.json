@@ -67,7 +67,7 @@
   "bigRootPropagationChance": 0.5,
   "energyRootChance": 0.25,
   "maxDynamaxLevel": 10,
-  "teraTypeRate": 20.0,
+  "teraTypeRate": 50.0,
   "defaultPasturedPokemonLimit": 16,
   "pastureBlockUpdateTicks": 40,
   "pastureMaxWanderDistance": 64,
