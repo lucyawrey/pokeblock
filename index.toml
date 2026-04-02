@@ -6,7 +6,7 @@ hash = "1046c661496a058f20210644fd4e1b5887d1bdd18604e00b4183e40ccefd52e9"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "1b9b2ff5fcf7dae7148f8d0ec5a2b07df042f9547ad3ad637497ad2c668d0cc4"
+hash = "8eb7e1fc9756ce856da0e6c06c608b5af43e6c22e216e892c37c73ba0c71336b"
 
 [[files]]
 file = "config/cobblemon/main.json"
@@ -277,30 +277,6 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/function/tick.mcfunction"
 hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/desert_pyramid.json"
-hash = "1224cb6e3ea06aea0da273507df08c1bc6d5d60fb484b774681f3ae734e51c39"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/desert_well.json"
-hash = "96ea9c7273e63795e62b91f8308740373a84845b940fbb066e7ffe46f365d49a"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/ocean_ruin_cold.json"
-hash = "7950d35233b41568fad4db2fb0807c49f847b0ec24f7624413423ccd2483d377"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/ocean_ruin_warm.json"
-hash = "a0d0c762e947a483663887622a7d7857d04714f93dcdfdcf926c8d889220ec2b"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/trail_ruins_common.json"
-hash = "c0d45237b48f09e230244e419380d2e63225618de329437c502e0f14a9a8c6a9"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/ref/trail_ruins_rare.json"
-hash = "72d0b3e21d2bea992468385ad05fea82973d3557605b7a2d9050acd7459e086f"
-
-[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
 hash = "a45074985523e10e262ff46f3815100e32f408130568f55371b6e3d6d5ce7edf"
 
@@ -313,8 +289,12 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/gr
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/suspicious_gravel.json"
-hash = "423ea8e3c7fc76e5c1745b442cb654d365a387b5eee30a1550d859d8ed3c874a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/suspicious_gravel.json"
+hash = "cf80aa46a4b2f686b12e90ad4787a27f0a26e437f39d35eb3c5f1466a2523e82"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/suspicious_sand.json"
+hash = "49b12dba616b370c896e41c2accd891ea9bf2378fb42a8b104c1c3ef0f643d09"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0001_bulbasaur.json"
@@ -4477,12 +4457,12 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
+hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/pokeblock/textures/item/suspicious_cobblestone.png"
+hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -4506,7 +4486,7 @@ hash = "f2f0fe31f0986e781a7b6e974c38578c13c7b3c2305b3a5d34c938d33a2d8396"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "2b2afa43aeae7da611de4925b9df8004abd62733463c18736b2edb4a3404afd6"
+hash = "571acc110e2a39ad087e58136b3e02eea09b958b1595adacc931c5e83460187a"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"

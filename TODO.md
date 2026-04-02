@@ -17,6 +17,7 @@
 - [ ] Rename shulker boxes to Apricorn Boxes, replace with new crafting recipe (7 apricorns, 1 psychic eye, 1 chest) with colors!
 - [ ] Setup default controls and other core settings
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
+- [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.

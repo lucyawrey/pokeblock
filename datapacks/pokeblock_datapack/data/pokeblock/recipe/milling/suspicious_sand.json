@@ -1,0 +1,21 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "minecraft:suspicious_gravel"
+        }
+    ],
+    "processing_time": 250,
+    "results": [
+        {
+            "id": "minecraft:suspicious_sand",
+            "count": 1,
+            "components": {
+                "minecraft:block_entity_data": {
+                    "id": "minecraft:suspicious_sand",
+                    "LootTable": "pokeblock:archaeology/suspicious_sand"
+                }
+            }
+        }
+    ]
+}

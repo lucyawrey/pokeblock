@@ -10,7 +10,7 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - Passive Pokémon loot drops, even for wild Pokémon.
 - No hunger interupting your Pokémon adventure. Food heals health over time instead.
 - Pokemon have jobs! Physic Pokémon and Pokémon that can have the pickup ability will pick up drops.
-- Renewable archeology blocks with intact brushable loot.
+- Renewable archeology blocks with intact brushable loot. Cobblestone generators have a chance to produce suspicious cobblestone which can be smashed with a hammer or millstone to make suspicious gravel and sand!
 
 ## Credits
 - [pokeapi](https://pokeapi.co)
