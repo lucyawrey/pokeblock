@@ -10,7 +10,7 @@ hash = "698b8c426cd8d6be0391fad7abeb6e23b7cf23b2a877574e211bfed7913c31dc"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "8b82ea672fe8762afdc70270445315aadd7e62a8d81e2bcaa4f9d93f4a6c7e6a"
+hash = "e339b7dbf5090142128f5f26ed177328b115e05d74545f6ccfc1a2caf5fc7412"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -278,11 +278,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "23cd76710a99acc1dfc32891fb357024cedd51c1c6005c2d5148d335bba42540"
+hash = "c31f5bcdbe77fa126a9974b4fae8dfae02ff6e9b3dd665331312788282109b23"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "5b5e6c7ef68cd20d5764b05460e1f376657962937a7ccba530cb462d5cd72f66"
+hash = "8cdf4372e9e9d0177800c132fdbcafeac0c17955c6788e2834d73105d6821a2a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
