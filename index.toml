@@ -25,6 +25,10 @@ file = "config/cobbleworkers.json"
 hash = "f90a55967657962ffde5c4f0166e58e0553db52737323a7b0a239f167ee5ebbc"
 
 [[files]]
+file = "config/default-server.properties"
+hash = "80a10786f39ef19ce2ac7bded1e2367987de603ac01f1dd924d4e36ae445898a"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "30746af7cea00d7898241249fb8d68c3c6c6b19e9f41fe4f160ebecad5722d9a"
 
@@ -33,16 +37,16 @@ file = "config/defaultoptions/options.txt"
 hash = "e6edc6e6c785ca09ab92eb996a5a00590eaf6cdc96824e0ea53617e323d25b3e"
 
 [[files]]
+file = "config/defaultworldtype/client-config.toml"
+hash = "a2125ad6e5d29679bf96bd986be4c17a4bd825af74364f2f1114d30ad6099ee6"
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "1e2baf719212dd1d4b13f008807f0021b70b2e6d9cdb2eeb3dbd4fc5e61b0a60"
 
 [[files]]
 file = "config/melancholic_hunger.json5"
 hash = "5436927c5492101a2f75de8b8cb304001bce8983baca5cceffde2f81c563157f"
-
-[[files]]
-file = "config/neoforge-common.toml"
-hash = "4341e9c04ad5acd9158c8f4de46e5e7601b35af5d50a120f49f40e3ceb321d0b"
 
 [[files]]
 file = "config/skyblockbuilder/client.json5"
@@ -4453,8 +4457,8 @@ file = "kubejs/startup_scripts/main.js"
 hash = "2b2afa43aeae7da611de4925b9df8004abd62733463c18736b2edb4a3404afd6"
 
 [[files]]
-file = "mods/CobblemonWildLoot-neoforge-1.0.0.jar"
-hash = "87bcf1eb226621116488a89172c818aa997a5fb1482b0e2d6b08952a41a1ccb4"
+file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
+hash = "eb0df8fcdb2d4d33a4f22ebad865c26efa8e6b7d493d0b50e166320a234ab850"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -4609,6 +4613,16 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+metafile = true
+
+[[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "6d1b481897d6572f68f28fa887efdd9de1765e10f4c3eb88377421fffd98c8af"
+metafile = true
+
+[[files]]
+file = "mods/defaultworldtype.pw.toml"
+hash = "6886c6cc7d4d43e2b9792af5c91fe381be0b33b1aea5f0decc465a5c17bc7004"
 metafile = true
 
 [[files]]
