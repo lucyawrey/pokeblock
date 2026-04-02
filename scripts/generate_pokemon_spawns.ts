@@ -212,7 +212,7 @@ for (const row of data) {
       spawn_pool.spawns.push(spawn);
     }
     // Write out spawn pool file to datapack
-    const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon}.json`;
+    const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon.replaceAll(" ", "_")}.json`;
     const json = JSON.stringify(spawn_pool, null, 2);
     Bun.write(filename, json);
     console.log(

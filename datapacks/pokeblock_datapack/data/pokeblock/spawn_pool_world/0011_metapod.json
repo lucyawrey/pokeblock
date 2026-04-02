@@ -13,18 +13,17 @@
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
+          "#minecraft:leaves",
           "#cobblemon:natural"
+        ],
+        "neededNearbyBlocks": [
+          "#minecraft:leaves"
         ],
         "dimensions": [
           "minecraft:overworld"
         ],
         "minSkyLight": 8,
-        "maxSkyLight": 15,
-        "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#minecraft:leaves"
-        ]
+        "maxSkyLight": 15
       }
     }
   ]

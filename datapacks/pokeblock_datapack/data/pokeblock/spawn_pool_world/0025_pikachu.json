@@ -4,26 +4,28 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "kakuna-1",
-      "pokemon": "kakuna",
+      "id": "pikachu-1",
+      "pokemon": "pikachu",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 2,
-      "level": "7-21",
+      "bucket": "uncommon",
+      "weight": 3,
+      "level": "15-32",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
-          "#minecraft:leaves",
           "#cobblemon:natural"
-        ],
-        "neededNearbyBlocks": [
-          "#minecraft:leaves"
         ],
         "dimensions": [
           "minecraft:overworld"
         ],
         "minSkyLight": 8,
-        "maxSkyLight": 15
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:short_grass",
+          "minecraft:tall_grass",
+          "minecraft:fern",
+          "#cobblemon:redstone_blocks"
+        ]
       }
     }
   ]

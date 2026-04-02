@@ -4,26 +4,26 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "kakuna-1",
-      "pokemon": "kakuna",
+      "id": "arbok-1",
+      "pokemon": "arbok",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 2,
-      "level": "7-21",
+      "weight": 0.4,
+      "level": "22-45",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
-          "#minecraft:leaves",
           "#cobblemon:natural"
-        ],
-        "neededNearbyBlocks": [
-          "#minecraft:leaves"
         ],
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15
+        "timeRange": "night",
+        "neededNearbyBlocks": [
+          "minecraft:short_grass",
+          "minecraft:tall_grass",
+          "minecraft:fern"
+        ]
       }
     }
   ]

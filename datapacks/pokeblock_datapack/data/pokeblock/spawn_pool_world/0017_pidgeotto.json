@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "kakuna-1",
-      "pokemon": "kakuna",
+      "id": "pidgeotto-1",
+      "pokemon": "pidgeotto",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 2,
-      "level": "7-21",
+      "weight": 1.5,
+      "level": "18-35",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [

@@ -12,7 +12,7 @@
             "type": "pokemon",
             "spawnablePositionType": "grounded",
             "bucket": "common",
-            "level": "1-25",
+            "level": "1-23",
             "weight": 9.0,
             "condition": {
                 "minSkyLight": 8,
