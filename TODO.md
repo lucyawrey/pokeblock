@@ -1,6 +1,7 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Chance of mega meteorid block from crushing crimsite (iron).
+- [ ] Uncraftable deoxys form meteorite. 
 - [ ] Mega stone drops without diamond pickaxe.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
@@ -15,6 +16,7 @@
 - [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys eventually.
 - [ ] Wild Loot: Optional multiplier for Pokémon item drop rate when in your party.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
+- [ ] Renewable sculk from catalysts without vanilla mobs.
 - [ ] Modify Legendary Monuments *or* create new mod to handle legendary summoning shrines.
 - [ ] Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
 - [ ] Craftable Elytra.
@@ -26,6 +28,7 @@
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
+- [ ] Remove worldedit in production.
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.
