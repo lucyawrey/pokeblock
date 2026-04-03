@@ -70,7 +70,7 @@
   "teraTypeRate": 50.0,
   "defaultPasturedPokemonLimit": 16,
   "pastureBlockUpdateTicks": 40,
-  "pastureMaxWanderDistance": 64,
+  "pastureMaxWanderDistance": 22,
   "pastureMaxPerChunk": 4.0,
   "maxInsertedFossilItems": 2,
   "walkingInBattleAnimations": false,

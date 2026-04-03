@@ -1,7 +1,7 @@
 {
   "general": {
     "blocksScannedPerTick": 15,
-    "searchRadius": 8,
+    "searchRadius": 20,
     "searchHeight": 5
   },
   "apricorn": {
