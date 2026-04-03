@@ -6,11 +6,11 @@ hash = "1046c661496a058f20210644fd4e1b5887d1bdd18604e00b4183e40ccefd52e9"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "698b8c426cd8d6be0391fad7abeb6e23b7cf23b2a877574e211bfed7913c31dc"
+hash = "6bccd37f57f83ac31d43850c06e40baaa17474972e024ac977462ae0885b9fc2"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "e339b7dbf5090142128f5f26ed177328b115e05d74545f6ccfc1a2caf5fc7412"
+hash = "64f2f6235d10b75c148763e367ec1444d5a7c0e18b4fc037f40b53f0c9a07e83"
 
 [[files]]
 file = "config/cobblenav/client-config.json"
@@ -22,7 +22,7 @@ hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
 
 [[files]]
 file = "config/cobbleworkers.json"
-hash = "f90a55967657962ffde5c4f0166e58e0553db52737323a7b0a239f167ee5ebbc"
+hash = "bb2b5e28b22b14dfc80f6cdb3946906980b9f47a9e2934751b791c45cbfc25ac"
 
 [[files]]
 file = "config/default-server.properties"
@@ -278,11 +278,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "c31f5bcdbe77fa126a9974b4fae8dfae02ff6e9b3dd665331312788282109b23"
+hash = "a248d7ab53e934a75d523255f75fbae499e0c501d0d57199b1acd9f61f233afd"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "8cdf4372e9e9d0177800c132fdbcafeac0c17955c6788e2834d73105d6821a2a"
+hash = "870b56918e42225f4222e323bd633571663db297bd687746523fc70de00413a4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
@@ -429,8 +429,24 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulba
 hash = "6903f42f566af205d23d7b845531fd1690033289671ea3ad5f823cbaad99cbb8"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor.nbt"
-hash = "ecbf1366415990d9a81cb0fd8d30005a9bd036540e6e5a11fbd5094189423247"
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_deoxys_1.nbt"
+hash = "616823440c019da2afcc82112ab3ba1d61e86ff7cec6803cf2d6cc2dde325cef"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_geode_1.nbt"
+hash = "17e3caa23bfb7af34d0cc386bdbc3e5ed3f01bd852c4cf8b983e3dfd9338377e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_keystone_1.nbt"
+hash = "06a4360395c35a9a2313740d219ea582389183e9296431bbc4b9ff910ae3b24e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_max_1.nbt"
+hash = "40f96906d26008d632d46b337e149282547a24285d3635d8c3e49e33b93bdd5c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_mega_1.nbt"
+hash = "5ffa5cfdf503bfdeee08f3c3ebe5d8d6a36f170759ad78c3043be3f73670a904"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/pack.mcmeta"
@@ -4494,11 +4510,11 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "f2f0fe31f0986e781a7b6e974c38578c13c7b3c2305b3a5d34c938d33a2d8396"
+hash = "33599b7f36e225707290290b81d92bf7f9e1ed88eea568e0d0b561d1df2f16b5"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "6f177afe643ee84432eef6f61fede6e2a3bff80d1d1a1082d0ddecb051a58667"
+hash = "c3707ec1d041a94becb48110e55eb283a06f917642dc3bdb05b6fbabb7f3593a"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
@@ -4517,6 +4533,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/axiom.dev.pw.toml"
+hash = "6566e83cbcd57285aa094a4cf12a2e7bec9336981c62cbb6827db5f32db93f26"
 metafile = true
 
 [[files]]
@@ -4635,6 +4656,11 @@ hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
+file = "mods/connector.dev.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "ad0d3c199591934bc2d2acdfb4e0008ec212a1c222c0d8bb6c8c6b8903519f16"
 metafile = true
@@ -4727,6 +4753,11 @@ metafile = true
 [[files]]
 file = "mods/fix-cobblemon-pokemon-experience.pw.toml"
 hash = "506d434b1b53569ab8070b6c9f397d81a8cf0fc21cc108bebac4c72fe0370731"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.dev.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]

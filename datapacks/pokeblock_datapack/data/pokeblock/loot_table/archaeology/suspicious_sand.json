@@ -178,6 +178,16 @@
           "type": "minecraft:item",
           "name": "cobblemon:prism_scale",
           "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:tumblestone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sky_tumblestone",
+          "weight": 1
         }
       ],
       "rolls": 1

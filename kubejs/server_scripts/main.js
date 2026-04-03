@@ -8,14 +8,17 @@ ServerEvents.tags("item", (event) => {
     "#minecraft:planks",
     "#minecraft:stone_bricks",
     "minecraft:bedrock",
+    "mega_showdown:mega_meteorid_block",
   ]);
 
   // Crop spawning with bone meal right click on grass (can spawn any flower)
   event.add("minecraft:flowers", "#farmersdelight:wild_crops", "cobblemon:revival_herb");
 });
 
-
 ServerEvents.recipes((event) => {
+  // Remove recepes for rare materials
+  event.remove({ id: "mega_showdown:deoxys_meteorite" });
+
   // Hammer on cutting board handling
   event.remove({ id: "onlyhammers:emerald_hammer" });
   event.remove({ id: "onlyhammers:lapis_hammer" });

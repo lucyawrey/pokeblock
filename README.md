@@ -11,6 +11,7 @@ An in-development Cobblemon Skyblock modpack for Minecraft by LucyAzalea.
 - No hunger interupting your Pokémon adventure. Food heals health over time instead.
 - Pokemon have jobs! Physic Pokémon and Pokémon that can have the pickup ability will pick up drops.
 - Renewable archeology blocks with intact brushable loot. Cobblestone generators have a chance to produce suspicious cobblestone which can be smashed with a hammer or millstone to make suspicious gravel and sand!
+- Craft a meteor beacon and pull down a meteor from space. Some regional mechanics and special Pokémon need materials from them.
 
 ## Credits
 - [pokeapi](https://pokeapi.co)

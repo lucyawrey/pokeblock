@@ -3,3 +3,6 @@
 *.csv
 **/node_modules
 working_notes.txt
+
+# Ignore dev mods
+**/*.dev.pw.toml

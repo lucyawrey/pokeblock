@@ -231,6 +231,13 @@
 		"basaltGen": {
 			"minecraft:bedrock": [
 				{
+					"id": "minecraft:glowstone",
+					"weight": 2.0,
+					"dimensions": [
+						"minecraft:the_nether"
+					]
+				},
+				{
 					"id": "minecraft:nether_gold_ore",
 					"weight": 10.0,
 					"dimensions": [
@@ -246,7 +253,7 @@
 				},
 				{
 					"id": "minecraft:blackstone",
-					"weight": 80.0,
+					"weight": 78.0,
 					"dimensions": [
 						"minecraft:the_nether"
 					]
