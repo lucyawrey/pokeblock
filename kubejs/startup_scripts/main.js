@@ -31,11 +31,17 @@ StartupEvents.registry("block", (event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
       const block = event.block;
       const server = event.server;
-      if (Math.random() < 0.04) {
-        server.runCommandSilent(`summon fireball ${block.x} ${block.y+20} ${block.z} {ExplosionPower:15,Motion:[0.0,-5.0,0.0]}`)
-        // TODO possible delay before next action `event.server.scheduleInTicks(()=>{})`
+      if (Math.random() < 0.035) {
+        server.runCommandSilent(
+          // TODO adjust explosion power to meteor size.
+          `summon fireball ${block.x} ${block.y + 60} ${block.z} {ExplosionPower:11,Motion:[0.0,-1.5,0.0]}`,
+        );
         // TODO create better meteor strcutures (multiple) and pick one randomly. Get explorted structure to work in datapack.
-        server.runCommandSilent(`place template pokeblock:meteor ${block.x-6} ${block.y-6} ${block.z-6}`)
+        event.server.scheduleInTicks(38, () => {
+          server.runCommandSilent(
+            `place template pokeblock:meteor ${block.x - 6} ${block.y - 6} ${block.z - 6}`,
+          );
+        });
       }
     });
 });

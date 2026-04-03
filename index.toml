@@ -429,7 +429,7 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulba
 hash = "6903f42f566af205d23d7b845531fd1690033289671ea3ad5f823cbaad99cbb8"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/structures/meteor.nbt"
+file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor.nbt"
 hash = "ecbf1366415990d9a81cb0fd8d30005a9bd036540e6e5a11fbd5094189423247"
 
 [[files]]
@@ -4498,7 +4498,7 @@ hash = "f2f0fe31f0986e781a7b6e974c38578c13c7b3c2305b3a5d34c938d33a2d8396"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "1bd8340da2860f96f9e3fc6b0123560e845ac745d392560d9b852d976dab3eb1"
+hash = "6f177afe643ee84432eef6f61fede6e2a3bff80d1d1a1082d0ddecb051a58667"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
