@@ -27,16 +27,17 @@ StartupEvents.registry("block", (event) => {
     .resistance(10)
     .requiresTool(true)
     .tagBlock("minecraft:mineable/pickaxe")
-    .randomTick((callback) => {
+    .randomTick((event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
-      const level = callback.level;
-      const block = callback.block;
+      const level = event.level;
+      const block = event.block;
+      const server = event.server;
       if (Math.random() < 0.9) {
         console.log("Ticked.");
         // TODO make explosion work
         level.createExplosion(block.x, block.y, block.z).causesFire(false).exploder(block).explosionMode("block").explode();
         // TODO custom structure, make placing structure commadn actualy work
-        level.runCommand(`place structure mega_showdown:megaroid ${block.x} ${block.y} ${block.z}`)
+        server.runCommandSilent(`place structure mega_showdown:megaroid ${block.x} ${block.y} ${block.z}`)
       }
     });
 });
