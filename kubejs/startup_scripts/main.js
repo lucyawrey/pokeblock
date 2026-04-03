@@ -38,8 +38,9 @@ StartupEvents.registry("block", (event) => {
         );
         // TODO create better meteor strcutures (multiple) and pick one randomly. Get explorted structure to work in datapack.
         event.server.scheduleInTicks(38, () => {
+          const structure = ["pokeblock:meteor", "pokeblock:meteor"];
           server.runCommandSilent(
-            `place template pokeblock:meteor ${block.x - 6} ${block.y - 6} ${block.z - 6}`,
+            `place template ${structure} ${block.x - 6} ${block.y - 6} ${block.z - 6}`,
           );
         });
       }
