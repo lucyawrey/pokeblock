@@ -31,11 +31,11 @@ StartupEvents.registry("block", (event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
       const block = event.block;
       const server = event.server;
-      if (Math.random() < 0.5) {
+      if (Math.random() < 0.04) {
         server.runCommandSilent(`summon fireball ${block.x} ${block.y+20} ${block.z} {ExplosionPower:15,Motion:[0.0,-5.0,0.0]}`)
         // TODO possible delay before next action `event.server.scheduleInTicks(()=>{})`
-        // TODO custom structure, make placing structure commadn actualy work
-        server.runCommandSilent(`place structure mega_showdown:megaroid ${block.x} ${block.y} ${block.z}`)
+        // TODO create better meteor strcutures (multiple) and pick one randomly. Get explorted structure to work in datapack.
+        server.runCommandSilent(`place template pokeblock:meteor ${block.x-6} ${block.y-6} ${block.z-6}`)
       }
     });
 });
