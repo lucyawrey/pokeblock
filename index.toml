@@ -297,12 +297,20 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/gr
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/crimsite.json"
+hash = "ac9811b0b9aac8200ca0d4c94d526edb68ac6752c2784509b0441bd51cdae32a"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/suspicious_gravel.json"
 hash = "cf80aa46a4b2f686b12e90ad4787a27f0a26e437f39d35eb3c5f1466a2523e82"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/suspicious_sand.json"
 hash = "49b12dba616b370c896e41c2accd891ea9bf2378fb42a8b104c1c3ef0f643d09"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/veridium.json"
+hash = "da59fefdc46a64d0ecf451b7358069ae247a9a1d1d55eeb84caa81b8f269c138"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0001_bulbasaur.json"
@@ -4514,7 +4522,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "33599b7f36e225707290290b81d92bf7f9e1ed88eea568e0d0b561d1df2f16b5"
+hash = "565f4aea3677b175ca6775d9c58c353152ca9d77152b2076d2bea305be63b37a"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

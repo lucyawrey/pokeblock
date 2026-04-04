@@ -1,14 +1,10 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Chance of mega meteorid block from crushing crimsite (iron).
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
-- [ ] #c:grasses tag = minecraft:short_grass, minecraft:tall_grass, minecraft:fern
 - [ ] Way to get mushrooms including max mushrooms for dynamax.
 - [ ] Way to get blank z crystals (maybe just craft them).
-- [ ] Cobblemon configuration
-    - [ ] Possibly make rarer rarity buckets slightly more common.
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Also add medicinal leaks!
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.

@@ -11,8 +11,19 @@ ServerEvents.tags("item", (event) => {
     "mega_showdown:mega_meteorid_block",
   ]);
 
+  // Habitat tags for cobblemon
+  event.add("c:grasses", [
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+  ]);
+
   // Crop spawning with bone meal right click on grass (can spawn any flower)
-  event.add("minecraft:flowers", "#farmersdelight:wild_crops", "cobblemon:revival_herb");
+  event.add(
+    "minecraft:flowers",
+    "#farmersdelight:wild_crops",
+    "cobblemon:revival_herb",
+  );
 });
 
 ServerEvents.recipes((event) => {
