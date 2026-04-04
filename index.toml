@@ -4505,8 +4505,20 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/pokeblock/models/block/articuno_pedestal.json"
+hash = "fd21c5f93d1322969cf29a5694da25874fdd4f255712f0f7f6d00a662ccdcdac"
+
+[[files]]
 file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
 hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
+hash = "2f0fe4d5079880f7e37bb701f22c7a1a32ab0e7c4be17eeecb086cac78f56577"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/base_pedestal.png"
+hash = "7a2a5c9d7a2452d2311bdfa57c01c66c18e9f61badcb70ebbabe04640d44b574"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
@@ -4533,8 +4545,16 @@ file = "kubejs/config/web_server.json"
 hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
+file = "kubejs/server_scripts/legendary-shrines.js"
+hash = "cd1737f62f72147992b38680f0f96582c144d1a9481b81ac2f60cf1e046e9d7b"
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "aa902c381b79099d0fb4128b76acae1f81ecafd019955bb9411b8484849ac636"
+hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
+
+[[files]]
+file = "kubejs/startup_scripts/legendary-shrines.js"
+hash = "3c3adfb606893be354d1fec6955d85af16bb97222316cdc2a2663f381447710d"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
