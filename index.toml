@@ -10,7 +10,11 @@ hash = "6bccd37f57f83ac31d43850c06e40baaa17474972e024ac977462ae0885b9fc2"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "64f2f6235d10b75c148763e367ec1444d5a7c0e18b4fc037f40b53f0c9a07e83"
+hash = "4d53dbd0400476f45fef6ebd5637bbfd166bc069dc5cb443abe1265963c1471d"
+
+[[files]]
+file = "config/cobblemon/spawning/best-spawner-config.json"
+hash = "3a4f64178d063a9f06a1d20af956ad1e343fc256c245c360b8a44141a37dd22b"
 
 [[files]]
 file = "config/cobblenav/client-config.json"

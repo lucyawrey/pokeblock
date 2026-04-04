@@ -8,7 +8,6 @@
 - [ ] Way to get mushrooms including max mushrooms for dynamax.
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Cobblemon configuration
-    - [ ] Probably tone down Pokémon spawns quanitty and density slightly.
     - [ ] Possibly make rarer rarity buckets slightly more common.
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Also add medicinal leaks!
