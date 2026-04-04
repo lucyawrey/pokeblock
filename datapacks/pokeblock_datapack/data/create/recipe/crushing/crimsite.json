@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "create:veridium"
+      "item": "create:crimsite"
     }
   ],
   "processing_time": 250,
@@ -14,6 +14,10 @@
     {
       "chance": 0.8,
       "id": "create:copper_nugget"
+    },
+    {
+      "chance": 0.02,
+      "id": "mega_showdown:mega_meteorid_block"
     }
   ]
 }

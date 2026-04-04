@@ -139,9 +139,7 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
       for (let z = minZ; z <= maxZ; z++) {
         let test = level.getBlock(x, y, z);
         if (test.hasTag("minecraft:beds")) {
-          if (!test.properties.occupied) {
-            bed = true;
-          }
+          bed = true;
         } else if (test.id === "minecraft:water") {
           water = true;
         }

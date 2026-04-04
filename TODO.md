@@ -6,7 +6,7 @@
 - [ ] Way to get mushrooms including max mushrooms for dynamax.
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Create all Pokémon spawning rules.
-- [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Also add medicinal leaks!
+- [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
 - [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys meeorite, shadow pokemon mats, and others.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
@@ -16,7 +16,6 @@
     - Create custom shadow meteor for meteor beacons.
     - Craftable purification shrine.
 - [ ] Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
-- [ ] Modify Legendary Monuments *or* create new mod to handle legendary summoning shrines.
 - [ ] Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
 - [ ] Craftable Elytra.
 - [ ] Rename shulker boxes to Apricorn Boxes, replace with new crafting recipe (7 apricorns, 1 psychic eye, 1 chest) with colors!
@@ -24,11 +23,21 @@
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
 - [ ] Figure out why cobbleworkers item pikcup is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins or sophisticated storage for magnet chests.
+- [ ] Configure CobbleDollars merchant stock
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
-- [ ] Migrate to github tasks, create completed tasks for old tasks in order to better track modpack feartures.
+- [ ] Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - [ ] Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
+- [ ] Modify Legendary Monuments *or* create new mod to handle legendary summoning shrines. (Large Task)
+- [ ] Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
+    - [ ] Look into how cobblemon and Radical Trainers handle NPCs.
+    - [ ] NPCs should spawn automatically but not immediately once you build a proper enviornment for them.
+    - [ ] NPCs should all be named and unique (will never attemt to spawn a duplicate of an NPC even if a valid enviornment for them exists within the same dimension and a certain large radius) NPCs can respawn if voided.
+    - [ ] NPCs should be immune to player damage and persistant (will not despawn).
+    - [ ] NPCs can be Social, Trainers, or Merchants.
+    - [ ] All NPCs have chat dialogue.
+    - [ ] No NPCs look like vilagers.
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.

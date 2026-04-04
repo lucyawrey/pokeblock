@@ -6,3 +6,4 @@ scripts
 *.csv
 **/node_modules
 working_notes.txt
+dev_mods
