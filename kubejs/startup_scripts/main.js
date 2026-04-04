@@ -37,7 +37,7 @@ StartupEvents.registry("block", (event) => {
           `summon fireball ${block.x} ${block.y + 60} ${block.z} {ExplosionPower:11,Motion:[0.0,-1.5,0.0]}`,
         );
         // TODO create better meteor strcutures (multiple) and pick one randomly. Get explorted structure to work in datapack.
-        event.server.scheduleInTicks(38, () => {
+        server.scheduleInTicks(38, () => {
           const structures = [
             "pokeblock:meteor_mega_1",
             "pokeblock:meteor_keystone_1",

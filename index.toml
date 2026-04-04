@@ -4546,7 +4546,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "cd1737f62f72147992b38680f0f96582c144d1a9481b81ac2f60cf1e046e9d7b"
+hash = "e90be4921ede78db25143470b50c9d27ffa6d5e8cb5d37ed686750670a425b81"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4554,11 +4554,11 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "3c3adfb606893be354d1fec6955d85af16bb97222316cdc2a2663f381447710d"
+hash = "b59befd8174dd36312b6887353002a9b5f8a0a5df5d218827277bada4b7f0bab"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "c3707ec1d041a94becb48110e55eb283a06f917642dc3bdb05b6fbabb7f3593a"
+hash = "38f0b4892c80d5c32b4d3921089e8df8c4bbbc8ad48c53ddf76edf7e95ab88a5"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
