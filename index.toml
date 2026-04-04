@@ -233,6 +233,10 @@ file = "datapacks/pokeblock_datapack/data/cobblemon/recipe/master_ball.json"
 hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/create/recipe/crushing/crimsite.json"
+hash = "da59fefdc46a64d0ecf451b7358069ae247a9a1d1d55eeb84caa81b8f269c138"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/create/recipe/milling/dirt.json"
 hash = "8576aa1a94a32c5eb3618d98aee11fd55dbd2f7f43434b45fb08f2899414c70c"
 
@@ -289,6 +293,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspi
 hash = "870b56918e42225f4222e323bd633571663db297bd687746523fc70de00413a4"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/bell.json"
+hash = "e786257a1d0246efa0d2dfd9c5623e58085ab4f443f81f1d1f6a70866899dabb"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
 hash = "7bca1e52f03553c3be4982d7991ae0ba0e740356f914a3ca9c64011d2f5213d0"
 
@@ -314,15 +322,15 @@ hash = "da59fefdc46a64d0ecf451b7358069ae247a9a1d1d55eeb84caa81b8f269c138"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0001_bulbasaur.json"
-hash = "c38c9dcfcf16141dbe21ac69d6630cf9e233bcb776221e7201d9c8ccf444a233"
+hash = "da0d8b8dbf27fe4ef8d4b7a25d7526f1cb798ffe753954b657565376def2e1b4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0002_ivysaur.json"
-hash = "795fd302accf2a536afcc65a6b7915bf1ec3ffcdee01eee33fff75c2718b990c"
+hash = "9b364a347da1904a48b85f49d89e76ab16271778f6180ffd75c39dca6c708ab0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0003_venusaur.json"
-hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
+hash = "dd81fd114f5856227b13d21b37e2885c4adf78b14570a78e59a696f8a76a3ef4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0004_charmander.json"
@@ -386,11 +394,11 @@ hash = "ab94943d3dddd33e037d79050068e29acb89835efb610af457350f200338b833"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0019_rattata.json"
-hash = "3c7f244662aa577c24717d02f8c67d167931044f49561e46d62dab22de2ee521"
+hash = "1d8b31686286f4d45be2740f0c0dead86c239f1a7b4e25c53ce365935dc01570"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0020_raticate.json"
-hash = "7c3593d92b82345b3791e95f563bea8b3de901c1b1fd54a4101b83afd052b42a"
+hash = "667eb32310e51d863ce0748d624eb0bf8446ca8f68d969f6e3b0259286410c79"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0021_spearow.json"
@@ -402,19 +410,19 @@ hash = "28464aa10aa3afd236428d178274e24b0bc728dabc3e9351325a1ef58955a2b4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans.json"
-hash = "16e8c8d6dd849bc084edf1e1efc008ef56f9d1fec158882fe0d8a9b7b63b1a48"
+hash = "71f4442c7d875bca7be85068113d1e8abe74549554326f213f970a3bf0ee3dc5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok.json"
-hash = "21761eea74ff1c1bfc77f76ac326cb626b6fab3b6938bda7976f09dc9cd36757"
+hash = "e8ea9d8758639ab8efe5cb8784c785af93063faf41c394f48fbb078e7e0a9f03"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu.json"
-hash = "18d985078e3a698a42d222f51ff89995f8833f0b02f72d2afcacaa4370585abd"
+hash = "a83ce581977fa9ae5ec16a96a820f3019a92c36e45c10414dcbfa9db805750ed"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0026_raichu.json"
-hash = "22531e14790fadb0c93c907876d982b51002a5ca530fc0ae7440c9fc9a425f63"
+hash = "6667c270ba37583e209afb0b6dfa5f64747482fbb6b69149582b866113f5bfdc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0027_sandshrew.json"
@@ -4522,7 +4530,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "565f4aea3677b175ca6775d9c58c353152ca9d77152b2076d2bea305be63b37a"
+hash = "46374991b1d833686a8dc0ad5056cf9277b8622887d3f8d996ef1f164101539b"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

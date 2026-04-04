@@ -20,9 +20,7 @@
         ],
         "timeRange": "night",
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#c:grasses"
         ]
       }
     }

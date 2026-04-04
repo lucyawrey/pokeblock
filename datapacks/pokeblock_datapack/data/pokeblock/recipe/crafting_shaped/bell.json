@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "tag": "c:ropes"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "N": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "R",
+    "B",
+    "N"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bell"
+  }
+}
