@@ -1,5 +1,6 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Create snowfall at high enough y level.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
     - [ ] Change MSD pedestal to use legendary monumnets model.
@@ -48,7 +49,9 @@
         - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
         - [ ] Ask permission from Legendary Monuments to borrow assets. (permissiable by liecense but I want to be sure).
         - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
-- [ ] Fix Skyblock Builder spawn protection not preventing harvesting berries and taking items from display cases.
+- [ ] Skyblock Builder Fixes
+    - [ ] Spawn protection not preventing harvesting berries and taking items from display cases.
+    - [ ] Home island spawn in waterfall for some reason.
 - [ ] Create Lore!
     - [ ] Journal entries in island starting chest, in the nether, and in one of the meteorites.
     - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
