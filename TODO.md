@@ -4,7 +4,6 @@
 - [ ] Legendary Summoning Shrines.
     - [ ] Output missing shrine items to player.
     - [ ] Add more legendary Pokémon.
-    - [ ] Support shared pedestal between multiple Pokémon (example: Spacetime Pedestal for Dialga and Palkia)
     - [ ] Add more special effects (compare to legendary monuments summoning).
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
