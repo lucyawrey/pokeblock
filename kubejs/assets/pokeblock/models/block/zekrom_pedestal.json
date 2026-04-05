@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/zekrom_pedestal",
-		"particle": "legendarymonuments:block/zekrom_pedestal"
+		"0": "pokeblock:block/zekrom_pedestal",
+		"particle": "pokeblock:block/zekrom_pedestal"
 	},
 	"elements": [
 		{

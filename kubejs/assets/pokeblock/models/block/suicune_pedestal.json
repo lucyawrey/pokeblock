@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/suicune_pedestal",
-		"particle": "legendarymonuments:block/suicune_pedestal"
+		"0": "pokeblock:block/suicune_pedestal",
+		"particle": "pokeblock:block/suicune_pedestal"
 	},
 	"elements": [
 		{

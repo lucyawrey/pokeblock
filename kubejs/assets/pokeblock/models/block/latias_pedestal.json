@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/lati_pedestal",
-		"particle": "legendarymonuments:block/lati_pedestal"
+		"0": "pokeblock:block/lati_pedestal",
+		"particle": "pokeblock:block/lati_pedestal"
 	},
 	"elements": [
 		{

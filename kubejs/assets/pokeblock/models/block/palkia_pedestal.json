@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "legendarymonuments:block/palkia_pedestal",
-		"particle": "legendarymonuments:block/palkia_pedestal"
+		"2": "pokeblock:block/palkia_pedestal",
+		"particle": "pokeblock:block/palkia_pedestal"
 	},
 	"elements": [
 		{

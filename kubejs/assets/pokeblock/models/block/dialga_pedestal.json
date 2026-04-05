@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/dialga_pedestal",
-		"particle": "legendarymonuments:block/dialga_pedestal"
+		"0": "pokeblock:block/dialga_pedestal",
+		"particle": "pokeblock:block/dialga_pedestal"
 	},
 	"elements": [
 		{

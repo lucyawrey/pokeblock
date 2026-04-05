@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "legendarymonuments:block/zamazenta_pedestal",
-		"particle": "legendarymonuments:block/zamazenta_pedestal"
+		"2": "pokeblock:block/zamazenta_pedestal",
+		"particle": "pokeblock:block/zamazenta_pedestal"
 	},
 	"elements": [
 		{

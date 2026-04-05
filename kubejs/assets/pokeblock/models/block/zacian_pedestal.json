@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "legendarymonuments:block/zacian_pedestal",
-		"particle": "legendarymonuments:block/zacian_pedestal"
+		"1": "pokeblock:block/zacian_pedestal",
+		"particle": "pokeblock:block/zacian_pedestal"
 	},
 	"elements": [
 		{

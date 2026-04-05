@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/hoopa_pedestal",
-		"particle": "legendarymonuments:block/hoopa_pedestal"
+		"0": "pokeblock:block/hoopa_pedestal",
+		"particle": "pokeblock:block/hoopa_pedestal"
 	},
 	"elements": [
 		{

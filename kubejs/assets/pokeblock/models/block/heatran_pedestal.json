@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/heatran_pedestal",
-		"particle": "legendarymonuments:block/heatran_pedestal"
+		"0": "pokeblock:block/heatran_pedestal",
+		"particle": "pokeblock:block/heatran_pedestal"
 	},
 	"elements": [
 		{

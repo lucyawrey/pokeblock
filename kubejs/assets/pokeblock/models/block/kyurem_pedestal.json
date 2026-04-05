@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/kyurem_pedestal",
-		"particle": "legendarymonuments:block/kyurem_pedestal"
+		"0": "pokeblock:block/kyurem_pedestal",
+		"particle": "pokeblock:block/kyurem_pedestal"
 	},
 	"elements": [
 		{

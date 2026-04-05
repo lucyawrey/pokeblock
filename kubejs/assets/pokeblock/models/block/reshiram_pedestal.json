@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/reshiram_pedestal",
-		"particle": "legendarymonuments:block/reshiram_pedestal"
+		"0": "pokeblock:block/reshiram_pedestal",
+		"particle": "pokeblock:block/reshiram_pedestal"
 	},
 	"elements": [
 		{

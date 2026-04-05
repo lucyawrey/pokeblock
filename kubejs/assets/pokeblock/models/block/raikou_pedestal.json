@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/raikou_pedestal",
-		"particle": "legendarymonuments:block/raikou_pedestal"
+		"0": "pokeblock:block/raikou_pedestal",
+		"particle": "pokeblock:block/raikou_pedestal"
 	},
 	"elements": [
 		{

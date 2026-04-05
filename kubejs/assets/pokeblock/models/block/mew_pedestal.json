@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "legendarymonuments:block/pedastal",
-		"particle": "legendarymonuments:block/pedastal"
+		"0": "pokeblock:block/pedastal",
+		"particle": "pokeblock:block/pedastal"
 	},
 	"elements": [
 		{

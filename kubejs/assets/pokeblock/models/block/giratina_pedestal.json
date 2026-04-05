@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "legendarymonuments:block/giratina_pedestal",
-		"particle": "legendarymonuments:block/giratina_pedestal"
+		"1": "pokeblock:block/giratina_pedestal",
+		"particle": "pokeblock:block/giratina_pedestal"
 	},
 	"elements": [
 		{

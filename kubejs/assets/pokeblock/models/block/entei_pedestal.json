@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "legendarymonuments:block/entei_pedestal",
-		"particle": "legendarymonuments:block/entei_pedestal"
+		"1": "pokeblock:block/entei_pedestal",
+		"particle": "pokeblock:block/entei_pedestal"
 	},
 	"elements": [
 		{
