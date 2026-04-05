@@ -114,11 +114,11 @@ hash = "fa2bc72d8214cac2a697941e47ebb015d41765dff5332bc37e91460dbaf3c6c5"
 
 [[files]]
 file = "config/skyblockbuilder/templates.json5"
-hash = "12c72f022a5806bc0423f311e728c85b6aab222264eeb51eb0e1075fe7141d9c"
+hash = "e427510c02216526c52e4d3551dd64136adc75646ca1c496786a164716f598b9"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
-hash = "b0cf51f3158ddbd8dbb225f92f8d6f28ffa34fc1f3f1c86f0035357e3fe009e5"
+hash = "2490bac5374cf5423613c82e4cd8147466c2c4ba7e448aacd2ba5bafbf126704"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/pokeblock.nbt"
