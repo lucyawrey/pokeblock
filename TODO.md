@@ -1,5 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
+- [ ] Legendary Summoning Shrines.
+    - [ ] Output missing shrine items to player.
+    - [ ] Add more legendary Pokémon.
+    - [ ] Add more special effects (compare to legendary monuments summoning).
+    - [ ] Add better spawn positioning.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
@@ -8,7 +14,7 @@
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
-- [ ] Create meteor beacon mod to summon meteors and obtain mega showdown mats, deoxys meeorite, shadow pokemon mats, and others.
+- [ ] Create custom creative tab for items added via kubejs.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
     - [ ] https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - [ ] Shadow Pokémon from Shadowed Hearts.
@@ -22,17 +28,13 @@
 - [ ] Setup default controls and other core settings
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
-- [ ] Figure out why cobbleworkers item pikcup is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins or sophisticated storage for magnet chests.
+- [ ] Figure out why cobbleworkers item pick-up is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins or sophisticated storage for magnet chests.
 - [ ] Configure CobbleDollars merchant stock
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
 - [ ] Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - [ ] Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
-- [ ] Legendary Summoning Shrines.
-    - [ ] Add more legendary Pokémon.
-    - [ ] Add more special effects (compare to legendary monuments summoning).
-    - [ ] Add better spawn positioning.
 - [ ] Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
     - [ ] Look into how cobblemon and Radical Trainers handle NPCs.
     - [ ] NPCs should spawn automatically but not immediately once you build a proper enviornment for them.
@@ -41,6 +43,12 @@
     - [ ] NPCs can be Social, Trainers, or Merchants.
     - [ ] All NPCs have chat dialogue.
     - [ ] No NPCs look like vilagers.
+    - [ ] Permissions and Credits
+        - [ ] Create proper credits list for all used mods and include in readme and description.
+        - [ ] Verify licence of all mods in modpack.
+        - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
+        - [ ] Ask permission from legendary monuments to borrow assets. (permissiable by liecense but I want to be sure).
+        - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.

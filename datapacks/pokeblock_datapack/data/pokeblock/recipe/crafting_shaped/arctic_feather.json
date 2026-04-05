@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "g": {
+      "item": "cobblemon:flying_gem"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "cobblemon:ice_gem"
+    },
+    "N": {
+      "item": "cobblemon:never_melt_ice"
+    },
+    "F": {
+      "item": "cobblemon:clever_feather"
+    }
+  },
+  "pattern": [
+    "gDG",
+    "NFN",
+    "GDg"
+  ],
+  "result": {
+    "count": 1,
+    "id": "pokeblock:arctic_feather"
+  }
+}

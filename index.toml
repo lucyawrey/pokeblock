@@ -293,6 +293,14 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspi
 hash = "870b56918e42225f4222e323bd633571663db297bd687746523fc70de00413a4"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_feather.json"
+hash = "84f9facc3432cb91171c26e2514b865cf5a200ebf68b007ee893ad96cb6b27c3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/articuno_pedestal.json"
+hash = "86a6af22f924cc8d3f629c68912732ce052883f5094ff927005b90e0cad245a1"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/bell.json"
 hash = "e786257a1d0246efa0d2dfd9c5623e58085ab4f443f81f1d1f6a70866899dabb"
 
@@ -4529,6 +4537,10 @@ file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
 hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
 
 [[files]]
+file = "kubejs/assets/pokeblock/textures/item/arctic_feather.png"
+hash = "44f4431e387a4024f05759ddda4609ccea5f7f6ad16f4c5eb4a194dec59ddd9a"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "d85faaa30225f6a8c32ff767550266fb54d07eae633c3cb41c1eaed305dd2308"
 
@@ -4554,7 +4566,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "dd8af7d2f8b1eba709de6021b148a9f1cfa83fe65c62a8ca0968075e770299f6"
+hash = "6d3deb71e3bcde1c7d9e0fdc1d63e5eb62e1c22b76aa1022ca0dfd078d1ae90c"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

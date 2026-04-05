@@ -5,7 +5,7 @@ global.legendaryPokemon = [
     level: "60",
     summonItem: "pokeblock:arctic_feather",
     newSummonItem: true,
-    requiredBlocks: { "minecraft:ice": 50, "minecraft:cobblestone": 4 },
+    requiredBlocks: {"minecraft:polished_diorite": 20, "minecraft:ice": 20, "minecraft:packed_ice": 10, "minecraft:blue_ice": 10, "minecraft:diamond_block": 1 },
   },
 ];
 
