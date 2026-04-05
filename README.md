@@ -22,6 +22,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 ## Credits
 - Cobblemon
 - Create
+- [Legendary Monuments](https://modrinth.com/mod/legendary-monuments) for certain textures and models.
 - more credits coming soon...
 
 # Development
