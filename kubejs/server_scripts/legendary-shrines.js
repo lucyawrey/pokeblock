@@ -63,7 +63,7 @@ for (let pokemon of global.legendaryPokemon) {
       } else {
         let itemName = Item.of(pokemon.summonItem).hoverName.string;
         player.tell(
-          `That offering... it is not the right one. Bring the ${itemName} to the shrine.`,
+          `That offering... it is not the right one. Bring the ${itemName} to this shrine.`,
         );
       }
     } else {

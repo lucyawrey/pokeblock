@@ -2,9 +2,9 @@
 ## Normal Priority
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
-    - [ ] Output missing shrine items to player.
+    - [ ] Change MSD pedestal to use legendary monumnets model.
     - [ ] Add more legendary Pokémon.
-    - [ ] Add more special effects (compare to legendary monuments summoning).
+    - [ ] Add more special effects when summoning.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
@@ -48,14 +48,17 @@
         - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
         - [ ] Ask permission from Legendary Monuments to borrow assets. (permissiable by liecense but I want to be sure).
         - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
+- [ ] Fix Skyblock Builder spawn protection not preventing harvesting berries and taking items from display cases.
+- [ ] Create Lore!
+    - [ ] Journal entries in island starting chest, in the nether, and in one of the meteorites.
+    - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom pack menu.
 - [ ] Consider renaming pack to Cobbleblock.
 - [ ] Remove ancient pokeballs from cobblemon create
 - [ ] Update master ball recipe for cobblemon create
-- [ ] Fix Skyblock Builder World Spawn
-- [ ] Deepslate ores at low y values
+- [ ] Deepslate ores at low y values.
 - [ ] Consider adding a minimap back along with good default config (inlcuding minimap toggle, mini map not in the way of Pokémon and xaeroscobblemon resourcepack).
 - [ ] Allow users to reenable vanilla mob spawning
 - [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.

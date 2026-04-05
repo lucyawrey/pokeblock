@@ -66,7 +66,7 @@ hash = "234dcee4146f621111db7f1a78a4ed44cdffbef678f469397bc3f19adc1a61c9"
 
 [[files]]
 file = "config/skyblockbuilder/customization.json5"
-hash = "832c788572855cded3a382925dc44af4bd16c17fbd97545879d634787c53e6f0"
+hash = "40068e91190fb1eb24dd8ba5af7159fc33f189b597d6abf306b1d5b3b675678b"
 
 [[files]]
 file = "config/skyblockbuilder/data/biomes.txt"
@@ -98,11 +98,11 @@ hash = "280841671b1ec1205ae7d16d511b11fcc581656c3358b8d128451e2c748f76a7"
 
 [[files]]
 file = "config/skyblockbuilder/permissions.json5"
-hash = "5f4ee4e56e3dedec0dd8ce354d28601ab01769c481e70f2b257bab92e8dd7805"
+hash = "2b5fa13b87bbfa904284f65ee7f0177df07f3c584b6ed91fc8f8d851d53c4d41"
 
 [[files]]
 file = "config/skyblockbuilder/spawn.json5"
-hash = "dc512d8e7858719282097b062548dfde2b6c0c603802f948eca92c9bbeb60693"
+hash = "4fd461d45fbf31fdd0db9335a09878a70186023cd9c48e47cd988ed990636988"
 
 [[files]]
 file = "config/skyblockbuilder/starter_inventory.json5"
@@ -4714,7 +4714,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "d2f8abe3003298e9637b735b904558c0de6139cbde16b6e58e38c2881056f116"
+hash = "04e27d336af9c0eeb8b54eaa12d114f3320f9ce8f452b4e5ad94f0c507aedf5a"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4939,7 +4939,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "68e0010a541dfab4ada1786114b5ac4cbd5b083519663757fcdad0a0fe186aab"
+hash = "345aafba9f5ae662ff82825aef1384aa5cfe2e952afd28c950b1553e6be464ef"
 metafile = true
 
 [[files]]
