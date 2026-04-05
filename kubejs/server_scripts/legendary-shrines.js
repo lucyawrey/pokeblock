@@ -3,7 +3,7 @@ const cooldownTime = 1000;
 let lastClickTime = Date.now();
 
 for (let pokemon of global.legendaryPokemon) {
-  BlockEvents.rightClicked(`pokeblock:${pokemon.id}_pedestal`, (event) => {
+  BlockEvents.rightClicked(pokemon.summonPedestal, (event) => {
     // Cooldown
     if (Date.now() < lastClickTime + cooldownTime) {
       return;
