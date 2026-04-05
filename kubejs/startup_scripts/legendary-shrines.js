@@ -4,7 +4,7 @@ global.legendaryPokemon = [
     name: "Articuno",
     level: "60",
     data: "min_perfect_ivs=3",
-    summonItem: "pokeblock:arctic_feather",
+    summonItem: "pokeblock:arctic_wing",
     newSummonItem: true,
     requiredBlocks: {
       "minecraft:polished_diorite": 20,

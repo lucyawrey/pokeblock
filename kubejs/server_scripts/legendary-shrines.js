@@ -55,7 +55,7 @@ for (let pokemon of global.legendaryPokemon) {
           let data = pokemon.data ? `${pokemon.data} ` : "";
           let shiny = Math.random() < 1 / 4096 ? "shiny " : "";
           server.runCommandSilent(
-            `spawnpokemonat ${block.x + 1 + Math.random() * 5} ${block.y} ${block.z + 1 + Math.random() * 5} ${pokemon.id} ${shiny}${data}level=${pokemon.level}`,
+            `spawnpokemonat ${block.x + 1 + Math.random() * 4} ${block.y} ${block.z + 1 + Math.random() * 4} ${pokemon.id} ${shiny}${data}level=${pokemon.level}`,
           );
         });
       } else if (player.mainHandItem.id === "minecraft:air") {
