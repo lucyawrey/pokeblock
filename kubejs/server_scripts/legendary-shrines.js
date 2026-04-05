@@ -32,8 +32,6 @@ for (let pokemon of global.legendaryPokemon) {
         }
       }
     }
-    console.log(countedBlocks);
-    console.log(pokemon.requiredBlocks);
     // Check if counted blocks match the block requirements for a the current legendary Pokémon.
     let meetsBlockRequirements = true;
     for (const [key, value] of Object.entries(pokemon.requiredBlocks)) {
@@ -50,17 +48,25 @@ for (let pokemon of global.legendaryPokemon) {
         );
         player.mainHandItem.shrink(1);
         server.scheduleInTicks(100, () => {
+          const data = pokemon.data ? `${pokemon.data} ` : "";
+          const shiny = Math.random() < 1 / 4096 ? "shiny " : "";
           server.runCommandSilent(
-            `spawnpokemonat ${block.x + 1 + Math.random() * 5} ${block.y} ${block.z + 1 + Math.random() * 5} ${pokemon.id} level=${pokemon.level}`,
+            `spawnpokemonat ${block.x + 1 + Math.random() * 5} ${block.y} ${block.z + 1 + Math.random() * 5} ${pokemon.id} ${shiny}${data}level=${pokemon.level}`,
           );
         });
       } else if (player.mainHandItem.id === "minecraft:air") {
         player.tell(`The shrine to ${pokemon.name} is ready.`);
       } else {
-        player.tell(`That item... it is not the right one.`);
+        const itemName = pokemon.summonItem
+          .replace(/^.*\:/, "")
+          .replace(/^[-_]*(.)/, (_, c) => c.toUpperCase())
+          .replace(/[-_]+(.)/g, (_, c) => " " + c.toUpperCase());
+        player.tell(
+          `That offering... it is not the right one. Bring the ${itemName} to the shrine.`,
+        );
       }
     } else {
-      player.tell(`The shrine ${pokemon.name} is incomplete.`);
+      player.tell(`The shrine to ${pokemon.name} is incomplete. Missing `);
     }
   });
 }

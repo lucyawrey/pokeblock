@@ -10,7 +10,7 @@ hash = "6bccd37f57f83ac31d43850c06e40baaa17474972e024ac977462ae0885b9fc2"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "4d53dbd0400476f45fef6ebd5637bbfd166bc069dc5cb443abe1265963c1471d"
+hash = "e19c509c9597cf01674fbaf7a1c0e7b0ee7dc31ede843c4538b6d2d9e9426b0b"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -4558,7 +4558,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "98bfba0abb22bd9441ca2c5c91d5fe2189639707e02c3c0053df4ce3278925e3"
+hash = "c0020b620aa22be4f9cae820fd8b647e712422d4a37cea2d8718547a61081b33"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4566,7 +4566,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "6d3deb71e3bcde1c7d9e0fdc1d63e5eb62e1c22b76aa1022ca0dfd078d1ae90c"
+hash = "01a5d8faf2c3a3925326e9c7e3bbeba8ec1fa5851bbd24957caff47661a96acd"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

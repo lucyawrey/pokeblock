@@ -3,9 +3,16 @@ global.legendaryPokemon = [
     id: "articuno",
     name: "Articuno",
     level: "60",
+    data: "min_perfect_ivs=3",
     summonItem: "pokeblock:arctic_feather",
     newSummonItem: true,
-    requiredBlocks: {"minecraft:polished_diorite": 20, "minecraft:ice": 20, "minecraft:packed_ice": 10, "minecraft:blue_ice": 10, "minecraft:diamond_block": 1 },
+    requiredBlocks: {
+      "minecraft:polished_diorite": 20,
+      "minecraft:ice": 20,
+      "minecraft:packed_ice": 10,
+      "minecraft:blue_ice": 10,
+      "minecraft:diamond_block": 1,
+    },
   },
 ];
 
@@ -32,7 +39,9 @@ StartupEvents.registry("item", (event) => {
   for (let pokemon of global.legendaryPokemon) {
     // Optionally create summon item
     if (pokemon.newSummonItem) {
-      event.create(pokemon.summonItem).tag("pokeblock:legendary_summon_items");
+      event
+        .create(pokemon.summonItem)
+        .tag("pokeblock:legendary_summon_items");
     }
   }
 });

@@ -47,7 +47,7 @@
         - [ ] Create proper credits list for all used mods and include in readme and description.
         - [ ] Verify licence of all mods in modpack.
         - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
-        - [ ] Ask permission from legendary monuments to borrow assets. (permissiable by liecense but I want to be sure).
+        - [ ] Ask permission from Legendary Monuments to borrow assets. (permissiable by liecense but I want to be sure).
         - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
 
 ## Low Priority
