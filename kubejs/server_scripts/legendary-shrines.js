@@ -29,14 +29,6 @@ for (let pokemon of global.legendaryPokemon) {
           } else {
             countedBlocks[id] = countedBlocks[id] + 1;
           }
-          for (let tag of block.tags) {
-            tag = "#" + tag;
-            if (!countedBlocks[tag]) {
-              countedBlocks[tag] = 1;
-            } else {
-              countedBlocks[tag] = countedBlocks[tag] + 1;
-            }
-          }
         }
       }
     }
@@ -45,8 +37,7 @@ for (let pokemon of global.legendaryPokemon) {
     // Check if counted blocks match the block requirements for a the current legendary Pokémon.
     let meetsBlockRequirements = true;
     for (const [key, value] of Object.entries(pokemon.requiredBlocks)) {
-      if (!countedBlocks[key] || countedBlocks[key] != value) {
-
+      if (!countedBlocks[key] || countedBlocks[key] < value) {
         meetsBlockRequirements = false;
       }
     }
