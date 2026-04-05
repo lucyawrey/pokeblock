@@ -71,5 +71,7 @@ for (let pokemon of global.legendaryPokemon) {
         `The shrine to ${pokemon.name} is incomplete. Missing ${missingBlocks.join(", ")}.`,
       );
     }
+    // Prevent Default
+    event.cancel();
   });
 }
