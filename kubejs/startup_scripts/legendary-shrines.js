@@ -1,13 +1,17 @@
-global.legendaryPokemon = [{
-  id: "articuno",
-  name: "Articuno",
-  level: "60",
-  summonItem: "cobblemon:never_melt_ice",
-  nearbyBlock: "minecraft:ice",
-}];
+global.legendaryPokemon = [
+  {
+    id: "articuno",
+    name: "Articuno",
+    level: "60",
+    summonItem: "pokeblock:arctic_feather",
+    newSummonItem: true,
+    requiredBlocks: { "minecraft:ice": 1, "#c:cobblestones": 4 },
+  },
+];
 
 StartupEvents.registry("block", (event) => {
   for (let pokemon of global.legendaryPokemon) {
+    // Pedestal blocks
     event
       .create(`pokeblock:${pokemon.id}_pedestal`)
       .displayName(`${pokemon.name} Pedestal`)
@@ -17,8 +21,18 @@ StartupEvents.registry("block", (event) => {
       .soundType("stone")
       .hardness(10.0)
       .resistance(100)
+      .lightLevel(1.0)
       .requiresTool(true)
       .tagBlock("minecraft:mineable/pickaxe")
       .tagBlock("pokeblock:legendary_pedestals");
+  }
+});
+
+StartupEvents.registry("item", (event) => {
+  for (let pokemon of global.legendaryPokemon) {
+    // Optionally create summon item
+    if (pokemon.newSummonItem) {
+      event.create(pokemon.summonItem).tag("pokeblock:legendary_summon_items");
+    }
   }
 });

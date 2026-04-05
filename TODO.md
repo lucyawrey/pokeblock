@@ -29,7 +29,10 @@
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
 - [ ] Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - [ ] Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
-- [ ] Modify Legendary Monuments *or* create new mod to handle legendary summoning shrines. (Large Task)
+- [ ] Legendary Summoning Shrines.
+    - [ ] Add more legendary Pokémon.
+    - [ ] Add more special effects (compare to legendary monuments summoning).
+    - [ ] Add better spawn positioning.
 - [ ] Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
     - [ ] Look into how cobblemon and Radical Trainers handle NPCs.
     - [ ] NPCs should spawn automatically but not immediately once you build a proper enviornment for them.
