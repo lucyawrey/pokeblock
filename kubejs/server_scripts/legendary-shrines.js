@@ -1,3 +1,7 @@
+const blockMap = {
+  "minecraft:fire": "Fire",
+};
+
 // Cooldown
 const cooldownTime = 1000;
 let lastClickTime = Date.now();
@@ -38,7 +42,7 @@ for (let pokemon of global.legendaryPokemon) {
     for (let [key, value] of Object.entries(pokemon.requiredBlocks)) {
       if (!countedBlocks[key] || countedBlocks[key] < value) {
         meetsBlockRequirements = false;
-        let itemName = Item.of(key).hoverName.string;
+        let itemName = blockMap[key] ? blockMap[key] : Item.of(key).hoverName.string;
         let missingNo = value - (countedBlocks[key] || 0);
         missingBlocks.push(`${missingNo}× ${itemName}`);
       }

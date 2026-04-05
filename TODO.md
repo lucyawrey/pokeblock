@@ -1,10 +1,14 @@
 # Pokéblock Todo
 ## Normal Priority
+- [ ] Add back sophisticated storage.
+- [ ] Furniture mods.
 - [ ] Create snowfall at high enough y level.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
-    - [ ] Change MSD pedestal to use legendary monumnets model.
-    - [ ] Add more legendary Pokémon.
+    - [ ] Better summon wing textures.
+    - [ ] Moltres item and shrine recipes.
+    - [ ] Zapdos.
+    - [ ] Add even more legendary Pokémon.
     - [ ] Add more special effects when summoning.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
@@ -14,7 +18,7 @@
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
 - [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
-- [ ] Create custom creative tab for items added via kubejs.
+- [ ] Create custom creative tab and item categories for items added via kubejs.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
     - [ ] https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - [ ] Shadow Pokémon from Shadowed Hearts.

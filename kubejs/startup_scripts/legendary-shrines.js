@@ -16,6 +16,23 @@ global.legendaryPokemon = [
       "minecraft:diamond_block": 1,
     },
   },
+  {
+    id: "moltres",
+    name: "Moltres",
+    level: "60",
+    data: "min_perfect_ivs=3",
+    summonPedestal: "pokeblock:moltres_pedestal",
+    newSummonPedestal: true,
+    summonItem: "pokeblock:molten_wing",
+    newSummonItem: true,
+    requiredBlocks: {
+      "minecraft:polished_blackstone": 30,
+      "minecraft:fire": 10,
+      "minecraft:netherrack": 10,
+      "minecraft:nether_bricks": 10,
+      "minecraft:gold_block": 3,
+    },
+  },
 ];
 
 StartupEvents.registry("block", (event) => {

@@ -4569,6 +4569,10 @@ file = "kubejs/assets/pokeblock/models/block/mew_pedestal.json"
 hash = "a620255943233f6b5331a583163534020f8d60c47c6c4d63e06a57019525fb4b"
 
 [[files]]
+file = "kubejs/assets/pokeblock/models/block/moltres_pedestal.json"
+hash = "bfb1707b79c22fdedf0c1712b5b3c3167a31227bea78c6dd527863a18f8dfd86"
+
+[[files]]
 file = "kubejs/assets/pokeblock/models/block/palkia_pedestal.json"
 hash = "615a3df60b112dbe8ae464b5a70ee3ad03fc82131d6b3b031dce0210eb35b554"
 
@@ -4598,7 +4602,7 @@ hash = "e34efb169d6b5f14031d8bc089328835caee92e57a142c3b3daa6b99db273f68"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
-hash = "856cb93ecfd47c3700c1d775948bc478243e8d745bf6b58df9fcdb1d5b751165"
+hash = "0d37c617429f1dda4ceeda91b638069f7695bc4cac6e61befdb0015dcef17c61"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/dialga_pedestal.png"
@@ -4643,6 +4647,10 @@ hash = "e97d4e4ed7e363f25cff3291bfaee1812e6e4f270cac02053c54373db91eb192"
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
 hash = "dbc7321e8d5074077d9ed77d5fa7a5ec20fa064c6e5c4bd20d95d586aa0cbf3a"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/moltres_pedastal.png"
+hash = "eea2af1fe1920fcc57f04d834044a6c3f431fbe4866728e6643b6d0fa86b00ea"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/palkia_pedestal.png"
@@ -4697,6 +4705,10 @@ file = "kubejs/assets/pokeblock/textures/item/arctic_wing.png"
 hash = "44f4431e387a4024f05759ddda4609ccea5f7f6ad16f4c5eb4a194dec59ddd9a"
 
 [[files]]
+file = "kubejs/assets/pokeblock/textures/item/molten_wing.png"
+hash = "d1a89a89ab85dca1e4086fbbe231658451a66840ac8ea4a4b10a89eeb5a853c5"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "d85faaa30225f6a8c32ff767550266fb54d07eae633c3cb41c1eaed305dd2308"
 
@@ -4714,7 +4726,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "04e27d336af9c0eeb8b54eaa12d114f3320f9ce8f452b4e5ad94f0c507aedf5a"
+hash = "e87b9a95e89455b32de60f9406436e621ef9c52c20916bdcdcb5ab779c3e4eb5"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4722,7 +4734,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "c5dbb866aa5f73b57b417aaa72d0e6f14ff29a78ab941adc25ea1a32ab945fa1"
+hash = "a79985b9cfa08b33fbd57ffaf55e2145cccbfc9fdea7d5a4f7e76b5e9aeee105"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
