@@ -17,6 +17,23 @@ global.legendaryPokemon = [
     },
   },
   {
+    id: "zapdos",
+    name: "Zapdos",
+    level: "60",
+    data: "min_perfect_ivs=3",
+    summonPedestal: "pokeblock:zapdos_pedestal",
+    newSummonPedestal: true,
+    summonItem: "pokeblock:charged_wing",
+    newSummonItem: true,
+    requiredBlocks: {
+        "minecraft:minecraft:yellow_concrete": 30,
+      "minecraft:redstone_block": 10,
+      "minecraft:redstone_torch": 6,
+      "minecraft:lightning_rod": 2,
+      "minecraft:gold_block": 2,
+    },
+  },
+  {
     id: "moltres",
     name: "Moltres",
     level: "60",
@@ -30,7 +47,7 @@ global.legendaryPokemon = [
       "minecraft:fire": 10,
       "minecraft:netherrack": 10,
       "minecraft:nether_bricks": 10,
-      "minecraft:gold_block": 3,
+      "minecraft:iron_block": 3,
     },
   },
 ];
@@ -41,7 +58,6 @@ StartupEvents.registry("block", (event) => {
     if (pokemon.newSummonPedestal) {
       event
         .create(`pokeblock:${pokemon.id}_pedestal`)
-        .displayName(`${pokemon.name} Pedestal`)
         .renderType("cutout")
         .fullBlock(false)
         .box(2, 0, 2, 14, 13, 14, true)

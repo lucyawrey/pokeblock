@@ -6,16 +6,16 @@
       "item": "cobblemon:flying_gem"
     },
     "D": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:iron_ingot"
     },
     "G": {
-      "item": "cobblemon:ice_gem"
+      "item": "cobblemon:fire_gem"
     },
     "N": {
-      "item": "cobblemon:never_melt_ice"
+      "item": "cobblemon:flame_orb"
     },
     "F": {
-      "item": "cobblemon:genius_feather"
+      "item": "cobblemon:muscle_feather"
     }
   },
   "pattern": [
@@ -25,6 +25,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "pokeblock:arctic_wing"
+    "id": "pokeblock:molten_wing"
   }
 }

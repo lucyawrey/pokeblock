@@ -6,8 +6,7 @@
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
     - [ ] Better summon wing textures.
-    - [ ] Moltres item and shrine recipes.
-    - [ ] Zapdos.
+    - [ ] Support required nearby items. Must be placed in seperate normal pedestals.
     - [ ] Add even more legendary Pokémon.
     - [ ] Add more special effects when summoning.
 - [ ] Configure non-fossil cobblemon archaeology loot.

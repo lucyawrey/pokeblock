@@ -293,8 +293,8 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspi
 hash = "870b56918e42225f4222e323bd633571663db297bd687746523fc70de00413a4"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_feather.json"
-hash = "84f9facc3432cb91171c26e2514b865cf5a200ebf68b007ee893ad96cb6b27c3"
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_wing.json"
+hash = "d9b07d1570569ee8cf9e48010b16a39473b1bb454c8869ebf6f9097cf7be1d12"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/articuno_pedestal.json"
@@ -305,8 +305,24 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/bell.
 hash = "e786257a1d0246efa0d2dfd9c5623e58085ab4f443f81f1d1f6a70866899dabb"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/charged_wing.json"
+hash = "96c3870ff6cb28212f23a7882b55450394bce8acb9627e76c67db61faf3a4290"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
 hash = "7bca1e52f03553c3be4982d7991ae0ba0e740356f914a3ca9c64011d2f5213d0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/molten_wing.json"
+hash = "063b3511714cc5b00549995be480cf249ebaa19148994dc752b2789fdcff8da7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/moltres_pedestal.json"
+hash = "b335ed48f95be304a423a8cc44660b12f0929051f19697a9284b41f7283fb6a2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/zapdos_pedestal.json"
+hash = "55450d3eee649df48f530da89a40f4bdf4b718a965d11ba2bd3237b284295abc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
@@ -4597,6 +4613,10 @@ file = "kubejs/assets/pokeblock/models/block/zamazenta_pedestal.json"
 hash = "66a3b726c6a522b5a8c2c3710ff1b3a956571fe20c93389b08c7060ff1176fb6"
 
 [[files]]
+file = "kubejs/assets/pokeblock/models/block/zapdos_pedestal.json"
+hash = "c3a9cb42caf8bf45dcfb923083ddbbb519324d690c3185a5d432f765c8cc0950"
+
+[[files]]
 file = "kubejs/assets/pokeblock/models/block/zekrom_pedestal.json"
 hash = "e34efb169d6b5f14031d8bc089328835caee92e57a142c3b3daa6b99db273f68"
 
@@ -4650,7 +4670,7 @@ hash = "dbc7321e8d5074077d9ed77d5fa7a5ec20fa064c6e5c4bd20d95d586aa0cbf3a"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/moltres_pedastal.png"
-hash = "eea2af1fe1920fcc57f04d834044a6c3f431fbe4866728e6643b6d0fa86b00ea"
+hash = "9acf8ab609bff676b9ad72c6ec726fcdd6996065507551d7d9b5fcc3249f5dc7"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/palkia_pedestal.png"
@@ -4697,12 +4717,20 @@ file = "kubejs/assets/pokeblock/textures/block/zamazenta_pedestal.png"
 hash = "17e841a526b1c471cda7802b556ec73ecc26e706f5fe71dddac6fc9ac10b11a0"
 
 [[files]]
+file = "kubejs/assets/pokeblock/textures/block/zapdos_pedastal.png"
+hash = "2c386459ffa8bf7dab7f41f1b8dd65ae29d73865a2226924f7874d39b09f8c0b"
+
+[[files]]
 file = "kubejs/assets/pokeblock/textures/block/zekrom_pedestal.png"
 hash = "ca21a0dae86d4e0c083e04a9bb0c183e00c290e940a9be749cda3ab2b30e7540"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/item/arctic_wing.png"
 hash = "44f4431e387a4024f05759ddda4609ccea5f7f6ad16f4c5eb4a194dec59ddd9a"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/item/charged_wing.png"
+hash = "9e160afd5447eab4de1c6187efafabcc2dd9319f425594a8b767e26b26aef6c0"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/item/molten_wing.png"
@@ -4734,7 +4762,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "a79985b9cfa08b33fbd57ffaf55e2145cccbfc9fdea7d5a4f7e76b5e9aeee105"
+hash = "a84b1593c269d17702017f8e965f728b9ff6c3f258715d1ec45b0b0a7eb4bf7f"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

@@ -6,16 +6,16 @@
       "item": "cobblemon:flying_gem"
     },
     "D": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:gold_ingot"
     },
     "G": {
-      "item": "cobblemon:ice_gem"
+      "item": "cobblemon:electric_gem"
     },
     "N": {
-      "item": "cobblemon:never_melt_ice"
+      "item": "cobblemon:electirizer"
     },
     "F": {
-      "item": "cobblemon:genius_feather"
+      "item": "cobblemon:health_feather"
     }
   },
   "pattern": [
@@ -25,6 +25,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "pokeblock:arctic_wing"
+    "id": "pokeblock:charged_wing"
   }
 }
