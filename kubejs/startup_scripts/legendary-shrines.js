@@ -26,7 +26,7 @@ global.legendaryPokemon = [
     summonItem: "pokeblock:charged_wing",
     newSummonItem: true,
     requiredBlocks: {
-        "minecraft:minecraft:yellow_concrete": 30,
+        "minecraft:yellow_concrete": 30,
       "minecraft:redstone_block": 10,
       "minecraft:redstone_torch": 6,
       "minecraft:lightning_rod": 2,

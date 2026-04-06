@@ -7,7 +7,11 @@ const cooldownTime = 1000;
 let lastClickTime = Date.now();
 
 for (let pokemon of global.legendaryPokemon) {
-  BlockEvents.rightClicked(pokemon.summonPedestal, (event) => {
+  BlockEvents.rightClicked(pokemon.summonPedestal, shrineEvent(pokemon));
+}
+
+function shrineEvent(pokemon) {
+  return (event) => {
     // Cooldown
     if (Date.now() < lastClickTime + cooldownTime) {
       return;
@@ -42,7 +46,9 @@ for (let pokemon of global.legendaryPokemon) {
     for (let [key, value] of Object.entries(pokemon.requiredBlocks)) {
       if (!countedBlocks[key] || countedBlocks[key] < value) {
         meetsBlockRequirements = false;
-        let itemName = blockMap[key] ? blockMap[key] : Item.of(key).hoverName.string;
+        let itemName = blockMap[key]
+          ? blockMap[key]
+          : Item.of(key).hoverName.string;
         let missingNo = value - (countedBlocks[key] || 0);
         missingBlocks.push(`${missingNo}× ${itemName}`);
       }
@@ -76,6 +82,6 @@ for (let pokemon of global.legendaryPokemon) {
       );
     }
     // Prevent Default
-    event.cancel();
-  });
+    // event.cancel();
+  }
 }
