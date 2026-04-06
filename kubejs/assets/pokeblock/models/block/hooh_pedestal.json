@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench. Created by JorgaoMC.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "pokeblock:block/ho_oh_pedestal",
-		"particle": "pokeblock:block/ho_oh_pedestal"
+		"0": "pokeblock:block/hooh_pedestal",
+		"particle": "pokeblock:block/hooh_pedestal"
 	},
 	"elements": [
 		{
