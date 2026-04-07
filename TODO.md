@@ -1,7 +1,5 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Add back sophisticated storage.
-- [ ] Furniture mods.
 - [ ] Create snowfall at high enough y level.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
