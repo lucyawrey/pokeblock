@@ -31,7 +31,8 @@ function shrineEvent(pokemon) {
     for (let x = minX; x <= maxX; x++) {
       for (let y = minY; y <= maxY; y++) {
         for (let z = minZ; z <= maxZ; z++) {
-          let id = level.getBlock(x, y, z).id;
+          let block = level.getBlock(x, y, z);
+          let id = block.id;
           if (!countedBlocks[id]) {
             countedBlocks[id] = 1;
           } else {

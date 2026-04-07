@@ -15,6 +15,7 @@ global.legendaryPokemon = [
       "minecraft:blue_ice": 10,
       "minecraft:diamond_block": 1,
     },
+    requiredItems: [],
   },
   {
     id: "zapdos",
@@ -32,6 +33,7 @@ global.legendaryPokemon = [
       "minecraft:lightning_rod": 2,
       "minecraft:gold_block": 2,
     },
+    requiredItems: [],
   },
   {
     id: "moltres",
@@ -49,6 +51,7 @@ global.legendaryPokemon = [
       "minecraft:nether_bricks": 10,
       "minecraft:iron_block": 3,
     },
+    requiredItems: [],
   },
 ];
 
