@@ -7,3 +7,4 @@ dev_mods
 
 # Ignore dev mods
 **/*.dev.pw.toml
+**/*old_**
