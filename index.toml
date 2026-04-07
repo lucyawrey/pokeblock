@@ -4534,7 +4534,7 @@ hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/articuno_pedestal.json"
-hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
+hash = "d0b0ed0aff3c2c7be88c2e91c5655404eff502eb67c73a2660b847a96fa99af5"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
@@ -4542,7 +4542,7 @@ hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/moltres_pedestal.json"
-hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
+hash = "340e4707a49995b6cc0c9e6d92753be869925d1b61dab74ceb5c04723f15658b"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/pedestal.json"
@@ -4550,11 +4550,11 @@ hash = "f7c610f6ea5448c33a7a5301ccd19102c731c0cd8f344ce58dbf507872d6bbe4"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/zapdos_pedestal.json"
-hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
+hash = "b89aa143411d79bd5ef29cd8562bc02771d72b5df8cc9a594900690cf0979aa4"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
-hash = "168dba5729b10e89b1d51716f4e06188f978b4c70471a2860359d79ece32d78a"
+hash = "78ed7bb6c5f4683fa94900f63e6a7ef003ab5046c18ee1e600cde67b84d8087e"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
@@ -4562,11 +4562,11 @@ hash = "dbc7321e8d5074077d9ed77d5fa7a5ec20fa064c6e5c4bd20d95d586aa0cbf3a"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/moltres_pedestal.png"
-hash = "168dba5729b10e89b1d51716f4e06188f978b4c70471a2860359d79ece32d78a"
+hash = "7c8dfd86ee99bcf6cd7f7a81e94c9c85a6760177dbf1b1afed54491c8a295066"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/pedestal.png"
-hash = "168dba5729b10e89b1d51716f4e06188f978b4c70471a2860359d79ece32d78a"
+hash = "bb56a28a613188e6901ad751496e7deaa9fe145fcfaa386b998a52202bc05e72"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
@@ -4574,7 +4574,7 @@ hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/zapdos_pedestal.png"
-hash = "168dba5729b10e89b1d51716f4e06188f978b4c70471a2860359d79ece32d78a"
+hash = "9bbe33a80d393f251584c52b9815aa83e2fc8b9146ccf9fff32c888a3bef348c"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/item/arctic_wing.png"
