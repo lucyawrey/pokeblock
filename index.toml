@@ -4530,199 +4530,27 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/mega_showdown/models/block/pedestal.json"
-hash = "38a8ea7b6e57703bce20323b18173704e627ba590c02c07f10885ee8a75a103c"
-
-[[files]]
-file = "kubejs/assets/mega_showdown/textures/block/pedastal.png"
-hash = "0587ce7250e4f6dba0d5a5499dc27830898d831fb3504b2d2518e30741555e95"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/articuno_pedestal.json"
-hash = "be26c84bd723f2e5dc9b60346c30c8f551b5f2efd994bd3a1cc771c7c4e7073d"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/dialga_pedestal.json"
-hash = "5eef88cb3368f2af81c5143d063290c2f9a951121f8507e0f055fbeb88eb6e53"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/entei_pedestal.json"
-hash = "172204acb55139d43a1ce446e6324f86199d4a88e20c4d20bf69158dc7508504"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/giratina_pedestal.json"
-hash = "3109968894e2bfe550fe6e76feaebc1306365a2f9f7c9f0e11f8e19aef9d477e"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/heatran_pedestal.json"
-hash = "37d97862a8d9d5c0039727e8c13bb12766a4c11d9f48abc05fb093ca4ac11ef2"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/ho_oh_pedestal.json"
-hash = "e8b5d475f0f1b1f75a9c7967b2f05f57bcfe364ceae0c0c8ad9f116a064e5fd7"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/hoopa_pedestal.json"
-hash = "52147e0070dce54dc72621899a5545dd1af541eee99ef301d13b391183e9e511"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/kyurem_pedestal.json"
-hash = "9f502f98a5f4961c259fdcec5dd7249687b99a36600455f3c6a5c6455b057086"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/latias_pedestal.json"
-hash = "538080f37e243e840acb521690e55d670a3daed702e738b31b37670666644ff9"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/lugia_pedestal.json"
-hash = "14ad27765f09d7cac24f8159e7635e315566c347dace72fe4d1edd78d9989ee5"
+hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
 hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
 
 [[files]]
-file = "kubejs/assets/pokeblock/models/block/mew_pedestal.json"
-hash = "a620255943233f6b5331a583163534020f8d60c47c6c4d63e06a57019525fb4b"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/moltres_pedestal.json"
-hash = "bfb1707b79c22fdedf0c1712b5b3c3167a31227bea78c6dd527863a18f8dfd86"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/palkia_pedestal.json"
-hash = "615a3df60b112dbe8ae464b5a70ee3ad03fc82131d6b3b031dce0210eb35b554"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/raikou_pedestal.json"
-hash = "5de926798225d7c4c8004ae89044366536323418ec023df12c94e20487eb1471"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/reshiram_pedestal.json"
-hash = "28fd0596a993a91cf24c21de3fe152dbcec9200e2d4e6651e9237f5d54abf46f"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/suicune_pedestal.json"
-hash = "9e2f455551edc3e0e117f08d8168acae3058a552ee49ff8d54242115068560e2"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/zacian_pedestal.json"
-hash = "210ee69eed0ec89025eb76f5e6f250a5182125170c63bcb3ffbfb3d098fcd4f4"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/zamazenta_pedestal.json"
-hash = "66a3b726c6a522b5a8c2c3710ff1b3a956571fe20c93389b08c7060ff1176fb6"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/zapdos_pedestal.json"
-hash = "c3a9cb42caf8bf45dcfb923083ddbbb519324d690c3185a5d432f765c8cc0950"
-
-[[files]]
-file = "kubejs/assets/pokeblock/models/block/zekrom_pedestal.json"
-hash = "e34efb169d6b5f14031d8bc089328835caee92e57a142c3b3daa6b99db273f68"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
-hash = "0d37c617429f1dda4ceeda91b638069f7695bc4cac6e61befdb0015dcef17c61"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/dialga_pedestal.png"
-hash = "e9e0b2ad628a1ca09a3d969ac9eb0525a6078098414fa1d33f3a2b90c93ec340"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/eleki_drago_pedestal.png"
-hash = "a95629eaa8c91353dc3a03188a82c4cd6a6c3e14dfb9fa006d81d58da9b801ee"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/entei_pedestal.png"
-hash = "e7fcd28c85903d2bd57d95dd648a1f1c6d38b336ab8ac29e77e27d9390d659c8"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/giratina_pedestal.png"
-hash = "1bb8aaae8c07f6ee51bcb962ccab2a706fd89732b9b7e3e8a20752493f710a19"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/heatran_pedestal.png"
-hash = "10f591bc59fceab73af38063381d04eeaa70a10a486a521e9004d5f6261d194e"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/ho_oh_pedestal.png"
-hash = "cbe62610542152d93f8ea798a9fab4b7b70ddd758e94399e82d9b82c15ccf574"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/hoopa_pedestal.png"
-hash = "7cbb317e83429d81300e6c9b3a7dad560d485f63175e4854f3cbabb98dad6ac9"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/kyurem_pedestal.png"
-hash = "541c3bf47b26f91124812ec5e7266e9ba49a530f5cb6b1f3db5cbe6a476a0c67"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/lati_pedestal.png"
-hash = "b5a6d6e27a2eeaae2daf2135478ffc1b995ac3a4fd7b3c2627288b83878af1ce"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/lugia_pedestal.png"
-hash = "e97d4e4ed7e363f25cff3291bfaee1812e6e4f270cac02053c54373db91eb192"
+file = "kubejs/assets/pokeblock/models/block/pedestal.json"
+hash = "05c17b32198a148ad4a852a6dc904ed641893bd02183b7952577e86ac9c3f3c2"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
 hash = "dbc7321e8d5074077d9ed77d5fa7a5ec20fa064c6e5c4bd20d95d586aa0cbf3a"
 
 [[files]]
-file = "kubejs/assets/pokeblock/textures/block/moltres_pedastal.png"
-hash = "9acf8ab609bff676b9ad72c6ec726fcdd6996065507551d7d9b5fcc3249f5dc7"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/palkia_pedestal.png"
-hash = "35e7ec82364049633434842c1b88a0ea1b927e5f14f5fc6983e05e9e3af74e0b"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/raikou_pedestal.png"
-hash = "a921057e8de893d150f1086fd85bf05eebf031e00a8a05bbf0d3c1ec09c1be88"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/regice_pedestal.png"
-hash = "1880b20c6a0d208e2ee3a5ced5dbf1379262bdde6b4dbe2f42303eb4c07fe182"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/regigigas_pedestal.png"
-hash = "d1f1ad1ca604bb29a87582af95810646973b79cc2ea4d54cb4e9be3d36b423ab"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/regirock_pedestal.png"
-hash = "98323e5d5ae082b8ece649252b336ea8e3fe2e7778c71eb0bf03fa9a847b9599"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/registeel_pedestal.png"
-hash = "e3b9c77b274c2c8434ffbbeba0cedbd2c3cc83d0bbe60d680cead9ec6d5cc5f9"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/reshiram_pedestal.png"
-hash = "1962d05eb2326813e159492f6845334120b25bd899d148f814495db0601b981e"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/suicune_pedestal.png"
-hash = "c69c9e55616d37dc0cbaa2af44dd4608a2db63ff88c73a35dfefcb3ed43c4899"
+file = "kubejs/assets/pokeblock/textures/block/pedestal.png"
+hash = "9220a820666c856848f80827d27bb3399b44c7571e25683e9a09b39cf55a7dd8"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/suspicious_cobblestone.png"
 hash = "207f328fe30d4b8b86162308373ba59630cad6f117e23c50790ff8c80094daec"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/zacian_pedestal.png"
-hash = "b2fd5d903052fd004e168fa92cf776f7eb71d17a7ce520c8a2772eaa240362cd"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/zamazenta_pedestal.png"
-hash = "17e841a526b1c471cda7802b556ec73ecc26e706f5fe71dddac6fc9ac10b11a0"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/zapdos_pedastal.png"
-hash = "2c386459ffa8bf7dab7f41f1b8dd65ae29d73865a2226924f7874d39b09f8c0b"
-
-[[files]]
-file = "kubejs/assets/pokeblock/textures/block/zekrom_pedestal.png"
-hash = "ca21a0dae86d4e0c083e04a9bb0c183e00c290e940a9be749cda3ab2b30e7540"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/item/arctic_wing.png"
@@ -4754,7 +4582,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "e74a6d048be2a3c55d8c1a364c6c248f584d56959d4003a298034a6589923e19"
+hash = "6aff94230c68c81e279e8cc74194e64c1547a856ecb6859a2aefb7f83c640fea"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4762,7 +4590,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "b2612ee35290e183c48c57b32ada2a8736f77ee85e187fc5a6a2ea517ccf14f2"
+hash = "b6dd225aa742f63b9d0b76776bc55d9dc65464f5670b9b45bb5f39d659a3863b"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
