@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.11",
+	"parent": "pokeblock:block/pedestal",
+	"textures": {
+		"0": "pokeblock:block/articuno_pedestal",
+		"particle": "pokeblock:block/articuno_pedestal"
+	}
+}

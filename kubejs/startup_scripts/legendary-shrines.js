@@ -61,7 +61,6 @@ StartupEvents.registry("block", (event) => {
     if (pokemon.newSummonPedestal) {
       event
         .create(`pokeblock:${pokemon.id}_pedestal`)
-        .renderType("cutout")
         .fullBlock(false)
         .box(0, 0, 0, 16, 14, 16, true)
         .soundType("stone")
