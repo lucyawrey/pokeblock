@@ -19,7 +19,7 @@ function shrineEvent(pokemon) {
     lastClickTime = Date.now();
 
     let { block, level, player, server } = event;
-    let countedBlocks = {};
+    let counted = {};
 
     // Loop through bounding box to count nearby blocks
     let minX = block.x - 8;
@@ -33,29 +33,37 @@ function shrineEvent(pokemon) {
         for (let z = minZ; z <= maxZ; z++) {
           let block = level.getBlock(x, y, z);
           let id = block.id;
-          if (!countedBlocks[id]) {
-            countedBlocks[id] = 1;
+          if (id === "mega_showdown:pedestal") {
+            let itemId = block.getEntityData().Item?.id;
+            if (itemId) {
+              // Handle issue where ID string gotten from entity data contains quotes.
+              counted[itemId.toString().replaceAll("\"", "")] = 1;
+            }
+          }
+          if (!counted[id]) {
+            counted[id] = 1;
           } else {
-            countedBlocks[id] = countedBlocks[id] + 1;
+            counted[id] = counted[id] + 1;
           }
         }
       }
     }
+    console.log(counted);
     // Check if counted blocks match the block requirements for a the current legendary Pokémon.
-    let meetsBlockRequirements = true;
-    let missingBlocks = [];
-    for (let [key, value] of Object.entries(pokemon.requiredBlocks)) {
-      if (!countedBlocks[key] || countedBlocks[key] < value) {
-        meetsBlockRequirements = false;
+    let meetsRequirements = true;
+    let missingRequirements = [];
+    for (let [key, value] of Object.entries(pokemon.required)) {
+      if (!counted[key] || counted[key] < value) {
+        meetsRequirements = false;
         let itemName = blockMap[key]
           ? blockMap[key]
           : Item.of(key).hoverName.string;
-        let missingNo = value - (countedBlocks[key] || 0);
-        missingBlocks.push(`${missingNo}× ${itemName}`);
+        let missingNo = value - (counted[key] || 0);
+        missingRequirements.push(`${missingNo}× ${itemName}`);
       }
     }
 
-    if (meetsBlockRequirements) {
+    if (meetsRequirements) {
       if (player.mainHandItem.id === pokemon.summonItem) {
         player.tell(`§b§l${pokemon.name} is coming.`);
         server.runCommandSilent(
@@ -79,10 +87,10 @@ function shrineEvent(pokemon) {
       }
     } else {
       player.tell(
-        `The shrine to ${pokemon.name} is incomplete. Missing ${missingBlocks.join(", ")}.`,
+        `The shrine to ${pokemon.name} is incomplete. Missing ${missingRequirements.join(", ")}.`,
       );
     }
     // Prevent Default
-    // event.cancel();
+    event.cancel();
   }
 }

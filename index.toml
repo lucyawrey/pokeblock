@@ -4606,7 +4606,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "6aff94230c68c81e279e8cc74194e64c1547a856ecb6859a2aefb7f83c640fea"
+hash = "9dd23e6067615962479847c6e829b56a1dcfaafe114ee0c377aae055288a0d5d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4614,7 +4614,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "bdb90d59c47ceb490e87999fb0fa1638523f583372a2fc345268ff0695c04f72"
+hash = "f097812aaa2102508ac5fcd94728e37d145a3735729498c658185d0eaef79046"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -4667,11 +4667,6 @@ metafile = true
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
 hash = "e0b3f4dad9886802c34f0c322c7eeb548a2100f604d8339bfc623c803be38f88"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -5002,11 +4997,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]

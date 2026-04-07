@@ -8,14 +8,13 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:arctic_wing",
     newSummonItem: true,
-    requiredBlocks: {
+    required: {
       "minecraft:polished_diorite": 20,
       "minecraft:ice": 20,
       "minecraft:packed_ice": 10,
       "minecraft:blue_ice": 10,
       "minecraft:diamond_block": 1,
     },
-    requiredItems: [],
   },
   {
     id: "zapdos",
@@ -26,14 +25,13 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:charged_wing",
     newSummonItem: true,
-    requiredBlocks: {
+    required: {
         "minecraft:yellow_concrete": 30,
       "minecraft:redstone_block": 10,
       "minecraft:redstone_torch": 6,
       "minecraft:lightning_rod": 2,
       "minecraft:gold_block": 2,
     },
-    requiredItems: [],
   },
   {
     id: "moltres",
@@ -44,14 +42,13 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:molten_wing",
     newSummonItem: true,
-    requiredBlocks: {
+    required: {
       "minecraft:polished_blackstone": 30,
       "minecraft:fire": 10,
       "minecraft:netherrack": 10,
       "minecraft:nether_bricks": 10,
       "minecraft:iron_block": 3,
     },
-    requiredItems: [],
   },
 ];
 
