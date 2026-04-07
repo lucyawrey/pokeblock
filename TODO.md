@@ -1,15 +1,18 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Create snowfall at high enough y level.
+- [ ] Update spawn table.
+    - [ ] Make sure implementation status is accurate.
+    - [ ] Create script to fill out spawn data from base cobblemon, MSD and ATM x MSD.
+    - [ ] Update ATM x MSD.
+- [ ] Method to obtain snow in plains.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
     - [ ] Better summon wing textures.
-    - [ ] Support required nearby items. Must be placed in seperate normal pedestals.
     - [ ] Add even more legendary Pokémon.
     - [ ] Add more special effects when summoning.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
-- [ ] Allow regional forms to evolve in any biome (such as hisuian liligant)
+- [ ] Allow regional forms to evolve in any biome (such as hisuian liligant).
 - [ ] Way to get mushrooms including max mushrooms for dynamax.
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Create all Pokémon spawning rules.

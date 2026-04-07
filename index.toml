@@ -454,7 +454,11 @@ hash = "6667c270ba37583e209afb0b6dfa5f64747482fbb6b69149582b866113f5bfdc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0027_sandshrew.json"
-hash = "ade9e8c71e6583fc9fce6cbcbe885b8eb181909321e738ef15a56a225e39d317"
+hash = "6338258c02df5dfd4f369da16e208736c616bebb207877eeae684ec1631e30c2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0028_sandslash.json"
+hash = "5daef98923c79c9e4914f8e7a8880590031549c81974cafea042519003cf9c4b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0327_spinda.json"
@@ -4606,7 +4610,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "9dd23e6067615962479847c6e829b56a1dcfaafe114ee0c377aae055288a0d5d"
+hash = "526c31a66196d06a0cb612792d2023a8697b046fe7bb5e9fc698d5d4fe09c56b"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4614,7 +4618,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "f097812aaa2102508ac5fcd94728e37d145a3735729498c658185d0eaef79046"
+hash = "74dc9b843c54fd19efe3052e3d0ab977af1cad623419b1c743a111e6422bfbd0"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
