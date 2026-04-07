@@ -4534,7 +4534,7 @@ hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/articuno_pedestal.json"
-hash = "40cb004908a5361e06bdad17d6d2dba4166622cf3f117e5e0e6f719660f3d90f"
+hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
@@ -4542,7 +4542,7 @@ hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/moltres_pedestal.json"
-hash = "a51189517edfcaebead3a7ea84a6df4b25f292c166b9869a1b5509909fe28571"
+hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/pedestal.json"
@@ -4550,7 +4550,7 @@ hash = "f7c610f6ea5448c33a7a5301ccd19102c731c0cd8f344ce58dbf507872d6bbe4"
 
 [[files]]
 file = "kubejs/assets/pokeblock/models/block/zapdos_pedestal.json"
-hash = "e26293d00217568e9f7a912bc351dae8f867746919bff4160f556524305d8c8b"
+hash = "c879df5f6d85e2b0f629f0e78408bf6b0ac441616ed1976d7602899a58daaffe"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
@@ -4614,7 +4614,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "c0fc51f46d00ce6cfea419c1b86a31afe321126e9b32e52efd95668f69b9b54d"
+hash = "bdb90d59c47ceb490e87999fb0fa1638523f583372a2fc345268ff0695c04f72"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

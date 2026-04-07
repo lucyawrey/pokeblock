@@ -62,11 +62,10 @@ StartupEvents.registry("block", (event) => {
       event
         .create(`pokeblock:${pokemon.id}_pedestal`)
         .fullBlock(false)
-        .box(0, 0, 0, 16, 14, 16, true)
+        .box(2, 0, 2, 14, 13, 14, true)
         .soundType("stone")
         .hardness(10.0)
         .resistance(100)
-        .lightLevel(1.0)
         .requiresTool(true)
         .tagBlock("minecraft:mineable/pickaxe")
         .tagBlock("pokeblock:legendary_pedestals");
