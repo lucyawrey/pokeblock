@@ -75,7 +75,11 @@ for (const row of data) {
     dex_number: parseInt(row.dex || "0"),
     pokemon: parseString(row.pokemon),
     implemented: row.implemented === "yes",
-    spawn: row.spawn === "yes",
+    obtainability: parseString(row.obtainability) as
+      | "unobtainable"
+      | "spawn"
+      | "summon"
+      | "fossil",
     bucket: parseString(row.bucket) as
       | "common"
       | "uncommon"
@@ -116,7 +120,8 @@ for (const row of data) {
     pokemon.dex_number > 0 &&
     pokemon.pokemon &&
     pokemon.implemented &&
-    pokemon.spawn
+    pokemon.obtainability &&
+    pokemon.obtainability === "spawn"
   ) {
     const spawn_pool = {
       enabled: true,
@@ -203,7 +208,9 @@ for (const row of data) {
         (type === "ground" || type === "dive")
       ) {
         if (spawn.condition.neededNearbyBlocks) {
-          spawn.condition.neededNearbyBlocks.push(...pokemon.neededNearbyBlocks);
+          spawn.condition.neededNearbyBlocks.push(
+            ...pokemon.neededNearbyBlocks,
+          );
         } else {
           spawn.condition.neededNearbyBlocks = pokemon.neededNearbyBlocks;
         }
