@@ -6,7 +6,7 @@ hash = "1046c661496a058f20210644fd4e1b5887d1bdd18604e00b4183e40ccefd52e9"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "6bccd37f57f83ac31d43850c06e40baaa17474972e024ac977462ae0885b9fc2"
+hash = "94453f5128633180c91dabddaa67bc5eb92af4626e586d4d0487fde773211af2"
 
 [[files]]
 file = "config/cobblemon/main.json"
@@ -271,6 +271,10 @@ hash = "c4c3144f18126bcffc917d52f5548c6b55101d9f9441c5706d2f2540e99c319d"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/tags/function/tick.json"
 hash = "0ae812cbe7b14f0baf8760508fea35e2f3fc22ee735b71cd9f0d810c888fed71"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/minecraft/worldgen/biome/plains.json"
+hash = "21ea9c2c6b310b5bab4afabe7783135b80dc82ac6ea1f71aa649b512a98bc42f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/advancement/pokeblock-advancedment.json"

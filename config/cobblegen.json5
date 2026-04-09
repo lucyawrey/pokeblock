@@ -59,7 +59,7 @@
 				},
 				{
 					"id": "minecraft:lapis_ore",
-					"weight": 2.0
+					"weight": 1.0
 				},
 				{
 					"id": "minecraft:gold_ore",
@@ -79,11 +79,11 @@
 				},
 				{
 					"id": "minecraft:coal_ore",
-					"weight": 8.0
+					"weight": 6.0
 				},
 				{
 					"id": "minecraft:copper_ore",
-					"weight": 8.0
+					"weight": 5.0
 				},
 				{
 					"id": "minecraft:diorite",
@@ -103,7 +103,7 @@
 				},
 				{
 					"id": "minecraft:cobblestone",
-					"weight": 28.5
+					"weight": 32.5
 				}
 			],
 			"pokeblock:suspicious_cobblestone": [
