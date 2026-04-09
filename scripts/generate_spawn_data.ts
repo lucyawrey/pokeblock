@@ -1,0 +1,189 @@
+import { file, Glob } from "bun";
+
+const ignoreList = [
+  "articuno",
+  "zapdos",
+  "moltres",
+  "mewtwo",
+  "mew",
+  "raikou",
+  "entei",
+  "suicune",
+  "lugia",
+  "hooh",
+  "celebi",
+  "regirock",
+  "regice",
+  "registeel",
+  "latias",
+  "latios",
+  "kyogre",
+  "groudon",
+  "rayquaza",
+  "jirachi",
+  "deoxys",
+  "uxie",
+  "mesprit",
+  "azelf",
+  "dialga",
+  "palkia",
+  "heatran",
+  "regigigas",
+  "giratina",
+  "cresselia",
+  "phione",
+  "manaphy",
+  "darkrai",
+  "shaymin",
+  "arceus",
+  "victini",
+  "cobalion",
+  "terrakion",
+  "tornadus",
+  "thundurus",
+  "reshiram",
+  "zekrom",
+  "landorus",
+  "kyurem",
+  "keldeo",
+  "meloetta",
+  "genesect",
+  "xerneas",
+  "yveltal",
+  "zygarde",
+  "diancie",
+  "hoopa",
+  "volcanion",
+  "typenull",
+  "tapukoko",
+  "tapulele",
+  "tapubulu",
+  "tapufini",
+  "cosmog",
+  "necrozma",
+  "magearna",
+  "marshadow",
+  "zeraora",
+  "meltan",
+  "zacian",
+  "zamazenta",
+  "eternatus",
+  "kubfu",
+  "zarude",
+  "regieleki",
+  "regidrago",
+  "glastrier",
+  "spectrier",
+  "calyrex",
+  "enamorus",
+  "wochien",
+  "chienpao",
+  "chiyu",
+  "koraidon",
+  "miraidon",
+  "walkingwake",
+  "okidogi",
+  "munkidori",
+  "fezandipiti",
+  "ogerpon",
+  "gougingfire",
+  "ragingbolt",
+  "ironcrown",
+  "terapagos",
+  "pecharunt",
+  "hisuian",
+  "wochien",
+  "h",
+  "a",
+  "ff",
+  "galarian",
+  "alolan",
+  "nid",
+  "cosmetic",
+  "ine",
+  "trik",
+  "in",
+  "n",
+  "trash",
+  "mrrime",
+  "mrmime",
+  "r",
+  "herd",
+  "mimejr",
+  "bloodmoon",
+];
+
+const idMap: any = {
+  hakamoo: "hakamo-o",
+  sandy: "sandy-shocks",
+  porygonz: "porygon-z",
+  jangmoo: "jangmo-o",
+  nidoranf: "nidoran-f",
+  nidoranm: "nidoran-m",
+  kommoo: "kommo-o",
+  brutebonnet: "brute-bonnet",
+  ironthorns: "iron-thorns",
+  ironleaves: "iron-leaves",
+  greattusk: "great-tusk",
+  sandyshocks: "sandy-shocks",
+  walkingwake: "walking-wake",
+  ironvaliant: "iron-valiant",
+  irontreads: "iron-treads",
+  roaringmoon: "roaring-moon",
+  ironcrown: "iron-crown",
+  ironbundle: "iron-bundle",
+  fluttermane: "flutter-mane",
+  screamtail: "scream-tail",
+  ironmoth: "iron-moth",
+  slitherwing: "slither-wing",
+};
+
+const path = "./reference_data/data";
+const outputPath = "./spawn_data.csv";
+
+const pokemon: any = [];
+const csvLines = [
+  "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,neededNearbyBlocks,moonPhase",
+];
+
+await getPokemon(path);
+
+for (let i = 0; i < pokemon.length; i++) {
+  let dex: any = i + 1;
+  let id = pokemon[i]?.id || "";
+  dex = id ? dex : "";
+  csvLines.push(`${dex},${id},,,,,,,,,,,,`);
+}
+
+Bun.write(outputPath, csvLines.join("\n"));
+console.log(`Spawn data generated and saved to ${outputPath}`);
+
+async function getPokemon(path: string) {
+  for (let filePath of new Glob("**/*.json").scanSync(path)) {
+    try {
+      let match = /([a-z]+)\.json/.exec(filePath);
+      if (match) {
+        if (!match[1]) continue;
+        let id = match[1];
+        if (ignoreList.includes(id)) {
+          continue;
+        }
+        let dbId = idMap[id] ? idMap[id] : id;
+        let res = await fetch(
+          `https://pokeapi.co/api/v2/pokemon-species/${dbId}`,
+        );
+        if (res.ok) {
+          let data = (await res.json()) as { id: number };
+          let dex = data.id;
+          pokemon[dex - 1] = {
+            id,
+          };
+        } else {
+          console.error(`${id}`);
+        }
+      }
+    } catch (error) {
+      console.error(`Error processing file ${filePath}:`, error);
+    }
+  }
+}
