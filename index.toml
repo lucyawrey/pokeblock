@@ -305,6 +305,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/bell.
 hash = "e786257a1d0246efa0d2dfd9c5623e58085ab4f443f81f1d1f6a70866899dabb"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/blaze_burner.json"
+hash = "8cf2a126650e3cc5aba8f2754ef56054570582fe04a41bed58aa750293a18bf7"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/charged_wing.json"
 hash = "96c3870ff6cb28212f23a7882b55450394bce8acb9627e76c67db61faf3a4290"
 
@@ -4622,7 +4626,7 @@ hash = "74dc9b843c54fd19efe3052e3d0ab977af1cad623419b1c743a111e6422bfbd0"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "38f0b4892c80d5c32b4d3921089e8df8c4bbbc8ad48c53ddf76edf7e95ab88a5"
+hash = "9d3fb6cc99731094275580ab6c5e560a68844dfc8359a2824dfc66d1c2389699"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"

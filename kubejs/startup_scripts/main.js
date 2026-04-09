@@ -46,10 +46,10 @@ StartupEvents.registry("block", (event) => {
             "pokeblock:meteor_geode_1",
           ];
           const structure = structures[Math.floor(Math.random() * structures.length)];
-          console.log(structure);
           server.runCommandSilent(
             `place template ${structure} ${block.x - 6} ${block.y - 3} ${block.z - 6}`,
           );
+          player.tell(`§4§lA meteor has fallen.`);
         });
       }
     });
