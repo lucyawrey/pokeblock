@@ -29,8 +29,7 @@ StartupEvents.registry("block", (event) => {
     .tagBlock("minecraft:mineable/pickaxe")
     .randomTick((event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
-      const block = event.block;
-      const server = event.server;
+      const { block, server, player } = event;
       if (Math.random() < 0.035) {
         server.runCommandSilent(
           // TODO adjust explosion power to meteor size.
@@ -45,7 +44,8 @@ StartupEvents.registry("block", (event) => {
             "pokeblock:meteor_max_1",
             "pokeblock:meteor_geode_1",
           ];
-          const structure = structures[Math.floor(Math.random() * structures.length)];
+          const structure =
+            structures[Math.floor(Math.random() * structures.length)];
           server.runCommandSilent(
             `place template ${structure} ${block.x - 6} ${block.y - 3} ${block.z - 6}`,
           );

@@ -57,6 +57,10 @@ file = "config/global_packs.toml"
 hash = "1e2baf719212dd1d4b13f008807f0021b70b2e6d9cdb2eeb3dbd4fc5e61b0a60"
 
 [[files]]
+file = "config/mega_showdown/config.json"
+hash = "2c0a7798944fec2cea4def9f3a41284c4fc8f8dc93ca7ec40d872e8c99005ff6"
+
+[[files]]
 file = "config/melancholic_hunger.json5"
 hash = "5436927c5492101a2f75de8b8cb304001bce8983baca5cceffde2f81c563157f"
 
@@ -274,7 +278,7 @@ hash = "0ae812cbe7b14f0baf8760508fea35e2f3fc22ee735b71cd9f0d810c888fed71"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/worldgen/biome/plains.json"
-hash = "21ea9c2c6b310b5bab4afabe7783135b80dc82ac6ea1f71aa649b512a98bc42f"
+hash = "6a1b7545b19c40730f5198018267a89ce7f2c6fa9323846a2eded98e830826c0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/advancement/pokeblock-advancedment.json"
@@ -4630,7 +4634,7 @@ hash = "74dc9b843c54fd19efe3052e3d0ab977af1cad623419b1c743a111e6422bfbd0"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "9d3fb6cc99731094275580ab6c5e560a68844dfc8359a2824dfc66d1c2389699"
+hash = "967d3a50de2a050416cb8ac1875d3c866e08d5ec9dc8ba32de44970598ccbbea"
 
 [[files]]
 file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
@@ -4643,7 +4647,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "b0e660b67dcb3abd84eb3d0ee9f2d04458abfce45ec74df1886d03f3aaf9fa15"
+hash = "866f121058a70a37aa2c8426e3ed6579f50a8fc3fb168b3ff0f42546c6757ed0"
 metafile = true
 
 [[files]]
@@ -4673,12 +4677,12 @@ metafile = true
 
 [[files]]
 file = "mods/catch-indicator.pw.toml"
-hash = "e2fe421bdcbadf9210174b2a60b7ad7899eb39c65f21422b6a20297291d5a7dd"
+hash = "a3a1ff7678eb9fd2caba07e3b4fb13f69e283a422ec04f03fd1fa54705da6c59"
 metafile = true
 
 [[files]]
 file = "mods/catch-rate-display.pw.toml"
-hash = "e0b3f4dad9886802c34f0c322c7eeb548a2100f604d8339bfc623c803be38f88"
+hash = "5210a9ad50ea96bba7d84104802b25f26a8170f116d823080e1e8b95a6da3bb4"
 metafile = true
 
 [[files]]
@@ -4738,12 +4742,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "7f64ed4a0fafc2f78e947b3405a38e31938a5783c4aca5d3446f0930f70a6b5d"
+hash = "bfc35311e1ae32e3d0b8dc933fa97628720d32d6ecbfadf9292a2612e4132895"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
+hash = "0b8e18037a6b3e9dca72b37f61ac3a277927ffeb5105a32740faf2b04c67846d"
 metafile = true
 
 [[files]]
@@ -4773,7 +4777,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "43ac0d3f978a006bf8f64fce334625fe16e8eee535eae6ed18f6e246d9c5a943"
+hash = "2df1d121128a418a3779b6fc64075e8211a8b7af57baf26c4ac1e632cd94f859"
 metafile = true
 
 [[files]]
@@ -4783,7 +4787,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
+hash = "70404bc50710f2e83dc9fdaa20a011ff49575b8c06a049bc18a50096a817719f"
 metafile = true
 
 [[files]]
@@ -4858,12 +4862,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7d2a4a0926c39e1da0999bb243dc274de984670f0d131022e0b98bf8f9b8c325"
+hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "11e43d47773d438897c9e445a1231ab2158b99ba24c7e59a6d69e62c1349b4b2"
+hash = "beef54d1aaca0017d151c54bef18db45d3911de0c1fdb089dda15cb50e45da30"
 metafile = true
 
 [[files]]
@@ -4978,22 +4982,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "98e6183c07de15c2565ee2afa70b930a877fc8d03722985f2c8137fd67da894d"
+hash = "297cb996bd3347808e134ce7d99abdc482b68e5f90ea7ef8c4e713083ff32b73"
 metafile = true
 
 [[files]]
 file = "mods/only-hammers.pw.toml"
-hash = "a47cd17a79fd9df896a1e8ffb6aeed84483be9473baa89b59027ed527f95ad24"
+hash = "3b379b0f38f35d5d4770ad867ab77bc4e83e19d0beca5308e0ccba09a5a9d99d"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
-metafile = true
-
-[[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "218393fdbf6d8f0f33c0b8cf196280a2b58259ead855d31304eae55da6037ead"
 metafile = true
 
 [[files]]
@@ -5063,12 +5062,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8cbdbcaf8c6177eed436ca5d364e8fecc246e3420d168b7576050bd6593b4555"
+hash = "09fa6e054c732ad75458d244c34da6cb04da312f453ce5c864b1fc96d9411ea4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "2b53fced296ddb06aba3c408270c48ddd359d5b75e71e042221e1167bbde1157"
+hash = "7f8c5d171c80d36c4115f32e3ef91d63abc1851d90f354796deb0b262789a072"
 metafile = true
 
 [[files]]
@@ -5088,7 +5087,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "07972d854d922401ef9a1fd6f1bf8aed5fe7e085a8602639ce8a42b680c5fac6"
+hash = "a7552a82a8b8ec3148bccd029b054ecc74b2e4d94adddc08184177e89bb34917"
 metafile = true
 
 [[files]]

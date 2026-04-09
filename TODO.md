@@ -1,14 +1,13 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
-    - [ ] Make sure implementation status is accurate.
+    - [ ] Replace Spawn with Method: Unobtainable, Spawn, Summon, Fossil
+    - [ ] Make sure stubs are up to date.
     - [ ] Create script to fill out spawn data from base cobblemon, MSD and ATM x MSD.
-    - [ ] Update ATM x MSD.
-- [ ] Method to obtain snow in plains.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
     - [ ] Better summon wing textures.
-    - [ ] Add even more legendary Pokémon.
+    - [ ] Add more legendary Pokémon shrines.
     - [ ] Add more special effects when summoning.
 - [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
@@ -69,3 +68,4 @@
 - [ ] Consider adding a minimap back along with good default config (inlcuding minimap toggle, mini map not in the way of Pokémon and xaeroscobblemon resourcepack).
 - [ ] Allow users to reenable vanilla mob spawning
 - [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
+- [ ] Improved plains snowfall
