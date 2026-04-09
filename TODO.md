@@ -1,9 +1,10 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
-    - [ ] Replace Spawn with Method: Unobtainable, Spawn, Summon, Fossil
-    - [ ] Make sure stubs are up to date.
-    - [ ] Create script to fill out spawn data from base cobblemon, MSD and ATM x MSD.
+    - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes.
+    - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- [ ] Drop table
+    - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
     - [ ] Better summon wing textures.
@@ -16,7 +17,6 @@
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
-- [ ] Auto fill out existing pokemon drops by searching species data json files from cobblemon, all the mons x msd and base msd.
 - [ ] Create custom creative tab and item categories for items added via kubejs.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
     - [ ] https://modrinth.com/resourcepack/rct-trainer-textures-plus
