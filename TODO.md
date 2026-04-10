@@ -10,6 +10,7 @@
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Legendary Summoning Shrines.
+    - [ ] Multi Pokémon shrines, will need some changes to how shrines currently work.
     - [ ] Better summon wing textures.
     - [ ] Add more legendary Pokémon shrines.
     - [ ] Add more special effects when summoning.

@@ -155,7 +155,9 @@ for (let i = 0; i < pokemon.length; i++) {
   let bucket = pokemon[i]?.spawns?.[0]?.bucket || "";
   let level = pokemon[i]?.spawns?.[0]?.level || "";
   let weight = pokemon[i]?.spawns?.[0]?.weight || "";
-  csvLines.push(`${dex},${id},${bucket},${weight},${level},,,,,,,,,,`);
+  let dimension = "overworld";
+  let types: string[] = [];
+  csvLines.push(`${dex},${id},${bucket},${weight},${level},${dimension},,,,,,,,,`);
 }
 
 Bun.write(outputPath, csvLines.join("\n"));
