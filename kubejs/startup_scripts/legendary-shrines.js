@@ -8,6 +8,8 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:arctic_wing",
     newSummonItem: true,
+    lootItem: "pokeblock:articuno_orb",
+    newLootItem: true,
     required: {
       "minecraft:polished_diorite": 20,
       "minecraft:ice": 20,
@@ -25,8 +27,10 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:charged_wing",
     newSummonItem: true,
+    lootItem: "pokeblock:zapdos_orb",
+    newLootItem: true,
     required: {
-        "minecraft:yellow_concrete": 30,
+      "minecraft:yellow_concrete": 30,
       "minecraft:redstone_block": 10,
       "minecraft:redstone_torch": 6,
       "minecraft:lightning_rod": 2,
@@ -42,6 +46,8 @@ global.legendaryPokemon = [
     newSummonPedestal: true,
     summonItem: "pokeblock:molten_wing",
     newSummonItem: true,
+    lootItem: "pokeblock:moltres_orb",
+    newLootItem: true,
     required: {
       "minecraft:polished_blackstone": 30,
       "minecraft:fire": 10,
@@ -75,6 +81,9 @@ StartupEvents.registry("item", (event) => {
     // Optionally create summon item
     if (pokemon.newSummonItem) {
       event.create(pokemon.summonItem).tag("pokeblock:legendary_summon_items");
+    }
+    if (pokemon.newLootItem) {
+      event.create(pokemon.lootItem).tag("pokeblock:legendary_summon_items");
     }
   }
 });

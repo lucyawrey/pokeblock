@@ -37,7 +37,7 @@ function shrineEvent(pokemon) {
             let itemId = block.getEntityData().Item?.id;
             if (itemId) {
               // Handle issue where ID string gotten from entity data contains quotes.
-              counted[itemId.toString().replaceAll("\"", "")] = 1;
+              counted[itemId.toString().replaceAll('"', "")] = 1;
             }
           }
           if (!counted[id]) {
@@ -70,6 +70,14 @@ function shrineEvent(pokemon) {
           `playsound minecraft:block.end_portal.spawn block @p ${block.x} ${block.y} ${block.z}`,
         );
         player.mainHandItem.shrink(1);
+        // Spawn loot item
+        if (pokemon.lootItem && pokemon.lootItem !== "minecraft:air") {
+          let itemEntity = level.createEntity("minecraft:item");
+          itemEntity.setPos(block.x + 0.5, block.y + 1.0, block.z + 0.5);
+          itemEntity.item = Item.of(pokemon.lootItem, 1);
+          itemEntity.spawn();
+        }
+        // Spawn Pokémon
         server.scheduleInTicks(100, () => {
           let data = pokemon.data ? `${pokemon.data} ` : "";
           let shiny = Math.random() < 1 / 4096 ? "shiny " : "";
@@ -92,5 +100,5 @@ function shrineEvent(pokemon) {
     }
     // Prevent Default
     event.cancel();
-  }
+  };
 }

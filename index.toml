@@ -517,6 +517,10 @@ file = "datapacks/pokeblock_datapack/pack.mcmeta"
 hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
 
 [[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0000_pidgey_herd.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0001_bulbasaur.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
@@ -3397,6 +3401,18 @@ file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0823_corvi
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0824_blipbug.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0825_dottler.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0826_orbeetle.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0827_nickit.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
@@ -3566,6 +3582,10 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0879_copperajah.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/0884_duraludon.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
@@ -3909,11 +3929,11 @@ file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/baxcalibur
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
-file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/bisharp.json"
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/beautifly.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
-file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/blipbug.json"
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/bisharp.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
@@ -3922,6 +3942,10 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/carkol.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/cascoon.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
@@ -3937,15 +3961,11 @@ file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/delcatty.j
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
-file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/dottler.json"
-hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
-
-[[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/drapion.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
-file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/duraludon.json"
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/dustox.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
@@ -4005,10 +4025,6 @@ file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/oranguru.j
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
-file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/orbeetle.json"
-hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
-
-[[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/pancham.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
@@ -4065,6 +4081,10 @@ file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/sewaddle.j
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/silcoon.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/silicobra.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
@@ -4098,6 +4118,10 @@ hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
 file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/vullaby.json"
+hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+
+[[files]]
+file = "datapacks/spawn_pool_stub_all/data/cobblemon/spawn_pool_world/wurmple.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
@@ -4622,7 +4646,7 @@ hash = "6a92eb2275b59ceb26bb82be4c82fd2d5eb8e1f0573cb97865b17f033b91889d"
 
 [[files]]
 file = "kubejs/server_scripts/legendary-shrines.js"
-hash = "526c31a66196d06a0cb612792d2023a8697b046fe7bb5e9fc698d5d4fe09c56b"
+hash = "ae0f94d13f5cfe049253d333930aa51472893541761f9f934c09694c4ac477a5"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -4630,7 +4654,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "74dc9b843c54fd19efe3052e3d0ab977af1cad623419b1c743a111e6422bfbd0"
+hash = "9243b1a2fc6a7b34628e5305b7d8ccc96f6fb1bfd6693a3b49945674cae790d2"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
