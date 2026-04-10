@@ -1,8 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
-    - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes.
+    - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- [ ] Concider https://modrinth.com/mod/itemphysic
+    - [ ] Test with cobbleworkers
+    - [ ] Test with baskets 
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)

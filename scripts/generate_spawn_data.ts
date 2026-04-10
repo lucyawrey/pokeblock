@@ -152,7 +152,10 @@ for (let i = 0; i < pokemon.length; i++) {
   let dex: any = i + 1;
   let id = pokemon[i]?.id || "";
   dex = id ? dex : "";
-  csvLines.push(`${dex},${id},,,,,,,,,,,,`);
+  let bucket = pokemon[i]?.spawns?.[0]?.bucket || "";
+  let level = pokemon[i]?.spawns?.[0]?.level || "";
+  let weight = pokemon[i]?.spawns?.[0]?.weight || "";
+  csvLines.push(`${dex},${id},${bucket},${weight},${level},,,,,,,,,,`);
 }
 
 Bun.write(outputPath, csvLines.join("\n"));
@@ -175,9 +178,13 @@ async function getPokemon(path: string) {
         if (res.ok) {
           let data = (await res.json()) as { id: number };
           let dex = data.id;
-          pokemon[dex - 1] = {
-            id,
-          };
+          const json = await Bun.file(`${path}/${filePath}`).json();
+          if (json && json.spawns) {
+            pokemon[dex - 1] = {
+              id,
+              spawns: json.spawns,
+            };
+          }
         } else {
           console.error(`${id}`);
         }
