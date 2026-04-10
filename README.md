@@ -36,7 +36,8 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 ## Credits
 - Cobblemon
 - Create
-- [Legendary Monuments](https://modrinth.com/mod/legendary-monuments) for certain textures and models.
+- Planeta Cobblemon Pokémon Pack (Virizion, Pheromosa, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
+- TDmon (Tympole Line)
 - more credits coming soon...
 
 # Development
