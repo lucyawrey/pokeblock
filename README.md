@@ -24,7 +24,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 ## Credits
 - Cobblemon
 - Create
-- Planeta Cobblemon Pokémon Pack (Virizion, Pheromosa, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
+- Planeta Cobblemon Pokémon Pack (Virizion, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
 - TDmon (Tympole Line)
 - MysticMons (Pheromosa)
 - more credits coming soon...

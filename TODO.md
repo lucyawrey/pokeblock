@@ -1,8 +1,5 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Add remaining mons
-    - Add extra data to mons to allow giving with Give All Pokemon command.
-    - Add extra data to mons to fix PC and Party portrait zoom level.
 - [ ] Update spawn table.
     - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
@@ -57,7 +54,6 @@
         - [ ] Create proper credits list for all used mods and include in readme and description.
         - [ ] Verify licence of all mods in modpack.
         - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
-        - [ ] Ask permission from Legendary Monuments to borrow assets. (permissiable by liecense but I want to be sure).
         - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
 - [ ] Skyblock Builder Fixes
     - [ ] Spawn protection not preventing harvesting berries and taking items from display cases.
@@ -65,14 +61,19 @@
 - [ ] Create Lore!
     - [ ] Journal entries in island starting chest, in the nether, and in one of the meteorites.
     - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
+- [ ] Fix some mons set as implimented by me in `pokeblock_datapack/cobblemon/species_additions`.
+    Fix PC and party portrait scale, walking/swimming/flying status, base scale, and hitboxes.
 
 ## Low Priority
-- [ ] Install and setup FancyMenu for custom pack menu.
-- [ ] Consider renaming pack to Cobbleblock.
-- [ ] Remove ancient pokeballs from cobblemon create
-- [ ] Update master ball recipe for cobblemon create
-- [ ] Deepslate ores at low y values.
-- [ ] Consider adding a minimap back along with good default config (inlcuding minimap toggle, mini map not in the way of Pokémon and xaeroscobblemon resourcepack).
-- [ ] Allow users to reenable vanilla mob spawning
-- [ ] Setup End portal crafting and end island handling. Delete default return portal and ender dragon. Can't be done in default Skyblock Builder.
-- [ ] Improved plains snowfall
+- [ ] Install and setup FancyMenu for custom home menu and loading screen.
+- [ ] Rename pack to Cobbleblock.
+- [ ] Remove ancient Pokéball Create recipes.
+- [ ] Update Master Ball Create recipe.
+- [ ] Changed ores generated from bedrock at deepslate levels to actualy be deepslate ores.
+- [ ] Consider adding a minimap with good default settings (minimap toggle key, minimap not in the way of Battle UI) and the xaeroscobblemon resourcepack.
+- [ ] Add option for users to enable vanilla mob spawning, currently impossible due to the datapack used to disable mob spawning.
+- [ ] Add End dimensiopn support.
+    - Craftable End Portals
+    - Disable generation for default end return portal.
+    - Disable ender dragon.
+    - Add a generated End island for each Skyblock. Can't be done currently in base Skyblock Builder.
