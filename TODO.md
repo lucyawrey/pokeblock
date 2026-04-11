@@ -1,10 +1,9 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Add remaining mons
-    - Load Order (after ATM x MSD)
-    - Planeta Cobblemon Pokémon Pack (Virizion, Pheromosa, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
-    - TDmon (Tympole Line)
-    - Pheromosa
+    - Planeta Cobblemon Pokémon Pack Integration (Virizion, Pheromosa, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
+    - Add extra data to mons to allow giving with Give All Pokemon command.
+    - Add extra data to mons to fix PC and Party portrait zoom level.
 - [ ] Update spawn table.
     - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.

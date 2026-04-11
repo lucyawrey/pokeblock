@@ -4565,16 +4565,6 @@ file = "datapacks/spawn_pool_stub_all/pack.mcmeta"
 hash = "d52dd0bd849fe74d6d7d365c1d4ef3e9207f81431160d4665e2a7dbeddab30db"
 
 [[files]]
-file = "global_packs/required_data/planeta-cobblemon-pokemon-pack.pw.toml"
-hash = "08ba16e5b1132d523cd6d5908172374c717481f3c6af8dbde092b4bceb9653ef"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/tdmon.pw.toml"
-hash = "7a00083d6f3b9b730039cb5bee1f08792a33c6f1496fb51f91bd55b5d27788d7"
-metafile = true
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -5128,3 +5118,111 @@ metafile = true
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
 hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
 metafile = true
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/animations/0795_pheromosa/pheromosa.animation.json"
+hash = "53871c86d27d20f0a2cc1035c993c4186c515c6b1040c01ed7c0cff92e628389"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/models/pheromosa.geo.json"
+hash = "5dde92fc782dc4df4889ccbe30dfa44ae61a68c271d5cef36d04b011931d1c42"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/animations/0535_tympole/tympole.animation.json"
+hash = "8a54ed320d46a9543857796ff463cfa98fd9da53d9168179c56001706f3e445e"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/animations/0536_palpitoad/palpitoad.animation.json"
+hash = "20eca24543107c6c3201da176d507ab0db746c59668c3d27bfb85e9ba1e30d61"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/animations/0537_seismitoad/seismitoad.animation.json"
+hash = "f59553edaf9cc6ea237cd0c73e10d7284924cdf1d9517dec9efe9ff33c76185e"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/models/0535_tympole/tympole.geo.json"
+hash = "e65faf4cf3120434056f0fe5722ba1245b2406f8912dff46c77185d02d0502a2"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/models/0536_palpitoad/palpitoad.geo.json"
+hash = "8e35fe7dc1f8ad90ba3498ed94a23209fcf59af29ea9d0c2919b9fb6ab23d8f8"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/models/0537_seismitoad/seismitoad.geo.json"
+hash = "6f747a5e0100c01493b23b5f64412ab949af769d174ed7c4599b26f65376a2c4"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/posers/0535_tympole/tympole.json"
+hash = "abdffe5b6799a81c5fbb3208c281a5c59df59be8851901401f8f42f0d7612965"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/posers/0536_palpitoad/palpitoad.json"
+hash = "afc911b006c0f939b735caa89d530b98af11ff578b4c24b93cc1bf062a10f6bb"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/posers/0536_palpitoad/palpitoad.json.bak"
+hash = "4f0da35ecea4b67e1103a48357dc72ae268184bd7c53f88df8012d082ed9dc06"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/posers/0537_seismitoad/seismitoad.json"
+hash = "b84fc7b4a25207798216b946f15f8fb7e00628c260db51ae4941ff5abab965ea"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/posers/0537_seismitoad/seismitoad.json.bak"
+hash = "ac8e18c22bc36f1546f0c3d486ebe5b11bdf1d0f1ce5dbd278a40b40b9d76d81"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/resolvers/0535_tympole/0_tympole.json"
+hash = "accaa9dab610c4ea39542830075b0d99d8ed1bc7d13c6fe2d66b080e496a17ea"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/resolvers/0536_palpitoad/0_palpitoad.json"
+hash = "cdd3cda4f70d791f19afc603ad2169050415905eb0336c7e7100fb59766447aa"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/pokemon/resolvers/0537_seismitoad/0_seismitoad.json"
+hash = "2673009af2f905c7591e4919e1621a5f85188b2e0c9c8c7a6e74e2ac294da29b"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/posers/0795_pheromosa/pheromosa.json"
+hash = "ac27ea5f59b8c3f3eaead052702d6f5c73ae2dc02b2b4d69a1757ef6aa381041"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/bedrock/species/pheromosa.json"
+hash = "df3254b4edf8f78743d91363bf923255d0ab0a02dd9a3fc7b82e1cae5aa0325d"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0535_tympole/tympole.png"
+hash = "e15f669593d7a6e49d636e373eff0288d654dfe8450217c1b90efff408c2534e"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0535_tympole/tympole_shiny.png"
+hash = "040908b751609ac3eb6e1c25d6238ea02af04d661f9faac562c3331e41e0b08f"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0536_palpitoad/palpitoad.png"
+hash = "72f2d21f1ce99ed541a545dcf0002226e9796b36b1b33c8169567dff719ee8f0"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0536_palpitoad/palpitoad_shiny.png"
+hash = "c330fe1b9a73d43ec3c73184de8751667a21c2e02cfbe319d389fc9a9668704e"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0537_seismitoad/seismitoad.png"
+hash = "74a0b8047e63ec39bafa7c472330bddf2b8234797e6834c727efe7f2f675e10d"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0537_seismitoad/seismitoad_shiny.png"
+hash = "2f5e3cde5c8e6d3c1969f16a3ba9427f910ab202cff14c8862c56012d1a9c2c5"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0795_pheromosa/pheromosa.png"
+hash = "74f809865b5d446f19e539633cebe5ca03dfba124f57f4d0a8870bd54fa65ffb"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/assets/cobblemon/textures/pokemon/0795_pheromosa/pheromosa_shiny.png"
+hash = "5414f362cd83c1ac4350df98bdbb6550fa1832f6d26f98ca07dabc1e77d5ec0b"
+
+[[files]]
+file = "resourcepacks/tdmon-mysticmons-merge/pack.mcmeta"
+hash = "db00c894ae81a4cd752d9622c8118ae46a5e6c74f6606c5c9fe080871aac0d01"
