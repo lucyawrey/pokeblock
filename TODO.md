@@ -1,7 +1,6 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Add remaining mons
-    - Planeta Cobblemon Pokémon Pack Integration (Virizion, Pheromosa, Celesteela, Iron Hands, Iron Jugulis, Ting-Lu, Iron Boulder)
     - Add extra data to mons to allow giving with Give All Pokemon command.
     - Add extra data to mons to fix PC and Party portrait zoom level.
 - [ ] Update spawn table.
