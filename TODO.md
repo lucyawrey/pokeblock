@@ -3,9 +3,11 @@
 - [ ] Update spawn table.
     - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Concider https://modrinth.com/mod/itemphysic
     - [ ] Test with cobbleworkers
-    - [ ] Test with baskets 
+    - [ ] Test with baskets
+- [ ] Figure out why cobbleworkers item pick-up is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins. Potentially add my own Pokébins that auto collect nearby loot from Pokémon, bypassing drops.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
@@ -35,7 +37,6 @@
 - [ ] Setup default controls and other core settings
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
-- [ ] Figure out why cobbleworkers item pick-up is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins or sophisticated storage for magnet chests.
 - [ ] Configure CobbleDollars merchant stock
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
@@ -61,8 +62,7 @@
 - [ ] Create Lore!
     - [ ] Journal entries in island starting chest, in the nether, and in one of the meteorites.
     - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
-- [ ] Fix some mons set as implimented by me in `pokeblock_datapack/cobblemon/species_additions`.
-    Fix PC and party portrait scale, walking/swimming/flying status, base scale, and hitboxes.
+- [ ] Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
 
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom home menu and loading screen.

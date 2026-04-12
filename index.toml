@@ -5183,7 +5183,7 @@ hash = "5dde92fc782dc4df4889ccbe30dfa44ae61a68c271d5cef36d04b011931d1c42"
 
 [[files]]
 file = "resourcepacks/MysticMons/assets/cobblemon/bedrock/posers/0795_pheromosa/pheromosa.json"
-hash = "ac27ea5f59b8c3f3eaead052702d6f5c73ae2dc02b2b4d69a1757ef6aa381041"
+hash = "59e4931f472e80f16c37c6d3404e4d3e094deddb3cbed6b4f0580989d3a373a2"
 
 [[files]]
 file = "resourcepacks/MysticMons/assets/cobblemon/bedrock/species/pheromosa.json"
@@ -5255,27 +5255,27 @@ hash = "ce0aad6ccfbbc9ed044eec60966d33e2e4a614f4779b04a2f1fe79cb1e5ee989"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/celesteela.json"
-hash = "aaff4ea64bee3df42f64e60b797fb78b87442b724c32e99c9e9536c5541c3c9b"
+hash = "d7550763f1c7fbaf7ded7880e36535f066b2d1fd930cd6dfcddebbb5b54f3826"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/ironboulder.json"
-hash = "7b5ad1fe251243d592a4d4392155087473de24f38f8d2146a1478e9d482f8567"
+hash = "a1dd0223a22762c24f6d698e0b0c78452070de97b86d0f3e414849403129a668"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/ironhands.json"
-hash = "b59ad83662e42b3e54041f68b47b877f2f4277c1258e60dc83c666ad15b346d0"
+hash = "f98d49eb9de87042a48b239230e45db09e941ff0266debbb847b0a746c8f9521"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/ironjugulis.json"
-hash = "27891b4946c4247075fc087bf52913830760f478f71bb837f611170d96652cbc"
+hash = "e1ab030164df7e31e82e184976ac8fa9c5da3a3834c189015cf3dabd66942140"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/tinglu.json"
-hash = "97a6682065e3719839b0dd01c3449f538869185c2431116e67cbbe079720787c"
+hash = "8873171efadfd79f72cdc4a191e8f7b40050698c4a0daaa6224293091e113a59"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/posers/virizion.json"
-hash = "6ac21960e5a932377cf89d2c6941920bfec8ed438f08ec83c98b2192334dda38"
+hash = "7ddb1d970e39070ba5a516305477a82e909d9d17c5637c7982f1641b7245f2d1"
 
 [[files]]
 file = "resourcepacks/PlanetaCobblemonFreePack/assets/cobblemon/bedrock/species/0640_virizion/0_virizion_base.json"
