@@ -7,7 +7,9 @@
 - [ ] Concider https://modrinth.com/mod/itemphysic
     - [ ] Test with cobbleworkers
     - [ ] Test with baskets
-- [ ] Figure out why cobbleworkers item pick-up is so unrelaible and pokemon keep being removed from pasture. Is it an interaction with safe pastures or Wild Loot? Are they just falling off? Potentially remove cobbleworkers and set up pasture bins. Potentially add my own Pokébins that auto collect nearby loot from Pokémon, bypassing drops.
+- [ ] Improve pastures
+    - [ ] Prevent pasture Pokémon from despawning. (https://modrinth.com/mod/cobblemon_tp_pastures)
+    - [ ] Potentially replace Cobbleworkers with custom Pasture Bin block added to my own Wild Loot mod.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
