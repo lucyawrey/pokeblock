@@ -97,26 +97,8 @@
     ]
   },
   "groundItemGathering": {
-    "groundItemGatheringEnabled": true,
-    "groundItemGatherers": [
-      "zigzagoon",
-      "meowth",
-      "aipom",
-      "teddiursa",
-      "phanpy",
-      "linoone",
-      "pachirisu",
-      "ambipom",
-      "munchlax",
-      "lillipup",
-      "bunnelby",
-      "diggersby",
-      "dedenne",
-      "pumpkaboo",
-      "gourgeist",
-      "tandemaus",
-      "greavard"
-    ],
+    "groundItemGatheringEnabled": false,
+    "groundItemGatherers": [],
     "typeGathersGroundItems": "PSYCHIC"
   },
   "netherwartHarvest": {

@@ -10,6 +10,7 @@
 - [ ] Improve pastures
     - [ ] Prevent pasture Pokémon from despawning. (https://modrinth.com/mod/cobblemon_tp_pastures)
     - [ ] Potentially replace Cobbleworkers with custom Pasture Bin block added to my own Wild Loot mod.
+    - [ ] If cobbleworkers is kept, allow depositing items into Pokébins.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
