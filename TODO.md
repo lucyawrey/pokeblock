@@ -5,12 +5,11 @@
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Concider https://modrinth.com/mod/itemphysic
-    - [ ] Test with cobbleworkers
-    - [ ] Test with baskets
+    - [ ] Test with Farmer's Baskets, Create belts
 - [ ] Improve pastures
     - [ ] Prevent pasture Pokémon from despawning. (https://modrinth.com/mod/cobblemon_tp_pastures)
-    - [ ] Potentially replace Cobbleworkers with custom Pasture Bin block added to my own Wild Loot mod.
-    - [ ] If cobbleworkers is kept, allow depositing items into Pokébins.
+    - [ ] Add Pokébaskets Wild Loot mod.
+    - [ ] If cobbleworkers is re-added, allow working Pokémon to deposit items into Pokébaskets only.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
@@ -75,6 +74,7 @@
 - [ ] Changed ores generated from bedrock at deepslate levels to actualy be deepslate ores.
 - [ ] Consider adding a minimap with good default settings (minimap toggle key, minimap not in the way of Battle UI) and the xaeroscobblemon resourcepack.
 - [ ] Add option for users to enable vanilla mob spawning, currently impossible due to the datapack used to disable mob spawning.
+- [ ] Rebuild Wild Loot into Cobblehelpers, an alternative to Cobbleworkers.
 - [ ] Add End dimensiopn support.
     - Craftable End Portals
     - Disable generation for default end return portal.

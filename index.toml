@@ -26,7 +26,7 @@ hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
 
 [[files]]
 file = "config/cobbleworkers.json"
-hash = "bb2b5e28b22b14dfc80f6cdb3946906980b9f47a9e2934751b791c45cbfc25ac"
+hash = "ca8ca0623268ca818dbc8a3d3bbacdbebbeb45af44ee94a97660f36556672b36"
 
 [[files]]
 file = "config/default-server.properties"

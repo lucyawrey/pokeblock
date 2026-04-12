@@ -9,10 +9,8 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Completely redone spawning rules for all Pokémon. Build regular Pokémon a habitat using certain blocks to attract them to your island.
 - Most Legendary Pokémon fully implimented. You will need to build them custom multiblock shrines and offer up special items in order to summon them to your island and catch them!
 - Unique Skyblock progression featuring the Create mod, new types of cobblestone generators, rebalanced recepes, and rethought Pokémon drops.
-- Pokémon passively drop loot to help you build up your island whetehr they are in the wild, let out of their Pokéball for a while, or roaming free in a pasture.
+- Pokémon passively drop loot to help you build up your island whetehr they are in the wild, let out of their Pokéball for a while, or roaming free in a pasture. You can automatically collect these drops by crafting a Pokébasket.
 - No hunger interupting your Pokémon adventure. All food items now restore health over time instead.
-- Pokémon will work on tasks when put in a pasture.
-    - Apricorn Hartvesting (Bug Types), Crop Irrigation (Water Types), Amethyst Harvesting (Rock Types), and more.
 - Renewable archeology blocks with intact loot waiting to be unearthed. Your cobblestone generators have a chance to produce suspicious cobblestone that can be crushed with a hammer or millstone into suspicious gravel or sand,
 - Craft a special meteor beacon and pull down a meteor from space to harvest rare materials from. This will be the key to mega evolving Pokémon and perhaps finding a way to summon a certain mysterious Pokémon.
 - Lore to uncover about why exactly you find yourself floating in a sea of nothingness.
