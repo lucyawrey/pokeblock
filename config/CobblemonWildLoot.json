@@ -1,0 +1,23 @@
+{
+  "tick_per_minute": 1200,
+  "drop_chance_per_minute": 0.05,
+  "item_blacklist": [
+    "minecraft:porkchop",
+    "minecraft:beef",
+    "minecraft:chicken",
+    "minecraft:mutton",
+    "minecraft:rabbit",
+    "minecraft:fish",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_fish",
+    "minecraft:rotten_flesh",
+    "minecraft:cod",
+    "minecraft:pufferfish",
+    "minecraft:honey_bottle",
+    "minecraft:salmon"
+  ]
+}

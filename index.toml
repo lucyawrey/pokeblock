@@ -293,6 +293,10 @@ file = "datapacks/pokeblock_datapack/data/cobblemon/species_additions/1022_ironb
 hash = "cafdb20f380e8dc082d06d30a3890ec9b6cf08f5e90c4343fa60ec806b9e3c73"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/cobblemonwildloot/recipe/crafting_shaped/pokebasket.json"
+hash = "89aa933e8ce518fa5a05a7eee572c790518da45ee1dc367769b7f61c74a32f5c"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/create/recipe/crushing/crimsite.json"
 hash = "5ff2b5fa8aa6d69004e9f74bb88c7f2b4e46f627438875cb63bba7c723379c38"
 
@@ -4729,10 +4733,6 @@ file = "kubejs/startup_scripts/main.js"
 hash = "967d3a50de2a050416cb8ac1875d3c866e08d5ec9dc8ba32de44970598ccbbea"
 
 [[files]]
-file = "mods/CobblemonWildLoot-neoforge-1.0.1.jar"
-hash = "eb0df8fcdb2d4d33a4f22ebad865c26efa8e6b7d493d0b50e166320a234ab850"
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -4855,6 +4855,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-villager-overhaul.pw.toml"
 hash = "06cfac89c87081addbe78c007235dca73d196c1ac63d23d24113c485de77e4ab"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-wild-loot.pw.toml"
+hash = "773ccba009cdc2bc1a6073a8916bdfcc7d3dfea002cc3170fea19a50b7c0e19d"
 metafile = true
 
 [[files]]

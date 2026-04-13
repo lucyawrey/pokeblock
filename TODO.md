@@ -6,10 +6,7 @@
 - [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Concider https://modrinth.com/mod/itemphysic
     - [ ] Test with Farmer's Baskets, Create belts
-- [ ] Improve pastures
-    - [ ] Prevent pasture Pokémon from despawning. (https://modrinth.com/mod/cobblemon_tp_pastures)
-    - [ ] Add Pokébaskets Wild Loot mod.
-    - [ ] If cobbleworkers is re-added, allow working Pokémon to deposit items into Pokébaskets only.
+- [ ] Improve Wild Loot mod.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)

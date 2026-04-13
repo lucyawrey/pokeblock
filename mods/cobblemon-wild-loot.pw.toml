@@ -1,0 +1,13 @@
+name = "Cobblemon: Wild Loot"
+filename = "CobblemonWildLoot-neoforge-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/krPhIQKY/versions/XgVIzzQ1/CobblemonWildLoot-neoforge-1.0.2.jar"
+hash-format = "sha512"
+hash = "07349c5cf81477cdf91ecbf7a13facb5a7f3a6f745b8011f9b7a5b6ea99f1f22d5a82e93bab01553e2ada12d510beea2fa64cc5aafae9fe3d6973f6169e453e8"
+
+[update]
+[update.modrinth]
+mod-id = "krPhIQKY"
+version = "XgVIzzQ1"
