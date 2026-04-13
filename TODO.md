@@ -25,7 +25,7 @@
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Create all Pokémon spawning rules.
 - [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
-- [ ] Create custom creative tab and item categories for items added via kubejs.
+- [ ] Create custom creative tab and item categories for items added via kubejs and Wild Loot.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
     - [ ] https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - [ ] Shadow Pokémon from Shadowed Hearts.
@@ -80,3 +80,9 @@
     - Disable generation for default end return portal.
     - Disable ender dragon.
     - Add a generated End island for each Skyblock. Can't be done currently in base Skyblock Builder.
+
+## Assets
+- [ ] Wing Item Sprites (Arctic Wing, Charged Wing, Molten Wing)
+- [ ] Orb Item Sprites (Articuno Orb, Zapdos Orb, Moltres Orb)
+- [ ] Fragile Ocarina Sprite (see Pokémon 2000)
+- [ ] Lugia Pedestal

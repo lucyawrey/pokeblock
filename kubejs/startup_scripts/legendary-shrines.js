@@ -56,6 +56,28 @@ global.legendaryPokemon = [
       "minecraft:iron_block": 3,
     },
   },
+  {
+    id: "lugia",
+    name: "Lugia",
+    level: "65",
+    data: "min_perfect_ivs=3",
+    summonPedestal: "pokeblock:lugia_pedestal",
+    newSummonPedestal: true,
+    summonItem: "pokeblock:fragile_ocarina",
+    newSummonItem: true,
+    lootItem: undefined,
+    newLootItem: false,
+    required: {
+      "mega_showdown:pedestal": 3,
+      "pokeblock:articuno_orb": 1,
+      "pokeblock:zapdos_orb": 1,
+      "pokeblock:moltres_orb": 1,
+      "minecraft:water": 10,
+      "minecraft:prismarine": 10,
+      "minecraft:lapis_block": 5,
+      "minecraft:quartz_block": 5,
+    },
+  },
 ];
 
 StartupEvents.registry("block", (event) => {
@@ -79,10 +101,10 @@ StartupEvents.registry("block", (event) => {
 StartupEvents.registry("item", (event) => {
   for (let pokemon of global.legendaryPokemon) {
     // Optionally create summon item
-    if (pokemon.newSummonItem) {
+    if (pokemon.newSummonItem && pokemon.summonItem) {
       event.create(pokemon.summonItem).tag("pokeblock:legendary_summon_items");
     }
-    if (pokemon.newLootItem) {
+    if (pokemon.newLootItem && pokemon.lootItem) {
       event.create(pokemon.lootItem).tag("pokeblock:legendary_summon_items");
     }
   }

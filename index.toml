@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/CobblemonWildLoot.json"
-hash = "1046c661496a058f20210644fd4e1b5887d1bdd18604e00b4183e40ccefd52e9"
-
-[[files]]
 file = "config/cobblegen.json5"
 hash = "94453f5128633180c91dabddaa67bc5eb92af4626e586d4d0487fde773211af2"
 
@@ -23,10 +19,6 @@ hash = "c285afc93dfd0c9604990e2dd2a21c014d0fb411d504b83953f527ce001cad53"
 [[files]]
 file = "config/cobblenav/server-config.json"
 hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
-
-[[files]]
-file = "config/cobbleworkers.json"
-hash = "ca8ca0623268ca818dbc8a3d3bbacdbebbeb45af44ee94a97660f36556672b36"
 
 [[files]]
 file = "config/default-server.properties"
@@ -4641,6 +4633,10 @@ file = "kubejs/assets/pokeblock/models/block/articuno_pedestal.json"
 hash = "d0b0ed0aff3c2c7be88c2e91c5655404eff502eb67c73a2660b847a96fa99af5"
 
 [[files]]
+file = "kubejs/assets/pokeblock/models/block/lugia_pedestal.json"
+hash = "954880be770c1f01e1b5be0d7b2a6656cc46465a9d9df51df0b1de093367b135"
+
+[[files]]
 file = "kubejs/assets/pokeblock/models/block/meteor_beacon.json"
 hash = "d10f2641393c6eb28d3825dd5ba1206ef70325219f15956201e3318eb575a6ac"
 
@@ -4659,6 +4655,14 @@ hash = "b89aa143411d79bd5ef29cd8562bc02771d72b5df8cc9a594900690cf0979aa4"
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/articuno_pedestal.png"
 hash = "78ed7bb6c5f4683fa94900f63e6a7ef003ab5046c18ee1e600cde67b84d8087e"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/lugia_pedestal.png"
+hash = "bb56a28a613188e6901ad751496e7deaa9fe145fcfaa386b998a52202bc05e72"
+
+[[files]]
+file = "kubejs/assets/pokeblock/textures/block/lugia_pedestal_water.png"
+hash = "109dc8b18a8fea983083b2f361c650f507d0ec26418b8ac0eef29b6f257030ab"
 
 [[files]]
 file = "kubejs/assets/pokeblock/textures/block/meteor_beacon.png"
@@ -4718,7 +4722,7 @@ hash = "bfd6ca310a4ef668bff5f2b421b57c3d70ee401a41b6119ffe8f955f8583d936"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "9243b1a2fc6a7b34628e5305b7d8ccc96f6fb1bfd6693a3b49945674cae790d2"
+hash = "1d21c1c8f9a2a0f18e3973a1b61d83960a743434cc3e133834fd87a97700f0cf"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -4861,11 +4865,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemore-library.pw.toml"
 hash = "cf4cb0b27f637954e20c73efa13d5ac2f543f1fad5a1e8dd344aeef678de8979"
-metafile = true
-
-[[files]]
-file = "mods/cobbleworkers.pw.toml"
-hash = "2df1d121128a418a3779b6fc64075e8211a8b7af57baf26c4ac1e632cd94f859"
 metafile = true
 
 [[files]]
