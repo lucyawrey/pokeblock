@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CobblemonWildLoot.json"
-hash = "c7fb5680f2f324b15b04bec8ef2bf7c2e39698cf4ab105ca24f558b1f86ddcd5"
+hash = "226e1c6a6e059c2ca5e2fb2da88122d019cb3e783f87e694594a7018bd537e14"
 
 [[files]]
 file = "config/cobblegen.json5"
@@ -4843,7 +4843,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
-hash = "0b8e18037a6b3e9dca72b37f61ac3a277927ffeb5105a32740faf2b04c67846d"
+hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
 metafile = true
 
 [[files]]
