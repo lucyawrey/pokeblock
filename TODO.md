@@ -4,13 +4,14 @@
 - [ ] Update spawn table.
     - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-- [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
+    - [ ] Add regional forms.
 - [ ] Concider https://modrinth.com/mod/itemphysic
     - [ ] Test with Farmer's Baskets, Create belts
 - [ ] Improve Wild Loot mod.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
+- [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Legendary Summoning Shrines.
     - [ ] Multi Pokémon shrines, will need some changes to how shrines currently work.
     - [ ] Better summon wing textures.
@@ -56,6 +57,7 @@
         - [ ] Verify licence of all mods in modpack.
         - [ ] Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
         - [ ] Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
+- [ ] Update Wild Loot with more accurate loot drops to baskets (and maybe also ground drops, unsure if that is being handled properly) ((respect percentages)).
 - [ ] Skyblock Builder Fixes
     - [ ] Spawn protection not preventing harvesting berries and taking items from display cases.
     - [ ] Home island spawn in waterfall for some reason.

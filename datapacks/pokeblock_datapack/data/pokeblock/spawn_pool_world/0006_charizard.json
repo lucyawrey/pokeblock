@@ -16,16 +16,15 @@
           "#cobblemon:natural"
         ],
         "dimensions": [
-          "minecraft:overworld"
+          "minecraft:the_nether"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
         "isRaining": false,
         "isThundering": false,
         "neededNearbyBlocks": [
           "minecraft:torch",
           "minecraft:campfire",
-          "minecraft:fire"
+          "minecraft:fire",
+          "minecraft:netherrack"
         ]
       }
     }

@@ -155,9 +155,34 @@ for (let i = 0; i < pokemon.length; i++) {
   let bucket = pokemon[i]?.spawns?.[0]?.bucket || "";
   let level = pokemon[i]?.spawns?.[0]?.level || "";
   let weight = pokemon[i]?.spawns?.[0]?.weight || "";
-  let dimension = "overworld";
-  let types: string[] = [];
-  csvLines.push(`${dex},${id},${bucket},${weight},${level},${dimension},,,,,,,,,`);
+  let dimension = "overworld"; // TODO generate properly
+  let types: string[] =
+    [... new Set(pokemon[i]?.spawns?.map((spawn: any) => {
+      switch (spawn.spawnablePositionType) {
+        case "grounded":
+          if (spawn.presets.includes("treetop")) {
+            return "treetop";
+          }
+          return "ground";
+        case "submerged":
+          if (spawn.presets.includes("lava")) {
+            return "lava";
+          }
+          return "dive";
+        case "surface":
+          if (spawn.presets.includes("lava")) {
+            return "lava";
+          }
+          return "surf";
+        case "fishing":
+          return "fishing";
+        default:
+          return "";
+      }
+    }))] as string[];
+  csvLines.push(
+    `${dex},${id},${bucket},${weight},${level},${dimension},${types.join(", ")},,,,,,,,`,
+  );
 }
 
 Bun.write(outputPath, csvLines.join("\n"));

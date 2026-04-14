@@ -438,15 +438,15 @@ hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0004_charmander.json"
-hash = "77ca3baac0f07f4ef8ee5e75567ad58a052b48ad8ae591c4e6d2b2e993db46e3"
+hash = "e7527e7e66d5368ed6d8aa351db8c84262c833ef58237dda0e428ea6f0a115c3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0005_charmeleon.json"
-hash = "eec9b8219498c7abba199f3d7bead9b2354bd2dd839d70fc8b6c9da73e5e4133"
+hash = "30aafdc1cbe39a0f1ab1b175307776892fe6c2d6d26b62ef2cbd7cf18e31d76e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0006_charizard.json"
-hash = "45afb1bd81ca5fa0b2853f7d22a02afd4932b914df32b2276d84dca7f7ac294f"
+hash = "96857bc3f5571b7cc44a50887219906e8d2c58a88475c573021d48d699b17372"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0007_squirtle.json"
@@ -4907,6 +4907,11 @@ hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "43b96f10a4407da7faa5c957478230e5e498ae00f01a975de21652a963c3f124"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
@@ -5004,6 +5009,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "6504ed0aed60a908da7560e522e14aaa6b86693213d400f3801154bdfb9e076e"
 metafile = true
 
 [[files]]
