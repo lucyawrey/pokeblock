@@ -1,6 +1,7 @@
 {
   "tick_per_minute": 1200,
-  "drop_chance_per_minute": 0.05,
+  "drop_chance_per_minute": 0.1,
+  "pokebasket_block_radius": 16,
   "item_blacklist": [
     "minecraft:porkchop",
     "minecraft:beef",
