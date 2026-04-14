@@ -8,3 +8,4 @@ scripts
 working_notes.txt
 dev_mods
 **/*old_**
+script_cache.json

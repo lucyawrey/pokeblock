@@ -73,7 +73,7 @@ function shrineEvent(pokemon) {
         // Spawn loot item
         if (pokemon.lootItem && pokemon.lootItem !== "minecraft:air") {
           let itemEntity = level.createEntity("minecraft:item");
-          itemEntity.setPos(block.x + 0.5, block.y + 1.0, block.z + 0.5);
+          itemEntity.setPos(block.x + 0.5, block.y + 2.0, block.z + 0.5);
           itemEntity.item = Item.of(pokemon.lootItem, 1);
           itemEntity.spawn();
         }

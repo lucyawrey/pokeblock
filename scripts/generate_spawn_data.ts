@@ -140,13 +140,19 @@ const idMap: any = {
 
 const path = "./reference_data/data";
 const outputPath = "./spawn_data.csv";
+const cachePath = "./script_cache.json";
 
-const pokemon: any = [];
+let pokemon: any[];
 const csvLines = [
   "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,neededNearbyBlocks,moonPhase",
 ];
 
-await getPokemon(path);
+pokemon = await Bun.file(cachePath).json().catch(() => null);
+if (!pokemon || !Array.isArray(pokemon)) {
+  pokemon = [];
+  await getPokemon(path);
+  await Bun.write(cachePath, JSON.stringify(pokemon));
+}
 
 for (let i = 0; i < pokemon.length; i++) {
   let dex: any = i + 1;
