@@ -147,7 +147,9 @@ const csvLines = [
   "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,neededNearbyBlocks,moonPhase",
 ];
 
-pokemon = await Bun.file(cachePath).json().catch(() => null);
+pokemon = await Bun.file(cachePath)
+  .json()
+  .catch(() => null);
 if (!pokemon || !Array.isArray(pokemon)) {
   pokemon = [];
   await getPokemon(path);
@@ -155,39 +157,56 @@ if (!pokemon || !Array.isArray(pokemon)) {
 }
 
 for (let i = 0; i < pokemon.length; i++) {
+  let json = JSON.stringify(pokemon[i]);
   let dex: any = i + 1;
   let id = pokemon[i]?.id || "";
   dex = id ? dex : "";
   let bucket = pokemon[i]?.spawns?.[0]?.bucket || "";
   let level = pokemon[i]?.spawns?.[0]?.level || "";
   let weight = pokemon[i]?.spawns?.[0]?.weight || "";
-  let dimension = "overworld"; // TODO generate properly
-  let types: string[] =
-    [... new Set(pokemon[i]?.spawns?.map((spawn: any) => {
-      switch (spawn.spawnablePositionType) {
-        case "grounded":
-          if (spawn.presets.includes("treetop")) {
-            return "treetop";
-          }
-          return "ground";
-        case "submerged":
-          if (spawn.presets.includes("lava")) {
-            return "lava";
-          }
-          return "dive";
-        case "surface":
-          if (spawn.presets.includes("lava")) {
-            return "lava";
-          }
-          return "surf";
-        case "fishing":
-          return "fishing";
-        default:
-          return "";
-      }
-    }))] as string[];
+  let dimension = json.includes("#cobblemon:nether/is") || json.includes("#minecraft:is_nether")
+    ? json.includes("#cobblemon:is")
+      ? "any"
+      : "the_nether"
+    : "overworld";
+  let types: string[] = [
+    ...new Set(
+      pokemon[i]?.spawns?.map((spawn: any) => {
+        if (!spawn?.spawnablePositionType) return "";
+        switch (spawn.spawnablePositionType) {
+          case "grounded":
+            if (spawn.presets?.includes("treetop")) {
+              return "treetop";
+            }
+            return "ground";
+          case "submerged":
+            if (spawn.presets?.includes("lava")) {
+              return "lava";
+            }
+            return "dive";
+          case "surface":
+            if (spawn.presets?.includes("lava")) {
+              return "lava";
+            }
+            return "surf";
+          case "fishing":
+            return "fishing";
+          default:
+            return "";
+        }
+      }),
+    ),
+  ].filter((item) => item) as string[];
+  let timeRange = "";
+  let canSeeSky = "";
+  let illumination = "";
+  let weather = "";
+  let height = "";
+  let moonPhase = "";
+  let neededNearbyBlocks: string[] = [];
+
   csvLines.push(
-    `${dex},${id},${bucket},${weight},${level},${dimension},${types.join(", ")},,,,,,,,`,
+    `"${dex}","${id}","${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${neededNearbyBlocks.join(", ")}","${moonPhase}"`,
   );
 }
 
