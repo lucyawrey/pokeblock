@@ -21,7 +21,9 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#c:grasses",
+          "minecraft:short_grass",
+          "minecraft:tall_grass",
+          "minecraft:fern",
           "#cobblemon:redstone_blocks"
         ]
       }

@@ -13,11 +13,15 @@ log_pack_ids = false
 # This config allows you to add or remove folders or single files as Data-/Resourcepacks
 # For that simply specify the file path to the folder/file relative to your <instance> folder
 [resourcepacks]
-	required = ["resourcepacks/"]
-	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
-	# Search for "# Listing Resource Packs #" inside the log
-	enable_builtin = []
+required = ["resourcepacks/"]
+# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
+# Search for "# Listing Resource Packs #" inside the log
+enable_builtin = []
 
 [datapacks]
-	required = ["resourcepacks/", "datapacks/"]
-	enable_builtin = []
+required = [
+	"resourcepacks/ATM x MSD [v3.5.0].zip",
+	"datapacks/spawn_pool_stub_all",
+	"datapacks/pokeblock_datapack",
+]
+enable_builtin = []
