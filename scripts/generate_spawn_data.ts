@@ -1,4 +1,4 @@
-import { file, Glob } from "bun";
+import { file, Glob, spawn } from "bun";
 
 const ignoreList = [
   "articuno",
@@ -158,20 +158,25 @@ if (!pokemon || !Array.isArray(pokemon)) {
 
 for (let i = 0; i < pokemon.length; i++) {
   let json = JSON.stringify(pokemon[i]);
+  let spawns = pokemon[i]?.spawns;
+  let spawn0 = spawns?.[0];
+  if (!spawns || spawns.length === 0) continue;
   let dex: any = i + 1;
   let id = pokemon[i]?.id || "";
   dex = id ? dex : "";
-  let bucket = pokemon[i]?.spawns?.[0]?.bucket || "";
-  let level = pokemon[i]?.spawns?.[0]?.level || "";
-  let weight = pokemon[i]?.spawns?.[0]?.weight || "";
-  let dimension = json.includes("#cobblemon:nether/is") || json.includes("#minecraft:is_nether")
-    ? json.includes("#cobblemon:is")
-      ? "any"
-      : "the_nether"
-    : "overworld";
+  let bucket = spawn0?.bucket || "";
+  let level = spawn0?.level || "";
+  let weight = spawn0?.weight || "";
+  let dimension =
+    json.includes("#cobblemon:nether/is") ||
+    json.includes("#minecraft:is_nether")
+      ? json.includes("#cobblemon:is")
+        ? "any"
+        : "the_nether"
+      : "overworld";
   let types: string[] = [
     ...new Set(
-      pokemon[i]?.spawns?.map((spawn: any) => {
+      spawns?.map((spawn: any) => {
         if (!spawn?.spawnablePositionType) return "";
         switch (spawn.spawnablePositionType) {
           case "grounded":
@@ -197,12 +202,36 @@ for (let i = 0; i < pokemon.length; i++) {
       }),
     ),
   ].filter((item) => item) as string[];
-  let timeRange = "";
-  let canSeeSky = "";
-  let illumination = "";
-  let weather = "";
-  let height = "";
-  let moonPhase = "";
+  let timeRange = spawn0?.condition?.timeRange || "any";
+  let weather = spawn0?.condition?.isThundering
+    ? "isThundering"
+    : spawn0?.condition?.isRaining
+      ? "isRaining"
+      : "any";
+  let moonPhase = spawn0?.condition?.moonPhase || "any";
+  let minY = parseInt(spawn0?.condition?.minY);
+  let maxY = parseInt(spawn0?.condition?.maxY);
+  let height = maxY && maxY <= 0 ? "low" : minY && minY >= 1 ? "high" : "any";
+  let maxSkyLight = parseInt(spawn0?.condition?.maxSkyLight);
+  let minSkyLight = parseInt(spawn0?.condition?.minSkyLight);
+  let maxLight = maxSkyLight
+    ? maxSkyLight
+    : parseInt(spawn0?.condition?.maxLight);
+  let minLight = minSkyLight
+    ? minSkyLight
+    : parseInt(spawn0?.condition?.minLight);
+  let canSeeSky =
+    maxSkyLight || minSkyLight || spawn0?.condition?.canSeeSky == true
+      ? "yes"
+      : spawn0?.condition?.canSeeSky == false
+        ? "no"
+        : "any";
+  let illumination =
+    minLight && minLight >= 7
+      ? "light"
+      : maxLight && maxLight <= 7
+        ? "dark"
+        : "any";
   let neededNearbyBlocks: string[] = [];
 
   csvLines.push(

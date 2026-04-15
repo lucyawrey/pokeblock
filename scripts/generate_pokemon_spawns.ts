@@ -195,9 +195,9 @@ for (const row of data) {
       }
       if (pokemon.height && (type === "ground" || type === "dive")) {
         if (pokemon.height === "high") {
-          spawn.condition.minY = 10;
+          spawn.condition.minY = 1;
         } else if (pokemon.height === "low") {
-          spawn.condition.maxY = 9;
+          spawn.condition.maxY = 0;
         }
       }
       if (pokemon.moonPhase) {
