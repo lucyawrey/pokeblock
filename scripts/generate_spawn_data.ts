@@ -145,13 +145,17 @@ const outputPath = "./spawn_data.csv";
 const cachePath = "./script_cache.json";
 const biomesSheetUrl = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=biomes`;
 
-let biomes: { biome?: string; neededNearbyBlocks?: string }[] = parse(
-  await pullCsv(biomesSheetUrl),
-  {
+let biomes: Record<string, string> = {};
+(
+  parse(await pullCsv(biomesSheetUrl), {
     columns: true,
     skip_empty_lines: true,
-  },
-);
+  }) as { biome?: string; neededNearbyBlocks?: string }[]
+).forEach((item) => {
+  if (item.biome && item.neededNearbyBlocks) {
+    biomes[item.biome] = item.neededNearbyBlocks;
+  }
+});
 let pokemon: any[];
 const csvLines = [
   "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
@@ -242,7 +246,7 @@ for (let poke of pokemon) {
       : maxLight && maxLight <= 7
         ? "dark"
         : "any";
-  let neededNearbyBlocks: string[] = [];
+  let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
 
   csvLines.push(
@@ -252,6 +256,25 @@ for (let poke of pokemon) {
 
 Bun.write(outputPath, csvLines.join("\n"));
 console.log(`Spawn data generated and saved to ${outputPath}`);
+
+async function getNeededNearbyBlocks(spawns: any[]) {
+  let blocks: string[] = [];
+  for (let spawn of spawns) {
+    let nearbyBlocks = spawn?.condition?.neededNearbyBlocks;
+    if (nearbyBlocks && Array.isArray(nearbyBlocks)) {
+      blocks = blocks.concat(nearbyBlocks);
+    }
+    if (spawn?.condition?.biomes) {
+      for (let biome of spawn.condition.biomes) {
+        if (biomes[biome]) {
+          let biomeBlocks = biomes[biome].split(",").map(s => s.trim());
+          blocks = blocks.concat(biomeBlocks);
+        }
+      }
+    }
+  }
+  return [...new Set(blocks)].filter((s) => !s.includes("aether"));
+}
 
 async function getPokemon(path: string) {
   for (let filePath of new Glob("**/*.json").scanSync(path)) {
