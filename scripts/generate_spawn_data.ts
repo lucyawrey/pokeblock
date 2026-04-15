@@ -144,7 +144,7 @@ const cachePath = "./script_cache.json";
 
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,neededNearbyBlocks,moonPhase",
+  "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -156,13 +156,13 @@ if (!pokemon || !Array.isArray(pokemon)) {
   await Bun.write(cachePath, JSON.stringify(pokemon));
 }
 
-for (let i = 0; i < pokemon.length; i++) {
-  let json = JSON.stringify(pokemon[i]);
-  let spawns = pokemon[i]?.spawns;
+for (let poke of pokemon) {
+  let json = JSON.stringify(poke);
+  let spawns = poke?.spawns;
   let spawn0 = spawns?.[0];
   if (!spawns || spawns.length === 0) continue;
-  let dex: any = i + 1;
-  let id = pokemon[i]?.id || "";
+  let dex: any = pokemon.indexOf(poke) + 1;
+  let id = poke?.id || "";
   dex = id ? dex : "";
   let bucket = spawn0?.bucket || "";
   let level = spawn0?.level || "";
@@ -233,9 +233,10 @@ for (let i = 0; i < pokemon.length; i++) {
         ? "dark"
         : "any";
   let neededNearbyBlocks: string[] = [];
+  let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
 
   csvLines.push(
-    `"${dex}","${id}","${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${neededNearbyBlocks.join(", ")}","${moonPhase}"`,
+    `"${dex}","${id}","${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}","${neededNearbyBlocks.join(", ")}",,"${isGenerated}"`,
   );
 }
 
