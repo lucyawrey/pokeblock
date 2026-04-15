@@ -1,4 +1,6 @@
-import { file, Glob, spawn } from "bun";
+import { Glob } from "bun";
+import { pullCsv } from "./lib";
+import { parse } from "csv-parse/browser/esm/sync";
 
 const ignoreList = [
   "articuno",
@@ -141,7 +143,15 @@ const idMap: any = {
 const path = "./reference_data/data";
 const outputPath = "./spawn_data.csv";
 const cachePath = "./script_cache.json";
+const biomesSheetUrl = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=biomes`;
 
+let biomes: { biome?: string; neededNearbyBlocks?: string }[] = parse(
+  await pullCsv(biomesSheetUrl),
+  {
+    columns: true,
+    skip_empty_lines: true,
+  },
+);
 let pokemon: any[];
 const csvLines = [
   "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
