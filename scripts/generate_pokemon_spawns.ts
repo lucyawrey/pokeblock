@@ -1,6 +1,6 @@
 import { parse } from "csv-parse/sync";
 
-type SpawnType = "ground" | "treetop" | "surf" | "dive" | "fishing" | "lava";
+type SpawnType = "ground" | "treetop" | "cave" | "surf" | "dive" | "fishing" | "lava";
 
 const outPath =
   "./datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
@@ -19,6 +19,12 @@ const presets: Record<
     spawnablePositionType: "grounded",
     condition: {
       neededBaseBlocks: ["#minecraft:leaves", "#cobblemon:natural"],
+    },
+  },
+  cave: {
+    spawnablePositionType: "grounded",
+    condition: {
+      neededBaseBlocks: ["#cobblemon:natural"],
     },
   },
   surf: {
@@ -141,6 +147,8 @@ for (const row of data) {
       const is_overworld = pokemon.dimension === "minecraft:overworld";
       if (!is_overworld) {
         pokemon.canSeeSky = undefined;
+      } else if (type === "cave") {
+        pokemon.canSeeSky = false;
       }
       if (!is_overworld || type === "dive" || type === "fishing") {
         pokemon.illumination = undefined;
@@ -150,7 +158,7 @@ for (const row of data) {
       if (pokemon.dimension) {
         spawn.condition.dimensions = [pokemon.dimension];
       }
-      if (pokemon.timeRange) {
+      if (pokemon.timeRange && type !== "cave") {
         spawn.condition.timeRange = pokemon.timeRange;
       }
       // Detailed sky visivility and lighting handling
@@ -197,7 +205,7 @@ for (const row of data) {
           spawn.condition.maxY = 0;
         }
       }
-      if (pokemon.moonPhase) {
+      if (pokemon.moonPhase && type !== "cave") {
         spawn.condition.moonPhase = pokemon.moonPhase;
       }
       if (
