@@ -673,8 +673,24 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0062_poliwr
 hash = "b7442b15442948e0b7b760191141fea8214035d1054bf6e488c6de31e0e4b46d"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0137_porygon.json"
+hash = "be7bcfc43e07a1dfc7156479d30e30d280a3b04511b8ffde64735d9c75d18da5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0233_porygon2.json"
+hash = "a05a09468bd51385a4d785f579ee73be65d86fa85f9163cc21bc28e48f5c1fb2"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0327_spinda.json"
 hash = "704198d0125ff56e7fccc76a258ab312d5a77cffaa7a8607be689a13a768216d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0474_porygonz.json"
+hash = "2195cdcb2a569d7cd6dba034d6247b71c099c7c0add09a24df3def2079a7b10b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0479_rotom.json"
+hash = "7db3ef016448317c044f472cd8b4ed9d6d48000ab8591139710285ebf6295ae3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0590_foongus.json"

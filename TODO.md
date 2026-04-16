@@ -37,6 +37,7 @@
 - [ ] Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - [ ] Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
 - [ ] Configure CobbleDollars merchant stock
+- [ ] More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
 - [ ] More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
     - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
     - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
