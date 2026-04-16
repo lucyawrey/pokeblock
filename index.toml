@@ -330,7 +330,7 @@ hash = "510faf1376ed8cf69e35effcd792bab8c33f630111196ec2df5f535ed765cb5e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/loot_table/blocks/wheat.json"
-hash = "99db2a771919dc581cdb18c991166957bc330e87ff374036efa638ba43d664cf"
+hash = "1024b33da1beb02b1b5d8c2125b3c60adbf6bac6aa7723ab8ae629bba3c8adeb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/minecraft/tags/function/load.json"
@@ -438,15 +438,15 @@ hash = "4ae14a333182013f8afa470ee705ca44a8d6e89bb59f29e7b4e9a580c523c714"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0004_charmander.json"
-hash = "e7527e7e66d5368ed6d8aa351db8c84262c833ef58237dda0e428ea6f0a115c3"
+hash = "22c8624eeebd3d8fa056ce98874f5b0514c90495e72a8e90ab2a39b61dd40038"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0005_charmeleon.json"
-hash = "30aafdc1cbe39a0f1ab1b175307776892fe6c2d6d26b62ef2cbd7cf18e31d76e"
+hash = "e12e622e9469cda5fb4d1fd646c7d845d810fc267c226df6b12b86250a29f01b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0006_charizard.json"
-hash = "96857bc3f5571b7cc44a50887219906e8d2c58a88475c573021d48d699b17372"
+hash = "3ce374156145911e0f04a79ba3a2e0da71511bb8cd816c6f654fbc378b9503c1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0007_squirtle.json"

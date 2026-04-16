@@ -21,9 +21,13 @@
                   "properties": {
                     "age": "7"
                   }
+                },
+                {
+                  "chance": 0.1,
+                  "condition": "minecraft:random_chance"
                 }
               ],
-              "name": "minecraft:wheat"
+              "name": "cobblemon:hearty_grains"
             },
             {
               "type": "minecraft:item",
@@ -34,13 +38,9 @@
                   "properties": {
                     "age": "7"
                   }
-                },
-                {
-                  "chance": 0.1,
-                  "condition": "minecraft:random_chance"
                 }
               ],
-              "name": "cobblemon:hearty_grains"
+              "name": "minecraft:wheat"
             },
             {
               "type": "minecraft:item",
