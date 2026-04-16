@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rattata-1",
-      "pokemon": "rattata",
+      "id": "venomoth-1",
+      "pokemon": "venomoth",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 9,
-      "level": "1-25",
+      "weight": 0.6,
+      "level": "31-45",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,10 +21,15 @@
         "timeRange": "night",
         "canSeeSky": true,
         "neededNearbyBlocks": [
-          "minecraft:grass_block",
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#minecraft:dark_oak_logs",
+          "minecraft:dark_oak_leaves",
+          "minecraft:peony",
+          "minecraft:lilac",
+          "minecraft:rose_bush",
+          "#cobblemon:mansion_blocks",
+          "minecraft:lily_pad",
+          "minecraft:vine",
+          "minecraft:firefly_bush"
         ]
       }
     }

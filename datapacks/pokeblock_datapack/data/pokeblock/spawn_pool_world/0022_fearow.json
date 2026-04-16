@@ -21,7 +21,17 @@
         ],
         "timeRange": "day",
         "minSkyLight": 8,
-        "maxSkyLight": 15
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:red_sand",
+          "#minecraft:terracotta",
+          "minecraft:short_dry_grass",
+          "minecraft:tall_dry_grass",
+          "minecraft:dead_bush",
+          "#minecraft:acacia_logs",
+          "minecraft:acacia_leaves",
+          "#c:fences"
+        ]
       }
     }
   ]

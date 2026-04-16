@@ -2,7 +2,6 @@
 ## Normal Priority
 - Mycelium + Podzol recipes
 - [ ] Update spawn table.
-    - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
     - [ ] Add regional forms.
 - [ ] Increase wandering trader spawn rate.

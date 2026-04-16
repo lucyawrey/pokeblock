@@ -4,27 +4,29 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "pidgeotto-1",
-      "pokemon": "pidgeotto",
+      "id": "oddish-1",
+      "pokemon": "oddish",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 0.9,
-      "level": "18-35",
+      "weight": 9,
+      "level": "7-32",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
-          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
           "minecraft:overworld"
         ],
-        "timeRange": "day",
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:trees",
-          "#c:fences"
+          "#minecraft:jungle_logs",
+          "minecraft:jungle_leaves",
+          "minecraft:vine",
+          "minecraft:podzol",
+          "minecraft:short_grass",
+          "minecraft:tall_grass"
         ]
       }
     }

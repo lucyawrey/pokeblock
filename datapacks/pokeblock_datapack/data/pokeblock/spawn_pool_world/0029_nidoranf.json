@@ -4,27 +4,25 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "pidgeotto-1",
-      "pokemon": "pidgeotto",
+      "id": "nidoranf-1",
+      "pokemon": "nidoranf",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 0.9,
-      "level": "18-35",
+      "bucket": "uncommon",
+      "weight": 8.4,
+      "level": "3-28",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
-          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
           "minecraft:overworld"
         ],
-        "timeRange": "day",
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:trees",
-          "#c:fences"
+          "#minecraft:acacia_logs",
+          "minecraft:acacia_leaves"
         ]
       }
     }

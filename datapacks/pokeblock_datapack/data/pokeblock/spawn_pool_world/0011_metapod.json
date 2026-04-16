@@ -20,7 +20,10 @@
           "minecraft:overworld"
         ],
         "minSkyLight": 8,
-        "maxSkyLight": 15
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "#cobblemon:trees"
+        ]
       }
     },
     {

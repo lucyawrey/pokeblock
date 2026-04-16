@@ -210,7 +210,7 @@ for (const row of data) {
       }
       if (
         pokemon.neededNearbyBlocks.length > 0 &&
-        (type === "ground" || type === "dive")
+        (type === "ground" || type === "dive" || type === "treetop" || type === "cave")
       ) {
         if (spawn.condition.neededNearbyBlocks) {
           spawn.condition.neededNearbyBlocks.push(
