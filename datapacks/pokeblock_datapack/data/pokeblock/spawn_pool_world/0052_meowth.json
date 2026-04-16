@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "meowth-1",
+      "pokemon": "meowth",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 9,
+      "level": "4-29",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "#minecraft:sand",
+          "minecraft:short_dry_grass",
+          "minecraft:tall_dry_grass",
+          "minecraft:dead_bush",
+          "minecraft:fern",
+          "minecraft:large_fern",
+          "minecraft:sweet_berry_bush",
+          "#minecraft:spruce_logs",
+          "minecraft:spruce_leaves"
+        ]
+      }
+    }
+  ]
+}

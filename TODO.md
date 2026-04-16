@@ -1,21 +1,21 @@
 # Pokéblock Todo
 ## Normal Priority
-- Mycelium + Podzol recipes
 - [ ] Update spawn table.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
     - [ ] Add regional forms.
+- Configure non-fossil cobblemon archaeology loot.
+- Mycelium + Podzol recipes
 - [ ] Increase wandering trader spawn rate.
 - [ ] Improve Wild Loot mod.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
-- [ ] Create special tera crystal blocks that allow spawning Paradox Pokémon.
+- [ ] Create tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Legendary Summoning Shrines.
     - [ ] Multi Pokémon shrines, will need some changes to how shrines currently work.
     - [ ] Better summon wing textures.
     - [ ] Add more legendary Pokémon shrines.
     - [ ] Add more special effects when summoning.
-- [ ] Configure non-fossil cobblemon archaeology loot.
 - [ ] Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - [ ] Allow regional forms to evolve in any biome (such as hisuian liligant).
 - [ ] Way to get mushrooms including max mushrooms for dynamax.

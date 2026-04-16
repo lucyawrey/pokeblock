@@ -621,6 +621,58 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0049_venomo
 hash = "b91ab258e59e786f224c4816af099d85cbb8d9b6ab96db1f21dc8126ddcd6ae2"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0050_diglett.json"
+hash = "f1f1c1200b0ea7cc8e9e7e3b9241047d7f0bd47dd8c7dab1b229ea72639d04c2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0051_dugtrio.json"
+hash = "e3a08b5260786bae3c8a9f1f7106cbbd134becab56531d2bd860057f80427016"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0052_meowth.json"
+hash = "1a48cb2dc40bff674a4b8df5ff26b569d0ff1df3912ce5521c9f77de9a6ac9e6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0053_persian.json"
+hash = "df739749c0bb2ee03cc0ffcf8719a53ca110a52e5c420d4b6ca058ff730244e8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0054_psyduck.json"
+hash = "683821f369fb19072dc8b340087277a64d60b7de9e11ac3943bab022502ded2a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0055_golduck.json"
+hash = "d0526d6fa53b142fdb01ea843569ac768b10fe466ef34be2458ee16181a51fb8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0056_mankey.json"
+hash = "014db86dc3826978f7c4cc868a8579eaea992e12f792c4658d52563f8a575da7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0057_primeape.json"
+hash = "b1d210bd76a18e2791e6c526fbfe16c4ac948b7928f9522cb42ae30cf210cfd1"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0058_growlithe.json"
+hash = "b1ece9db0b64c9b336e0281d64137792016ee5e82153ce88ae392cb091fb4924"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0059_arcanine.json"
+hash = "061214983e55058b64c2c611dbdec30a659b933dd343670e363868e5b99fc49a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0060_poliwag.json"
+hash = "0409c8a24a4796144570bbaf14f0c87eb1932a5f85a031e1c08f8b36dfcb9713"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0061_poliwhirl.json"
+hash = "20ee67a72c45df19ba9ec1c61972b5536cfe09f6369e5866f4e6b1c789cd543b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0062_poliwrath.json"
+hash = "b7442b15442948e0b7b760191141fea8214035d1054bf6e488c6de31e0e4b46d"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0327_spinda.json"
 hash = "704198d0125ff56e7fccc76a258ab312d5a77cffaa7a8607be689a13a768216d"
 
