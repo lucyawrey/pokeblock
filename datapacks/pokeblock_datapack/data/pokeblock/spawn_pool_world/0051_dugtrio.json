@@ -42,8 +42,6 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minLight": 8,
-        "maxLight": 15,
         "canSeeSky": false,
         "neededNearbyBlocks": [
           "minecraft:stone",

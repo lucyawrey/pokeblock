@@ -622,11 +622,11 @@ hash = "b91ab258e59e786f224c4816af099d85cbb8d9b6ab96db1f21dc8126ddcd6ae2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0050_diglett.json"
-hash = "f1f1c1200b0ea7cc8e9e7e3b9241047d7f0bd47dd8c7dab1b229ea72639d04c2"
+hash = "d26f0d98b3c2a9655862502453cf372fca3b37759f5841ba30d5d0e3bfd84120"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0051_dugtrio.json"
-hash = "e3a08b5260786bae3c8a9f1f7106cbbd134becab56531d2bd860057f80427016"
+hash = "3c3ff515d6caadd675da0241595cd6c746388cdc764be4aa24d549ce16b95301"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0052_meowth.json"

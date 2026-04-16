@@ -1,6 +1,13 @@
 import { parse } from "csv-parse/sync";
 
-type SpawnType = "ground" | "treetop" | "cave" | "surf" | "dive" | "fishing" | "lava";
+type SpawnType =
+  | "ground"
+  | "treetop"
+  | "cave"
+  | "surf"
+  | "dive"
+  | "fishing"
+  | "lava";
 
 const outPath =
   "./datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
@@ -150,7 +157,12 @@ for (const row of data) {
       } else if (type === "cave") {
         pokemon.canSeeSky = false;
       }
-      if (!is_overworld || type === "dive" || type === "fishing") {
+      if (
+        !is_overworld ||
+        type === "dive" ||
+        type === "fishing" ||
+        (pokemon.illumination === "light" && type === "cave")
+      ) {
         pokemon.illumination = undefined;
       }
 
@@ -210,7 +222,10 @@ for (const row of data) {
       }
       if (
         pokemon.neededNearbyBlocks.length > 0 &&
-        (type === "ground" || type === "dive" || type === "treetop" || type === "cave")
+        (type === "ground" ||
+          type === "dive" ||
+          type === "treetop" ||
+          type === "cave")
       ) {
         if (spawn.condition.neededNearbyBlocks) {
           spawn.condition.neededNearbyBlocks.push(
