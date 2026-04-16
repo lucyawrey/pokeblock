@@ -42,7 +42,6 @@ for (const row of data) {
   const pokemon = {
     dex_number: parseInt(row.dex || "0"),
     pokemon: parseString(row.pokemon),
-    implemented: row.implemented === "yes",
     override: row.override === "yes",
     drops,
   };
@@ -50,7 +49,6 @@ for (const row of data) {
   if (
     pokemon.dex_number > 0 &&
     pokemon.pokemon &&
-    pokemon.implemented &&
     pokemon.override
   ) {
     const species_addition = {

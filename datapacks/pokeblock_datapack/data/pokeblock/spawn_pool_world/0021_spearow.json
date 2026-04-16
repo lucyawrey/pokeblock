@@ -8,20 +8,18 @@
       "pokemon": "spearow",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 7,
-      "level": "2-25",
+      "weight": 9,
+      "level": "1-26",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
           "#minecraft:leaves",
           "#cobblemon:natural"
         ],
-        "neededNearbyBlocks": [
-          "#minecraft:leaves"
-        ],
         "dimensions": [
           "minecraft:overworld"
         ],
+        "timeRange": "day",
         "minSkyLight": 8,
         "maxSkyLight": 15
       }

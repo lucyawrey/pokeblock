@@ -16,14 +16,33 @@
           "#minecraft:leaves",
           "#cobblemon:natural"
         ],
-        "neededNearbyBlocks": [
-          "#minecraft:leaves"
-        ],
         "dimensions": [
           "minecraft:overworld"
         ],
         "minSkyLight": 8,
         "maxSkyLight": 15
+      }
+    },
+    {
+      "id": "kakuna-2",
+      "pokemon": "kakuna",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 2,
+      "level": "7-21",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "#cobblemon:trees"
+        ]
       }
     }
   ]

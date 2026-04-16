@@ -8,8 +8,8 @@
       "pokemon": "rattata",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 7,
-      "level": "1-23",
+      "weight": 9,
+      "level": "1-25",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,6 +18,9 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "timeRange": "night",
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "minecraft:grass_block",
           "minecraft:short_grass",

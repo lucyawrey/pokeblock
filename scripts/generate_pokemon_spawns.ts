@@ -19,7 +19,6 @@ const presets: Record<
     spawnablePositionType: "grounded",
     condition: {
       neededBaseBlocks: ["#minecraft:leaves", "#cobblemon:natural"],
-      neededNearbyBlocks: ["#minecraft:leaves"],
     },
   },
   surf: {
@@ -74,7 +73,6 @@ for (const row of data) {
   const pokemon = {
     dex_number: parseInt(row.dex || "0"),
     pokemon: parseString(row.pokemon),
-    implemented: row.implemented === "yes",
     obtainability: parseString(row.obtainability) as
       | "unobtainable"
       | "spawn"
@@ -119,7 +117,6 @@ for (const row of data) {
   if (
     pokemon.dex_number > 0 &&
     pokemon.pokemon &&
-    pokemon.implemented &&
     pokemon.obtainability &&
     pokemon.obtainability === "spawn"
   ) {

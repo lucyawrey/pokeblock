@@ -8,21 +8,20 @@
       "pokemon": "arbok",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 0.4,
+      "weight": 0.45,
       "level": "22-45",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
           "#cobblemon:natural"
         ],
-        "dimensions": [
-          "minecraft:overworld"
-        ],
-        "timeRange": "night",
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#minecraft:sand",
+          "minecraft:short_dry_grass",
+          "minecraft:tall_dry_grass",
+          "minecraft:dead_bush",
+          "minecraft:soul_sand",
+          "minecraft:soul_soil"
         ]
       }
     }

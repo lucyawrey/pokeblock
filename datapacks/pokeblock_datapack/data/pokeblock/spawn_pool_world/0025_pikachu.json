@@ -8,8 +8,8 @@
       "pokemon": "pikachu",
       "type": "pokemon",
       "bucket": "uncommon",
-      "weight": 3,
-      "level": "15-32",
+      "weight": 0.712,
+      "level": "16-32",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [

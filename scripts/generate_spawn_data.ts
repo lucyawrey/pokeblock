@@ -158,7 +158,7 @@ let biomes: Record<string, string> = {};
 });
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
+  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -170,16 +170,21 @@ if (!pokemon || !Array.isArray(pokemon)) {
   await Bun.write(cachePath, JSON.stringify(pokemon));
 }
 
-for (let poke of pokemon) {
-  let json = JSON.stringify(poke);
+for (let i = 0; i < pokemon.length; i++) {
+  if (!pokemon[i]?.spawns?.[0]) {
+    csvLines.push(",,,,,,,,,,,,,,,,");
+    continue;
+  }
+  let poke = pokemon[i];
   let spawns = poke?.spawns;
+  let json = JSON.stringify(poke);
   let spawn0 = spawns?.[0];
-  if (!spawns || spawns.length === 0) continue;
-  let dex: any = pokemon.indexOf(poke) + 1;
+  let dex: any = i + 1;
   let id = poke?.id || "";
   dex = id ? dex : "";
   let bucket = spawn0?.bucket || "";
   let level = spawn0?.level || "";
+  console.log(level);
   let weight = spawn0?.weight || "";
   let dimension =
     json.includes("#cobblemon:nether/is") ||
@@ -250,7 +255,7 @@ for (let poke of pokemon) {
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
 
   csvLines.push(
-    `"${dex}","${id}","${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}","${neededNearbyBlocks.join(", ")}",,"${isGenerated}"`,
+    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}","${neededNearbyBlocks.join(", ")}",,"${isGenerated}"`,
   );
 }
 
@@ -267,7 +272,7 @@ async function getNeededNearbyBlocks(spawns: any[]) {
     if (spawn?.condition?.biomes) {
       for (let biome of spawn.condition.biomes) {
         if (biomes[biome]) {
-          let biomeBlocks = biomes[biome].split(",").map(s => s.trim());
+          let biomeBlocks = biomes[biome].split(",").map((s) => s.trim());
           blocks = blocks.concat(biomeBlocks);
         }
       }

@@ -8,7 +8,7 @@
       "pokemon": "raichu",
       "type": "pokemon",
       "bucket": "uncommon",
-      "weight": 0.7,
+      "weight": 0.048,
       "level": "27-49",
       "spawnablePositionType": "grounded",
       "condition": {

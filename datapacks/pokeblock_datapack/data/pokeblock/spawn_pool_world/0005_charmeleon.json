@@ -8,16 +8,16 @@
       "pokemon": "charmeleon",
       "type": "pokemon",
       "bucket": "ultra-rare",
-      "weight": 3.5,
+      "weight": 3.6,
       "level": "16-40",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
           "#cobblemon:natural"
         ],
-        "isRaining": false,
-        "isThundering": false,
         "neededNearbyBlocks": [
+          "minecraft:basalt",
+          "minecraft:magma_block",
           "minecraft:torch",
           "minecraft:campfire",
           "minecraft:fire",

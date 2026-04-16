@@ -8,7 +8,7 @@
       "pokemon": "wartortle",
       "type": "pokemon",
       "bucket": "ultra-rare",
-      "weight": 3.5,
+      "weight": 3.6,
       "level": "16-40",
       "spawnablePositionType": "grounded",
       "condition": {
@@ -21,7 +21,8 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:water"
+          "minecraft:water",
+          "minecraft:sand"
         ]
       }
     },
@@ -30,16 +31,19 @@
       "pokemon": "wartortle",
       "type": "pokemon",
       "bucket": "ultra-rare",
-      "weight": 3.5,
+      "weight": 3.6,
       "level": "16-40",
-      "spawnablePositionType": "surface",
+      "spawnablePositionType": "submerged",
       "condition": {
         "fluid": "#minecraft:water",
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15
+        "canSeeSky": true,
+        "neededNearbyBlocks": [
+          "minecraft:water",
+          "minecraft:sand"
+        ]
       }
     },
     {
@@ -47,7 +51,7 @@
       "pokemon": "wartortle",
       "type": "pokemon",
       "bucket": "ultra-rare",
-      "weight": 3.5,
+      "weight": 3.6,
       "level": "16-40",
       "spawnablePositionType": "fishing",
       "condition": {

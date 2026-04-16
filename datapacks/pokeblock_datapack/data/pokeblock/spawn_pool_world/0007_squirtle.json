@@ -9,7 +9,7 @@
       "type": "pokemon",
       "bucket": "ultra-rare",
       "weight": 6,
-      "level": "5-32",
+      "level": "5-31",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,7 +21,8 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:water"
+          "minecraft:water",
+          "minecraft:sand"
         ]
       }
     },
@@ -31,15 +32,18 @@
       "type": "pokemon",
       "bucket": "ultra-rare",
       "weight": 6,
-      "level": "5-32",
-      "spawnablePositionType": "surface",
+      "level": "5-31",
+      "spawnablePositionType": "submerged",
       "condition": {
         "fluid": "#minecraft:water",
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15
+        "canSeeSky": true,
+        "neededNearbyBlocks": [
+          "minecraft:water",
+          "minecraft:sand"
+        ]
       }
     },
     {
@@ -48,7 +52,7 @@
       "type": "pokemon",
       "bucket": "ultra-rare",
       "weight": 6,
-      "level": "5-32",
+      "level": "5-31",
       "spawnablePositionType": "fishing",
       "condition": {
         "dimensions": [

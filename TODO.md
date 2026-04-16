@@ -1,12 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
-- [ ] Investigate custom spawn datapacks suddenly breraking.
+- Mycelium + Podzol recipes
 - [ ] Update spawn table.
     - [ ] Finish script to fill out base spawn data from existing datafiles. Maybe autogenerate nearby blcok requirements from biomes. Add pokemon number cache.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
     - [ ] Add regional forms.
-- [ ] Concider https://modrinth.com/mod/itemphysic
-    - [ ] Test with Farmer's Baskets, Create belts
+- [ ] Increase wandering trader spawn rate.
 - [ ] Improve Wild Loot mod.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.

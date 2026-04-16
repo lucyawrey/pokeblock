@@ -8,20 +8,20 @@
       "pokemon": "ekans",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 6,
-      "level": "4-25",
+      "weight": 4.05,
+      "level": "4-29",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
           "#cobblemon:natural"
         ],
-        "dimensions": [
-          "minecraft:overworld"
-        ],
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#minecraft:sand",
+          "minecraft:short_dry_grass",
+          "minecraft:tall_dry_grass",
+          "minecraft:dead_bush",
+          "minecraft:soul_sand",
+          "minecraft:soul_soil"
         ]
       }
     }

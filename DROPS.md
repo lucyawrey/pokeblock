@@ -1,7 +1,12 @@
 # Important Drops that need to be easily obtainable
+- Mushrooms
+- Saplings
 - Honey: Combee
 - Milk: Miltank
 - Kelp
 - Bamboo (still need to add it to non jungle fishing tables)
 - Sugar cane: add to fishing, pokemon drops.
 - Ice Block: add to more pokemon drops.
+- Tree Bark from Create Log Cutting Recipes
+- More organic compost recipes
+- Evo stones from cobblegen (dripstone moon stone)
