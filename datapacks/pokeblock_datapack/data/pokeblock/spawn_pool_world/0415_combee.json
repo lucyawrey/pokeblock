@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "combee-1",
+      "pokemon": "combee",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 9.9,
+      "level": "1-24",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "timeRange": "day",
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "#cobblemon:flowers",
+          "#cobblemon:saccharine_trees"
+        ]
+      }
+    }
+  ]
+}
