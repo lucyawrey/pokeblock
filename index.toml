@@ -673,6 +673,86 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0062_poliwr
 hash = "b7442b15442948e0b7b760191141fea8214035d1054bf6e488c6de31e0e4b46d"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0063_abra.json"
+hash = "ce4c2beb366b02308bb69b959ce98f45dcc652ae4bc3f3958754c290c6ffb284"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0064_kadabra.json"
+hash = "6fb78ba7442c7e84e84219619dff9dfeee7c7580f437307d88c651ef9924266c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0065_alakazam.json"
+hash = "06694d6e5f25650a4ef32ee7d040dd625689f321faa3e1ed156927ef70deff59"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0069_bellsprout.json"
+hash = "8b6c90a146063ecfb7b542efcba2bc505bfdff4ef68a4f517fde1de6ac3538f7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0070_weepinbell.json"
+hash = "11a287a2ba981c34df6a11118a8607b98b6934e184add15cafc5728831818eb2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0071_victreebel.json"
+hash = "7fc13394ec671f64bc3ac9ae53f7b19679b832c9f7575c4c99ea88ca9548bb73"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0072_tentacool.json"
+hash = "0a7e93913cf63fc7a5674b7f1854ae32068a0e45c6eef0f141eb3d5bc3043eff"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0073_tentacruel.json"
+hash = "89458286a3ca5bda5b84ab760ac68aab6a801f99333f8edd12c7dbf947651cb3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0074_geodude.json"
+hash = "6bcb2c5482a76a96b4fd27192be64b48669ec1d3a58ca04ea5a1f1af799c98ab"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0075_graveler.json"
+hash = "93e592bb769d217f9b93826b0b26ef0c7d2375e8983f6bf8700c2063894e7ee2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0076_golem.json"
+hash = "0382b49695046ffb64c5ecbe1fc4d6c876c2c2d327d15350754ccb83ff695efb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0077_ponyta.json"
+hash = "2c74e91ae12d266d1a3a19173b844eea17a3a13cacca51310e44a71067e6d565"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0078_rapidash.json"
+hash = "f01a3cbedc41e6d6f51186e711c9d783ad2ccd0d795ccddbfccf28a48ff08cdf"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0079_slowpoke.json"
+hash = "b1fd91423a4994064a2278f56f9e63547661b29995bfdba0869286b03e69880a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0080_slowbro.json"
+hash = "a2e8f0eb595dc788e500bcbba47f7e79169b3a8476613db07c91a956849e2126"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0081_magnemite.json"
+hash = "c1bb05024104c024bf1802b2f6b0680850fbffb8310d0e16e2046bff070a95df"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0082_magneton.json"
+hash = "4fb5f07b0ed7fa96208651c42a5cebc1f147991d84326c71bf4aa0574e53a337"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0083_farfetchd.json"
+hash = "c8b98c4495e1f7c803fa9e929ca4552a7b4dd9ced6ee290ef66b109845448ae5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0084_doduo.json"
+hash = "12623168f95e3d74e15bc14ba311db27bf63678d173a497690fe1c4c0158fd39"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0085_dodrio.json"
+hash = "ebd389acdfc62b3105241532c07fdabd200a5616ddf6715cc2aaa94227b5f2bf"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0137_porygon.json"
 hash = "be7bcfc43e07a1dfc7156479d30e30d280a3b04511b8ffde64735d9c75d18da5"
 
