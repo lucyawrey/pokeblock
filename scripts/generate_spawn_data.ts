@@ -183,7 +183,9 @@ for (let poke of [...pokemon]) {
         spawns: [spawn],
         alternateForm: true,
       };
-      pokemon.splice(pokemon.indexOf(poke) + 1, 0, newEntry);
+      if (!pokemon.some((mon) => mon?.id === name)) {
+        pokemon.splice(pokemon.indexOf(poke) + 1, 0, newEntry);
+      }
     }
   }
 }
@@ -271,7 +273,9 @@ for (let i = 0; i < pokemon.length; i++) {
   let alternateForm = poke?.alternateForm ? "yes" : "no";
   let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
-  let data = spawn0?.pokemon.includes("min_perfect_ivs=3") ? "min_perfect_ivs=3" : "";
+  let data = spawn0?.pokemon.includes("min_perfect_ivs=3")
+    ? "min_perfect_ivs=3"
+    : "";
 
   csvLines.push(
     `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}"`,
