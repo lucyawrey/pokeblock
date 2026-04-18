@@ -158,7 +158,7 @@ let biomes: Record<string, string> = {};
 });
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,neededNearbyBlocks,data,isGenerated",
+  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,isGenerated",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -170,6 +170,24 @@ if (!pokemon || !Array.isArray(pokemon)) {
   await Bun.write(cachePath, JSON.stringify(pokemon));
 }
 
+// Optionally handle forms.
+for (let poke of [...pokemon]) {
+  if (!poke?.spawns) continue;
+  for (let spawn of poke.spawns) {
+    let name = `${spawn?.pokemon}`;
+    let tokens = name.split(" ");
+    if (tokens.length > 1 && !tokens[1]?.includes("min_perfect_ivs")) {
+      let newEntry = {
+        id: name,
+        dex: poke?.dex,
+        spawns: [spawn],
+        alternateForm: true,
+      };
+      pokemon.splice(pokemon.indexOf(poke) + 1, 0, newEntry);
+    }
+  }
+}
+
 for (let i = 0; i < pokemon.length; i++) {
   if (!pokemon[i]?.spawns?.[0]) {
     csvLines.push(",,,,,,,,,,,,,,,,");
@@ -179,12 +197,11 @@ for (let i = 0; i < pokemon.length; i++) {
   let spawns = poke?.spawns;
   let json = JSON.stringify(poke);
   let spawn0 = spawns?.[0];
-  let dex: any = i + 1;
+  let dex = poke?.id || "";
   let id = poke?.id || "";
   dex = id ? dex : "";
   let bucket = spawn0?.bucket || "";
   let level = spawn0?.level || "";
-  console.log(level);
   let weight = spawn0?.weight || "";
   let dimension =
     json.includes("#cobblemon:nether/is") ||
@@ -251,11 +268,13 @@ for (let i = 0; i < pokemon.length; i++) {
       : maxLight && maxLight <= 7
         ? "dark"
         : "any";
+  let alternateForm = poke?.alternateForm ? "yes" : "no";
   let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
+  let data = spawn0?.pokemon.includes("min_perfect_ivs=3") ? "min_perfect_ivs=3" : "";
 
   csvLines.push(
-    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}","${neededNearbyBlocks.join(", ")}",,"${isGenerated}"`,
+    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}"`,
   );
 }
 
@@ -284,7 +303,7 @@ async function getNeededNearbyBlocks(spawns: any[]) {
 async function getPokemon(path: string) {
   for (let filePath of new Glob("**/*.json").scanSync(path)) {
     try {
-      let match = /([a-z]+)\.json/.exec(filePath);
+      let match = /([a-z]+)_\.json/.exec(filePath);
       if (match) {
         if (!match[1]) continue;
         let id = match[1];
@@ -302,7 +321,9 @@ async function getPokemon(path: string) {
           if (json && json.spawns) {
             pokemon[dex - 1] = {
               id,
+              dex,
               spawns: json.spawns,
+              alternateForm: false,
             };
           }
         } else {
