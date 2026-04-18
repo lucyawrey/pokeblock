@@ -273,9 +273,13 @@ for (let i = 0; i < pokemon.length; i++) {
   let alternateForm = poke?.alternateForm ? "yes" : "no";
   let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
-  let data = spawn0?.pokemon.includes("min_perfect_ivs=3")
-    ? "min_perfect_ivs=3"
-    : "";
+  let data = "";
+  if (spawn0?.pokemon.includes("min_perfect_ivs=3")) {
+    data = "min_perfect_ivs=3";
+  } else if (spawn0?.pokemon.includes(" ") && alternateForm === "no") {
+    // Handle skipping incorrect alternate forms here.
+    continue;
+  }
 
   csvLines.push(
     `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}"`,
@@ -307,7 +311,7 @@ async function getNeededNearbyBlocks(spawns: any[]) {
 async function getPokemon(path: string) {
   for (let filePath of new Glob("**/*.json").scanSync(path)) {
     try {
-      let match = /([a-z]+)_\.json/.exec(filePath);
+      let match = /([a-z]+)(?:_[a-z_]+)?\.json/.exec(filePath);
       if (match) {
         if (!match[1]) continue;
         let id = match[1];
@@ -323,12 +327,16 @@ async function getPokemon(path: string) {
           let dex = data.id;
           const json = await Bun.file(`${path}/${filePath}`).json();
           if (json && json.spawns) {
-            pokemon[dex - 1] = {
-              id,
-              dex,
-              spawns: json.spawns,
-              alternateForm: false,
-            };
+            if (pokemon[dex - 1]?.spawns) {
+              pokemon[dex - 1].spawns = pokemon[dex - 1].spawns.concat(json.spawns);
+            } else {
+              pokemon[dex - 1] = {
+                id,
+                dex,
+                spawns: json.spawns,
+                alternateForm: false,
+              };
+            }
           }
         } else {
           console.error(`${id}`);

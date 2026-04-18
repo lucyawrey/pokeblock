@@ -1,8 +1,8 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
+    - [ ] Todo make sure generation of pokemon spawns supports alternate forms in spreadsheet under pokemon name. 
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-    - [ ] Add regional forms.
 - Configure non-fossil cobblemon archaeology loot.
 - Mycelium + Podzol recipes
 - [ ] Increase wandering trader spawn rate.
