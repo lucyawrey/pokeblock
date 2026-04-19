@@ -23,8 +23,7 @@
         "neededNearbyBlocks": [
           "minecraft:grass_block",
           "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "minecraft:tall_grass"
         ]
       }
     }

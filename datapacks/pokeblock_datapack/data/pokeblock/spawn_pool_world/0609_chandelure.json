@@ -1,0 +1,25 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "chandelure-1",
+      "pokemon": "chandelure",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 0.01,
+      "level": "41-52",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "neededNearbyBlocks": [
+          "#minecraft:candles",
+          "minecraft:lantern"
+        ]
+      }
+    }
+  ]
+}

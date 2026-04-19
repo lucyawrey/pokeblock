@@ -21,7 +21,6 @@
         "timeRange": "night",
         "canSeeSky": true,
         "neededNearbyBlocks": [
-          "minecraft:firefly_bush",
           "#minecraft:dark_oak_logs",
           "minecraft:dark_oak_leaves",
           "minecraft:peony",
@@ -53,7 +52,6 @@
         ],
         "canSeeSky": false,
         "neededNearbyBlocks": [
-          "minecraft:firefly_bush",
           "#minecraft:dark_oak_logs",
           "minecraft:dark_oak_leaves",
           "minecraft:peony",

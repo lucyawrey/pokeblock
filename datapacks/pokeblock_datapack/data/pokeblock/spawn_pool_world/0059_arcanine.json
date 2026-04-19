@@ -19,9 +19,9 @@
         "isThundering": false,
         "neededNearbyBlocks": [
           "minecraft:torch",
-          "minecraft:campfire",
           "minecraft:fire",
-          "minecraft:netherrack"
+          "minecraft:netherrack",
+          "#minecraft:campfires"
         ]
       }
     }

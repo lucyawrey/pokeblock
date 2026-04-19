@@ -104,6 +104,21 @@ ServerEvents.recipes((event) => {
     ],
     "minecraft:blackstone",
   );
+
+  // Output item and tag IDs for development
+  // const BuiltInRegistries = Java.loadClass(
+  //   "net.minecraft.core.registries.BuiltInRegistries",
+  // );
+  // const blockRegistry = BuiltInRegistries.BLOCK;
+  // const blocks = blockRegistry.keySet();
+  // blocks.forEach((id) => {
+  //   let block = blockRegistry.get(id);
+  //   let tags = block.tags.toArray();
+  //   console.info(id);
+  //   tags.forEach((tag) => {
+  //     console.info("#" + tag);
+  //   });
+  // });
 });
 
 RecipeViewerEvents.removeEntries("item", (event) => {

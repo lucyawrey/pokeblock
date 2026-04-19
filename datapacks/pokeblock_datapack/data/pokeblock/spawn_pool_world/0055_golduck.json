@@ -23,7 +23,6 @@
         "neededNearbyBlocks": [
           "minecraft:lily_pad",
           "minecraft:vine",
-          "minecraft:firefly_bush",
           "minecraft:water",
           "#cobblemon:gemstones",
           "minecraft:sand"
@@ -47,7 +46,6 @@
         "neededNearbyBlocks": [
           "minecraft:lily_pad",
           "minecraft:vine",
-          "minecraft:firefly_bush",
           "minecraft:water",
           "#cobblemon:gemstones",
           "minecraft:sand"

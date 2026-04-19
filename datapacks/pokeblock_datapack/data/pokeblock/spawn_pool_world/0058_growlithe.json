@@ -22,9 +22,9 @@
           "minecraft:short_grass",
           "minecraft:fern",
           "minecraft:torch",
-          "minecraft:campfire",
           "minecraft:fire",
-          "minecraft:netherrack"
+          "minecraft:netherrack",
+          "#minecraft:campfires"
         ]
       }
     }

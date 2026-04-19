@@ -21,9 +21,9 @@
           "minecraft:basalt",
           "minecraft:magma_block",
           "minecraft:torch",
-          "minecraft:campfire",
           "minecraft:fire",
-          "minecraft:netherrack"
+          "minecraft:netherrack",
+          "#minecraft:campfires"
         ]
       }
     }

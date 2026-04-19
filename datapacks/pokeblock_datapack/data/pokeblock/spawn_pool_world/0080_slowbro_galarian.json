@@ -23,8 +23,7 @@
         "neededNearbyBlocks": [
           "minecraft:sand",
           "minecraft:sugar_cane",
-          "minecraft:water",
-          "minecraft:firefly_bush"
+          "minecraft:water"
         ]
       }
     }

@@ -3,15 +3,15 @@
 - [ ] Update spawn table.
     - [ ] Add support for fishing rarity it spawns.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- Configure non-fossil cobblemon archaeology loot.
+- [ ] Increase wandering trader spawn rate.
+- [ ] Improve Wild Loot mod.
+- Mycelium + Podzol recipes
+- [ ] Drop table
+    - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - Furniture
     - Rebalance trash bin recipe and result from lets do furniture.
     - Remove sofas from lets do furniture or cobblefurnies.
-- Configure non-fossil cobblemon archaeology loot.
-- Mycelium + Podzol recipes
-- [ ] Increase wandering trader spawn rate.
-- [ ] Improve Wild Loot mod.
-- [ ] Drop table
-    - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - [ ] Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - [ ] Create tera crystal blocks that allow spawning Paradox Pokémon.
 - [ ] Legendary Summoning Shrines.
@@ -69,6 +69,7 @@
 - [ ] Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
 
 # Important Drops
+- Max mushrooms (pokemon, red mushroom colonies)
 - Saplings
 - Kelp
 - Bamboo (still need to add it to non jungle fishing tables)

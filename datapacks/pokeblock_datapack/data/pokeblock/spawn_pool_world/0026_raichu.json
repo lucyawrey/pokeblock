@@ -23,7 +23,6 @@
         "neededNearbyBlocks": [
           "minecraft:short_grass",
           "minecraft:tall_grass",
-          "minecraft:fern",
           "#cobblemon:redstone_blocks"
         ]
       }

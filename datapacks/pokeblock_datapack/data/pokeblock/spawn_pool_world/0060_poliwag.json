@@ -22,8 +22,7 @@
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "minecraft:lily_pad",
-          "minecraft:vine",
-          "minecraft:firefly_bush"
+          "minecraft:vine"
         ]
       }
     },
@@ -43,8 +42,7 @@
         "canSeeSky": true,
         "neededNearbyBlocks": [
           "minecraft:lily_pad",
-          "minecraft:vine",
-          "minecraft:firefly_bush"
+          "minecraft:vine"
         ]
       }
     },

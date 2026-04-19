@@ -20,8 +20,6 @@
         ],
         "neededNearbyBlocks": [
           "#minecraft:sand",
-          "minecraft:short_dry_grass",
-          "minecraft:tall_dry_grass",
           "minecraft:dead_bush",
           "minecraft:sandstone"
         ]
