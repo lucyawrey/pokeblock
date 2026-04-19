@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "graveler-1",
-      "pokemon": "graveler",
+      "id": "ninetales alolan-1",
+      "pokemon": "ninetales alolan",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 0.95,
-      "level": "25-39",
+      "bucket": "uncommon",
+      "weight": 0.48,
+      "level": "25-51",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,7 +21,12 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#minecraft:iron_ores"
+          "minecraft:fern",
+          "minecraft:large_fern",
+          "#minecraft:spruce_logs",
+          "minecraft:spruce_leaves",
+          "minecraft:snow",
+          "minecraft:snow_block"
         ]
       }
     }

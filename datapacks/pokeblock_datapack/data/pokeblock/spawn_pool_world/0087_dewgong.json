@@ -1,0 +1,71 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "dewgong-1",
+      "pokemon": "dewgong",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 1,
+      "level": "34-48",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:ice",
+          "minecraft:packed_ice",
+          "minecraft:blue_ice",
+          "minecraft:seagrass",
+          "minecraft:kelp"
+        ]
+      }
+    },
+    {
+      "id": "dewgong-2",
+      "pokemon": "dewgong",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 1,
+      "level": "34-48",
+      "spawnablePositionType": "submerged",
+      "condition": {
+        "fluid": "#minecraft:water",
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": true,
+        "neededNearbyBlocks": [
+          "minecraft:ice",
+          "minecraft:packed_ice",
+          "minecraft:blue_ice",
+          "minecraft:seagrass",
+          "minecraft:kelp"
+        ]
+      }
+    },
+    {
+      "id": "dewgong-3",
+      "pokemon": "dewgong",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 1,
+      "level": "34-48",
+      "spawnablePositionType": "fishing",
+      "condition": {
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": true
+      }
+    }
+  ]
+}

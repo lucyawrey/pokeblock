@@ -21,7 +21,6 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:stone",
           "#minecraft:iron_ores"
         ]
       }

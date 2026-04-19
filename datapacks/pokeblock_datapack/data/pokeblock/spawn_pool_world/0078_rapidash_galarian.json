@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
-      "pokemon": "rotom",
+      "id": "rapidash galarian-1",
+      "pokemon": "rapidash galarian",
       "type": "pokemon",
-      "bucket": "rare",
-      "weight": 10,
-      "level": "20-75",
+      "bucket": "uncommon",
+      "weight": 1.6,
+      "level": "40-50",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,13 +18,11 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:redstone_blocks",
-          "cobblemon:pc",
-          "cobblemon:monitor",
-          "cobblemon:healing_machine",
-          "cobblemon:restoration_tank",
-          "cobblemon:fossil_analyzer"
+          "#minecraft:flowers",
+          "#cobblemon:gemstones"
         ]
       }
     }

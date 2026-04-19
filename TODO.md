@@ -1,8 +1,11 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
-    - [ ] Todo make sure generation of pokemon spawns supports alternate forms in spreadsheet under pokemon name. 
+    - [ ] Add support for fishing rarity it spawns.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- Furniture
+    - Rebalance trash bin recipe and result from lets do furniture.
+    - Remove sofas from lets do furniture or cobblefurnies.
 - Configure non-fossil cobblemon archaeology loot.
 - Mycelium + Podzol recipes
 - [ ] Increase wandering trader spawn rate.

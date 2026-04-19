@@ -22,8 +22,7 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "cobblemon:medicinal_leek",
-          "#cobblemon:trees"
+          "cobblemon:medicinal_leek"
         ]
       }
     },
@@ -45,8 +44,7 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "cobblemon:medicinal_leek",
-          "#cobblemon:trees"
+          "cobblemon:medicinal_leek"
         ]
       }
     }

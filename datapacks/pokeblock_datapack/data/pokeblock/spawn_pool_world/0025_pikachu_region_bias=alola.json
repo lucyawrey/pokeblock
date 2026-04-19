@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
-      "pokemon": "rotom",
+      "id": "pikachu region_bias=alola-1",
+      "pokemon": "pikachu region_bias=alola",
       "type": "pokemon",
-      "bucket": "rare",
-      "weight": 10,
-      "level": "20-75",
+      "bucket": "uncommon",
+      "weight": 0.304,
+      "level": "16-32",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,13 +18,12 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:redstone_blocks",
-          "cobblemon:pc",
-          "cobblemon:monitor",
-          "cobblemon:healing_machine",
-          "cobblemon:restoration_tank",
-          "cobblemon:fossil_analyzer"
+          "minecraft:sand",
+          "minecraft:sugar_cane",
+          "minecraft:water"
         ]
       }
     }

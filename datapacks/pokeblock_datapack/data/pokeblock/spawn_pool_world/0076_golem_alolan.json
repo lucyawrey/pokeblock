@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
-      "pokemon": "rotom",
+      "id": "golem alolan-1",
+      "pokemon": "golem alolan",
       "type": "pokemon",
-      "bucket": "rare",
-      "weight": 10,
-      "level": "20-75",
+      "bucket": "common",
+      "weight": 0.05,
+      "level": "34-50",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -19,12 +19,7 @@
           "minecraft:overworld"
         ],
         "neededNearbyBlocks": [
-          "#cobblemon:redstone_blocks",
-          "cobblemon:pc",
-          "cobblemon:monitor",
-          "cobblemon:healing_machine",
-          "cobblemon:restoration_tank",
-          "cobblemon:fossil_analyzer"
+          "#minecraft:iron_ores"
         ]
       }
     }

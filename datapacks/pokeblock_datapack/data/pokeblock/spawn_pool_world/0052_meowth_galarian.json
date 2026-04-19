@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
-      "pokemon": "rotom",
+      "id": "meowth galarian-1",
+      "pokemon": "meowth galarian",
       "type": "pokemon",
-      "bucket": "rare",
-      "weight": 10,
-      "level": "20-75",
+      "bucket": "common",
+      "weight": 9,
+      "level": "4-29",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,13 +18,14 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:redstone_blocks",
-          "cobblemon:pc",
-          "cobblemon:monitor",
-          "cobblemon:healing_machine",
-          "cobblemon:restoration_tank",
-          "cobblemon:fossil_analyzer"
+          "minecraft:ice",
+          "minecraft:packed_ice",
+          "minecraft:blue_ice",
+          "minecraft:snow",
+          "minecraft:snow_block"
         ]
       }
     }

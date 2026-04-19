@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "rotom-1",
-      "pokemon": "rotom",
+      "id": "slowpoke galarian-1",
+      "pokemon": "slowpoke galarian",
       "type": "pokemon",
-      "bucket": "rare",
-      "weight": 10,
-      "level": "20-75",
+      "bucket": "common",
+      "weight": 5.4,
+      "level": "7-32",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,13 +18,13 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:redstone_blocks",
-          "cobblemon:pc",
-          "cobblemon:monitor",
-          "cobblemon:healing_machine",
-          "cobblemon:restoration_tank",
-          "cobblemon:fossil_analyzer"
+          "minecraft:sand",
+          "minecraft:sugar_cane",
+          "minecraft:water",
+          "minecraft:firefly_bush"
         ]
       }
     }
