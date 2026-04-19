@@ -4,15 +4,16 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "raticate-1",
-      "pokemon": "raticate",
+      "id": "metapod valencian-1",
+      "pokemon": "metapod valencian",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 1,
-      "level": "20-41",
+      "weight": 2,
+      "level": "7-21",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
+          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
@@ -21,10 +22,9 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:grass_block",
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#minecraft:jungle_logs",
+          "minecraft:jungle_leaves",
+          "minecraft:vine"
         ]
       }
     }

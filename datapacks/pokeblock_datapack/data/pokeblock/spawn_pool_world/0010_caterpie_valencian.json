@@ -4,15 +4,16 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "raticate-1",
-      "pokemon": "raticate",
+      "id": "caterpie valencian-1",
+      "pokemon": "caterpie valencian",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 1,
-      "level": "20-41",
+      "weight": 7,
+      "level": "1-20",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
+          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
@@ -21,10 +22,9 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:grass_block",
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "#minecraft:jungle_logs",
+          "minecraft:jungle_leaves",
+          "minecraft:vine"
         ]
       }
     }

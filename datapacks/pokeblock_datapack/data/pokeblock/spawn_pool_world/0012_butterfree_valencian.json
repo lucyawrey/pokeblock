@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "raticate-1",
-      "pokemon": "raticate",
+      "id": "butterfree valencian-1",
+      "pokemon": "butterfree valencian",
       "type": "pokemon",
       "bucket": "common",
       "weight": 1,
-      "level": "20-41",
+      "level": "10-40",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,13 +18,12 @@
         "dimensions": [
           "minecraft:overworld"
         ],
+        "timeRange": "day",
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:grass_block",
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "minecraft:fern"
+          "minecraft:vine",
+          "minecraft:cocoa"
         ]
       }
     }

@@ -4,8 +4,8 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "raticate-1",
-      "pokemon": "raticate",
+      "id": "raticate alolan-1",
+      "pokemon": "raticate alolan",
       "type": "pokemon",
       "bucket": "common",
       "weight": 1,
@@ -18,8 +18,8 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
+        "timeRange": "night",
+        "canSeeSky": true,
         "neededNearbyBlocks": [
           "minecraft:grass_block",
           "minecraft:short_grass",

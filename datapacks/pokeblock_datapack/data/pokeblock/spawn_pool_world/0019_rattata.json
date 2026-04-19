@@ -18,8 +18,8 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "timeRange": "night",
-        "canSeeSky": true,
+        "minSkyLight": 8,
+        "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "minecraft:grass_block",
           "minecraft:short_grass",

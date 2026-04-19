@@ -158,7 +158,7 @@ let biomes: Record<string, string> = {};
 });
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,isGenerated",
+  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,isGenerated,remove",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -274,15 +274,15 @@ for (let i = 0; i < pokemon.length; i++) {
   let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
   let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
   let data = "";
+  let remove = "no";
   if (spawn0?.pokemon.includes("min_perfect_ivs=3")) {
     data = "min_perfect_ivs=3";
   } else if (spawn0?.pokemon.includes(" ") && alternateForm === "no") {
-    // Handle skipping incorrect alternate forms here.
-    continue;
+    remove = "yes";
   }
 
   csvLines.push(
-    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}"`,
+    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}",${remove}`,
   );
 }
 
