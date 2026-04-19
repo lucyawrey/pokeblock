@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CobblemonWildLoot.json"
-hash = "226e1c6a6e059c2ca5e2fb2da88122d019cb3e783f87e694594a7018bd537e14"
+hash = "6fb29809d2422bf9a1a20d372d7947562ffb2730c840edd147b17146c023b935"
 
 [[files]]
 file = "config/cobblegen.json5"
@@ -54,7 +54,7 @@ hash = "b9aa14a8032e509518bbdf9aebff7a8c94d651accddbabd9b7108989d3a176c1"
 
 [[files]]
 file = "config/mega_showdown/config.json"
-hash = "2c0a7798944fec2cea4def9f3a41284c4fc8f8dc93ca7ec40d872e8c99005ff6"
+hash = "0bd0b9974b94eb59871c29c70fa55fd6a4d8690362ccdf77b53bc3f1438b8c48"
 
 [[files]]
 file = "config/melancholic_hunger.json5"
@@ -950,7 +950,43 @@ hash = "fbab8c40bea6f60f2f45f924a18ae5a3a5d8223b09c09cfc6338db5569dab41b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0087_dewgong.json"
-hash = "8c1058bf9d2ebcbd440b5cac9dfce888c752902e4c912ed089e2ff89233bfcc9"
+hash = "8b35d7270dda01e7379158acf3a077aa693def3aabfc24980f3b7d2b5d489949"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer.json"
+hash = "652bb7c3cd9a93977ffce903a985eb9273a2edd8eaa23d16f086ebb500e61dc7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer_alolan.json"
+hash = "67237bacaa212d87ee3946c5f66bbd7f565c47df3212eed610e41c7e70c07e09"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk.json"
+hash = "d72f2b4cb0e672419d7f8200f00d38f1a463e295cb08baaaa9aeb70cb33cc732"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk_alolan.json"
+hash = "4847d99e3ee97de8ab43db87054ac64ac8e214e22f987cfcef4e71e746e815a9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0090_shellder.json"
+hash = "6d0b178189a3fb4a3bb7013f775754233a114f2d8ef511087697e072f627446d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0091_cloyster.json"
+hash = "8af09cfc977c7e985dd1025ca1b50174bcaa65730bc514dcbb49800db6ca1067"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0092_gastly.json"
+hash = "c8cb6c5763862abe87875c3f67e77042cd4fa54437feaf859d7dad87ea02408f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0093_haunter.json"
+hash = "c2d61eb48e096d95ba358f88ecfd2d5cfe5ef8b61f99c998793427fbda8efbd9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0094_gengar.json"
+hash = "53c710e97acc38ef49fcfe9b05618311a5dd8c6e7fcb0ac9652ac3ca5a2a2ee3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0137_porygon.json"

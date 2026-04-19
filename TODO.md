@@ -68,6 +68,24 @@
     - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
 - [ ] Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
 
+# Important Drops
+- Saplings
+- Kelp
+- Bamboo (still need to add it to non jungle fishing tables)
+- Sugar cane: add to fishing, pokemon drops.
+- Ice Block: add to more pokemon drops.
+- Tree Bark from Create Log Cutting Recipes
+- More organic compost recipes
+- Evo stones from cobblegen (dripstone moon stone)
+- Type gems
+- Tera shards (wild loot)
+
+## Assets
+- [ ] Wing Item Sprites (Arctic Wing, Charged Wing, Molten Wing)
+- [ ] Orb Item Sprites (Articuno Orb, Zapdos Orb, Moltres Orb)
+- [ ] Fragile Ocarina Sprite (see Pokémon 2000)
+- [ ] Lugia Pedestal
+
 ## Low Priority
 - [ ] Install and setup FancyMenu for custom home menu and loading screen.
 - [ ] Rename pack to Cobbleblock.
@@ -82,9 +100,3 @@
     - Disable generation for default end return portal.
     - Disable ender dragon.
     - Add a generated End island for each Skyblock. Can't be done currently in base Skyblock Builder.
-
-## Assets
-- [ ] Wing Item Sprites (Arctic Wing, Charged Wing, Molten Wing)
-- [ ] Orb Item Sprites (Articuno Orb, Zapdos Orb, Moltres Orb)
-- [ ] Fragile Ocarina Sprite (see Pokémon 2000)
-- [ ] Lugia Pedestal

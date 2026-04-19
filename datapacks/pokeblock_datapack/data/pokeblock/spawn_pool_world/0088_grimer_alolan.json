@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "dewgong-1",
-      "pokemon": "dewgong",
+      "id": "grimer alolan-1",
+      "pokemon": "grimer alolan",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 1,
-      "level": "34-48",
+      "bucket": "uncommon",
+      "weight": 1.68,
+      "level": "8-33",
       "spawnablePositionType": "surface",
       "condition": {
         "fluid": "#minecraft:water",
@@ -21,12 +21,12 @@
       }
     },
     {
-      "id": "dewgong-2",
-      "pokemon": "dewgong",
+      "id": "grimer alolan-2",
+      "pokemon": "grimer alolan",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 1,
-      "level": "34-48",
+      "bucket": "uncommon",
+      "weight": 1.68,
+      "level": "8-33",
       "spawnablePositionType": "fishing",
       "condition": {
         "dimensions": [
@@ -36,12 +36,12 @@
       }
     },
     {
-      "id": "dewgong-3",
-      "pokemon": "dewgong",
+      "id": "grimer alolan-3",
+      "pokemon": "grimer alolan",
       "type": "pokemon",
-      "bucket": "common",
-      "weight": 1,
-      "level": "34-48",
+      "bucket": "uncommon",
+      "weight": 1.68,
+      "level": "8-33",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -52,11 +52,8 @@
         ],
         "canSeeSky": true,
         "neededNearbyBlocks": [
-          "minecraft:ice",
-          "minecraft:packed_ice",
-          "minecraft:blue_ice",
-          "minecraft:seagrass",
-          "minecraft:kelp"
+          "minecraft:water",
+          "furniture:bin"
         ]
       }
     }
