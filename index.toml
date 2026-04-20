@@ -365,6 +365,18 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspi
 hash = "85182d6be5fb73dc5115cfe4866aa5b015adfaea748599521325cfd452699f36"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"
+hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/junk.json"
+hash = "ce9c72c58200767bcaaa80a5b340f2cd596824e63b990f8190b9200cfbdb923d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/treasure.json"
+hash = "4ba3a34a90561a2e4eb3843737bed6f59072b4c0c86b53f0a706f70256f9acff"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_wing.json"
 hash = "d9b07d1570569ee8cf9e48010b16a39473b1bb454c8869ebf6f9097cf7be1d12"
 

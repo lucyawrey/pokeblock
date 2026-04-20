@@ -3,7 +3,10 @@
 - [ ] Update spawn table.
     - [ ] Add support for fishing rarity in spawns.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-- Configure non-fossil cobblemon archaeology loot.
+- Archaeology loot.
+    - Weights
+    - Non-fossil cobblemon loot.
+- [ ] Update fishing loot tables with weights.
 - [ ] Increase wandering trader spawn rate.
 - [ ] Improve Wild Loot mod.
 - Mycelium + Podzol recipes
@@ -25,7 +28,6 @@
 - [ ] Way to get mushrooms including max mushrooms for dynamax.
 - [ ] Way to get blank z crystals (maybe just craft them).
 - [ ] Create all Pokémon spawning rules.
-- [ ] Update fishing loot tables, inclduing collapsing all biomes so things like bamboo can be found in plains. Make sure medicinal leaks, sugar cane, and bamboo are plentiful. Meteor should be a tiny percent chance drop as well.
 - [ ] Create custom creative tab and item categories for items added via kubejs and Wild Loot.
 - [ ] Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
     - [ ] https://modrinth.com/resourcepack/rct-trainer-textures-plus
@@ -67,14 +69,13 @@
 - [ ] Create Lore!
     - [ ] Journal entries in island starting chest, in the nether, and in one of the meteorites.
     - [ ] Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
+    - [ ] Comment on strange non-pokemon fish.
 - [ ] Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
 
 # Important Drops
 - Max mushrooms (pokemon, red mushroom colonies)
 - Saplings
 - Kelp
-- Bamboo (still need to add it to non jungle fishing tables)
-- Sugar cane: add to fishing, pokemon drops.
 - Ice Block: add to more pokemon drops.
 - Tree Bark from Create Log Cutting Recipes
 - More organic compost recipes
