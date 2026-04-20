@@ -10,7 +10,7 @@ type SpawnType =
   | "lava";
 
 const outPath =
-  "./datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
+  "../datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world";
 
 const presets: Record<
   SpawnType,

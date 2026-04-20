@@ -140,9 +140,9 @@ const idMap: any = {
   slitherwing: "slither-wing",
 };
 
-const path = "./reference_data/data";
-const outputPath = "./spawn_data.csv";
-const cachePath = "./script_cache.json";
+const path = "../reference_data/data";
+const outputPath = "../spawn_data.csv";
+const cachePath = "../script_cache.json";
 const biomesSheetUrl = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=biomes`;
 
 let biomes: Record<string, string> = {};
