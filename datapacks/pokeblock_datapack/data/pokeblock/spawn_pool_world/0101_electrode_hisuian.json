@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electrode hisuian-1",
+      "id": "electrode-hisuian-1",
       "pokemon": "electrode hisuian",
       "type": "pokemon",
       "bucket": "uncommon",

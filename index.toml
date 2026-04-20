@@ -466,7 +466,7 @@ hash = "8796d4d4b49fe7e4662ab5a55d41fafd19c39389f0d3e184e2c68c06d9b397ab"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0010_caterpie_valencian.json"
-hash = "19b18bf9a8d54a0148d7dcefd44e6391317067ed8bed2a0e51e8007838f1db72"
+hash = "128f3856d24a3e554fee8052c74c03842e809fd53ba7caf8a66d4a23a95ad1cc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0011_metapod.json"
@@ -474,7 +474,7 @@ hash = "f77e3eaedd9ee02e574b7b0dcd9bbf501888ac59af35b8b98cc63013da3e161c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0011_metapod_valencian.json"
-hash = "c6b0ca5e756c775c01d30beeeccfbf8ae1804557d8fe07e6f2378e4b789f8edf"
+hash = "0e3b2ce6603a1675035495077d45654ab0ec47af255fca4c459751672686d966"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0012_butterfree.json"
@@ -482,7 +482,7 @@ hash = "893289a332d722e5d7cf9d959a2dadaf658bf60f6d25e725154f05f90c426ef1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0012_butterfree_valencian.json"
-hash = "50fa00d93aecf68e69e4d180c504eba90c733b9f36fb532d0bcd78ca4a675454"
+hash = "b167bc1924305cbe3cfd6ece6b6e0229ff3f99ecf08cc77e8b0113224571ed00"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0013_weedle.json"
@@ -514,7 +514,7 @@ hash = "8167f6fa547d2f227d2e800446194c66b7dd4ccdc4e0dcc1e7c37496d83ddecf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0019_rattata_alolan.json"
-hash = "3b4a495ac9ae5655574a0be40782b4b17e1d3e0f12e8b44a4b66476499841c8d"
+hash = "e4442a9ac8ec6c2d4a9e001469770525cc428ec5cfe2348805d21699c114ebaf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0020_raticate.json"
@@ -522,7 +522,7 @@ hash = "a751dcad895753a7402a50fa62b5f4d29d504ddaf76e49c67f7bbbc6df50265f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0020_raticate_alolan.json"
-hash = "79497603a7eb2d7c4ba82f71a01080d1ea98e2e362c8608a48268ca9a0a36535"
+hash = "481adefc93efe1abb44dc08618778e341c976a9a638205f46f7aad4a7ead5604"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0021_spearow.json"
@@ -533,84 +533,76 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0022_fearow
 hash = "51e365e93ab7993193b6ea96f37277101b08689fa9e8998b9c983aba4606df95"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans.json"
-hash = "8b563b181b3cac21663b6d183480f0287518f06a2e2c50e837f0402a9d92b3eb"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_attack.json"
+hash = "7854b57027c1771434fde7068307a13baf5d7f0a21b3133ad8f934b5686976d4"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=attack.json"
-hash = "f994955c1cca8f923ed1560a729b55fad38f889f8fc11deb6a44bb091ae9cc37"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_classic.json"
+hash = "64b7260872d65be50334f37c0e4116938a790ae23860c78cb6092ad25a57a242"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=classic.json"
-hash = "635d3b632d16fabb67418f0dac5f298991858b60d19c1cb6de34afae5ddf0b9f"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_dark.json"
+hash = "feb564dccb07f720cbb1c0d75c3192c834175939ccdb41384080d8230a3a99ef"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=dark.json"
-hash = "df6c28b8c778e6b251f6a65e0ad2f2fbcf8486014a3f40d7cb513800c6f40028"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_elusive.json"
+hash = "68d15a9d6a9fb3f18e08c05c815d4f52c3a39fe99e1279f52390f7b6feea8714"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=elusive.json"
-hash = "ae76ffc84bd68f7232aeebde22611a1b7243cdc7b413301aa32d69d26220c45b"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_legacy.json"
+hash = "6b418c6b6ce173597f33080f2df1ed74e08522bbf0dbe732a36169ad2dc2dd63"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=legacy.json"
-hash = "b814ec17f1647976a07c784b3572bfd80c67748ca464ce474d0827d028b715d8"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_sound.json"
+hash = "2d1e59859dbca701d209fc8916050b0500124401c65d235472a29514e8b774aa"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=sound.json"
-hash = "054502a670bc57febc81c1f56422c58e870a8f5db605e0d98d71c6d437265f8e"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern_speed.json"
+hash = "8a584378480cba85fb8c8bbff9239bbc9a4150e43e9ec9bf1bf1efbfd72755af"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0023_ekans_snake_pattern=speed.json"
-hash = "07ca43004e5caea580e0538b46f4643a34cc8d860081a9f37bf58eb866e2ab09"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_attack.json"
+hash = "4334e322ff92dcc305e396bf77133536d30ee07cb07adbf13316435798703da4"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok.json"
-hash = "dc166202b9bca755215d0af333a01a2aa5087722a81113d5e4d9c6d2bd014334"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_classic.json"
+hash = "26af9940efe8d9ecd89b7ee63bed32e41ce084662ecbbb138993869f3fb30073"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=attack.json"
-hash = "24e0add72fba5831af07a7fe7f922281c0bfc26436fdd2f88af9a41c0061646d"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_dark.json"
+hash = "65dc79f8ba1a1d31f175a1d8628a891d41d9fdefb35005129cccdbd8902756c7"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=classic.json"
-hash = "cb67500018b726052969cce249594bce7e19ec23bb83c9e6554bb5a3313408c3"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_elusive.json"
+hash = "06a686c3f86bc427baee99ce861d172ce5da229a2e53e9e165e346ee0fb6da71"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=dark.json"
-hash = "761cf4e45abb793a26647c789ca5dc9a34bf31d32745eb436e6bcd65d3c7dcf1"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_legacy.json"
+hash = "be56341b11468fa257586b5b47ea5ea2b4d74287f8f59ae8425573fda40efcd3"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=elusive.json"
-hash = "400709b27f7023c78c8a767acf22ad7dea878773a787bfd680aae7f578dc385c"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_sound.json"
+hash = "3a2e27d230e9ab9141b1f8d02bddb5f4d6b527077ba929a8dbe26b5a6c3ae14f"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=legacy.json"
-hash = "ac39338ca03fd3a69250cd8452756d20945efcc5f45fa4d557deecf7f8af8306"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=sound.json"
-hash = "c4e5b93793a555975be6694d1e44a917d1878d067e6e0ba0e795597a8b10dc7e"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern=speed.json"
-hash = "dfb474a031d022286be0e8a090075eca5182516e50b3494329fc0b10a51a03a8"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0024_arbok_snake_pattern_speed.json"
+hash = "694b6ef1d0e3502c5f43c409d7c05d99880cf44190dc0949963e45ba951484f9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu.json"
 hash = "ed96fec4b0bfd0582c2692cc94fa65d18251edafe761ce204c78cbae1bb523a3"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_cosplay=pop_star.json"
-hash = "bdcef64f9f0956afab02978999376e2ce027c2b6b0c19e364e4664b2ea5b5ddf"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_cosplay_pop_star.json"
+hash = "026c52e319ad5dded6cff45822a21723393db9ae903f369d69f66d8012f57df5"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_cosplay=rock_star.json"
-hash = "6a550fedb1bc4726cf92f8c0f0e385ee3c67fd386472fb86eede3d5505f23cbc"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_cosplay_rock_star.json"
+hash = "864e47a0322aa8c89eeb31d266ba4e394d61d5108c9eb8e8a6276dff3cc26feb"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_region_bias=alola.json"
-hash = "e4e540cebd388bb4007a11a54ec2f8464e65023e47ccf86e948181ff0c7ace3f"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0025_pikachu_region_bias_alola.json"
+hash = "1bee8dc15d2b444334f87142c98439d7dd43e19114c22a3de9234c3405fac396"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0026_raichu.json"
@@ -618,7 +610,7 @@ hash = "371b36bd846f0bc9f3002cbff39e59d6adaae829ebf4f2a50f6c0c6c958b1db4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0026_raichu_alolan.json"
-hash = "db19f7fc1f04fb5b063510213e4fe0169be62f843dbcd629ca9f984c4627ac27"
+hash = "c2d4607d1ba74f55d714525e7021e76cc10a718ee49cdc62f17d7fe4243b974d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0027_sandshrew.json"
@@ -626,7 +618,7 @@ hash = "034c3dfce2265d51a763aa67b33119b42d4c6c6eef4e1ded830640bc32f8711f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0027_sandshrew_alolan.json"
-hash = "d4ed2ee4184ad278a81e1f926f8d2d24e160a83b8556b8542a2ebf362d1bf655"
+hash = "aef494323fdc2c2ccd7fbe5a8a96e883906b4570f137ef57bb2b912ff85edcbb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0028_sandslash.json"
@@ -634,7 +626,7 @@ hash = "b83154adcf11f48bc9296a5ba8641068bf956d04a5a0c7c015c7401f2e8a1f82"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0028_sandslash_alolan.json"
-hash = "45171d5815b2daee275c9653b9c395aa37eaecbef902ab69eb747c34c1a14e91"
+hash = "e4551a49c67d8a8cb283147cea4e3bba7cbac73ea79e34a290680b39740772ef"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0029_nidoranf.json"
@@ -674,7 +666,7 @@ hash = "ba066f912d67a1557652981151f98067aac0501e9adbee55cad4b0d7b1c0feeb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0037_vulpix_alolan.json"
-hash = "22518680ea443b994f0918d527481e4a12cd0bbf40827ffd583edd18f86cfb92"
+hash = "6d46a249f29a69cddc1daa3333f5ad3f3720e42a92e919473b72a2a7a4262746"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0038_ninetales.json"
@@ -682,7 +674,7 @@ hash = "64475094dd3373227b4801b0e76e0b29baa8d55fb85c123233f5ad30bde40e58"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0038_ninetales_alolan.json"
-hash = "bd1c888014356c83dcf4dcf7e1d8b8c1b0cf37f9566b69bb578b8601eb3685bc"
+hash = "f00d337adf617ad3d0a8fb334ff267769e2fc50965acec50add345db2beb4156"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0039_jigglypuff.json"
@@ -706,7 +698,7 @@ hash = "9510d2450937e3d9a7d348862cb78b403b32444e95ff400d129fa700b9dc0454"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0043_oddish_valencian.json"
-hash = "ba0a59f2014e0d1f8dc0ab3fedefdd1fff928ae8f9f1dcdf29a4d162de5a4bcd"
+hash = "7d86e78aae37f425732f7a76969c2bde7944ec7cb810f643d5bfe5e835b5d9b2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0044_gloom.json"
@@ -714,7 +706,7 @@ hash = "5c6b9dddbd1e59f3fb72af4683776eb9404e049867d94d96248362da2559b843"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0044_gloom_valencian.json"
-hash = "237b0240f6f6e0f3082fc1f33b1a751badd1400619a8c803bc2caa0aab2df145"
+hash = "f917526a6ba784ac62e9bd2f278a3f9e4b4bee0cfa65991708d741f89c340764"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0045_vileplume.json"
@@ -722,7 +714,7 @@ hash = "df3a006e5fa8928f462055e8cbd4237f748f5e89887207c357b9aef6b65be7f3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0045_vileplume_valencian.json"
-hash = "f272aea14f8630a073d65b121485b7141cb8c2e2e2d408636338c6f75582a7dc"
+hash = "6e0cf16f1651bb1659b57b0e2ffaeae8033af40631962ef79e698c3ddab6bc3f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0046_paras.json"
@@ -746,7 +738,7 @@ hash = "d26f0d98b3c2a9655862502453cf372fca3b37759f5841ba30d5d0e3bfd84120"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0050_diglett_alolan.json"
-hash = "c10e14801e661dc2cb527afe6abd943dc2d75ab28a3ffb4bf114acf8de938022"
+hash = "66b9f52af54339c675190114990d7d2e800ff2ad3c603083b91f2c5a29164439"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0051_dugtrio.json"
@@ -754,7 +746,7 @@ hash = "3c3ff515d6caadd675da0241595cd6c746388cdc764be4aa24d549ce16b95301"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0051_dugtrio_alolan.json"
-hash = "95112ea3dc04a742b94fa1adad660268a65859cba230e830624a9112b0710499"
+hash = "6f1acd7d55746383e7090605b3dab07ad35863745ac36fe6724c39617063fdb9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0052_meowth.json"
@@ -762,11 +754,11 @@ hash = "957240419f6725df59aff049ae719d7dfc71d5171cc84c3ad0ed20d1479a7929"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0052_meowth_alolan.json"
-hash = "6fefa0a76570a3d2d63ae3b02a3c8a46d2febc0b00cb307d96010fe87cfd5cab"
+hash = "099a65f8dd0eaba0f30b8f428bc98de577986a67c47175488dfe21c306eb4a12"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0052_meowth_galarian.json"
-hash = "06a35707355944b97bd3fe6b40c6b033e54681e50350583b8874b0937dc17ffd"
+hash = "2d28283ef6608ab65f0b83de1e59adf915b53173c94860c3908679430b3b0953"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0053_persian.json"
@@ -774,7 +766,7 @@ hash = "603993b32b034fffdcc98cce06bf434d6869ca2a918359e507b01848709a47ba"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0053_persian_alolan.json"
-hash = "5e50e567082e3ce7a41444f02d38646728f42e9e07f9f40f85d44cff439cf2f6"
+hash = "55599008fae6b7b99ce48b20808a57610b7e1cb0de162df2db75ef06a877eafa"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0054_psyduck.json"
@@ -798,7 +790,7 @@ hash = "d395c0f921c9313df0f7b4cfbdd13c0f6f8aa9529e1ac686ececee3b615548d6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0058_growlithe_hisuian.json"
-hash = "801bbd4ae08ef075079931adaab66d0f582a5ab27be912fa993368d33ef72740"
+hash = "3e72cb5eae076da59b94f36e50e52b9c17a7c4e3341f044cc832aa085833a175"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0059_arcanine.json"
@@ -806,7 +798,7 @@ hash = "bfc4f978596004f28cdf76c126a2885fb489adfd8553d9a82905d7fbb7106337"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0059_arcanine_hisuian.json"
-hash = "335cf2fff2894946fb2ce0941342f3c68bc12034733c9e654421959b06728ed9"
+hash = "e4fedbdb17cb38e59932dfa00d0a91e3d111f22c9cf3e8d76114c2afd137161b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0060_poliwag.json"
@@ -870,7 +862,7 @@ hash = "be55a8e823682e88824cb040fb2937f8c11cd9ce470e163def3989e2ed33be80"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0074_geodude_alolan.json"
-hash = "4ab287c6a953d55aa31df10a6289370e6c5a66320604f843f64bd24241ec74d8"
+hash = "81c1138871f7a7de4084cff3d3f32e5c85a590b70e7328aed2f578739d7d3562"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0075_graveler.json"
@@ -878,7 +870,7 @@ hash = "3f05ba57463a1b6b8e1763656e285dfe79d33fae8049978177e5484beb3d8d73"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0075_graveler_alolan.json"
-hash = "d49999bd3b39f2907116949616dc6516ae8a4d8ebc874c1ea6622f6f60ef3ab2"
+hash = "c257eef60a2e5c51d269d99bcd45305f5682b60f6f66656a306fc58d691d7521"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0076_golem.json"
@@ -886,7 +878,7 @@ hash = "f08477a9f3acd8c90c0de61e1ccded513714308233b9e1368a01735fc905abd9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0076_golem_alolan.json"
-hash = "204b91cce62e60ec482bb752e1ee211d9f6c5ede90ba5bd00b969e6c7ede140e"
+hash = "de5c29d9201203e3e3c4723faf22eacc1feca4e47787635bf5ac2b7bf9f51d80"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0077_ponyta.json"
@@ -894,7 +886,7 @@ hash = "2c74e91ae12d266d1a3a19173b844eea17a3a13cacca51310e44a71067e6d565"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0077_ponyta_galarian.json"
-hash = "2924676f592756aac936b54dd818d1e0ba9b3bfde111deb25bb9b2f9584d19e8"
+hash = "de09508fc39208b596e7dba055726a5a8bbba768cd72d55b1b68ed26650b864f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0078_rapidash.json"
@@ -902,7 +894,7 @@ hash = "f01a3cbedc41e6d6f51186e711c9d783ad2ccd0d795ccddbfccf28a48ff08cdf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0078_rapidash_galarian.json"
-hash = "4af3eca998101645520eab466206e227b5c588c3bfb2b9c99ac744631105fc4b"
+hash = "ad45025b4d546a51b8e83d63f7301167362e25091d447b145103a792f1de8b0a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0079_slowpoke.json"
@@ -910,7 +902,7 @@ hash = "f8896368844fa787763cc1b22e29fcf67bc757500bd949aeff180c88a2851e3e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0079_slowpoke_galarian.json"
-hash = "76a5f9dbe60ab65f6cc1f1d0b715646172e5abacc9a94d710fcbe2439af8929a"
+hash = "a5b921356b3e4f3801cdeb61c800dad03efc7769d03baa832e9e55d0177466ab"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0080_slowbro.json"
@@ -918,7 +910,7 @@ hash = "5ba9816348062bfe967a7516a21f38edd09436b428a186ebcbbfe20e9d5763d2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0080_slowbro_galarian.json"
-hash = "24399e75d62ada1194d72f940772fde9b63f45bf518879883c520a68df25ca2a"
+hash = "a27366231fcfeed1acf8a463f422e80a5f3b97f19cb38bf18af818a2fa93ec23"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0081_magnemite.json"
@@ -934,7 +926,7 @@ hash = "5a814aa87efe3235530f259371f77873a0534e28ab3e4275da47810ceec69f15"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0083_farfetchd_galarian.json"
-hash = "84f46ec4be807475e202c5d521ba9f4c6f84c7196afb8cc5b7cc3a311d66449a"
+hash = "8d35c8d76307627373020eae4d30dd13af61a6d7fb28b99315c0b9a30e82457c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0084_doduo.json"
@@ -958,7 +950,7 @@ hash = "652bb7c3cd9a93977ffce903a985eb9273a2edd8eaa23d16f086ebb500e61dc7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer_alolan.json"
-hash = "67237bacaa212d87ee3946c5f66bbd7f565c47df3212eed610e41c7e70c07e09"
+hash = "b5f68367ad6b9545e0724c79bb1217595447bac550c930e2d75831205d1814af"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk.json"
@@ -966,7 +958,7 @@ hash = "d72f2b4cb0e672419d7f8200f00d38f1a463e295cb08baaaa9aeb70cb33cc732"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk_alolan.json"
-hash = "4847d99e3ee97de8ab43db87054ac64ac8e214e22f987cfcef4e71e746e815a9"
+hash = "4b6921a6b8042223381c3073bab567c118bd155c87e74022d1da45dcb7c5b9f8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0090_shellder.json"
@@ -1014,7 +1006,7 @@ hash = "9616a740561298182bfe00a5887da7cfbe571edfc6d56c5af942ef83f2946545"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0100_voltorb_hisuian.json"
-hash = "361847d80102ab459687c89ba995b13452260e5adf56beb154452baa0f403f40"
+hash = "ca18d1bac51520bed84e484bfd2cc57c2b934f56cce9171f9439f25b7f17799a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0101_electrode.json"
@@ -1022,15 +1014,15 @@ hash = "fe62167b5ee6179fa04b58628f1c844bcaadca2311384f82a973348c58b604d6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0101_electrode_hisuian.json"
-hash = "954558eaa1ae19b3df3d03e0c6139a965b71a1d96530d9d3ff6f718af5f250cc"
+hash = "0b104f93a68930ccbbca83c281bf223b7d45192eac2f326748b1e9cacf03299a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0102_exeggcute.json"
 hash = "4e7a68bf555c1fa217ebd5d6fb54e37d60756bffc906952eb01947f7f7c91f8d"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0102_exeggcute_region_bias=alola.json"
-hash = "dea29204043091ff55c3218eee2fc130eff0fcdce80eeefde7e62562cea54df8"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0102_exeggcute_region_bias_alola.json"
+hash = "ee069bb360a914cf7567e3e908aa2197ba567abbdef025f4f44761d15c491e8f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0103_exeggutor.json"
@@ -1038,15 +1030,15 @@ hash = "fa37d3c23e6f3dbd75b5ef82fe12de5a2aa519d18cd0eb80bc58277a56855c8f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0103_exeggutor_alolan.json"
-hash = "e70956b00044a666347604644dc5d5bc536a6e49e4b70c422e57f20a1848f491"
+hash = "20d45b2475619c9300ef0af5a409c4f5d8a65ba1ce1c1eef12e7865c28fe512c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0104_cubone.json"
 hash = "031717260e23d4b20b14e6436eb5ad6fb4fc2b702a24ff0ac0421959f4d38e12"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0104_cubone_region_bias=alola.json"
-hash = "cf8fad2c915eb616bff1a3757cf88ef2b17e7b2940b6b2df8679c77c3bb54d93"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0104_cubone_region_bias_alola.json"
+hash = "3e5cbe4da40677c66bfa2bdf5a03c8171874047d14cba83e4ebdcbf14d512c3a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0105_marowak.json"
@@ -1054,7 +1046,7 @@ hash = "5affa592f660cca81cd7cb63f9544e02d93c6c44678ef840bdf3e9416d98a67c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0105_marowak_alolan.json"
-hash = "7d51c97b6aebff85c1f35a5b84dde6e608f07a4af01385774d2ae95b650c43c2"
+hash = "5980e89d4c8f29f4c020b53b546bb6a5a188ceb57e8f7ef4daa394ffc2bc62cf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0106_hitmonlee.json"
@@ -1073,8 +1065,8 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0109_koffin
 hash = "ea8da7641aca8f829034ac4da858388ce6e6913b9e9cccf35c66ef2c04425278"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0109_koffing_region_bias=galar.json"
-hash = "ded1a84d72b74f50e6da5e8875276bcbf6c285bd4b47c454e78e5511281c01ca"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0109_koffing_region_bias_galar.json"
+hash = "80d7ff4a89e07d835b936f08c1d58a15188ff86766630c6649a32d96f3357f62"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0110_weezing.json"
@@ -1082,7 +1074,7 @@ hash = "064660f7837fdbf7e3c8c55d6cdefbb9df03c3c94e3e1a157946d5f2ff020e19"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0110_weezing_galarian.json"
-hash = "66ff6e5ca0210d9eb784420a030a3bf9011c28caf9d45619d6c24d1866de5918"
+hash = "2d1d0c079f0ad919d95600148e36375535ebf5600e995e6de7a77e86efcad475"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0111_rhyhorn.json"
@@ -1157,144 +1149,144 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros
 hash = "c99e252c7383afa77d897a88d0062eb00555293d9f52dcf92d52e80ff859c3ed"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed=aqua.json"
-hash = "236c2ec4bab9eb5235b8ed6345fcc6143bb7a52ee758f40483daf6f2a0e8bfc6"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed_aqua.json"
+hash = "30246f30e56766784a266f24e7b517d5cea74386b2f88d0a59bc1a768fda6ef5"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed=blaze.json"
-hash = "9cdc93e4c157bc39e2541c7fa3139e8028af7fc9e0a4a6967396e5688d976e09"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed_blaze.json"
+hash = "a849267c97ef75a0e066a7190868a0f173d782f253d28e21cd6010b40ff23f76"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed=combat.json"
-hash = "76472961ace363ffe9ffdee3099a698427af3d0962905a1d147c2b45c4c8bc3e"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0128_tauros_paldean_bull_breed_combat.json"
+hash = "d07eb8dc99d549033825e6f28b40d16c53ee914a33d05e7e8b2e71b04b56feb5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp.json"
 hash = "f3710f848aeae2579bf2efa71a7feefd409b333bffc7359fc570a76b2bf33eb1"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=apricot-stripes.json"
-hash = "e4b27dc46fa615848a5b7e0f4cf75c0a064316a125f46e055007de7d1ed4defa"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_apricot-stripes.json"
+hash = "dd8b02d659b169a48398941ff9a668dbfd3f19019a3fbc767cfc0647c8821eb0"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=apricot-tiger.json"
-hash = "3f935da6acfbe2377b2c3201eacc9d887861afb507cfbf65feb8a2f67185874f"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_apricot-tiger.json"
+hash = "73c7afb3318e4483e2f09e7207f17541a2f1f01c61b9a11d9c4b5e64cf11fc7b"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=apricot-zebra.json"
-hash = "27459464e6ec024cee45ca43742385d3ad9282e1046752c197521024b1f8b79f"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_apricot-zebra.json"
+hash = "88b2ff7f378d082591f99cca887d24784a206c18ed8da04cba3c7821452a7d29"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=black-forehead.json"
-hash = "521e6e0728d9f22fa333aee7c27c16f428ac3b587e17bfb4a4afccdda410207a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_black-forehead.json"
+hash = "dfa85198799c619dc70e4fa17fb95c5d46f653c6a8f6f76de0b9e8fdc2c0133b"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=black-mask.json"
-hash = "dd33e88987006f23b19e967e819f563daa006a5a024f5a6dac713f7027a42f52"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_black-mask.json"
+hash = "7def1f2edb33ea027107906b95b40395726cb7141729b6c7453a08ff543e1e1d"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=blue-raindrops.json"
-hash = "e3ee5871e4acb3ab50c4f264791e0034b6bea3d74e3b5825b897dd0e0659bbc7"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_blue-raindrops.json"
+hash = "22a22b8e3af6ffe1afc53819565b45eb680c375d987d8e12a01a027667d25023"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=blue-saucy.json"
-hash = "15fc3a055dad92c3b835b1dad43294f3135c32df00975aad5f3e5bafcbfe4fd5"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_blue-saucy.json"
+hash = "ed766fb6d947e2e05099ab04ebfd7d69b9f2becd997c06069fba866fe4162275"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=brown-stripes.json"
-hash = "249c0e1ee33685c617582f409a1be006546a8791ad72d9878d23a234eb85632a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_brown-stripes.json"
+hash = "b28831bda6344c4b6c81894d5c814956a32478c126eec995fa98649a2dcfc977"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=brown-tiger.json"
-hash = "a57b83d08ae7ae3256655df7786d526a745017766cb1d2123728a7e590aac361"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_brown-tiger.json"
+hash = "14aa681d866bc49562d245ec02d9c6854e5c6a79d89d458f76c6bf7156c4f47c"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=brown-zebra.json"
-hash = "b5a1e688f6016ada72a74ee7075e07715ccddcf45dca9e4b83f247ce7f5bf6ac"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_brown-zebra.json"
+hash = "198f8180954875fcf5fb217113b547fd7ba762b36ad29dbf22ceaac9f95d7ee8"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=calico-orange-gold.json"
-hash = "d8269e9f5da70b7c479be4d061b0c0cc80c375a0edd6520bbebe15799e127eda"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_calico-orange-gold.json"
+hash = "8d9a295bfd769a9b53ac076a75e7c50d716de3e58e9d5bc78029a89eea27ee03"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=calico-orange-white-black.json"
-hash = "22e701dcac98d536f02af148cb3ef137b8357d1c12f98a10e25fd4308ccb843e"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_calico-orange-white-black.json"
+hash = "10319af949dacd4d0782c3beb5225806255ea53fe1462aac154fea360c3362ae"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=calico-orange-white.json"
-hash = "cb942924f5306457f98cb40b1d85c464ec69be1683fca60eb116544380976110"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_calico-orange-white.json"
+hash = "2d6fffc3b000428d366b8e385c468d6e254001e4690fafb0169b790b21bfa2bc"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=calico-white-orange.json"
-hash = "726e481480f4982f5dc1c25a51fd7526956aff5f296ee279e2ccbb387208f8d2"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_calico-white-orange.json"
+hash = "d27d64d424e5127bd75ac7ce3396cc32931c0c27cbac23543134d099dfb74e26"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=gray-bubbles.json"
-hash = "bd54f1ac5313fbe8436bb7d62c70a953f6200dea259e2528e5d370b1efcd752a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_gray-bubbles.json"
+hash = "e61e11cc8ab7dc3dae313f87db459f88e1197de2b7befeb012508160a1f0bb74"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=gray-diamonds.json"
-hash = "fe006a882391641410bb5a352aa357af9b2678f4cba8b27565a2cc507ff76456"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_gray-diamonds.json"
+hash = "f7e7434908dfca4b94475b9ec2a179a38d5b27e1cc76513013a9d82eefe2203d"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=gray-patches.json"
-hash = "1ae3fbb6495e0de2dca1f164971ddd5360e0fa892804ea6b26cb3fc2db9de98a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_gray-patches.json"
+hash = "fea829c328ff590ed2c2169fd57d71827288289a88460fbb6f7ea3318f6b3ea7"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=orange-dapples.json"
-hash = "171ebff989532720b1e26bfc972fb72bc12e3ae6bea9125a9af2190b85576881"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_orange-dapples.json"
+hash = "71db6db13856f289dd1681fc90eced14b521cf2564d12e67067171b673ba2ec6"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=orange-forehead.json"
-hash = "e34b7d13ddbfd290c538a38f8cc5bd9909043a152ec4bf00a90a604b42609e82"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_orange-forehead.json"
+hash = "f7de4f3e2fc8a888c320d3829c59831e47969f9792fbdab93d4763e19f0b3e75"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=orange-mask.json"
-hash = "12b585ba683515b84a9f317447a4e37c12b99a98144ff928301a55a6342e687f"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_orange-mask.json"
+hash = "702ca165ce376547a0cde94349c2cf0c91993800ad1a037015cf162ea6a4b2ab"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=orange-orca.json"
-hash = "c6f9712bebc857f4919b8f552f4ac9de5a662280a561810db5242102ad755efb"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_orange-orca.json"
+hash = "187183f249b969c763ba1a0ca078b569a1f887bdd4f07f040adfbf725ba01dbd"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=orange-two-tone.json"
-hash = "c046f404a8d84510a8f3bd8789356751ecfb2dbe098821a6204a0b7909eaa807"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_orange-two-tone.json"
+hash = "3d797a8eb415ab1c75190c46dad503aece201d31817632c8fd37a8fb5d6316c5"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=pink-dapples.json"
-hash = "2097423920d59b20f0483bf6844b2c284f4649f809d09cdaa891b2c42a1b4bcd"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_pink-dapples.json"
+hash = "0d8bdfdb11034c223c9b75e820e0a1fbd2d68f8751190344f3199766743941f2"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=pink-orca.json"
-hash = "0fb670fa7272bc32fe7b3b38e72f88f057b6181a950af423767946591ea49709"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_pink-orca.json"
+hash = "cc490429c91694df5822229c99f6923eda3d30a0ab2afffa1f6697e5a55294ed"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=pink-two-tone.json"
-hash = "fb23c9f8ec5521d9bef13835bd8d04bcfcf8b34d318c9d080292a55d3d11ebea"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_pink-two-tone.json"
+hash = "75ad4b7115a7b2fe7311e861e8b794ad7254145bfca7f1ca334a9cedc804f3a2"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=purple-bubbles.json"
-hash = "2b4b1537e5429376f914f50e7f4c8c374214bc7b38c4b36a68c348c96ba7e45c"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_purple-bubbles.json"
+hash = "1cde8ff9fe4382a4a967374d45e78f8d5834dbb442ded2b77ea5a08e141563c3"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=purple-diamonds.json"
-hash = "452f019d0732d801ce1cc43d959bbbbec2efcb1d34c550f47d694a5ed82cbdfe"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_purple-diamonds.json"
+hash = "fbe0fbcd2939251a56da27ef661d882f292c4f32998fbbbdf95f5d15d57051df"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=purple-patches.json"
-hash = "1507c1041611f9bfa0be020b8164bc64388cd28ff771ee5667ea4e4e13ce8691"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_purple-patches.json"
+hash = "b650bcb1449a023c866a1923eded1f4035e7e805a655a81882d35af565512e5d"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=skelly.json"
-hash = "cdc98c01ea1e8e2c45f0e6027d92fed0d72971620079d165c70953d841fdd4e2"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_skelly.json"
+hash = "621072d1cff484a14eee8fbf0dc981bd8aef3a354664c655e4d73d5865e88d23"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=violet-raindrops.json"
-hash = "177a0ddfd902fcda6caafbb84b743220e90955c78a45c1d796ea966018a05692"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_violet-raindrops.json"
+hash = "e3709c6e5490908ca1ffce1d0a381a104cfeea52299af294f310e7fbce11a717"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump=violet-saucy.json"
-hash = "420beca5535ca1982fff109c51de72a0ed76a27b14d6986143fcdc3c445f2a3a"
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0129_magikarp_magikarp_jump_violet-saucy.json"
+hash = "ee2d606f7d030fdf64a450687a3fa1617e94442d0e9ff0c2b19da9319814098d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0130_gyarados.json"
@@ -1385,10 +1377,6 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0241_miltan
 hash = "d7faef64b4bd40479d32ee2f9eb41ca622cd0b78202c2fa6eddfc37e1ad2585d"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0327_spinda.json"
-hash = "704198d0125ff56e7fccc76a258ab312d5a77cffaa7a8607be689a13a768216d"
-
-[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0415_combee.json"
 hash = "a029e72053dbc2fa836fde6ec6819f9e7c487bdbfcf427446e61f7cd8d014983"
 
@@ -1437,14 +1425,6 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0609_chande
 hash = "57093cb2bdfccdadae69f594e8d0160fa32f961891758a4130055c04f82c3278"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0674_pancham.json"
-hash = "ff48d8a1d721a90fc408785bae89c13e925d4dbd41cda7089d1da021cc59bf00"
-
-[[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0675_pangoro.json"
-hash = "3e377d644688caf635379f9e3378b09da90db521f919cdeff4eae22b4203a71c"
-
-[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0831_wooloo.json"
 hash = "388c71ff3fc2948b02e2f048d89e1f54267e808c2d4bc7012769e4a69f029e5a"
 
@@ -1453,12 +1433,8 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0832_dubwoo
 hash = "6690782f0d79b0fa7664374eb2a65c50aea2525ecdfef7a4019313b469e201d9"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0987_fluttermane.json"
-hash = "d115daab54ad7f3e0b18e45da4b8ed60581a24f7f6b3ffd38d2815203a26111a"
-
-[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
-hash = "71bc2b468d4d81ba808a7289a4e073e52a825f6d749497e0148b21250eb7e927"
+hash = "6903f42f566af205d23d7b845531fd1690033289671ea3ad5f823cbaad99cbb8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_deoxys_1.nbt"
@@ -5630,7 +5606,7 @@ hash = "ce5cb4bd2d4e3a3d06461954da7f62543363a03ce025ba5342fb159b2e01a3be"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "bbc8036b284a552faf5936936412eb837b8bd6be9e24114a2e811a3394305f2c"
+hash = "5f4c9909543d737901fddb4b1c88a904f39ae8fbb10ef8b805c64e7fe44888b7"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"

@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "slowpoke galarian-1",
+      "id": "slowpoke-galarian-1",
       "pokemon": "slowpoke galarian",
       "type": "pokemon",
       "bucket": "common",

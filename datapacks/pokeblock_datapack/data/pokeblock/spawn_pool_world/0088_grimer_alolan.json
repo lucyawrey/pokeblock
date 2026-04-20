@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "grimer alolan-1",
+      "id": "grimer-alolan-1",
       "pokemon": "grimer alolan",
       "type": "pokemon",
       "bucket": "uncommon",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "grimer alolan-2",
+      "id": "grimer-alolan-2",
       "pokemon": "grimer alolan",
       "type": "pokemon",
       "bucket": "uncommon",
@@ -36,7 +36,7 @@
       }
     },
     {
-      "id": "grimer alolan-3",
+      "id": "grimer-alolan-3",
       "pokemon": "grimer alolan",
       "type": "pokemon",
       "bucket": "uncommon",

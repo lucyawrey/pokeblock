@@ -33,7 +33,8 @@ const data: any[] = parse(rawData, {
 for (const row of data) {
   const drops: { item: string; chance: string }[] = [];
   for (let i = 1; i <= 20; i++) {
-    const [item, chance] = parseStringSplit(row[`drop${i}`]);
+    const item = (row[`drop${i}`]);
+    const chance = (row[`chance${i}`]);
     if (item) {
       drops.push({ item, chance: chance || "1" });
     }

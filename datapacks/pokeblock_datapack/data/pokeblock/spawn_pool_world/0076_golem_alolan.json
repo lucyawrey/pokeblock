@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "golem alolan-1",
+      "id": "golem-alolan-1",
       "pokemon": "golem alolan",
       "type": "pokemon",
       "bucket": "common",

@@ -142,7 +142,7 @@ for (const row of data) {
     let counter = 1;
     for (const type of pokemon.types) {
       const spawn: any = {
-        id: `${pokemon.pokemon}-${counter++}`,
+        id: `${pokemon.pokemon.replace(/[\s_=]/g, "-")}-${counter++}`,
         pokemon: `${pokemon.pokemon}${pokemon.data ? " " + pokemon.data : ""}`,
         type: "pokemon",
         bucket: pokemon.bucket,
@@ -239,7 +239,7 @@ for (const row of data) {
       spawn_pool.spawns.push(spawn);
     }
     // Write out spawn pool file to datapack
-    const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon.replaceAll(" ", "_")}.json`;
+    const filename = `${outPath}/${pokemon.dex_number.toString().padStart(4, "0")}_${pokemon.pokemon.replace(/[\s_=]/g, "_")}.json`;
     const json = JSON.stringify(spawn_pool, null, 2);
     Bun.write(filename, json);
     console.log(
