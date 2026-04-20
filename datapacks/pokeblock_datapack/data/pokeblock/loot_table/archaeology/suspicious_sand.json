@@ -193,6 +193,16 @@
           "type": "minecraft:item",
           "name": "cobblemon:sky_tumblestone",
           "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:pokerod_smithing_template",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:yellow_apricorn_seed",
+          "weight": 1
         }
       ],
       "rolls": 1

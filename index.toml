@@ -350,7 +350,7 @@ hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/function/load.mcfunction"
-hash = "79af146e289c8181baa60405380284ddcf0b4907f96d37bc2ebd43f2b1be3106"
+hash = "38b09a3a33a8b757bc761bfac6cd8e8a6f386f704d599776e790825ff6515985"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/function/tick.mcfunction"
@@ -358,11 +358,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "0631d8d4a24dbcb834b7d16b94994525119169a966469cfbefb461ab502e6801"
+hash = "42326d3cb880f4c0d3ba5164ae3bdf6131cf177c1beea73467861e3d59db43e3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "85182d6be5fb73dc5115cfe4866aa5b015adfaea748599521325cfd452699f36"
+hash = "45fce7d24ed6b4a59e6b9f883ae7d0f7133df84cac34d82962e2c56dea258d8e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"
@@ -370,11 +370,11 @@ hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/junk.json"
-hash = "ce9c72c58200767bcaaa80a5b340f2cd596824e63b990f8190b9200cfbdb923d"
+hash = "7f8015d8b6a34a3cab5774c234f084c774f9970ca5ed9536fa6052c9bc994826"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/treasure.json"
-hash = "4ba3a34a90561a2e4eb3843737bed6f59072b4c0c86b53f0a706f70256f9acff"
+hash = "cdeacd2292a525cf4d18d32d2ad69e986732f022755129f9fc604ec219dff4eb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_wing.json"
@@ -414,6 +414,10 @@ hash = "55450d3eee649df48f530da89a40f4bdf4b718a965d11ba2bd3237b284295abc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
+hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/mycelium_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
 [[files]]

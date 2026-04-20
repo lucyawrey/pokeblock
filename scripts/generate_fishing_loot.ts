@@ -43,7 +43,7 @@ const vanillaJunk = [
       },
     ],
     name: "minecraft:fishing_rod",
-    weight: 1,
+    weight: 0.3,
   },
 ];
 
