@@ -28,8 +28,8 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 
 # Development
 ## Generate Data and Serve Development Server
-```
-bun run scripts/generate_pokemon_spawns.ts && bun run scripts/generate_pokemon_drops && bun run scripts/generate_archaeology_loot.ts && packwiz refresh && packwiz serve
+```sh
+bun run --cwd scripts generate && packwiz refresh && packwiz serve
 ```
 
 ## MultiMC Pre-launch Command
