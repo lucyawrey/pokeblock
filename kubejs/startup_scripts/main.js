@@ -29,8 +29,8 @@ StartupEvents.registry("block", (event) => {
     .tagBlock("minecraft:mineable/pickaxe")
     .randomTick((event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
-      const { block, server, player } = event;
-      if (Math.random() < 0.035) {
+      const { block, server } = event;
+      if (Math.random() < 0.9) {
         server.runCommandSilent(
           // TODO adjust explosion power to meteor size.
           `summon fireball ${block.x} ${block.y + 60} ${block.z} {ExplosionPower:11,Motion:[0.0,-1.5,0.0]}`,
@@ -49,7 +49,9 @@ StartupEvents.registry("block", (event) => {
           server.runCommandSilent(
             `place template ${structure} ${block.x - 6} ${block.y - 3} ${block.z - 6}`,
           );
-          player.tell(`§4§lA meteor has fallen.`);
+          server.players.forEach((player) => {
+            player.tell("§4§lA meteor has fallen!");
+          });
         });
       }
     });
