@@ -4,7 +4,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 ## Modpack Features
 - Start on a classic Skyblock island with only a block of ice, a lava bucket, and a single apricorn tree
 - ...plus the tools of a trainer: a starter Pokémon, a Pokédex, a Pokénav, and a Trainer Card.
-- All 1025 Pokémon! Some Legendary Pokémon are not obtainable without cheats at the moment.
+- All 1025 Pokémon! Many Legendary Pokémon are not mot yet obtainable however obtainable without cheats at the moment.
 - Multiplayer support! Each player can either create their own Skyblock island, or share one with a team of players.
 - Completely redone spawning rules for all Pokémon. Build regular Pokémon a habitat using certain blocks to attract them to your island.
 - Most Legendary Pokémon fully implimented. You will need to build them custom multiblock shrines and offer up special items in order to summon them to your island and catch them!
@@ -16,6 +16,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Lore to uncover about why exactly you find yourself floating in a sea of nothingness.
 - Summon villagers to your island with a bell, an empty bed, and a water source. Trade with them using a new currency: Cobbledollars.
 - Building high up makes it start to snow, building low shows that something is wrong...
+- Rebalanced fishing loot.
 
 ## Credits
 - Cobblemon

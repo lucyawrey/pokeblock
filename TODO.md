@@ -1,13 +1,14 @@
 # Pokéblock Todo
 ## Normal Priority
 - [ ] Update spawn table.
-    - [ ] Add support for fishing rarity it spawns.
+    - [ ] Add support for fishing rarity in spawns.
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Configure non-fossil cobblemon archaeology loot.
 - [ ] Increase wandering trader spawn rate.
 - [ ] Improve Wild Loot mod.
 - Mycelium + Podzol recipes
 - [ ] Drop table
+    - Finish updatig drop table and script to support seperate drop and chance columns
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - Furniture
     - Rebalance trash bin recipe and result from lets do furniture.

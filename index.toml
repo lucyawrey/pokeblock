@@ -1458,7 +1458,7 @@ hash = "d115daab54ad7f3e0b18e45da4b8ed60581a24f7f6b3ffd38d2815203a26111a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
-hash = "6903f42f566af205d23d7b845531fd1690033289671ea3ad5f823cbaad99cbb8"
+hash = "71bc2b468d4d81ba808a7289a4e073e52a825f6d749497e0148b21250eb7e927"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_deoxys_1.nbt"
@@ -5630,7 +5630,7 @@ hash = "ce5cb4bd2d4e3a3d06461954da7f62543363a03ce025ba5342fb159b2e01a3be"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "a4d1347dd26b7be4d8a3bdcf6bef4b00322ad0096661c0481618d01867602c50"
+hash = "bbc8036b284a552faf5936936412eb837b8bd6be9e24114a2e811a3394305f2c"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
