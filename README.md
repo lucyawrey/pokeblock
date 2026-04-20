@@ -16,7 +16,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Lore to uncover about why exactly you find yourself floating in a sea of nothingness.
 - Summon villagers to your island with a bell, an empty bed, and a water source. Trade with them using a new currency: Cobbledollars.
 - Building high up makes it start to snow, building low shows that something is wrong...
-- Rebalanced fishing loot.
+- Rebalanced fishing loot. Junk and treasure are more common, new items and jungle exclusive items in the pool reguardless of biome.
 
 ## Credits
 - Cobblemon

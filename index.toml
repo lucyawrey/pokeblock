@@ -498,7 +498,7 @@ hash = "b467c7fb9a4f38750a437286794ca6b7b13d24a76cbbb3add6bb51080707cb6d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0016_pidgey.json"
-hash = "a76c393aad70a343f92746047d527dafe2305b06355547938ac15f59f2c1d79e"
+hash = "3935d396066d97e5f1df2bc6d4d6e8e9b972c3a76ed54b250ea15ad5a7dfa798"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0017_pidgeotto.json"
@@ -1378,11 +1378,11 @@ hash = "d7faef64b4bd40479d32ee2f9eb41ca622cd0b78202c2fa6eddfc37e1ad2585d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0415_combee.json"
-hash = "a029e72053dbc2fa836fde6ec6819f9e7c487bdbfcf427446e61f7cd8d014983"
+hash = "7aa179d5eed77868da70bb53b4ffe3278092a2459046cacb88dbc9502e0866e7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0416_vespiquen.json"
-hash = "bd9985458778a1c2d346fe1204967cbf8ef9b519815b490a2a6a741e8e6e0cda"
+hash = "6dfa08f7d2c0fe8fc98ba6f0e2e32b976a0e5be77a0641bc6040e0531e9c1e5c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0474_porygonz.json"

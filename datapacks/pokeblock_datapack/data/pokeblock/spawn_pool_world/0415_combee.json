@@ -18,7 +18,6 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "timeRange": "day",
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
