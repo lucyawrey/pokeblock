@@ -370,7 +370,7 @@ hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/junk.json"
-hash = "7f8015d8b6a34a3cab5774c234f084c774f9970ca5ed9536fa6052c9bc994826"
+hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/treasure.json"
@@ -417,8 +417,8 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/gr
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/mycelium_block.json"
-hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/mycelium.json"
+hash = "ed3ae77edaa07067671f2bd9a46df2f7bbff6f5b31746bc1f6addb2981b9d17e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/crimsite.json"
@@ -5622,7 +5622,11 @@ hash = "ce5cb4bd2d4e3a3d06461954da7f62543363a03ce025ba5342fb159b2e01a3be"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "5f4c9909543d737901fddb4b1c88a904f39ae8fbb10ef8b805c64e7fe44888b7"
+hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
+
+[[files]]
+file = "kubejs/server_scripts/villagers.js"
+hash = "176af5f4d2ccc897d85feeefdce56ecd4aa29868ffa802528cc357f3d9498eff"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
