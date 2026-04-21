@@ -358,7 +358,7 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "42326d3cb880f4c0d3ba5164ae3bdf6131cf177c1beea73467861e3d59db43e3"
+hash = "bf79ddf2fca7be8ec65d278f7ed48f6f62d411ab3fe04b16fcbbc7522ade7961"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
@@ -866,11 +866,11 @@ hash = "7fc13394ec671f64bc3ac9ae53f7b19679b832c9f7575c4c99ea88ca9548bb73"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0072_tentacool.json"
-hash = "0a7e93913cf63fc7a5674b7f1854ae32068a0e45c6eef0f141eb3d5bc3043eff"
+hash = "28c85e4aaab73abde90bea321c89b4de65b888e87bdcd0aa29b712b628431ac1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0073_tentacruel.json"
-hash = "89458286a3ca5bda5b84ab760ac68aab6a801f99333f8edd12c7dbf947651cb3"
+hash = "4021729993fabd84a9836b8c89ca2b879dd1c0385c61fe630c51e733c4a0ec7a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0074_geodude.json"
@@ -958,19 +958,19 @@ hash = "fbab8c40bea6f60f2f45f924a18ae5a3a5d8223b09c09cfc6338db5569dab41b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0087_dewgong.json"
-hash = "8b35d7270dda01e7379158acf3a077aa693def3aabfc24980f3b7d2b5d489949"
+hash = "05bbe95d2f0d07075ba924b5ab8747dbe8c40827f73afe9157d19344049b0047"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer.json"
-hash = "652bb7c3cd9a93977ffce903a985eb9273a2edd8eaa23d16f086ebb500e61dc7"
+hash = "26be051b3877dde84a62ff663f0e2f9b523ec13d1b56f21ad5d0b012f2e5dffb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer_alolan.json"
-hash = "b5f68367ad6b9545e0724c79bb1217595447bac550c930e2d75831205d1814af"
+hash = "5cf7dfdb8103f69e849f90fa799f8c99829893af0c76800b5fc8d6f9061461f9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk.json"
-hash = "d72f2b4cb0e672419d7f8200f00d38f1a463e295cb08baaaa9aeb70cb33cc732"
+hash = "6eb86ac66b626c47effafb9fb6442e62519be92579c5288658ec6048709598a6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk_alolan.json"
@@ -1306,11 +1306,11 @@ hash = "ee2d606f7d030fdf64a450687a3fa1617e94442d0e9ff0c2b19da9319814098d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0130_gyarados.json"
-hash = "30ef5953c924412e60bced14935d662e0fddee477e78953e9ebfef8e947fab58"
+hash = "c6b59c138f90e96735c098fa1bd924694a7e7247c8e9fcf27a5154b41733feb5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0131_lapras.json"
-hash = "9e868810ff93f1844db6dfd995f9d0029e0e47071edafbce83a392abc31f594a"
+hash = "4ca756673b57fd650025f18b72d436086daba927a89bc9f498678e03de814c67"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0132_ditto.json"
@@ -1362,11 +1362,11 @@ hash = "819dda2d800a2d59fadb997a2c1097524a0802eb891a7de3b3371e0d2af2c194"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0147_dratini.json"
-hash = "bf76bde80104c4871e4c655fd024d5d049573e8e64b125f963e01f0f646f54cb"
+hash = "67b71c68a27dbc8d62cd41d06557f0966a819aa3e74f34c10f400952e949b126"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0148_dragonair.json"
-hash = "0e361a697d3e63b9fe22b0e9c550d8dd3db8047e55632d37dba9da4abd0c88f4"
+hash = "1452f111d02eccd9f6bb4ed189809fd691a6c6d5a799bd65d88b7ac8bd6563ed"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0149_dragonite.json"
@@ -5626,7 +5626,7 @@ hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
-hash = "1c39923f2a3171b493222558b9cb447d03b51b5d77dd8f301794804c81526fbe"
+hash = "15c0291229662ff172bc0a1143960dcfe1d3f6fad75d5618ed44242da7609b86"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"

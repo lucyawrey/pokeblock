@@ -18,7 +18,12 @@
         ],
         "minLight": 0,
         "maxLight": 7,
-        "canSeeSky": true
+        "canSeeSky": true,
+        "neededNearbyBlocks": [
+          "minecraft:seagrass",
+          "minecraft:kelp",
+          "#cobblemon:gemstones"
+        ]
       }
     },
     {

@@ -223,6 +223,7 @@ for (const row of data) {
       if (
         pokemon.neededNearbyBlocks.length > 0 &&
         (type === "ground" ||
+          type === "surf" ||
           type === "dive" ||
           type === "treetop" ||
           type === "cave")

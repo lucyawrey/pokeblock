@@ -7,12 +7,15 @@
     - Non-fossil cobblemon loot.
 - [ ] Villager and wandering trader spawn system.
     - [ ] Better spawn positioning.
-    - [ ] Spawn trader with llama and despawn them automatically as a group later.
-    - [ ] Check for blocks and entities near bell/bed not player.
+    - [ ] Spawn trader with partner pokemon.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script
     - [ ] Spawn generation script
 - [ ] Improve Wild Loot mod.
+    - [ ] Allow Pokébasket to drop itself. Block loot table?
+    - [ ] Handle ground drops myself.
+    - [ ] Handle percentage chance drops.
+    - [ ] Loop through all drops.
 - [ ] Drop table
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - Furniture
@@ -74,7 +77,22 @@
     - [ ] Comment on strange non-pokemon fish.
 - [ ] Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
 
-# Important Drops
+## Flavour Text
+- Summon Items
+
+## Lore Books/Tablets
+- Starting Chest
+- Nether Chest (Under Soul Sand)
+- Archaeology loot (probably gravel only)
+- Fishing loot (treasure)
+- Meteor (specific meteor with hidden chest in center)
+- Any Summoning (first time only)
+- Lugia Summoning (first time only)
+- Wandering trader
+
+## Important Drops
+- Auspiscious and Malicious Armor Recipes
+- Green, Pink, and White apricorn seeds. 
 - Max mushrooms (pokemon, red mushroom colonies)
 - Saplings
 - Kelp

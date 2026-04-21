@@ -17,7 +17,14 @@
           "minecraft:overworld"
         ],
         "minSkyLight": 8,
-        "maxSkyLight": 15
+        "maxSkyLight": 15,
+        "neededNearbyBlocks": [
+          "minecraft:ice",
+          "minecraft:packed_ice",
+          "minecraft:blue_ice",
+          "minecraft:seagrass",
+          "minecraft:kelp"
+        ]
       }
     },
     {

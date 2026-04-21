@@ -12,7 +12,11 @@
       "level": "38-50",
       "spawnablePositionType": "surface",
       "condition": {
-        "fluid": "#minecraft:water"
+        "fluid": "#minecraft:water",
+        "neededNearbyBlocks": [
+          "minecraft:water",
+          "furniture:bin"
+        ]
       }
     },
     {
