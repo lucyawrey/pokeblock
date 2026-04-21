@@ -5626,7 +5626,7 @@ hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
-hash = "83003c8467b4ff3a1bb9f0ed41dced055da05f650fb43a8e9b110bd8f816894b"
+hash = "4c9775af0327860a0a87b0249cde54aca07322ae09b49be267f4403ffe53de68"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
@@ -5634,7 +5634,7 @@ hash = "1d21c1c8f9a2a0f18e3973a1b61d83960a743434cc3e133834fd87a97700f0cf"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "92521de7c9fc4119edc8c4275fe7fec1d8493df6d97e181def3550bf494cb581"
+hash = "149fed21ab74499922c3b9b93cb8ef172a7fab646d75221c0d5a957ceda2a6aa"
 
 [[files]]
 file = "mods/accessories.pw.toml"

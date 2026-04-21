@@ -12,20 +12,6 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
           ? "The village is ready for guests."
           : "No one will come without water and a place to sleep.";
   player.tell(message);
-
-  // if (false) {
-  //   if (Math.random() < 0.2) {
-  //     let entity = level.createEntity("minecraft:villager");
-  //     // TODO random nearby grounded position.
-  //     entity.setPosition(block.x, block.y, block.z);
-  //     entity.spawn();
-  //     player.tell("Someone new has appeared!");
-  //   } else {
-  //     player.tell("But nobody came.");
-  //   }
-  // } else {
-  //   player.tell("No one will come without water and a place to sleep.");
-  // }
 });
 
 /**
@@ -39,12 +25,12 @@ function villageCheck(player, level, blockRadius) {
   let villagers = 0;
   let traders = 0;
 
-  const minX = player.x - blockRadius;
-  const minY = player.y - blockRadius;
-  const minZ = player.z - blockRadius;
-  const maxX = player.x + blockRadius;
-  const maxY = player.y + blockRadius;
-  const maxZ = player.z + blockRadius;
+  let minX = player.x - blockRadius;
+  let minY = player.y - blockRadius;
+  let minZ = player.z - blockRadius;
+  let maxX = player.x + blockRadius;
+  let maxY = player.y + blockRadius;
+  let maxZ = player.z + blockRadius;
   for (let x = minX; x <= maxX; x++) {
     for (let y = minY; y <= maxY; y++) {
       for (let z = minZ; z <= maxZ; z++) {
@@ -62,9 +48,21 @@ function villageCheck(player, level, blockRadius) {
     }
   }
 
+  // let entities = player.level.getEntitiesWithin(
+  //   player.boundingBox.inflate(blockRadius),
+  // );
+  // entities.forEach((entity) => {
+  //   if (entity.type === "minecraft:villager") {
+  //     villagers++;
+  //   }
+  //   if (entity.type === "minecraft:wandering_trader") {
+  //     traders++;
+  //   }
+  // });
+
   if (water > 3 && bells > 0 && beds > 0) {
-    const spawnVillagers = beds > villagers;
-    const spawnTraders = traders === 0;
+    let spawnVillagers = beds > villagers;
+    let spawnTraders = traders === 0;
     return spawnVillagers && spawnTraders
       ? "all"
       : spawnVillagers
@@ -76,15 +74,50 @@ function villageCheck(player, level, blockRadius) {
   return "none";
 }
 
-// 10 minutes
-const period = 1 * 60 * 1000;
+// 12 minutes
+const period = 0.2 * 60 * 1000;
 
 ServerEvents.loaded((event) => {
   function spawnVillagerTask(callback) {
     event.server.schedule(period, spawnVillagerTask);
     event.server.players.forEach((player) => {
-      player.tell("Attempting to spawn a villager!");
+      player.tell("Running task.");
+      let level = player.level;
+      /** @type {"none" | "traders" | "villagers" | "all"} */
+      let check = "none";
+
+      let entityId = undefined;
+      if (Math.random() < 0.5) {
+        check = villageCheck(player, level, 16);
+        player.tell("check: " + check);
+        if (check === "all" || check === "villagers") {
+          entityId = "minecraft:villager";
+        }
+      }
+
+      if (!entityId && Math.random() < 0.3) {
+        check = check || villageCheck(player, level, 16);
+        player.tell("check: " + check);
+        if (check === "all" || check == "traders") {
+          entityId = "minecraft:wandering_trader";
+        }
+      }
+
+      player.tell("id: " + entityId);
+      if (entityId) {
+        let entity = level.createEntity(entityId);
+        entity.setPosition(
+          player.x + randomInt(-5, 5),
+          player.y,
+          player.z + randomInt(-5, 5),
+        );
+        entity.spawn();
+      }
     });
   }
   event.server.schedule(period, spawnVillagerTask);
 });
+
+function randomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
