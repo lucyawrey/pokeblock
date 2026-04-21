@@ -2,7 +2,7 @@
 BlockEvents.rightClicked("minecraft:bell", (event) => {
   const { player, level } = event;
 
-  const res = villageCheck(player, level, 16);
+  const res = villageCheck(player, level, 32);
   const message =
     res === "all"
       ? "The village is ready for guests and new members."
@@ -10,12 +10,14 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
         ? "The village is ready for new members."
         : res === "traders"
           ? "The village is ready for guests."
-          : "No one will come without water and a place to sleep.";
+          : res === "none"
+            ? "There are plenty of people already."
+            : "No one will come without water and a place to sleep.";
   player.tell(message);
 });
 
 /**
- * @return {"none" | "traders" | "villagers" | "all"}
+ * @return {"invalid" | "none" | "traders" | "villagers" | "all"}
  */
 function villageCheck(player, level, blockRadius) {
   let water = 0;
@@ -47,18 +49,19 @@ function villageCheck(player, level, blockRadius) {
       }
     }
   }
+  beds /= 2;
 
-  // let entities = player.level.getEntitiesWithin(
-  //   player.boundingBox.inflate(blockRadius),
-  // );
-  // entities.forEach((entity) => {
-  //   if (entity.type === "minecraft:villager") {
-  //     villagers++;
-  //   }
-  //   if (entity.type === "minecraft:wandering_trader") {
-  //     traders++;
-  //   }
-  // });
+  let entities = player.level.getEntitiesWithin(
+    player.boundingBox.inflate(blockRadius * 1.5),
+  );
+  entities.forEach((entity) => {
+    if (entity.type === "minecraft:villager") {
+      villagers++;
+    }
+    if (entity.type === "minecraft:wandering_trader") {
+      traders++;
+    }
+  });
 
   if (water > 3 && bells > 0 && beds > 0) {
     let spawnVillagers = beds > villagers;
@@ -71,39 +74,35 @@ function villageCheck(player, level, blockRadius) {
           ? "traders"
           : "none";
   }
-  return "none";
+  return "invalid";
 }
 
 // 12 minutes
-const period = 0.2 * 60 * 1000;
+const period = 12 * 60 * 1000;
 
 ServerEvents.loaded((event) => {
   function spawnVillagerTask(callback) {
     event.server.schedule(period, spawnVillagerTask);
     event.server.players.forEach((player) => {
-      player.tell("Running task.");
       let level = player.level;
-      /** @type {"none" | "traders" | "villagers" | "all"} */
-      let check = "none";
+      /** @type {"invalid" | "none" | "traders" | "villagers" | "all"} */
+      let check = "invalid";
 
       let entityId = undefined;
       if (Math.random() < 0.5) {
-        check = villageCheck(player, level, 16);
-        player.tell("check: " + check);
+        check = villageCheck(player, level, 32);
         if (check === "all" || check === "villagers") {
           entityId = "minecraft:villager";
         }
       }
 
       if (!entityId && Math.random() < 0.3) {
-        check = check || villageCheck(player, level, 16);
-        player.tell("check: " + check);
+        check = check || villageCheck(player, level, 32);
         if (check === "all" || check == "traders") {
           entityId = "minecraft:wandering_trader";
         }
       }
 
-      player.tell("id: " + entityId);
       if (entityId) {
         let entity = level.createEntity(entityId);
         entity.setPosition(
@@ -112,6 +111,11 @@ ServerEvents.loaded((event) => {
           player.z + randomInt(-5, 5),
         );
         entity.spawn();
+        let message =
+          entityId === "minecraft:wandering_trader"
+            ? "A wandering trader has arrived."
+            : "A new villager has joined your island.";
+        player.tell(message);
       }
     });
   }

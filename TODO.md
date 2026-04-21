@@ -5,15 +5,15 @@
 - Archaeology loot.
     - Weights
     - Non-fossil cobblemon loot.
-- [ ] Update fishing loot tables with weights.
-- [ ] Increase wandering trader spawn rate.
+- [ ] Villager and wandering trader spawn system.
+    - [ ] Better spawn positioning.
+    - [ ] Spawn trader with llama and despawn them automatically as a group later.
+    - [ ] Check for blocks and entities near bell/bed not player.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script
     - [ ] Spawn generation script
 - [ ] Improve Wild Loot mod.
-- Mycelium + Podzol recipes
 - [ ] Drop table
-    - Finish updatig drop table and script to support seperate drop and chance columns
     - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - Furniture
     - Rebalance trash bin recipe and result from lets do furniture.

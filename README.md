@@ -14,7 +14,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Renewable archeology blocks with intact loot waiting to be unearthed. Your cobblestone generators have a chance to produce suspicious cobblestone that can be crushed with a hammer or millstone into suspicious gravel or sand,
 - Craft a special meteor beacon and pull down a meteor from space to harvest rare materials from. This will be the key to mega evolving Pokémon and perhaps finding a way to summon a certain mysterious Pokémon.
 - Lore to uncover about why exactly you find yourself floating in a sea of nothingness.
-- Summon villagers to your island with a bell, an empty bed, and a water source. Trade with them using a new currency: Cobbledollars.
+- Attract villagers and wandering traders to your island with a bell, a couple beds, and a water source within close proximity. Trade with them using a new currency: Cobbledollars.
 - Building high up makes it start to snow, building low shows that something is wrong...
 - Rebalanced fishing loot. Junk and treasure are more common, new items and jungle exclusive items in the pool reguardless of biome.
 
