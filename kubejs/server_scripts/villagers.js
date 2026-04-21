@@ -60,7 +60,8 @@ function villageCheck(player, level, blockRadius) {
       }
     }
   }
-  beds /= 2;
+  beds = beds / 3;
+  player.tell(beds);
 
   let entities = player.level.getEntitiesWithin(
     player.boundingBox.inflate(blockRadius),
@@ -119,16 +120,19 @@ ServerEvents.loaded((event) => {
         }
       }
 
-      if (entityId === "minecraft:wandering_trader") {
+      if (entityId) {
+        let message =
+          entityId === "minecraft:wandering_trader"
+            ? "A wandering trader has arrived."
+            : "A new villager has joined your island.";
+        let data =
+          entityId === "minecraft:wandering_trader"
+            ? ` {DespawnDelay:36000}`
+            : "";
         event.server.runCommandSilent(
-          `summon minecraft:wandering_trader ${bell.x + randomInt(-4, 4)} ${bell.y} ${bell.z + randomInt(-4, 4)} {DespawnDelay:36000}`,
+          `summon ${entityId} ${bell.x} ${bell.y} ${bell.z}${data}`,
         );
-        player.tell("A wandering trader has arrived.");
-      } else if (entityId === "minecraft:villager") {
-        event.server.runCommandSilent(
-          `summon minecraft:villager ${bell.x + randomInt(-4, 4)} ${bell.y} ${bell.z + randomInt(-4, 4)}`,
-        );
-        player.tell("A new villager has joined your island.");
+        player.tell(message);
       }
     });
   }

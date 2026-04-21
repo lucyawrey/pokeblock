@@ -6,8 +6,6 @@
     - Weights
     - Non-fossil cobblemon loot.
 - [ ] Villager and wandering trader spawn system.
-    - [ ] Better spawn positioning.
-    - [ ] Spawn trader with partner pokemon.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script
     - [ ] Spawn generation script
@@ -110,6 +108,7 @@
 - [ ] Lugia Pedestal
 
 ## Low Priority
+- [ ] Spawn traders and villagers with partner pokemon.
 - [ ] Install and setup FancyMenu for custom home menu and loading screen.
 - [ ] Rename pack to Cobbleblock.
 - [ ] Remove ancient Pokéball Create recipes.
