@@ -1,5 +1,5 @@
 // Cooldown
-const bellCooldownTime = 1000;
+let bellCooldownTime = 1000;
 let bellLastClickTime = Date.now();
 
 // Villager summoning mechanic
@@ -10,10 +10,10 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
   }
   bellLastClickTime = Date.now();
 
-  const { player, level, server } = event;
+  let { player, level, server } = event;
   server.schedule(10, () => {
-    const [res, _] = villageCheck(player, level, 32);
-    const message =
+    let [res, _] = villageCheck(player, level, 32);
+    let message =
       res === "all"
         ? "The village is ready for guests and new members."
         : res === "villagers"
@@ -31,8 +31,31 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
  * @param {{x: number, y: number, z: number}} vec
  * @returns {{x: number, y: number, z: number} | undefined}
  */
-function findSafe(vec) {
-  return vec;
+function findSafe(vec, level) {
+  let minX = vec.x - 4;
+  let minY = vec.y - 4;
+  let minZ = vec.z - 4;
+  let maxX = vec.x + 4;
+  let maxY = vec.y + 2;
+  let maxZ = vec.z + 4;
+  for (let x = minX; x <= maxX; x++) {
+    for (let y = minY; y <= maxY; y++) {
+      for (let z = minZ; z <= maxZ; z++) {
+        if (level.getBlock(x, y, z).id === "minecraft:air") {
+          let floor = level.getBlock(x, y - 1, z);
+          if (
+            floor.id !== "minecraft:air" &&
+            floor.id !== "minecraft:lava" &&
+            floor.id !== "minecraft:water" &&
+            floor.id !== "minecraft:bell"
+          ) {
+            return { x: x, y: y, z: z };
+          }
+        }
+      }
+    }
+  }
+  return undefined;
 }
 
 /**
@@ -85,7 +108,7 @@ function villageCheck(player, level, blockRadius) {
   if (water > 3 && beds > 0 && bell) {
     let spawnVillagers = beds > villagers;
     let spawnTraders = traders === 0;
-    let safe = findSafe(bell);
+    let safe = findSafe(bell, level);
     if (safe) {
       return [
         spawnVillagers && spawnTraders
@@ -103,7 +126,7 @@ function villageCheck(player, level, blockRadius) {
 }
 
 // 10 minutes
-const period = 10 * 60 * 1000;
+let period = 10 * 60 * 1000;
 
 ServerEvents.loaded((event) => {
   function spawnVillagerTask(callback) {
@@ -140,7 +163,7 @@ ServerEvents.loaded((event) => {
             ? ` {DespawnDelay:36000}`
             : "";
         event.server.runCommandSilent(
-          `summon ${entityId} ${safe.x} ${safe.y} ${safe.z}${data}`,
+          `summon ${entityId} ${safe.x + 0.8} ${safe.y} ${safe.z + 0.8}${data}`,
         );
         player.tell(message);
       }
