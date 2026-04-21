@@ -10,10 +10,22 @@ const targetSand = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13Po
 const gravelSequence = "pokeblock:archaeology/suspicious_gravel";
 const sandSequence = "pokeblock:archaeology/suspicious_sand";
 
+const baseLoot = [
+  {
+    type: "minecraft:loot_table",
+    value: "cobblemon:sets/any_type_gem",
+    weight: 10,
+  },
+];
+
 generateArcheologyLoot(gravelOutPath, targetGravel, gravelSequence);
 generateArcheologyLoot(sandOutPath, targetSand, sandSequence);
 
-async function generateArcheologyLoot(outPath: string, target: string, sequence: string) {
+async function generateArcheologyLoot(
+  outPath: string,
+  target: string,
+  sequence: string,
+) {
   const data: any[] = parse(await pullCsv(target), {
     columns: true,
     skip_empty_lines: true,
@@ -24,7 +36,7 @@ async function generateArcheologyLoot(outPath: string, target: string, sequence:
     pools: [
       {
         bonus_rolls: 0.0,
-        entries: [],
+        entries: structuredClone(baseLoot),
         rolls: 1.0,
       },
     ],

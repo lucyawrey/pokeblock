@@ -358,11 +358,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "60b7856e8e197967221cfa1f1f62aa74e00603e295d61230cd60f1c123ee2fbe"
+hash = "891b35f245740cd3b341237cc6a0f3dd60ee26c9ed7d85a1ca5bf4ac99cb298a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "4b833822d1c4069c877078c64b712af3d414d2366ea2e2dd701bc713d27e1cd7"
+hash = "0105e59a0936549a028c069972d2b4e17872be071c5073f88acb19c522024878"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"

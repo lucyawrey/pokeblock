@@ -5,7 +5,6 @@
 - Archaeology loot.
     - Weights
     - More cobblemon items
-    - Type gems?
 - Add more wandering trader trades.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script
@@ -90,8 +89,8 @@
 - Wandering trader
 
 ## Important Drops
-- Type Gems!
 - Tera Shards (wild loot)
+- More type gem drops
 - Auspiscious and Malicious Armor Recipes
 - Green, Pink, and White apricorn seeds. 
 - Max mushrooms (pokemon, red mushroom colonies)
