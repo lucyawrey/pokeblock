@@ -5,6 +5,7 @@
 - Archaeology loot.
     - Weights
     - Non-fossil cobblemon loot.
+- Add more wandering trader trades.
 - [ ] Villager and wandering trader spawn system.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script

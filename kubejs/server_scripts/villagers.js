@@ -22,10 +22,18 @@ BlockEvents.rightClicked("minecraft:bell", (event) => {
             ? "The village is ready for guests."
             : res === "none"
               ? "There are plenty of people already."
-              : "No one will come without water and a place to sleep.";
+              : "No one will come without water, a place to sleep, and open space around this gathering point.";
     player.tell(message);
   });
 });
+
+/**
+ * @param {{x: number, y: number, z: number}} vec
+ * @returns {{x: number, y: number, z: number} | undefined}
+ */
+function findSafe(vec) {
+  return vec;
+}
 
 /**
  * @return {["invalid" | "none" | "traders" | "villagers" | "all", {x: number, y: number, z: number} | undefined]}
@@ -60,8 +68,7 @@ function villageCheck(player, level, blockRadius) {
       }
     }
   }
-  beds = beds / 3;
-  player.tell(beds);
+  beds = Math.ceil(beds / 3);
 
   let entities = player.level.getEntitiesWithin(
     player.boundingBox.inflate(blockRadius),
@@ -78,16 +85,19 @@ function villageCheck(player, level, blockRadius) {
   if (water > 3 && beds > 0 && bell) {
     let spawnVillagers = beds > villagers;
     let spawnTraders = traders === 0;
-    return [
-      spawnVillagers && spawnTraders
-        ? "all"
-        : spawnVillagers
-          ? "villagers"
-          : spawnTraders
-            ? "traders"
-            : "none",
-      bell,
-    ];
+    let safe = findSafe(bell);
+    if (safe) {
+      return [
+        spawnVillagers && spawnTraders
+          ? "all"
+          : spawnVillagers
+            ? "villagers"
+            : spawnTraders
+              ? "traders"
+              : "none",
+        safe,
+      ];
+    }
   }
   return ["invalid", undefined];
 }
@@ -103,18 +113,18 @@ ServerEvents.loaded((event) => {
       /** @type {"invalid" | "none" | "traders" | "villagers" | "all"} */
       let check = "invalid";
       /** @type {{x: number, y: number, z: number} | undefined}*/
-      let bell = undefined;
+      let safe = undefined;
 
       let entityId = undefined;
       if (Math.random() < 0.5) {
-        [check, bell] = villageCheck(player, level, 32);
+        [check, safe] = villageCheck(player, level, 32);
         if (check === "all" || check === "villagers") {
           entityId = "minecraft:villager";
         }
       }
 
       if (!entityId && Math.random() < 0.3) {
-        [check, bell] = villageCheck(player, level, 32);
+        [check, safe] = villageCheck(player, level, 32);
         if (check === "all" || check == "traders") {
           entityId = "minecraft:wandering_trader";
         }
@@ -130,7 +140,7 @@ ServerEvents.loaded((event) => {
             ? ` {DespawnDelay:36000}`
             : "";
         event.server.runCommandSilent(
-          `summon ${entityId} ${bell.x} ${bell.y} ${bell.z}${data}`,
+          `summon ${entityId} ${safe.x} ${safe.y} ${safe.z}${data}`,
         );
         player.tell(message);
       }

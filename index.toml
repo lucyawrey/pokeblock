@@ -5626,7 +5626,7 @@ hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
-hash = "4f8ab06ecc863649c2c63205d4a9d0452f837100f7109e3c86007f5ec3110b82"
+hash = "2b90c7333a8a2e0792b070a81abb81cf6032c6e2611e039b9af4794caf9af0a8"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
