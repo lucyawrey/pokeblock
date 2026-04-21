@@ -358,11 +358,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "bf79ddf2fca7be8ec65d278f7ed48f6f62d411ab3fe04b16fcbbc7522ade7961"
+hash = "60b7856e8e197967221cfa1f1f62aa74e00603e295d61230cd60f1c123ee2fbe"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "45fce7d24ed6b4a59e6b9f883ae7d0f7133df84cac34d82962e2c56dea258d8e"
+hash = "4b833822d1c4069c877078c64b712af3d414d2366ea2e2dd701bc713d27e1cd7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"
@@ -5626,7 +5626,7 @@ hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
-hash = "b5172c53995fa72449622075907884af03a807aac729c30c39973938f3cfb46e"
+hash = "402953508e1545d7e8fc8ada5d7fe2b6352dc0db4cce6b127eb7e7ba90fe19a0"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"

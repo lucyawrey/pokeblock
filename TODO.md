@@ -4,9 +4,9 @@
     - [ ] Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Archaeology loot.
     - Weights
-    - Non-fossil cobblemon loot.
+    - More cobblemon items
+    - Type gems?
 - Add more wandering trader trades.
-- [ ] Villager and wandering trader spawn system.
 - [ ] Add support for Pokérod fishing weights.
     - [ ] Autofill script
     - [ ] Spawn generation script
@@ -90,6 +90,8 @@
 - Wandering trader
 
 ## Important Drops
+- Type Gems!
+- Tera Shards (wild loot)
 - Auspiscious and Malicious Armor Recipes
 - Green, Pink, and White apricorn seeds. 
 - Max mushrooms (pokemon, red mushroom colonies)
@@ -99,8 +101,6 @@
 - Tree Bark from Create Log Cutting Recipes
 - More organic compost recipes
 - Evo stones from cobblegen (dripstone moon stone)
-- Type gems
-- Tera shards (wild loot)
 
 ## Assets
 - [ ] Wing Item Sprites (Arctic Wing, Charged Wing, Molten Wing)
@@ -109,7 +109,7 @@
 - [ ] Lugia Pedestal
 
 ## Low Priority
-- [ ] Spawn traders and villagers with partner pokemon.
+- [ ] Evaluate KubeJs script performance and reliability (Villager Spawns, Meteors, Legendary Monuments).
 - [ ] Install and setup FancyMenu for custom home menu and loading screen.
 - [ ] Rename pack to Cobbleblock.
 - [ ] Remove ancient Pokéball Create recipes.
@@ -118,6 +118,7 @@
 - [ ] Consider adding a minimap with good default settings (minimap toggle key, minimap not in the way of Battle UI) and the xaeroscobblemon resourcepack.
 - [ ] Add option for users to enable vanilla mob spawning, currently impossible due to the datapack used to disable mob spawning.
 - [ ] Rebuild Wild Loot into Cobblehelpers, an alternative to Cobbleworkers.
+- [ ] Spawn traders and villagers with partner pokemon.
 - [ ] Add End dimensiopn support.
     - Craftable End Portals
     - Disable generation for default end return portal.

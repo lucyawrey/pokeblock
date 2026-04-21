@@ -117,7 +117,7 @@
         {
           "type": "minecraft:item",
           "name": "mega_showdown:mega_meteorid_block",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "minecraft:item",
@@ -166,7 +166,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "cobblemon:icy_rock",
+          "name": "cobblemon:heat_rock",
           "weight": 1
         },
         {
@@ -202,6 +202,66 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:yellow_apricorn_seed",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:mirror_herb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:white_herb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sun_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:charcoal",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:water_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:thunder_stone",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:peat_block",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dragon_fang",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:kings_rock",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:razor_claw",
           "weight": 1
         }
       ],
