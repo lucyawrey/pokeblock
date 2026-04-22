@@ -78,6 +78,31 @@ global.legendaryPokemon = [
       "minecraft:quartz_block": 5,
     },
   },
+  {
+    id: "mew",
+    name: "Mew",
+    level: "70",
+    data: "min_perfect_ivs=3",
+    summonPedestal: "pokeblock:mew_pedestal",
+    newSummonPedestal: true,
+    summonItem: "pokeblock:ancient_fossil",
+    newSummonItem: true,
+    lootItem: undefined,
+    newLootItem: false,
+    required: {
+      "minecraft:diamond_block": 4,
+      "minecraft:amethyst_block": 5,
+      "minecraft:mossy_stone_bricks": 10,
+      "minecraft:mossy_cobblestone": 10,
+      "minecraft:cherry_planks": 10,
+    },
+  },
+];
+
+global.extraItems = [
+  { id: "pokeblock:ancient_fossil_piece" },
+  { id: "pokeblock:ancient_fossil_dust" },
+  { id: "pokeblock:ancient_dna", name: "Ancient DNA" },
 ];
 
 StartupEvents.registry("block", (event) => {
@@ -106,6 +131,12 @@ StartupEvents.registry("item", (event) => {
     }
     if (pokemon.newLootItem && pokemon.lootItem) {
       event.create(pokemon.lootItem).tag("pokeblock:legendary_summon_items");
+    }
+  }
+  for (let item of global.extraItems) {
+    let newItem = event.create(item.id).tag("pokeblock:legendary_summon_items");
+    if (item.name) {
+      newItem.displayName(item.name);
     }
   }
 });

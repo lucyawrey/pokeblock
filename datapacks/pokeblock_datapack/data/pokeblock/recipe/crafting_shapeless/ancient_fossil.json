@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokeblock:ancient_fossil_piece"
+        },
+        {
+            "item": "pokeblock:ancient_fossil_piece"
+        },
+        {
+            "item": "pokeblock:ancient_fossil_piece"
+        },
+        {
+            "item": "pokeblock:ancient_fossil_piece"
+        }
+    ],
+    "result": {
+        "id": "pokeblock:ancient_fossil",
+        "count": 1
+    }
+}

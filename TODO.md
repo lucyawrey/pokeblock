@@ -1,6 +1,10 @@
 # Pokéblock Todo
 
 ## Normal Priority
+- Create custom creative tab and item categories for items added via kubejs.
+- Furniture
+  - Rebalance trash bin recipe and result from lets do furniture.
+  - Remove sofas from lets do furniture or cobblefurnies.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Drop tables.
@@ -9,22 +13,16 @@
 - Add support for Pokérod fishing weights.
   - Autofill script
   - Spawn generation script
-- Furniture
-  - Rebalance trash bin recipe and result from lets do furniture.
-  - Remove sofas from lets do furniture or cobblefurnies.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - Create tera crystal blocks that allow spawning Paradox Pokémon.
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
-  - Better summon wing textures.
-  - Add more legendary Pokémon shrines.
-  - Add more special effects when summoning.
+  - Add more legendary Pokémon.
 - Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - Allow regional forms to evolve in any biome (such as hisuian liligant).
 - Way to get mushrooms including max mushrooms for dynamax.
 - Way to get blank z crystals (maybe just craft them).
 - Create all Pokémon spawning rules.
-- Create custom creative tab and item categories for items added via kubejs and Wild Loot.
 - Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
   - https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - Shadow Pokémon from Shadowed Hearts.
@@ -40,9 +38,6 @@
 - Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
 - Configure CobbleDollars merchant stock
 - More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
-- More interesting and difficult fossil machine recipes to obtain the legendaries Mewtwo, Type: Null and Genesect.
-  - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
-  - Mewtwo: Suspicious Gravel Drop -> Ancient Fossil (Mew Summon Item for Mew Shrine) -> Millstone or Hammer -> Crushed Ancient Fossil -> Camp Stove + Water Bottle -> Ancient DNA + Cloning Catalyst
 - Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
 - Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
@@ -66,7 +61,8 @@
   - Journal entries in island starting chest, in the nether, and in one of the meteorites.
   - Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
   - Comment on strange non-pokemon fish.
-- Update some Pokémon implimented in `pokeblock_datapack/cobblemon/species_additions` with data for walking/swimming/flying status, base scale, and hitboxes.
+- More interesting and difficult fossil machine recipes to obtain Type: Null and Genesect.
+  - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
 
 ## Flavour Text
 - Summon Items
@@ -82,6 +78,7 @@
 - Wandering trader
 
 ## Important Drops
+- Moss Blocks
 - Tera Shards (wild loot)
 - More type gem drops
 - Auspiscious and Malicious Armor Recipes
@@ -99,6 +96,11 @@
 - Orb Item Sprites (Articuno Orb, Zapdos Orb, Moltres Orb)
 - Fragile Ocarina Sprite (see Pokémon 2000)
 - Lugia Pedestal
+- Mew Pedestal
+- Ancient DNA (test tube)
+- Ancient Fossil Dust
+- Ancient Fossil (mew)
+- Ancient Fossil Piece (1/4 ancient fossil)
 
 ## Low Priority
 - Evaluate KubeJs script performance and reliability (Villager Spawns, Meteors, Legendary Monuments).

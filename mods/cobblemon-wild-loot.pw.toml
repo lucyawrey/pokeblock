@@ -1,6 +1,6 @@
 name = "Cobblemon: Wild Loot"
 filename = "CobblemonWildLoot-neoforge-1.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/krPhIQKY/versions/a1b5hKzm/CobblemonWildLoot-neoforge-1.0.4.jar"

@@ -137,6 +137,18 @@ file = "config/skyblockbuilder/world.json5"
 hash = "3a684f77a688bfadfb079d40540b67e976e334e26c026c015d364686a5e746ff"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/cobblemon/fossils/genesect.json"
+hash = "d3efaca1086e636faaa4722d2912af15546b9194cb06161595e763979f28eded"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/cobblemon/fossils/mewtwo.json"
+hash = "f5b84eab1aa8dfd9f74ba4d0ec9178e570ee634ee6bc0a527d3023890788eca4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/cobblemon/fossils/typenull.json"
+hash = "5d117c0fe1e681bbce427a8a02c31a64bffb980fe4688187374bc6a3d12a64e7"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/cobblemon/loot_table/blocks/black_apricorn.json"
 hash = "9eaaf3db774927ccd5a29251e6bc1b0c6dfbc5e27f691448533990dd2890395b"
 
@@ -362,7 +374,7 @@ hash = "bd56b0e865f2dbb7f2350487d6916420f3f3ce37c347c0cb03aa51cadae1faad"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "8e3b4f18db5c586707db0d20a505b326eceb929815528eda93262f771b31cc2c"
+hash = "13ca586043b227652d1df21d83a2c6dcad8fd9ae560e2802d9892606a6c31972"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"
@@ -375,6 +387,10 @@ hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/treasure.json"
 hash = "cdeacd2292a525cf4d18d32d2ad69e986732f022755129f9fc604ec219dff4eb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/campfire_pot/ancient_dna.json"
+hash = "08d74db4e666a27653378281737742cda6a416a73f526104a345a2ff2cdff75d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/arctic_wing.json"
@@ -417,6 +433,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/zapdo
 hash = "55450d3eee649df48f530da89a40f4bdf4b718a965d11ba2bd3237b284295abc"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/ancient_fossil.json"
+hash = "eca7c54cc814c49487a46ce487b409bba936a022bcdd46bc19f661bf4419e141"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
 
@@ -425,12 +445,16 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/my
 hash = "ed3ae77edaa07067671f2bd9a46df2f7bbff6f5b31746bc1f6addb2981b9d17e"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/ancient_fossil_dust.json"
+hash = "516a17d274c8a5d1c6fa1a19164b14916baa794cc227205a1eeb65391b456f95"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/crimsite.json"
 hash = "ac9811b0b9aac8200ca0d4c94d526edb68ac6752c2784509b0441bd51cdae32a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/dripstone_block.json"
-hash = "0b2130a76b18e8ba038f30faf7a873bd33b2ce845c0bbb3b1b7cf76e339cb19b"
+hash = "123d77ac5379a8a4f22de50adfd20e2f4de0596eb50c5e483fc95bdbc3851c85"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/milling/suspicious_gravel.json"
@@ -5634,7 +5658,7 @@ hash = "402953508e1545d7e8fc8ada5d7fe2b6352dc0db4cce6b127eb7e7ba90fe19a0"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "1d21c1c8f9a2a0f18e3973a1b61d83960a743434cc3e133834fd87a97700f0cf"
+hash = "ffa7b7be84881fc085009e9a9cf54227fc9cbae0c6c747980239580243c1bcc3"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -5767,7 +5791,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-wild-loot.pw.toml"
-hash = "5f22497be5ed98d94a82e6e35587b065ef7a29cd00b1c58c2a4296137457acec"
+hash = "287fbb18edee03897467bb60d89704ca27a50b70bfce90dd3338af5642347bde"
 metafile = true
 
 [[files]]

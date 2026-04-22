@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "pokeblock:ancient_fossil_piece"
+        }
+    ],
+    "processing_time": 400,
+    "results": [
+        {
+            "id": "pokeblock:ancient_fossil_dust"
+        }
+    ]
+}

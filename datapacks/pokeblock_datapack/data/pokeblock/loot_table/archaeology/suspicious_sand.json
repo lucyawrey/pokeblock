@@ -161,6 +161,11 @@
         },
         {
           "type": "minecraft:item",
+          "name": "pokeblock:ancient_fossil_piece",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
           "name": "cobblemon:relic_coin_pouch",
           "weight": 1
         },
