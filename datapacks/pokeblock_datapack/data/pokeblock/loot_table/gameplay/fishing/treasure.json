@@ -97,6 +97,11 @@
           "type": "minecraft:item",
           "name": "minecraft:wet_sponge",
           "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:blank_z",
+          "weight": 1
         }
       ],
       "rolls": 1

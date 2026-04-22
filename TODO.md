@@ -1,7 +1,6 @@
 # Pokéblock Todo
 
 ## Normal Priority
-- Create custom creative tab and item categories for items added via kubejs.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Drop tables.
@@ -17,7 +16,6 @@
 - Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - Allow regional forms to evolve in any biome (such as hisuian liligant).
 - Way to get mushrooms including max mushrooms for dynamax.
-- Way to get blank z crystals (maybe just craft them).
 - Create all Pokémon spawning rules.
 - Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
   - https://modrinth.com/resourcepack/rct-trainer-textures-plus

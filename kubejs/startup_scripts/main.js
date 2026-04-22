@@ -56,3 +56,15 @@ StartupEvents.registry("block", (event) => {
       }
     });
 });
+
+// Creative tab
+StartupEvents.registry("creative_mode_tab", (event) => {
+  event
+    .create("pokeblock:pokeblock")
+    .displayName("Pokéblock")
+    .icon(() => "pokeblock:meteor_beacon")
+    .content(() => [
+      "pokeblock:meteor_beacon",
+      "pokeblock:suspicious_cobblestone",
+    ]);
+});

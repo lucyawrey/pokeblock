@@ -386,7 +386,7 @@ hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing/treasure.json"
-hash = "cdeacd2292a525cf4d18d32d2ad69e986732f022755129f9fc604ec219dff4eb"
+hash = "b436f8e858b67b5e74f10003c7132cbc9f4e571e58812679fd967a5bb24ea796"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/campfire_pot/ancient_dna.json"
@@ -5658,11 +5658,11 @@ hash = "2877863338ee64022123eb39f35d469e48cfd9bc0b98ed3248e354e81a0d73b0"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "ffa7b7be84881fc085009e9a9cf54227fc9cbae0c6c747980239580243c1bcc3"
+hash = "03ac4b8414e98b1ce51a1fb7901a2f26526183de0dd0ca6dee502c536b7fee04"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "149fed21ab74499922c3b9b93cb8ef172a7fab646d75221c0d5a957ceda2a6aa"
+hash = "a62c0f32c434facba357b90f00d8b59f8f334e0188661aaa3a74df97fa524393"
 
 [[files]]
 file = "mods/accessories.pw.toml"

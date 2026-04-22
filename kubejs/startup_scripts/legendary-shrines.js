@@ -140,3 +140,23 @@ StartupEvents.registry("item", (event) => {
     }
   }
 });
+
+// Creative tab
+StartupEvents.modifyCreativeTab("pokeblock:pokeblock", (event) => {
+  let lastItem = "pokeblock:meteor_beacon";
+  for (let pokemon of global.legendaryPokemon) {
+    // Optionally create summon item
+    if (pokemon.newSummonItem && pokemon.summonItem) {
+      event.addAfter(lastItem, pokemon.summonItem);
+      lastItem = pokemon.summonItem;
+    }
+    if (pokemon.newLootItem && pokemon.lootItem) {
+      event.addAfter(lastItem, pokemon.lootItem);
+      lastItem = pokemon.lootItem;
+    }
+  }
+  for (let item of global.extraItems) {
+    event.addAfter(lastItem, item.id);
+    lastItem = item.id;
+  }
+});
