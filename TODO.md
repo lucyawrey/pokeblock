@@ -11,14 +11,12 @@
   - Autofill script
   - Spawn generation script
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
-- Create tera crystal blocks that allow spawning Paradox Pokémon.
+- Tera Shard blocks that allow spawning Paradox Pokémon.
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
   - Add more legendary Pokémon.
 - Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
 - Allow regional forms to evolve in any biome (such as hisuian liligant).
-- Way to get mushrooms including max mushrooms for dynamax.
-- Create all Pokémon spawning rules.
 - Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
   - https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - Shadow Pokémon from Shadowed Hearts.
@@ -60,9 +58,6 @@
 - More interesting and difficult fossil machine recipes to obtain Type: Null and Genesect.
   - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
 
-## Flavour Text
-- Summon Items
-
 ## Lore Books/Tablets
 - Starting Chest
 - Nether Chest (Under Soul Sand)
@@ -73,19 +68,23 @@
 - Lugia Summoning (first time only)
 - Wandering trader
 
+## Lore Flavour Text
+- Legendary summon items.
+- Lore books.
+
 ## Important Drops
+- Max Mushrooms (Pokemon, Red Mushroom Colonies, Wandering Trader)
 - Moss Blocks
-- Tera Shards (wild loot)
-- More type gem drops
+- Tera Shards
+- Type Gems
 - Auspiscious and Malicious Armor Recipes
 - Green, Pink, and White apricorn seeds.
-- Max mushrooms (pokemon, red mushroom colonies)
 - Saplings
 - Kelp
 - Ice Block: add to more pokemon drops.
 - Tree Bark from Create Log Cutting Recipes
 - More organic compost recipes
-- Evo stones from cobblegen (dripstone moon stone)
+- Evo stones from cobblegen (dripstone moon stone).
 
 ## Assets
 - Wing Item Sprites (Arctic Wing, Charged Wing, Molten Wing)
