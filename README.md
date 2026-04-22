@@ -11,7 +11,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Unique Skyblock progression featuring the Create mod, new types of cobblestone generators, rebalanced recepes, and rethought Pokémon drops.
 - Pokémon passively drop loot to help you build up your island whetehr they are in the wild, let out of their Pokéball for a while, or roaming free in a pasture. You can automatically collect these drops by crafting a Pokébasket.
 - No hunger interupting your Pokémon adventure. All food items now restore health over time instead.
-- Renewable archeology blocks with intact loot waiting to be unearthed. Your cobblestone generators have a chance to produce suspicious cobblestone that can be crushed with a hammer or millstone into suspicious gravel or sand,
+- Renewable archeology blocks with intact loot waiting to be unearthed. Your cobblestone generators have a chance to produce suspicious cobblestone that can be crushed with a hammer or millstone into suspicious gravel or sand. Brush these newly crushed blocks for all sorts of loot!
 - Craft a special meteor beacon and pull down a meteor from space to harvest rare materials from. This will be the key to mega evolving Pokémon and perhaps finding a way to summon a certain mysterious Pokémon.
 - Lore to uncover about why exactly you find yourself floating in a sea of nothingness.
 - Attract villagers and wandering traders to your island with a bell, a couple beds, and a water source within close proximity. Trade with them using a new currency: Cobbledollars.

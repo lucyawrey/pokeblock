@@ -6,7 +6,6 @@
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Drop tables.
   - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
-- Add more wandering trader trades.
 - Add support for Pokérod fishing weights.
   - Autofill script
   - Spawn generation script

@@ -175,3 +175,43 @@ ServerEvents.loaded((event) => {
 function randomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
+
+// Custom trades
+MoreJS.wandererTrades((event) => {
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:red_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:yellow_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:green_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:blue_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:pink_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:black_apricorn_seed",
+  );
+  event.addTrade(
+    1,
+    Item.of("minecraft:emerald", 4),
+    "cobblemon:white_apricorn_seed",
+  );
+  event.addTrade(1, Item.of("minecraft:emerald", 5), "cobblemon:revival_herb");
+});
