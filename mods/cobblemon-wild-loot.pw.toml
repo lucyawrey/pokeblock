@@ -1,13 +1,13 @@
 name = "Cobblemon: Wild Loot"
-filename = "CobblemonWildLoot-neoforge-1.0.3.jar"
-side = "both"
+filename = "CobblemonWildLoot-neoforge-1.0.4.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/krPhIQKY/versions/FsSUfWOl/CobblemonWildLoot-neoforge-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/krPhIQKY/versions/a1b5hKzm/CobblemonWildLoot-neoforge-1.0.4.jar"
 hash-format = "sha512"
-hash = "a9cfec3d43537302d280af3a0806d118859ad28b09282b696ef53d32038327aced297463c39af99b35acb9278493e460d5ae500eaf3940660b1cd0c302d1038d"
+hash = "108152f80b99de270c06dd6bc0b7a5f69bbad5c6785d390a6e94069b04481ea93edac46215aff0aed8f6adbc2b75bea35678b87ad71289947ab9da3a6291152b"
 
 [update]
 [update.modrinth]
 mod-id = "krPhIQKY"
-version = "FsSUfWOl"
+version = "a1b5hKzm"
