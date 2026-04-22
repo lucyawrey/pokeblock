@@ -1,10 +1,12 @@
 # Pokéblock Todo
 
 ## Normal Priority
+- Pokémon drop tables.
+  - Create script to fill out drop table from existing species data. Crawl this data using a java mod.
+  - Add Tera Shards to most Pokémon loot tables.
+  - Add type gems to most Pokémon loot tables.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-- Drop tables.
-  - Create script to fill out drop table from existing species data. Either modify my drops mod to do this or crawl species and species addition datafiles for it.
 - Add support for Pokérod fishing weights.
   - Autofill script
   - Spawn generation script

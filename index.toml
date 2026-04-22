@@ -54,7 +54,7 @@ hash = "b9aa14a8032e509518bbdf9aebff7a8c94d651accddbabd9b7108989d3a176c1"
 
 [[files]]
 file = "config/mega_showdown/config.json"
-hash = "0bd0b9974b94eb59871c29c70fa55fd6a4d8690362ccdf77b53bc3f1438b8c48"
+hash = "0e5565c73e7a9ca765ab3997a80af7797caca7adcf7888d06501bac3220becc7"
 
 [[files]]
 file = "config/melancholic_hunger.json5"
