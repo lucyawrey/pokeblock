@@ -22,7 +22,9 @@
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "#cobblemon:flowers",
-          "#cobblemon:saccharine_trees"
+          "#cobblemon:saccharine_trees",
+          "minecraft:honey_block",
+          "minecraft:honeycomb_block"
         ]
       }
     }

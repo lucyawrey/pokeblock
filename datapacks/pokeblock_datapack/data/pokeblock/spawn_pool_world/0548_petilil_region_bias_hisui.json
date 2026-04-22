@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "combee-1",
-      "pokemon": "combee",
+      "id": "petilil-region-bias-hisui-1",
+      "pokemon": "petilil region_bias=hisui",
       "type": "pokemon",
       "bucket": "common",
-      "weight": 9.9,
-      "level": "1-24",
+      "weight": 5.7,
+      "level": "3-28",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,10 +21,9 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "#cobblemon:flowers",
-          "#cobblemon:saccharine_trees",
-          "minecraft:honey_block",
-          "minecraft:honeycomb_block"
+          "minecraft:mud",
+          "minecraft:lily_pad",
+          "cobblemon:hearty_grains"
         ]
       }
     }

@@ -1422,11 +1422,11 @@ hash = "d7faef64b4bd40479d32ee2f9eb41ca622cd0b78202c2fa6eddfc37e1ad2585d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0415_combee.json"
-hash = "7aa179d5eed77868da70bb53b4ffe3278092a2459046cacb88dbc9502e0866e7"
+hash = "8d1204e249705a98261ac91c39670d78c5c8973497a6631d07d6b3d5fb73c796"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0416_vespiquen.json"
-hash = "6dfa08f7d2c0fe8fc98ba6f0e2e32b976a0e5be77a0641bc6040e0531e9c1e5c"
+hash = "1b1b017f6258ba9cf3a71202c1d692f75d8e89f11cecce6753f9cf53a314003e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0474_porygonz.json"
@@ -1435,6 +1435,30 @@ hash = "2195cdcb2a569d7cd6dba034d6247b71c099c7c0add09a24df3def2079a7b10b"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0479_rotom.json"
 hash = "46e5225bbc8cce1a671c97848aba1d4eff0839e659d82470aa4f4ddf60a67916"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0546_cottonee.json"
+hash = "6ede186022ab02f4363c2f7e92e914cbb3002d1d6edd28f2037a7d432c584a38"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0547_whimsicott.json"
+hash = "1a4884a60334f3ece226ee30eed951af05aa7223ee621cf0726d46699348d227"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0548_petilil.json"
+hash = "7352dc8f2d193a5fb7822348583955367f9c848c819aa6c969b2fcbb5d9dce20"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0548_petilil_region_bias_hisui.json"
+hash = "4b5cef3df7d259f1b4e28ee8eed07d4f3897457d5ce05c532823a4b9808ce560"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0549_lilligant.json"
+hash = "a02a19a1c68244010bc7161996db474b56a946adb0b45f18189dbf78337bcbad"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0549_lilligant_hisuian.json"
+hash = "914559929fe76d7df1bb042aa3fb5a7d2f83bea64d7d52033d32c35a7d501feb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0590_foongus.json"

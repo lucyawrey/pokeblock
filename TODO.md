@@ -7,6 +7,7 @@
   - Add type gems to most Pokémon loot tables.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
+- Stackable water bottles
 - Add support for Pokérod fishing weights.
   - Autofill script
   - Spawn generation script
