@@ -2,9 +2,6 @@
 
 ## Normal Priority
 - Create custom creative tab and item categories for items added via kubejs.
-- Furniture
-  - Rebalance trash bin recipe and result from lets do furniture.
-  - Remove sofas from lets do furniture or cobblefurnies.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Drop tables.

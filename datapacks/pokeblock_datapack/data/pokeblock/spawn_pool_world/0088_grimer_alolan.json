@@ -20,7 +20,8 @@
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
           "minecraft:water",
-          "furniture:bin"
+          "minecraft:composter",
+          "farmersdelight:organic_compost"
         ]
       }
     },
@@ -57,7 +58,8 @@
         "canSeeSky": true,
         "neededNearbyBlocks": [
           "minecraft:water",
-          "furniture:bin"
+          "minecraft:composter",
+          "farmersdelight:organic_compost"
         ]
       }
     }

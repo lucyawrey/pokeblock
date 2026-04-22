@@ -15,7 +15,8 @@
         "fluid": "#minecraft:water",
         "neededNearbyBlocks": [
           "minecraft:water",
-          "furniture:bin"
+          "minecraft:composter",
+          "farmersdelight:organic_compost"
         ]
       }
     },
@@ -43,7 +44,8 @@
         ],
         "neededNearbyBlocks": [
           "minecraft:water",
-          "furniture:bin"
+          "minecraft:composter",
+          "farmersdelight:organic_compost"
         ]
       }
     }
