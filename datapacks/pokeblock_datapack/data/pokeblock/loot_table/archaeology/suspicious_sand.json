@@ -5,11 +5,6 @@
       "bonus_rolls": 0,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "cobblemon:sets/any_type_gem",
-          "weight": 10
-        },
-        {
           "type": "minecraft:item",
           "name": "minecraft:archer_pottery_sherd",
           "weight": 1
@@ -122,7 +117,12 @@
         {
           "type": "minecraft:item",
           "name": "mega_showdown:mega_meteorid_block",
-          "weight": 2
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mega_showdown:mega_meteorid_radiated_block",
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -267,6 +267,91 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:razor_claw",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:deep_sea_tooth",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:deep_sea_scale",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cactus",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:prism_scale",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fairy_feather",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:charcoal_stick",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:black_augurite",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heart_of_the_sea",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:water_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:electric_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fire_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dragon_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:flying_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ground_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fighting_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:normal_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:fairy_gem",
           "weight": 1
         }
       ],

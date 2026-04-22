@@ -358,11 +358,11 @@ hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
-hash = "891b35f245740cd3b341237cc6a0f3dd60ee26c9ed7d85a1ca5bf4ac99cb298a"
+hash = "bd56b0e865f2dbb7f2350487d6916420f3f3ce37c347c0cb03aa51cadae1faad"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json"
-hash = "0105e59a0936549a028c069972d2b4e17872be071c5073f88acb19c522024878"
+hash = "8e3b4f18db5c586707db0d20a505b326eceb929815528eda93262f771b31cc2c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/gameplay/fishing.json"
@@ -399,6 +399,10 @@ hash = "96c3870ff6cb28212f23a7882b55450394bce8acb9627e76c67db61faf3a4290"
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
 hash = "7bca1e52f03553c3be4982d7991ae0ba0e740356f914a3ca9c64011d2f5213d0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon_radiated.json"
+hash = "afb1137af0dce23da4c8349ea3daf762b85bc12e341adfcea5b2a49fff333e90"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/molten_wing.json"

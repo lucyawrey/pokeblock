@@ -5,11 +5,6 @@
       "bonus_rolls": 0,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "value": "cobblemon:sets/any_type_gem",
-          "weight": 10
-        },
-        {
           "type": "minecraft:item",
           "name": "minecraft:angler_pottery_sherd",
           "weight": 1
@@ -171,6 +166,11 @@
         },
         {
           "type": "minecraft:item",
+          "name": "mega_showdown:mega_meteorid_radiated_block",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
           "name": "cobblemon:old_amber_fossil",
           "weight": 1
         },
@@ -276,6 +276,11 @@
         },
         {
           "type": "minecraft:item",
+          "name": "cobblemon:absorb_bulb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
           "name": "create:raw_zinc",
           "weight": 1
         },
@@ -307,6 +312,51 @@
         {
           "type": "minecraft:item",
           "name": "cobblemon:never_melt_ice",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:dark_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:steel_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ghost_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:rock_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:bug_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:ice_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:psychic_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:grass_gem",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:poison_gem",
           "weight": 1
         }
       ],
