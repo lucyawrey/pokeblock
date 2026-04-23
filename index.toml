@@ -241,10 +241,6 @@ file = "datapacks/pokeblock_datapack/data/cobblemon/recipe/ancient_wing_ball.jso
 hash = "526f3a54b7027ed6f51fbb752a549af989af86aadf96ca2568ec9fe5a663217e"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/cobblemon/recipe/master_ball.json"
-hash = "37e8e2b0816b823565cd7c1d082d50317ef74446ad1ff37bcb81f9c443a1eed8"
-
-[[files]]
 file = "datapacks/pokeblock_datapack/data/cobblemon/species_additions/0420_cherubi.json"
 hash = "c5c073497c5b14f88a2d860a00ad12819ef61bfbe5ccda0c2b5c9df6392e07e6"
 
@@ -10222,6 +10218,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "7f8c5d171c80d36c4115f32e3ef91d63abc1851d90f354796deb0b262789a072"
+metafile = true
+
+[[files]]
+file = "mods/stackablepotions.pw.toml"
+hash = "fdd1b059d59daa27b007f61c1a06a1f111c7b1bef511952106c26caf8744406c"
 metafile = true
 
 [[files]]

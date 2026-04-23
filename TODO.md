@@ -1,23 +1,18 @@
 # Pokéblock Todo
 
 ## Normal Priority
-- Pokémon drop tables.
-  - Create script to fill out drop table from existing species data. Crawl this data using a java mod.
-  - Add Tera Shards to most Pokémon loot tables.
-  - Add type gems to most Pokémon loot tables.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-- Stackable water bottles
-- Add support for Pokérod fishing weights.
-  - Autofill script
-  - Spawn generation script
+  - Add support for Pokérod fishing weights.
+    - Autofill script
+    - Spawn generation script
+- Update drop table.
+  - Modify drop tables to add important drops for progression.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - Tera Shard blocks that allow spawning Paradox Pokémon.
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
   - Add more legendary Pokémon.
-- Add all regional forms to spawn spreadsheet (such as Alolan Vulpix).
-- Allow regional forms to evolve in any biome (such as hisuian liligant).
 - Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
   - https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - Shadow Pokémon from Shadowed Hearts.
@@ -27,11 +22,11 @@
 - Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
 - Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
 - Craftable Elytra.
-- Rename shulker boxes to Apricorn Boxes, replace with new crafting recipe (7 apricorns, 1 psychic eye, 1 chest) with colors!
+- Rename Shulker Boxes and Shells to Apricorn Boxes and Apricorn Casing. Replace with new crafting recipe (7 apricorns (pink/blue), 1 psychic eye).
 - Setup default controls and other core settings
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
-- Configure CobbleDollars merchant stock
+- Configure CobbleDollars merchant stock, CobbleDollars bank.
 - More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
 - Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
@@ -102,8 +97,6 @@
 - Evaluate KubeJs script performance and reliability (Villager Spawns, Meteors, Legendary Monuments).
 - Install and setup FancyMenu for custom home menu and loading screen.
 - Rename pack to Cobbleblock.
-- Remove ancient Pokéball Create recipes.
-- Update Master Ball Create recipe.
 - Changed ores generated from bedrock at deepslate levels to actualy be deepslate ores.
 - Consider adding a minimap with good default settings (minimap toggle key, minimap not in the way of Battle UI) and the xaeroscobblemon resourcepack.
 - Add option for users to enable vanilla mob spawning, currently impossible due to the datapack used to disable mob spawning.

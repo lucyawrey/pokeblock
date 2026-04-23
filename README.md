@@ -17,6 +17,7 @@ An in-development Skyblock modpack focused primarily on Cobblemon, and to a less
 - Attract villagers and wandering traders to your island with a bell, a couple beds, and a water source within close proximity. Trade with them using a new currency: Cobbledollars.
 - Building high up makes it start to snow, building low shows that something is wrong...
 - Rebalanced fishing loot. Junk and treasure are more common, new items and jungle exclusive items in the pool reguardless of biome.
+- Potions and water bottles stack.
 
 ## Credits
 - Cobblemon
