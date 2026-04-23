@@ -1502,39 +1502,39 @@ hash = "6690782f0d79b0fa7664374eb2a65c50aea2525ecdfef7a4019313b469e201d9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0001_bulbasaur.json"
-hash = "e097a7d58391459c8de2fab0702f0d87ca310d572488248ed6c2711b7f54c98c"
+hash = "213c8a905534de3a997b2f97c8eb4544d2ef5785db1c470b2740f8e055e3c9d6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0002_ivysaur.json"
-hash = "d98dc533088c6880c92b6bd5adc5648d3271fc3ea20db4f20b7d2e6db8a4aa9d"
+hash = "c36731b2c6a3692dc2af34292c034fb00c89c0dfa517951cb7e1df1a0d3f877a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0003_venusaur.json"
-hash = "1fc97eecbe175a2d6a79fd6ce79b5ed97016465cbb6d47e1e1d4942d996e5ce2"
+hash = "5326c124ff8e2c6e71fce8ca91a54924325585adf8299cec6605bfc33f3d822f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0004_charmander.json"
-hash = "73e21e0cf1dad0c5986be49bf929ce65bad3135710398ee7ffa0a51346819db9"
+hash = "a858498af662b0e665e3e1e555e00e8814a7a91b2cde0e472385cee50e5f080c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0005_charmeleon.json"
-hash = "feca647e1ab012cdd6b0c8bf7d41ace02fed2dbc602044055bcaee5cd2bc2f86"
+hash = "45e748c354ed6c6c7d798dbff64eaa182794c2496ff816d76f30b2afc0242680"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0006_charizard.json"
-hash = "3d9993010925467305105ae4da88b039f0db1740bf328fe12d8b9033b9fda62a"
+hash = "1ccc8623e963b63da46f7f92845289a59dafde0a84f3454580bb5443848b6514"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0007_squirtle.json"
-hash = "7283816e6d1092ff1e2eba63ed4c595870e7da73fc9264f66a1b390abfe82702"
+hash = "88107885d9ca4a13e7d354d8daf6654a2979cd878c791c5910fda0949b51fd85"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0008_wartortle.json"
-hash = "6ab83a08f86e4b8307e76978d3a11a64e766d52469edc39f1a8f8724c8a58c71"
+hash = "7897ed0aacba4e636bca21042e6512129049be87731fce2a2c184d65b8597c91"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0009_blastoise.json"
-hash = "8b298c075d9efc497e165a5236bb46642dd7e2d96e862e4e2b0bdc4cdc6cdbc3"
+hash = "931af442759bf5441fbcb89a3e9fc71e7be381933bcaa3a6642f4e1d92f187c2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/species_additions/0010_caterpie.json"

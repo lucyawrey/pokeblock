@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:wartortle",
   "drops": {
-    "amount": 4,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:turtle_scute",
@@ -9,6 +9,18 @@
       },
       {
         "item": "cobblemon:mystic_water",
+        "percentage": 10
+      },
+      {
+        "item": "minecraft:sugar_cane",
+        "percentage": 10
+      },
+      {
+        "item": "minecraft:lily_pad",
+        "percentage": 10
+      },
+      {
+        "item": "minecraft:prismarine_shard",
         "percentage": 10
       },
       {

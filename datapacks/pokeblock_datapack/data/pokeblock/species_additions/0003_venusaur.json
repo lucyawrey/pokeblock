@@ -1,14 +1,26 @@
 {
   "target": "cobblemon:venusaur",
   "drops": {
-    "amount": 6,
+    "amount": 9,
     "entries": [
       {
         "item": "minecraft:melon_seeds",
         "quantityRange": "0-3"
       },
       {
+        "item": "minecraft:wheat_seeds",
+        "quantityRange": "0-3"
+      },
+      {
         "item": "cobblemon:miracle_seed",
+        "percentage": 25
+      },
+      {
+        "item": "cobblemon:revival_herb",
+        "percentage": 25
+      },
+      {
+        "item": "cobblemon:vivichoke_seeds",
         "percentage": 25
       },
       {

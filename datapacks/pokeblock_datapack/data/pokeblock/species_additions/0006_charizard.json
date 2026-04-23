@@ -1,10 +1,14 @@
 {
   "target": "cobblemon:charizard",
   "drops": {
-    "amount": 6,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:blaze_powder",
+        "quantityRange": "0-3"
+      },
+      {
+        "item": "minecraft:charcoal",
         "quantityRange": "0-3"
       },
       {
