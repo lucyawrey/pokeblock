@@ -9895,11 +9895,6 @@ hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-safepastures.pw.toml"
-hash = "a8ece9671c4ee2b8793693d5da734c189c561c9410a0a758006f5a568aceaa96"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
 hash = "f4a9d50719c9c95018140732ed7aae4f071dc3317e5c74d6d7b00d7809cbead9"
 metafile = true
