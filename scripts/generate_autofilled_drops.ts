@@ -13,6 +13,7 @@ for (let drop of dropData) {
   let id = drop?.id;
   let entries = drop?.drops?.entries;
   if (dex && id && entries) {
+    injectTypeEntries(entries, drop?.primaryType, drop?.secondaryType);
     let line = `${dex},${id},yes`;
     for (let entry of entries) {
       line += `,${entry?.item?.namespace}:${entry?.item?.path}`;
@@ -34,6 +35,45 @@ for (let drop of dropData) {
     }
     csvLines[dex] = line;
   }
+}
+
+function injectTypeEntries(
+  entries: any,
+  primaryType?: string,
+  secondaryType?: string,
+) {
+  let multi = Boolean(primaryType && secondaryType);
+  if (primaryType) {
+    injectForType(entries, primaryType, multi);
+  }
+  if (secondaryType) {
+    injectForType(entries, secondaryType, multi);
+  }
+}
+
+function injectForType(entries: any[], type: string, multi: boolean) {
+  let gemNamespace = `cobblemon`;
+  let gemPath = `${type}_gem`;
+  let shardNamespace = `mega_showdown`;
+  let shardPath = `${type}_tera_shard`;
+  if (!entries.some((d) => d.item.path === gemPath)) {
+    let drop = {
+      item: {
+        namespace: gemNamespace,
+        path: gemPath,
+      },
+      percentage: multi ? "gem1" : "gem2",
+    };
+    entries.push(drop);
+  }
+  let drop = {
+    item: {
+      namespace: shardNamespace,
+      path: shardPath,
+    },
+    percentage: multi ? "shard1" : "shard2",
+  };
+  entries.push(drop);
 }
 
 Bun.write(outputPath, csvLines.join("\n"));

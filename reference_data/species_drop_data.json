@@ -2,6 +2,8 @@
   {
     "id": "geodude",
     "dex": 74,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -56,6 +58,8 @@
   {
     "id": "terrakion",
     "dex": 639,
+    "primaryType": "rock",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -119,6 +123,8 @@
   {
     "id": "wingull",
     "dex": 278,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -164,6 +170,7 @@
   {
     "id": "silcoon",
     "dex": 266,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -200,6 +207,7 @@
   {
     "id": "hariyama",
     "dex": 297,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -240,6 +248,7 @@
   {
     "id": "absol",
     "dex": 359,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -280,6 +289,8 @@
   {
     "id": "heliolisk",
     "dex": 695,
+    "primaryType": "electric",
+    "secondaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -292,6 +303,7 @@
   {
     "id": "nacli",
     "dex": 932,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -328,6 +340,8 @@
   {
     "id": "tentacool",
     "dex": 72,
+    "primaryType": "water",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -378,6 +392,7 @@
   {
     "id": "mewtwo",
     "dex": 150,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -400,6 +415,8 @@
   {
     "id": "chatot",
     "dex": 441,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -454,6 +471,7 @@
   {
     "id": "sandaconda",
     "dex": 844,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -476,6 +494,8 @@
   {
     "id": "screamtail",
     "dex": 985,
+    "primaryType": "fairy",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -488,6 +508,8 @@
   {
     "id": "frillish",
     "dex": 592,
+    "primaryType": "water",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -524,6 +546,7 @@
   {
     "id": "bellossom",
     "dex": 182,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -555,6 +578,8 @@
   {
     "id": "foongus",
     "dex": 590,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -591,6 +616,7 @@
   {
     "id": "zorua",
     "dex": 570,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -627,6 +653,7 @@
   {
     "id": "vigoroth",
     "dex": 288,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -649,6 +676,8 @@
   {
     "id": "toedscool",
     "dex": 948,
+    "primaryType": "ground",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -685,6 +714,7 @@
   {
     "id": "cinderace",
     "dex": 815,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -739,6 +769,8 @@
   {
     "id": "revavroom",
     "dex": 966,
+    "primaryType": "steel",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -784,6 +816,7 @@
   {
     "id": "drilbur",
     "dex": 529,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -829,6 +862,8 @@
   {
     "id": "golett",
     "dex": 622,
+    "primaryType": "ground",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -874,6 +909,7 @@
   {
     "id": "meowth",
     "dex": 52,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -919,6 +955,8 @@
   {
     "id": "dwebble",
     "dex": 557,
+    "primaryType": "bug",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -955,6 +993,7 @@
   {
     "id": "electabuzz",
     "dex": 125,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -1000,6 +1039,7 @@
   {
     "id": "conkeldurr",
     "dex": 534,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -1031,6 +1071,8 @@
   {
     "id": "weavile",
     "dex": 461,
+    "primaryType": "dark",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -1080,6 +1122,8 @@
   {
     "id": "starly",
     "dex": 396,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1125,6 +1169,8 @@
   {
     "id": "dodrio",
     "dex": 85,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1179,6 +1225,7 @@
   {
     "id": "chespin",
     "dex": 650,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -1201,6 +1248,7 @@
   {
     "id": "quilladin",
     "dex": 651,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -1223,6 +1271,7 @@
   {
     "id": "kecleon",
     "dex": 352,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -1245,6 +1294,8 @@
   {
     "id": "scolipede",
     "dex": 545,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -1276,6 +1327,7 @@
   {
     "id": "banette",
     "dex": 354,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -1307,6 +1359,7 @@
   {
     "id": "wurmple",
     "dex": 265,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -1343,6 +1396,7 @@
   {
     "id": "capsakid",
     "dex": 951,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -1379,6 +1433,8 @@
   {
     "id": "drifblim",
     "dex": 426,
+    "primaryType": "ghost",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1419,6 +1475,8 @@
   {
     "id": "landorus",
     "dex": 645,
+    "primaryType": "ground",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1482,6 +1540,8 @@
   {
     "id": "arctibax",
     "dex": 997,
+    "primaryType": "dragon",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -1504,6 +1564,8 @@
   {
     "id": "torterra",
     "dex": 389,
+    "primaryType": "grass",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -1540,6 +1602,8 @@
   {
     "id": "crabominable",
     "dex": 740,
+    "primaryType": "fighting",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -1562,6 +1626,8 @@
   {
     "id": "kartana",
     "dex": 798,
+    "primaryType": "grass",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -1589,6 +1655,8 @@
   {
     "id": "vespiquen",
     "dex": 416,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1648,6 +1716,7 @@
   {
     "id": "pineco",
     "dex": 204,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -1693,6 +1762,7 @@
   {
     "id": "charmander",
     "dex": 4,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -1729,6 +1799,8 @@
   {
     "id": "oricorio",
     "dex": 741,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1783,6 +1855,7 @@
   {
     "id": "herdier",
     "dex": 507,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -1833,6 +1906,7 @@
   {
     "id": "alomomola",
     "dex": 594,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -1873,6 +1947,7 @@
   {
     "id": "klink",
     "dex": 599,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -1900,6 +1975,8 @@
   {
     "id": "swanna",
     "dex": 581,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1954,6 +2031,8 @@
   {
     "id": "aerodactyl",
     "dex": 142,
+    "primaryType": "rock",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -1990,6 +2069,8 @@
   {
     "id": "parasect",
     "dex": 47,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -2021,6 +2102,8 @@
   {
     "id": "krookodile",
     "dex": 553,
+    "primaryType": "ground",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -2052,6 +2135,7 @@
   {
     "id": "jangmoo",
     "dex": 782,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -2097,6 +2181,8 @@
   {
     "id": "toxtricity",
     "dex": 849,
+    "primaryType": "electric",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -2119,6 +2205,8 @@
   {
     "id": "nidoqueen",
     "dex": 31,
+    "primaryType": "poison",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -2150,6 +2238,7 @@
   {
     "id": "teddiursa",
     "dex": 216,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -2204,6 +2293,7 @@
   {
     "id": "gothitelle",
     "dex": 576,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -2249,6 +2339,7 @@
   {
     "id": "miltank",
     "dex": 241,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -2299,6 +2390,8 @@
   {
     "id": "ferrothorn",
     "dex": 598,
+    "primaryType": "grass",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -2344,6 +2437,8 @@
   {
     "id": "zweilous",
     "dex": 634,
+    "primaryType": "dark",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -2380,6 +2475,7 @@
   {
     "id": "weezing",
     "dex": 110,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -2411,6 +2507,8 @@
   {
     "id": "shroodle",
     "dex": 944,
+    "primaryType": "poison",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -2433,6 +2531,7 @@
   {
     "id": "cursola",
     "dex": 864,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -2455,6 +2554,8 @@
   {
     "id": "drifloon",
     "dex": 425,
+    "primaryType": "ghost",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -2495,6 +2596,8 @@
   {
     "id": "stunky",
     "dex": 434,
+    "primaryType": "poison",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -2517,6 +2620,7 @@
   {
     "id": "flittle",
     "dex": 955,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -2548,6 +2652,8 @@
   {
     "id": "hydreigon",
     "dex": 635,
+    "primaryType": "dark",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -2584,6 +2690,8 @@
   {
     "id": "bronzong",
     "dex": 437,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -2638,6 +2746,7 @@
   {
     "id": "corphish",
     "dex": 341,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -2650,6 +2759,8 @@
   {
     "id": "crawdaunt",
     "dex": 342,
+    "primaryType": "water",
+    "secondaryType": "dark",
     "drops": {
       "entries": [],
       "amount": {
@@ -2662,6 +2773,7 @@
   {
     "id": "timburr",
     "dex": 532,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -2693,6 +2805,7 @@
   {
     "id": "sentret",
     "dex": 161,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -2724,6 +2837,7 @@
   {
     "id": "swalot",
     "dex": 317,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -2769,6 +2883,7 @@
   {
     "id": "elgyem",
     "dex": 605,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -2814,6 +2929,8 @@
   {
     "id": "zapdos",
     "dex": 145,
+    "primaryType": "electric",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -2877,6 +2994,7 @@
   {
     "id": "fomantis",
     "dex": 753,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -2908,6 +3026,8 @@
   {
     "id": "dewgong",
     "dex": 87,
+    "primaryType": "water",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -2953,6 +3073,8 @@
   {
     "id": "kleavor",
     "dex": 900,
+    "primaryType": "bug",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -2989,6 +3111,8 @@
   {
     "id": "barbaracle",
     "dex": 689,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -3011,6 +3135,7 @@
   {
     "id": "sunkern",
     "dex": 191,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -3042,6 +3167,8 @@
   {
     "id": "applin",
     "dex": 840,
+    "primaryType": "grass",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -3100,6 +3227,7 @@
   {
     "id": "slurpuff",
     "dex": 685,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -3145,6 +3273,7 @@
   {
     "id": "mudkip",
     "dex": 258,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -3181,6 +3310,7 @@
   {
     "id": "magmar",
     "dex": 126,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -3221,6 +3351,8 @@
   {
     "id": "overqwil",
     "dex": 904,
+    "primaryType": "dark",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -3266,6 +3398,7 @@
   {
     "id": "caterpie",
     "dex": 10,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -3302,6 +3435,8 @@
   {
     "id": "farfetchd",
     "dex": 83,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -3361,6 +3496,8 @@
   {
     "id": "shiinotic",
     "dex": 756,
+    "primaryType": "grass",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -3415,6 +3552,7 @@
   {
     "id": "ursaring",
     "dex": 217,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -3469,6 +3607,8 @@
   {
     "id": "altaria",
     "dex": 334,
+    "primaryType": "dragon",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -3514,6 +3654,7 @@
   {
     "id": "gothita",
     "dex": 574,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -3559,6 +3700,8 @@
   {
     "id": "inkay",
     "dex": 686,
+    "primaryType": "dark",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -3595,6 +3738,7 @@
   {
     "id": "yamper",
     "dex": 835,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -3631,6 +3775,7 @@
   {
     "id": "naclstack",
     "dex": 933,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -3667,6 +3812,7 @@
   {
     "id": "alakazam",
     "dex": 65,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -3712,6 +3858,7 @@
   {
     "id": "luvdisc",
     "dex": 370,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -3734,6 +3881,7 @@
   {
     "id": "komala",
     "dex": 775,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -3765,6 +3913,8 @@
   {
     "id": "skiploom",
     "dex": 188,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -3796,6 +3946,7 @@
   {
     "id": "heatmor",
     "dex": 631,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -3836,6 +3987,8 @@
   {
     "id": "carvanha",
     "dex": 318,
+    "primaryType": "water",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -3867,6 +4020,8 @@
   {
     "id": "sigilyph",
     "dex": 561,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -3912,6 +4067,8 @@
   {
     "id": "mimejr",
     "dex": 439,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -3943,6 +4100,8 @@
   {
     "id": "baxcalibur",
     "dex": 998,
+    "primaryType": "dragon",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -3965,6 +4124,8 @@
   {
     "id": "lunala",
     "dex": 792,
+    "primaryType": "psychic",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -3992,6 +4153,8 @@
   {
     "id": "clodsire",
     "dex": 980,
+    "primaryType": "poison",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -4028,6 +4191,7 @@
   {
     "id": "clefable",
     "dex": 36,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -4068,6 +4232,8 @@
   {
     "id": "malamar",
     "dex": 687,
+    "primaryType": "dark",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -4104,6 +4270,8 @@
   {
     "id": "budew",
     "dex": 406,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -4144,6 +4312,8 @@
   {
     "id": "murkrow",
     "dex": 198,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -4189,6 +4359,8 @@
   {
     "id": "centiskorch",
     "dex": 851,
+    "primaryType": "fire",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -4220,6 +4392,7 @@
   {
     "id": "typhlosion",
     "dex": 157,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -4242,6 +4415,7 @@
   {
     "id": "magikarp",
     "dex": 129,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -4282,6 +4456,7 @@
   {
     "id": "marowak",
     "dex": 105,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -4313,6 +4488,8 @@
   {
     "id": "hoppip",
     "dex": 187,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -4335,6 +4512,8 @@
   {
     "id": "barboach",
     "dex": 339,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -4371,6 +4550,7 @@
   {
     "id": "zacian",
     "dex": 888,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -4434,6 +4614,8 @@
   {
     "id": "omastar",
     "dex": 139,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -4465,6 +4647,7 @@
   {
     "id": "sunflora",
     "dex": 192,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -4496,6 +4679,8 @@
   {
     "id": "froslass",
     "dex": 478,
+    "primaryType": "ice",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -4550,6 +4735,7 @@
   {
     "id": "lumineon",
     "dex": 457,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -4599,6 +4785,7 @@
   {
     "id": "litten",
     "dex": 725,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -4630,6 +4817,8 @@
   {
     "id": "meowscarada",
     "dex": 908,
+    "primaryType": "grass",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -4652,6 +4841,7 @@
   {
     "id": "passimian",
     "dex": 766,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -4683,6 +4873,7 @@
   {
     "id": "terapagos",
     "dex": 1024,
+    "primaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -4695,6 +4886,8 @@
   {
     "id": "amoonguss",
     "dex": 591,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -4731,6 +4924,7 @@
   {
     "id": "shroomish",
     "dex": 285,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -4767,6 +4961,7 @@
   {
     "id": "spewpa",
     "dex": 665,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -4812,6 +5007,7 @@
   {
     "id": "duskull",
     "dex": 355,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -4852,6 +5048,8 @@
   {
     "id": "enamorus",
     "dex": 905,
+    "primaryType": "fairy",
+    "secondaryType": "flying",
     "drops": {
       "entries": [],
       "amount": {
@@ -4864,6 +5062,7 @@
   {
     "id": "eldegoss",
     "dex": 830,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -4900,6 +5099,7 @@
   {
     "id": "lycanroc",
     "dex": 745,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -4959,6 +5159,7 @@
   {
     "id": "glaceon",
     "dex": 471,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -4990,6 +5191,8 @@
   {
     "id": "wimpod",
     "dex": 767,
+    "primaryType": "bug",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -5012,6 +5215,8 @@
   {
     "id": "glimmora",
     "dex": 970,
+    "primaryType": "rock",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -5057,6 +5262,8 @@
   {
     "id": "victreebel",
     "dex": 71,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -5088,6 +5295,7 @@
   {
     "id": "kingler",
     "dex": 99,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -5119,6 +5327,7 @@
   {
     "id": "regice",
     "dex": 378,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -5141,6 +5350,7 @@
   {
     "id": "cascoon",
     "dex": 268,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -5177,6 +5387,8 @@
   {
     "id": "kabutops",
     "dex": 141,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -5208,6 +5420,7 @@
   {
     "id": "hippopotas",
     "dex": 449,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -5253,6 +5466,8 @@
   {
     "id": "swellow",
     "dex": 277,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -5307,6 +5522,7 @@
   {
     "id": "regieleki",
     "dex": 894,
+    "primaryType": "electric",
     "drops": {
       "entries": [],
       "amount": {
@@ -5319,6 +5535,8 @@
   {
     "id": "sizzlipede",
     "dex": 850,
+    "primaryType": "fire",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -5350,6 +5568,7 @@
   {
     "id": "bergmite",
     "dex": 712,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -5381,6 +5600,7 @@
   {
     "id": "volbeat",
     "dex": 313,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -5412,6 +5632,8 @@
   {
     "id": "varoom",
     "dex": 965,
+    "primaryType": "steel",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -5457,6 +5679,8 @@
   {
     "id": "leavanny",
     "dex": 542,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -5511,6 +5735,8 @@
   {
     "id": "cutiefly",
     "dex": 742,
+    "primaryType": "bug",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -5547,6 +5773,7 @@
   {
     "id": "ditto",
     "dex": 132,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -5583,6 +5810,8 @@
   {
     "id": "drampa",
     "dex": 780,
+    "primaryType": "normal",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -5614,6 +5843,7 @@
   {
     "id": "goodra",
     "dex": 706,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -5659,6 +5889,8 @@
   {
     "id": "brutebonnet",
     "dex": 986,
+    "primaryType": "grass",
+    "secondaryType": "dark",
     "drops": {
       "entries": [],
       "amount": {
@@ -5671,6 +5903,8 @@
   {
     "id": "roaringmoon",
     "dex": 1005,
+    "primaryType": "dragon",
+    "secondaryType": "dark",
     "drops": {
       "entries": [],
       "amount": {
@@ -5683,6 +5917,7 @@
   {
     "id": "darumaka",
     "dex": 554,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -5705,6 +5940,7 @@
   {
     "id": "shellder",
     "dex": 90,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -5736,6 +5972,8 @@
   {
     "id": "mantyke",
     "dex": 458,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -5772,6 +6010,8 @@
   {
     "id": "grafaiai",
     "dex": 945,
+    "primaryType": "poison",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -5794,6 +6034,8 @@
   {
     "id": "rufflet",
     "dex": 627,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -5839,6 +6081,7 @@
   {
     "id": "rookidee",
     "dex": 821,
+    "primaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -5884,6 +6127,8 @@
   {
     "id": "helioptile",
     "dex": 694,
+    "primaryType": "electric",
+    "secondaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -5896,6 +6141,7 @@
   {
     "id": "dratini",
     "dex": 147,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -5950,6 +6196,8 @@
   {
     "id": "ribombee",
     "dex": 743,
+    "primaryType": "bug",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -5986,6 +6234,8 @@
   {
     "id": "tapukoko",
     "dex": 785,
+    "primaryType": "electric",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -6049,6 +6299,7 @@
   {
     "id": "slaking",
     "dex": 289,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -6071,6 +6322,7 @@
   {
     "id": "chewtle",
     "dex": 833,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -6107,6 +6359,8 @@
   {
     "id": "dialga",
     "dex": 483,
+    "primaryType": "steel",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -6170,6 +6424,7 @@
   {
     "id": "electrode",
     "dex": 101,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -6197,6 +6452,7 @@
   {
     "id": "pancham",
     "dex": 674,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -6242,6 +6498,7 @@
   {
     "id": "silvally",
     "dex": 773,
+    "primaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -6254,6 +6511,8 @@
   {
     "id": "mamoswine",
     "dex": 473,
+    "primaryType": "ice",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -6313,6 +6572,7 @@
   {
     "id": "garbodor",
     "dex": 569,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -6362,6 +6622,8 @@
   {
     "id": "naganadel",
     "dex": 804,
+    "primaryType": "poison",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -6389,6 +6651,8 @@
   {
     "id": "unfezant",
     "dex": 521,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -6443,6 +6707,7 @@
   {
     "id": "furret",
     "dex": 162,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -6474,6 +6739,8 @@
   {
     "id": "lampent",
     "dex": 608,
+    "primaryType": "ghost",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -6514,6 +6781,7 @@
   {
     "id": "kricketot",
     "dex": 401,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -6545,6 +6813,7 @@
   {
     "id": "mew",
     "dex": 151,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -6608,6 +6877,8 @@
   {
     "id": "piloswine",
     "dex": 221,
+    "primaryType": "ice",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -6667,6 +6938,7 @@
   {
     "id": "wobbuffet",
     "dex": 202,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -6689,6 +6961,8 @@
   {
     "id": "greattusk",
     "dex": 984,
+    "primaryType": "ground",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [],
       "amount": {
@@ -6701,6 +6975,7 @@
   {
     "id": "octillery",
     "dex": 224,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -6737,6 +7012,7 @@
   {
     "id": "mudbray",
     "dex": 749,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -6796,6 +7072,8 @@
   {
     "id": "omanyte",
     "dex": 138,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -6827,6 +7105,8 @@
   {
     "id": "monferno",
     "dex": 391,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -6849,6 +7129,7 @@
   {
     "id": "poipole",
     "dex": 803,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -6876,6 +7157,7 @@
   {
     "id": "makuhita",
     "dex": 296,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -6916,6 +7198,7 @@
   {
     "id": "snubbull",
     "dex": 209,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -6952,6 +7235,7 @@
   {
     "id": "duosion",
     "dex": 578,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -6988,6 +7272,8 @@
   {
     "id": "magcargo",
     "dex": 219,
+    "primaryType": "fire",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -7033,6 +7319,7 @@
   {
     "id": "reuniclus",
     "dex": 579,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -7069,6 +7356,8 @@
   {
     "id": "dewpider",
     "dex": 751,
+    "primaryType": "water",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -7100,6 +7389,8 @@
   {
     "id": "primarina",
     "dex": 730,
+    "primaryType": "water",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -7131,6 +7422,8 @@
   {
     "id": "infernape",
     "dex": 392,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -7153,6 +7446,7 @@
   {
     "id": "patrat",
     "dex": 504,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -7175,6 +7469,8 @@
   {
     "id": "hooh",
     "dex": 250,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -7238,6 +7534,8 @@
   {
     "id": "jigglypuff",
     "dex": 39,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -7278,6 +7576,8 @@
   {
     "id": "beldum",
     "dex": 374,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -7314,6 +7614,8 @@
   {
     "id": "ralts",
     "dex": 280,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -7368,6 +7670,7 @@
   {
     "id": "finizen",
     "dex": 963,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -7395,6 +7698,7 @@
   {
     "id": "ekans",
     "dex": 23,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -7417,6 +7721,7 @@
   {
     "id": "vanillish",
     "dex": 583,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -7462,6 +7767,7 @@
   {
     "id": "misdreavus",
     "dex": 200,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -7502,6 +7808,8 @@
   {
     "id": "marill",
     "dex": 183,
+    "primaryType": "water",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -7524,6 +7832,7 @@
   {
     "id": "skitty",
     "dex": 300,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -7555,6 +7864,8 @@
   {
     "id": "celesteela",
     "dex": 797,
+    "primaryType": "steel",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -7582,6 +7893,8 @@
   {
     "id": "cacturne",
     "dex": 332,
+    "primaryType": "grass",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -7636,6 +7949,7 @@
   {
     "id": "slakoth",
     "dex": 287,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -7658,6 +7972,7 @@
   {
     "id": "poochyena",
     "dex": 261,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -7708,6 +8023,7 @@
   {
     "id": "pachirisu",
     "dex": 417,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -7730,6 +8046,7 @@
   {
     "id": "loudred",
     "dex": 294,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -7761,6 +8078,7 @@
   {
     "id": "seaking",
     "dex": 119,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -7810,6 +8128,7 @@
   {
     "id": "chikorita",
     "dex": 152,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -7832,6 +8151,8 @@
   {
     "id": "mrrime",
     "dex": 866,
+    "primaryType": "ice",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -7854,6 +8175,8 @@
   {
     "id": "bastiodon",
     "dex": 411,
+    "primaryType": "rock",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -7881,6 +8204,7 @@
   {
     "id": "nickit",
     "dex": 827,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -7926,6 +8250,8 @@
   {
     "id": "wigglytuff",
     "dex": 40,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -7966,6 +8292,7 @@
   {
     "id": "mareep",
     "dex": 179,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -8016,6 +8343,7 @@
   {
     "id": "aromatisse",
     "dex": 683,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -8047,6 +8375,8 @@
   {
     "id": "toxel",
     "dex": 848,
+    "primaryType": "electric",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -8069,6 +8399,8 @@
   {
     "id": "celebi",
     "dex": 251,
+    "primaryType": "psychic",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -8132,6 +8464,7 @@
   {
     "id": "poliwhirl",
     "dex": 61,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -8163,6 +8496,7 @@
   {
     "id": "finneon",
     "dex": 456,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -8212,6 +8546,8 @@
   {
     "id": "trevenant",
     "dex": 709,
+    "primaryType": "ghost",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -8252,6 +8588,7 @@
   {
     "id": "remoraid",
     "dex": 223,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -8292,6 +8629,7 @@
   {
     "id": "vanillite",
     "dex": 582,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -8337,6 +8675,8 @@
   {
     "id": "woobat",
     "dex": 527,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -8368,6 +8708,7 @@
   {
     "id": "pincurchin",
     "dex": 871,
+    "primaryType": "electric",
     "drops": {
       "entries": [],
       "amount": {
@@ -8380,6 +8721,7 @@
   {
     "id": "cranidos",
     "dex": 408,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -8407,6 +8749,8 @@
   {
     "id": "azurill",
     "dex": 298,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -8429,6 +8773,7 @@
   {
     "id": "regigigas",
     "dex": 486,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -8492,6 +8837,8 @@
   {
     "id": "tinkaton",
     "dex": 959,
+    "primaryType": "fairy",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -8528,6 +8875,8 @@
   {
     "id": "phantump",
     "dex": 708,
+    "primaryType": "ghost",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -8573,6 +8922,8 @@
   {
     "id": "sealeo",
     "dex": 364,
+    "primaryType": "ice",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -8609,6 +8960,7 @@
   {
     "id": "cubchoo",
     "dex": 613,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -8659,6 +9011,8 @@
   {
     "id": "gloom",
     "dex": 44,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -8704,6 +9058,8 @@
   {
     "id": "dustox",
     "dex": 269,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -8744,6 +9100,7 @@
   {
     "id": "swirlix",
     "dex": 684,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -8789,6 +9146,7 @@
   {
     "id": "trapinch",
     "dex": 328,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -8820,6 +9178,8 @@
   {
     "id": "sinistcha",
     "dex": 1013,
+    "primaryType": "grass",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -8842,6 +9202,7 @@
   {
     "id": "bonsly",
     "dex": 438,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -8873,6 +9234,8 @@
   {
     "id": "frosmoth",
     "dex": 873,
+    "primaryType": "ice",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -8918,6 +9281,7 @@
   {
     "id": "zangoose",
     "dex": 335,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -8958,6 +9322,7 @@
   {
     "id": "garganacl",
     "dex": 934,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -8994,6 +9359,7 @@
   {
     "id": "arbok",
     "dex": 24,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -9016,6 +9382,8 @@
   {
     "id": "wochien",
     "dex": 1001,
+    "primaryType": "dark",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -9079,6 +9447,7 @@
   {
     "id": "bagon",
     "dex": 371,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -9119,6 +9488,7 @@
   {
     "id": "scorbunny",
     "dex": 813,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -9173,6 +9543,8 @@
   {
     "id": "gastrodon",
     "dex": 423,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -9209,6 +9581,7 @@
   {
     "id": "kricketune",
     "dex": 402,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -9240,6 +9613,7 @@
   {
     "id": "clauncher",
     "dex": 692,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -9252,6 +9626,7 @@
   {
     "id": "ogerpon",
     "dex": 1017,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -9315,6 +9690,7 @@
   {
     "id": "donphan",
     "dex": 232,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -9360,6 +9736,8 @@
   {
     "id": "bronzor",
     "dex": 436,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -9414,6 +9792,7 @@
   {
     "id": "dunsparce",
     "dex": 206,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -9445,6 +9824,8 @@
   {
     "id": "tyranitar",
     "dex": 248,
+    "primaryType": "rock",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -9476,6 +9857,8 @@
   {
     "id": "fletchinder",
     "dex": 662,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -9530,6 +9913,8 @@
   {
     "id": "tapubulu",
     "dex": 787,
+    "primaryType": "grass",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -9593,6 +9978,7 @@
   {
     "id": "spoink",
     "dex": 325,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -9643,6 +10029,8 @@
   {
     "id": "noibat",
     "dex": 714,
+    "primaryType": "flying",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -9674,6 +10062,8 @@
   {
     "id": "tyrunt",
     "dex": 696,
+    "primaryType": "rock",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -9696,6 +10086,7 @@
   {
     "id": "sceptile",
     "dex": 254,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -9732,6 +10123,7 @@
   {
     "id": "diglett",
     "dex": 50,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -9786,6 +10178,7 @@
   {
     "id": "squirtle",
     "dex": 7,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -9822,6 +10215,8 @@
   {
     "id": "ledyba",
     "dex": 165,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -9844,6 +10239,7 @@
   {
     "id": "prinplup",
     "dex": 394,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -9889,6 +10285,7 @@
   {
     "id": "minun",
     "dex": 312,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -9929,6 +10326,8 @@
   {
     "id": "rayquaza",
     "dex": 384,
+    "primaryType": "dragon",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -9992,6 +10391,7 @@
   {
     "id": "snivy",
     "dex": 495,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -10014,6 +10414,8 @@
   {
     "id": "shieldon",
     "dex": 410,
+    "primaryType": "rock",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -10041,6 +10443,8 @@
   {
     "id": "hoopa",
     "dex": 720,
+    "primaryType": "psychic",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -10104,6 +10508,7 @@
   {
     "id": "accelgor",
     "dex": 617,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -10126,6 +10531,7 @@
   {
     "id": "crabrawler",
     "dex": 739,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -10148,6 +10554,7 @@
   {
     "id": "lickitung",
     "dex": 108,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -10193,6 +10600,7 @@
   {
     "id": "seel",
     "dex": 86,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -10238,6 +10646,8 @@
   {
     "id": "kirlia",
     "dex": 281,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -10292,6 +10702,8 @@
   {
     "id": "chienpao",
     "dex": 1002,
+    "primaryType": "dark",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -10355,6 +10767,7 @@
   {
     "id": "cubone",
     "dex": 104,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -10391,6 +10804,8 @@
   {
     "id": "appletun",
     "dex": 842,
+    "primaryType": "grass",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -10422,6 +10837,8 @@
   {
     "id": "squawkabilly",
     "dex": 931,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -10467,6 +10884,7 @@
   {
     "id": "nidoranm",
     "dex": 32,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -10498,6 +10916,8 @@
   {
     "id": "scyther",
     "dex": 123,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -10520,6 +10940,7 @@
   {
     "id": "riolu",
     "dex": 447,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -10551,6 +10972,8 @@
   {
     "id": "runerigus",
     "dex": 867,
+    "primaryType": "ground",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -10573,6 +10996,8 @@
   {
     "id": "fezandipiti",
     "dex": 1016,
+    "primaryType": "poison",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -10636,6 +11061,7 @@
   {
     "id": "nidoranf",
     "dex": 29,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -10667,6 +11093,7 @@
   {
     "id": "seedot",
     "dex": 273,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -10703,6 +11130,8 @@
   {
     "id": "slitherwing",
     "dex": 988,
+    "primaryType": "bug",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [],
       "amount": {
@@ -10715,6 +11144,8 @@
   {
     "id": "anorith",
     "dex": 347,
+    "primaryType": "rock",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -10737,6 +11168,8 @@
   {
     "id": "paras",
     "dex": 46,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -10773,6 +11206,7 @@
   {
     "id": "turtwig",
     "dex": 387,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -10804,6 +11238,7 @@
   {
     "id": "pyukumuku",
     "dex": 771,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -10831,6 +11266,8 @@
   {
     "id": "impidimp",
     "dex": 859,
+    "primaryType": "dark",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -10853,6 +11290,7 @@
   {
     "id": "boldore",
     "dex": 525,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -10907,6 +11345,8 @@
   {
     "id": "incineroar",
     "dex": 727,
+    "primaryType": "fire",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -10938,6 +11378,8 @@
   {
     "id": "mimikyu",
     "dex": 778,
+    "primaryType": "ghost",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -10969,6 +11411,8 @@
   {
     "id": "magneton",
     "dex": 82,
+    "primaryType": "electric",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -11023,6 +11467,7 @@
   {
     "id": "yamask",
     "dex": 562,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -11045,6 +11490,7 @@
   {
     "id": "shelgon",
     "dex": 372,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -11085,6 +11531,7 @@
   {
     "id": "umbreon",
     "dex": 197,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -11116,6 +11563,8 @@
   {
     "id": "marshadow",
     "dex": 802,
+    "primaryType": "fighting",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -11179,6 +11628,7 @@
   {
     "id": "tangela",
     "dex": 114,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -11215,6 +11665,8 @@
   {
     "id": "okidogi",
     "dex": 1014,
+    "primaryType": "poison",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -11278,6 +11730,7 @@
   {
     "id": "torchic",
     "dex": 255,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -11323,6 +11776,8 @@
   {
     "id": "krokorok",
     "dex": 552,
+    "primaryType": "ground",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -11354,6 +11809,7 @@
   {
     "id": "simisear",
     "dex": 514,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -11394,6 +11850,7 @@
   {
     "id": "arrokuda",
     "dex": 846,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -11425,6 +11882,7 @@
   {
     "id": "maractus",
     "dex": 556,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -11479,6 +11937,7 @@
   {
     "id": "abra",
     "dex": 63,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -11524,6 +11983,8 @@
   {
     "id": "ironjugulis",
     "dex": 993,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [],
       "amount": {
@@ -11536,6 +11997,7 @@
   {
     "id": "lilligant",
     "dex": 549,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -11576,6 +12038,8 @@
   {
     "id": "aggron",
     "dex": 306,
+    "primaryType": "steel",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -11621,6 +12085,7 @@
   {
     "id": "blitzle",
     "dex": 522,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -11657,6 +12122,7 @@
   {
     "id": "burmy",
     "dex": 412,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -11693,6 +12159,7 @@
   {
     "id": "bellibolt",
     "dex": 939,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -11724,6 +12191,7 @@
   {
     "id": "floatzel",
     "dex": 419,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -11760,6 +12228,7 @@
   {
     "id": "servine",
     "dex": 496,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -11782,6 +12251,7 @@
   {
     "id": "gogoat",
     "dex": 673,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -11818,6 +12288,7 @@
   {
     "id": "cosmoem",
     "dex": 790,
+    "primaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -11830,6 +12301,7 @@
   {
     "id": "tepig",
     "dex": 498,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -11866,6 +12338,8 @@
   {
     "id": "vibrava",
     "dex": 329,
+    "primaryType": "ground",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -11897,6 +12371,8 @@
   {
     "id": "ducklett",
     "dex": 580,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -11942,6 +12418,8 @@
   {
     "id": "urshifu",
     "dex": 892,
+    "primaryType": "fighting",
+    "secondaryType": "dark",
     "drops": {
       "entries": [],
       "amount": {
@@ -11954,6 +12432,7 @@
   {
     "id": "feebas",
     "dex": 349,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -11994,6 +12473,8 @@
   {
     "id": "pyroar",
     "dex": 668,
+    "primaryType": "fire",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -12039,6 +12520,8 @@
   {
     "id": "sewaddle",
     "dex": 540,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -12093,6 +12576,8 @@
   {
     "id": "metang",
     "dex": 375,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -12129,6 +12614,8 @@
   {
     "id": "ninjask",
     "dex": 291,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -12151,6 +12638,8 @@
   {
     "id": "whimsicott",
     "dex": 547,
+    "primaryType": "grass",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -12196,6 +12685,7 @@
   {
     "id": "gothorita",
     "dex": 575,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -12241,6 +12731,8 @@
   {
     "id": "nidoking",
     "dex": 34,
+    "primaryType": "poison",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -12272,6 +12764,8 @@
   {
     "id": "litwick",
     "dex": 607,
+    "primaryType": "ghost",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -12317,6 +12811,8 @@
   {
     "id": "galvantula",
     "dex": 596,
+    "primaryType": "bug",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -12381,6 +12877,7 @@
   {
     "id": "vaporeon",
     "dex": 134,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -12412,6 +12909,8 @@
   {
     "id": "wyrdeer",
     "dex": 899,
+    "primaryType": "normal",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -12448,6 +12947,8 @@
   {
     "id": "buzzwole",
     "dex": 794,
+    "primaryType": "bug",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -12475,6 +12976,7 @@
   {
     "id": "orthworm",
     "dex": 968,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -12511,6 +13013,8 @@
   {
     "id": "morelull",
     "dex": 755,
+    "primaryType": "grass",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -12565,6 +13069,7 @@
   {
     "id": "tadbulb",
     "dex": 938,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -12596,6 +13101,7 @@
   {
     "id": "linoone",
     "dex": 264,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -12618,6 +13124,8 @@
   {
     "id": "nincada",
     "dex": 290,
+    "primaryType": "bug",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -12640,6 +13148,7 @@
   {
     "id": "spritzee",
     "dex": 682,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -12671,6 +13180,7 @@
   {
     "id": "drizzile",
     "dex": 817,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -12693,6 +13203,7 @@
   {
     "id": "dondozo",
     "dex": 977,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -12724,6 +13235,8 @@
   {
     "id": "spheal",
     "dex": 363,
+    "primaryType": "ice",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -12760,6 +13273,8 @@
   {
     "id": "corviknight",
     "dex": 823,
+    "primaryType": "flying",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -12814,6 +13329,8 @@
   {
     "id": "shedinja",
     "dex": 292,
+    "primaryType": "bug",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -12836,6 +13353,8 @@
   {
     "id": "slowpoke",
     "dex": 79,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -12890,6 +13409,7 @@
   {
     "id": "goomy",
     "dex": 704,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -12935,6 +13455,7 @@
   {
     "id": "gurdurr",
     "dex": 533,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -12966,6 +13487,8 @@
   {
     "id": "volcanion",
     "dex": 721,
+    "primaryType": "fire",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -13029,6 +13552,8 @@
   {
     "id": "escavalier",
     "dex": 589,
+    "primaryType": "bug",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -13060,6 +13585,8 @@
   {
     "id": "tinkatink",
     "dex": 957,
+    "primaryType": "fairy",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -13096,6 +13623,7 @@
   {
     "id": "grimer",
     "dex": 88,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -13141,6 +13669,7 @@
   {
     "id": "karrablast",
     "dex": 588,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -13163,6 +13692,7 @@
   {
     "id": "phione",
     "dex": 489,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -13226,6 +13756,7 @@
   {
     "id": "inteleon",
     "dex": 818,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -13248,6 +13779,8 @@
   {
     "id": "lucario",
     "dex": 448,
+    "primaryType": "fighting",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -13279,6 +13812,7 @@
   {
     "id": "popplio",
     "dex": 728,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -13310,6 +13844,7 @@
   {
     "id": "growlithe",
     "dex": 58,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -13346,6 +13881,8 @@
   {
     "id": "volcarona",
     "dex": 637,
+    "primaryType": "bug",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -13386,6 +13923,7 @@
   {
     "id": "zebstrika",
     "dex": 523,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -13422,6 +13960,8 @@
   {
     "id": "yanmega",
     "dex": 469,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -13453,6 +13993,8 @@
   {
     "id": "hatterene",
     "dex": 858,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -13475,6 +14017,7 @@
   {
     "id": "illumise",
     "dex": 314,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -13506,6 +14049,7 @@
   {
     "id": "luxio",
     "dex": 404,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -13537,6 +14081,7 @@
   {
     "id": "purugly",
     "dex": 432,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -13559,6 +14104,8 @@
   {
     "id": "sandile",
     "dex": 551,
+    "primaryType": "ground",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -13590,6 +14137,8 @@
   {
     "id": "zygarde",
     "dex": 718,
+    "primaryType": "dragon",
+    "secondaryType": "ground",
     "drops": {
       "entries": [],
       "amount": {
@@ -13602,6 +14151,8 @@
   {
     "id": "chinchou",
     "dex": 170,
+    "primaryType": "water",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -13647,6 +14198,7 @@
   {
     "id": "shaymin",
     "dex": 492,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -13710,6 +14262,7 @@
   {
     "id": "dusknoir",
     "dex": 477,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -13750,6 +14303,8 @@
   {
     "id": "quaquaval",
     "dex": 914,
+    "primaryType": "water",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -13772,6 +14327,8 @@
   {
     "id": "tentacruel",
     "dex": 73,
+    "primaryType": "water",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -13822,6 +14379,7 @@
   {
     "id": "magmortar",
     "dex": 467,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -13862,6 +14420,7 @@
   {
     "id": "cofagrigus",
     "dex": 563,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -13884,6 +14443,7 @@
   {
     "id": "petilil",
     "dex": 548,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -13924,6 +14484,7 @@
   {
     "id": "perrserker",
     "dex": 863,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -13955,6 +14516,8 @@
   {
     "id": "bewear",
     "dex": 760,
+    "primaryType": "normal",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -13977,6 +14540,7 @@
   {
     "id": "goldeen",
     "dex": 118,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -14026,6 +14590,8 @@
   {
     "id": "decidueye",
     "dex": 724,
+    "primaryType": "grass",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -14071,6 +14637,7 @@
   {
     "id": "torracat",
     "dex": 726,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -14102,6 +14669,7 @@
   {
     "id": "electrike",
     "dex": 309,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -14152,6 +14720,7 @@
   {
     "id": "jolteon",
     "dex": 135,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -14183,6 +14752,8 @@
   {
     "id": "swoobat",
     "dex": 528,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -14219,6 +14790,8 @@
   {
     "id": "nihilego",
     "dex": 793,
+    "primaryType": "rock",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -14246,6 +14819,8 @@
   {
     "id": "lugia",
     "dex": 249,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -14309,6 +14884,7 @@
   {
     "id": "tyrogue",
     "dex": 236,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -14340,6 +14916,8 @@
   {
     "id": "exeggutor",
     "dex": 103,
+    "primaryType": "grass",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -14394,6 +14972,8 @@
   {
     "id": "bombirdier",
     "dex": 962,
+    "primaryType": "flying",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -14439,6 +15019,7 @@
   {
     "id": "pikachu",
     "dex": 25,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -14479,6 +15060,8 @@
   {
     "id": "coalossal",
     "dex": 839,
+    "primaryType": "rock",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -14524,6 +15107,7 @@
   {
     "id": "polteageist",
     "dex": 855,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -14546,6 +15130,8 @@
   {
     "id": "honedge",
     "dex": 679,
+    "primaryType": "steel",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -14591,6 +15177,7 @@
   {
     "id": "snorunt",
     "dex": 361,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -14645,6 +15232,8 @@
   {
     "id": "snover",
     "dex": 459,
+    "primaryType": "grass",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -14704,6 +15293,8 @@
   {
     "id": "shuckle",
     "dex": 213,
+    "primaryType": "bug",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -14735,6 +15326,8 @@
   {
     "id": "munkidori",
     "dex": 1015,
+    "primaryType": "poison",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -14798,6 +15391,8 @@
   {
     "id": "staraptor",
     "dex": 398,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -14852,6 +15447,7 @@
   {
     "id": "oshawott",
     "dex": 501,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -14883,6 +15479,8 @@
   {
     "id": "larvitar",
     "dex": 246,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -14914,6 +15512,7 @@
   {
     "id": "mightyena",
     "dex": 262,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -14964,6 +15563,8 @@
   {
     "id": "croagunk",
     "dex": 453,
+    "primaryType": "poison",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -14995,6 +15596,8 @@
   {
     "id": "archaludon",
     "dex": 1018,
+    "primaryType": "steel",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -15007,6 +15610,7 @@
   {
     "id": "machop",
     "dex": 66,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -15047,6 +15651,7 @@
   {
     "id": "silicobra",
     "dex": 843,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -15069,6 +15674,7 @@
   {
     "id": "spinda",
     "dex": 327,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -15105,6 +15711,7 @@
   {
     "id": "grubbin",
     "dex": 736,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -15150,6 +15757,7 @@
   {
     "id": "milcery",
     "dex": 868,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -15177,6 +15785,8 @@
   {
     "id": "tirtouga",
     "dex": 564,
+    "primaryType": "water",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -15204,6 +15814,7 @@
   {
     "id": "ambipom",
     "dex": 424,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -15226,6 +15837,7 @@
   {
     "id": "kangaskhan",
     "dex": 115,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -15248,6 +15860,7 @@
   {
     "id": "dachsbun",
     "dex": 927,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -15284,6 +15897,7 @@
   {
     "id": "braixen",
     "dex": 654,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -15329,6 +15943,8 @@
   {
     "id": "weepinbell",
     "dex": 70,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -15360,6 +15976,8 @@
   {
     "id": "ivysaur",
     "dex": 2,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -15396,6 +16014,7 @@
   {
     "id": "nosepass",
     "dex": 299,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -15450,6 +16069,7 @@
   {
     "id": "druddigon",
     "dex": 621,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -15481,6 +16101,8 @@
   {
     "id": "weedle",
     "dex": 13,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -15517,6 +16139,8 @@
   {
     "id": "pheromosa",
     "dex": 795,
+    "primaryType": "bug",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -15544,6 +16168,7 @@
   {
     "id": "roggenrola",
     "dex": 524,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -15598,6 +16223,7 @@
   {
     "id": "voltorb",
     "dex": 100,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -15625,6 +16251,8 @@
   {
     "id": "tapulele",
     "dex": 786,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -15688,6 +16316,8 @@
   {
     "id": "haunter",
     "dex": 93,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -15719,6 +16349,8 @@
   {
     "id": "mrmime",
     "dex": 122,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -15750,6 +16382,8 @@
   {
     "id": "amaura",
     "dex": 698,
+    "primaryType": "rock",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -15772,6 +16406,7 @@
   {
     "id": "froakie",
     "dex": 656,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -15808,6 +16443,8 @@
   {
     "id": "bulbasaur",
     "dex": 1,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -15858,6 +16495,8 @@
   {
     "id": "doduo",
     "dex": 84,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -15912,6 +16551,7 @@
   {
     "id": "tornadus",
     "dex": 641,
+    "primaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -15975,6 +16615,8 @@
   {
     "id": "ariados",
     "dex": 168,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -16039,6 +16681,7 @@
   {
     "id": "leafeon",
     "dex": 470,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -16070,6 +16713,7 @@
   {
     "id": "lickilicky",
     "dex": 463,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -16115,6 +16759,7 @@
   {
     "id": "grovyle",
     "dex": 253,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -16151,6 +16796,8 @@
   {
     "id": "salandit",
     "dex": 757,
+    "primaryType": "poison",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -16196,6 +16843,7 @@
   {
     "id": "musharna",
     "dex": 518,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -16218,6 +16866,7 @@
   {
     "id": "hitmonchan",
     "dex": 107,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -16249,6 +16898,8 @@
   {
     "id": "dragapult",
     "dex": 887,
+    "primaryType": "dragon",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -16280,6 +16931,7 @@
   {
     "id": "espurr",
     "dex": 677,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -16302,6 +16954,8 @@
   {
     "id": "klefki",
     "dex": 707,
+    "primaryType": "steel",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -16342,6 +16996,8 @@
   {
     "id": "kakuna",
     "dex": 14,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -16378,6 +17034,7 @@
   {
     "id": "stoutland",
     "dex": 508,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -16428,6 +17085,7 @@
   {
     "id": "muk",
     "dex": 89,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -16473,6 +17131,8 @@
   {
     "id": "skrelp",
     "dex": 690,
+    "primaryType": "poison",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -16509,6 +17169,7 @@
   {
     "id": "magby",
     "dex": 240,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -16549,6 +17210,8 @@
   {
     "id": "togekiss",
     "dex": 468,
+    "primaryType": "fairy",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -16589,6 +17252,7 @@
   {
     "id": "clobbopus",
     "dex": 852,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -16625,6 +17289,7 @@
   {
     "id": "carnivine",
     "dex": 455,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -16665,6 +17330,8 @@
   {
     "id": "skeledirge",
     "dex": 911,
+    "primaryType": "fire",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -16687,6 +17354,7 @@
   {
     "id": "raticate",
     "dex": 20,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -16723,6 +17391,8 @@
   {
     "id": "rabsca",
     "dex": 954,
+    "primaryType": "bug",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -16745,6 +17415,7 @@
   {
     "id": "uxie",
     "dex": 480,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -16808,6 +17479,7 @@
   {
     "id": "maushold",
     "dex": 925,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -16844,6 +17516,8 @@
   {
     "id": "spinarak",
     "dex": 167,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -16908,6 +17582,8 @@
   {
     "id": "skuntank",
     "dex": 435,
+    "primaryType": "poison",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -16930,6 +17606,8 @@
   {
     "id": "mandibuzz",
     "dex": 630,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -16998,6 +17676,8 @@
   {
     "id": "walrein",
     "dex": 365,
+    "primaryType": "ice",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -17034,6 +17714,8 @@
   {
     "id": "archeops",
     "dex": 567,
+    "primaryType": "rock",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -17061,6 +17743,8 @@
   {
     "id": "drapion",
     "dex": 452,
+    "primaryType": "poison",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -17092,6 +17776,7 @@
   {
     "id": "persian",
     "dex": 53,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -17137,6 +17822,7 @@
   {
     "id": "greedent",
     "dex": 820,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -17164,6 +17850,8 @@
   {
     "id": "steelix",
     "dex": 208,
+    "primaryType": "steel",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -17218,6 +17906,7 @@
   {
     "id": "gigalith",
     "dex": 526,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -17272,6 +17961,8 @@
   {
     "id": "araquanid",
     "dex": 752,
+    "primaryType": "water",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -17303,6 +17994,8 @@
   {
     "id": "onix",
     "dex": 95,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -17357,6 +18050,8 @@
   {
     "id": "stufful",
     "dex": 759,
+    "primaryType": "normal",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -17379,6 +18074,8 @@
   {
     "id": "glimmet",
     "dex": 969,
+    "primaryType": "rock",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -17424,6 +18121,8 @@
   {
     "id": "blaziken",
     "dex": 257,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -17469,6 +18168,8 @@
   {
     "id": "moltres",
     "dex": 146,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -17532,6 +18233,7 @@
   {
     "id": "machamp",
     "dex": 68,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -17572,6 +18274,8 @@
   {
     "id": "flygon",
     "dex": 330,
+    "primaryType": "ground",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -17603,6 +18307,7 @@
   {
     "id": "axew",
     "dex": 610,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -17634,6 +18339,7 @@
   {
     "id": "bounsweet",
     "dex": 761,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -17665,6 +18371,7 @@
   {
     "id": "typenull",
     "dex": 772,
+    "primaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -17677,6 +18384,7 @@
   {
     "id": "palafin",
     "dex": 964,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -17704,6 +18412,7 @@
   {
     "id": "cryogonal",
     "dex": 615,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -17735,6 +18444,8 @@
   {
     "id": "xatu",
     "dex": 178,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -17789,6 +18500,7 @@
   {
     "id": "blissey",
     "dex": 242,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -17829,6 +18541,8 @@
   {
     "id": "kilowattrel",
     "dex": 941,
+    "primaryType": "electric",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -17883,6 +18597,8 @@
   {
     "id": "zarude",
     "dex": 893,
+    "primaryType": "dark",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -17946,6 +18662,7 @@
   {
     "id": "regirock",
     "dex": 377,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -17968,6 +18685,8 @@
   {
     "id": "claydol",
     "dex": 344,
+    "primaryType": "ground",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -18013,6 +18732,7 @@
   {
     "id": "wugtrio",
     "dex": 961,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -18025,6 +18745,7 @@
   {
     "id": "blastoise",
     "dex": 9,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -18061,6 +18782,8 @@
   {
     "id": "roselia",
     "dex": 315,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -18115,6 +18838,8 @@
   {
     "id": "forretress",
     "dex": 205,
+    "primaryType": "bug",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -18160,6 +18885,8 @@
   {
     "id": "houndoom",
     "dex": 229,
+    "primaryType": "dark",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -18219,6 +18946,8 @@
   {
     "id": "golurk",
     "dex": 623,
+    "primaryType": "ground",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -18264,6 +18993,7 @@
   {
     "id": "liepard",
     "dex": 510,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -18300,6 +19030,8 @@
   {
     "id": "lokix",
     "dex": 920,
+    "primaryType": "bug",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -18322,6 +19054,7 @@
   {
     "id": "sandslash",
     "dex": 28,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -18376,6 +19109,8 @@
   {
     "id": "quagsire",
     "dex": 195,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -18412,6 +19147,7 @@
   {
     "id": "mienfoo",
     "dex": 619,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -18443,6 +19179,8 @@
   {
     "id": "jumpluff",
     "dex": 189,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -18479,6 +19217,8 @@
   {
     "id": "braviary",
     "dex": 628,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -18533,6 +19273,8 @@
   {
     "id": "swadloon",
     "dex": 541,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -18587,6 +19329,8 @@
   {
     "id": "salazzle",
     "dex": 758,
+    "primaryType": "poison",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -18632,6 +19376,8 @@
   {
     "id": "pecharunt",
     "dex": 1025,
+    "primaryType": "poison",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [],
       "amount": {
@@ -18644,6 +19390,8 @@
   {
     "id": "cottonee",
     "dex": 546,
+    "primaryType": "grass",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -18684,6 +19432,7 @@
   {
     "id": "ninetales",
     "dex": 38,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -18729,6 +19478,8 @@
   {
     "id": "igglybuff",
     "dex": 174,
+    "primaryType": "normal",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -18769,6 +19520,8 @@
   {
     "id": "charizard",
     "dex": 6,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -18805,6 +19558,8 @@
   {
     "id": "walkingwake",
     "dex": 1009,
+    "primaryType": "water",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -18817,6 +19572,8 @@
   {
     "id": "toxicroak",
     "dex": 454,
+    "primaryType": "poison",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -18848,6 +19605,7 @@
   {
     "id": "sylveon",
     "dex": 700,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -18879,6 +19637,7 @@
   {
     "id": "falinks",
     "dex": 870,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -18910,6 +19669,7 @@
   {
     "id": "mismagius",
     "dex": 429,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -18950,6 +19710,8 @@
   {
     "id": "joltik",
     "dex": 595,
+    "primaryType": "bug",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -19014,6 +19776,8 @@
   {
     "id": "cradily",
     "dex": 346,
+    "primaryType": "rock",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -19036,6 +19800,7 @@
   {
     "id": "sirfetchd",
     "dex": 865,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -19090,6 +19855,7 @@
   {
     "id": "tangrowth",
     "dex": 465,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -19126,6 +19892,8 @@
   {
     "id": "crustle",
     "dex": 558,
+    "primaryType": "bug",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -19162,6 +19930,8 @@
   {
     "id": "vikavolt",
     "dex": 738,
+    "primaryType": "bug",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -19193,6 +19963,7 @@
   {
     "id": "serperior",
     "dex": 497,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -19215,6 +19986,7 @@
   {
     "id": "simisage",
     "dex": 512,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -19255,6 +20027,7 @@
   {
     "id": "grumpig",
     "dex": 326,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -19305,6 +20078,8 @@
   {
     "id": "ironthorns",
     "dex": 995,
+    "primaryType": "rock",
+    "secondaryType": "electric",
     "drops": {
       "entries": [],
       "amount": {
@@ -19317,6 +20092,7 @@
   {
     "id": "rattata",
     "dex": 19,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -19353,6 +20129,8 @@
   {
     "id": "golisopod",
     "dex": 768,
+    "primaryType": "bug",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -19375,6 +20153,8 @@
   {
     "id": "lileep",
     "dex": 345,
+    "primaryType": "rock",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -19397,6 +20177,8 @@
   {
     "id": "venusaur",
     "dex": 3,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -19433,6 +20215,8 @@
   {
     "id": "roserade",
     "dex": 407,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -19487,6 +20271,7 @@
   {
     "id": "nidorino",
     "dex": 33,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -19518,6 +20303,8 @@
   {
     "id": "talonflame",
     "dex": 663,
+    "primaryType": "fire",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -19572,6 +20359,7 @@
   {
     "id": "flareon",
     "dex": 136,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -19603,6 +20391,7 @@
   {
     "id": "arcanine",
     "dex": 59,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -19639,6 +20428,7 @@
   {
     "id": "nidorina",
     "dex": 30,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -19670,6 +20460,7 @@
   {
     "id": "chimchar",
     "dex": 390,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -19692,6 +20483,8 @@
   {
     "id": "gyarados",
     "dex": 130,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -19732,6 +20525,8 @@
   {
     "id": "doublade",
     "dex": 680,
+    "primaryType": "steel",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -19777,6 +20572,8 @@
   {
     "id": "keldeo",
     "dex": 647,
+    "primaryType": "water",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -19840,6 +20637,8 @@
   {
     "id": "gengar",
     "dex": 94,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -19871,6 +20670,8 @@
   {
     "id": "spiritomb",
     "dex": 442,
+    "primaryType": "ghost",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -19902,6 +20703,8 @@
   {
     "id": "delphox",
     "dex": 655,
+    "primaryType": "fire",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -19947,6 +20750,7 @@
   {
     "id": "tarountula",
     "dex": 917,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -19988,6 +20792,8 @@
   {
     "id": "flapple",
     "dex": 841,
+    "primaryType": "grass",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -20019,6 +20825,8 @@
   {
     "id": "latios",
     "dex": 381,
+    "primaryType": "dragon",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -20091,6 +20899,8 @@
   {
     "id": "dottler",
     "dex": 825,
+    "primaryType": "bug",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -20122,6 +20932,8 @@
   {
     "id": "victini",
     "dex": 494,
+    "primaryType": "psychic",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -20185,6 +20997,8 @@
   {
     "id": "zubat",
     "dex": 41,
+    "primaryType": "poison",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -20225,6 +21039,7 @@
   {
     "id": "hitmontop",
     "dex": 237,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -20256,6 +21071,8 @@
   {
     "id": "azumarill",
     "dex": 184,
+    "primaryType": "water",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -20278,6 +21095,7 @@
   {
     "id": "phanpy",
     "dex": 231,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -20314,6 +21132,7 @@
   {
     "id": "horsea",
     "dex": 116,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -20364,6 +21183,8 @@
   {
     "id": "numel",
     "dex": 322,
+    "primaryType": "fire",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -20395,6 +21216,7 @@
   {
     "id": "seviper",
     "dex": 336,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -20444,6 +21266,8 @@
   {
     "id": "nuzleaf",
     "dex": 274,
+    "primaryType": "grass",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -20480,6 +21304,8 @@
   {
     "id": "oranguru",
     "dex": 765,
+    "primaryType": "normal",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -20511,6 +21337,8 @@
   {
     "id": "flamigo",
     "dex": 973,
+    "primaryType": "flying",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -20565,6 +21393,8 @@
   {
     "id": "farigiraf",
     "dex": 981,
+    "primaryType": "normal",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -20610,6 +21440,7 @@
   {
     "id": "clawitzer",
     "dex": 693,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -20622,6 +21453,7 @@
   {
     "id": "gorebyss",
     "dex": 368,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -20644,6 +21476,7 @@
   {
     "id": "chingling",
     "dex": 433,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -20684,6 +21517,7 @@
   {
     "id": "klawf",
     "dex": 950,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -20706,6 +21540,8 @@
   {
     "id": "trumbeak",
     "dex": 732,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -20751,6 +21587,8 @@
   {
     "id": "tatsugiri",
     "dex": 978,
+    "primaryType": "dragon",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -20791,6 +21629,7 @@
   {
     "id": "quilava",
     "dex": 156,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -20813,6 +21652,7 @@
   {
     "id": "seadra",
     "dex": 117,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -20863,6 +21703,8 @@
   {
     "id": "cloyster",
     "dex": 91,
+    "primaryType": "water",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -20894,6 +21736,7 @@
   {
     "id": "wailord",
     "dex": 321,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -20930,6 +21773,7 @@
   {
     "id": "gimmighoul",
     "dex": 999,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -20957,6 +21801,7 @@
   {
     "id": "watchog",
     "dex": 505,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -20979,6 +21824,8 @@
   {
     "id": "qwilfish",
     "dex": 211,
+    "primaryType": "water",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -21024,6 +21871,7 @@
   {
     "id": "brionne",
     "dex": 729,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -21055,6 +21903,8 @@
   {
     "id": "arctozolt",
     "dex": 881,
+    "primaryType": "electric",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -21096,6 +21946,8 @@
   {
     "id": "camerupt",
     "dex": 323,
+    "primaryType": "fire",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -21127,6 +21979,8 @@
   {
     "id": "gourgeist",
     "dex": 711,
+    "primaryType": "ghost",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -21172,6 +22026,7 @@
   {
     "id": "sprigatito",
     "dex": 906,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -21194,6 +22049,7 @@
   {
     "id": "cherrim",
     "dex": 421,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -21239,6 +22095,8 @@
   {
     "id": "kingdra",
     "dex": 230,
+    "primaryType": "water",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -21289,6 +22147,7 @@
   {
     "id": "basculin",
     "dex": 550,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -21329,6 +22188,7 @@
   {
     "id": "haxorus",
     "dex": 612,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -21360,6 +22220,7 @@
   {
     "id": "hitmonlee",
     "dex": 106,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -21391,6 +22252,7 @@
   {
     "id": "flaaffy",
     "dex": 180,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -21436,6 +22298,7 @@
   {
     "id": "quaxwell",
     "dex": 913,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -21458,6 +22321,8 @@
   {
     "id": "drakloak",
     "dex": 886,
+    "primaryType": "dragon",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -21489,6 +22354,8 @@
   {
     "id": "rhyperior",
     "dex": 464,
+    "primaryType": "ground",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -21520,6 +22387,8 @@
   {
     "id": "dipplin",
     "dex": 1011,
+    "primaryType": "grass",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -21547,6 +22416,7 @@
   {
     "id": "charcadet",
     "dex": 935,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -21592,6 +22462,7 @@
   {
     "id": "dragonair",
     "dex": 148,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -21646,6 +22517,7 @@
   {
     "id": "flabebe",
     "dex": 669,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -21677,6 +22549,7 @@
   {
     "id": "whismur",
     "dex": 293,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -21708,6 +22581,8 @@
   {
     "id": "binacle",
     "dex": 688,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -21730,6 +22605,7 @@
   {
     "id": "tsareena",
     "dex": 763,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -21761,6 +22637,8 @@
   {
     "id": "dolliv",
     "dex": 929,
+    "primaryType": "grass",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -21792,6 +22670,8 @@
   {
     "id": "beedrill",
     "dex": 15,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -21832,6 +22712,7 @@
   {
     "id": "drowzee",
     "dex": 96,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -21854,6 +22735,7 @@
   {
     "id": "aipom",
     "dex": 190,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -21876,6 +22758,7 @@
   {
     "id": "pansear",
     "dex": 513,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -21916,6 +22799,7 @@
   {
     "id": "spectrier",
     "dex": 897,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -21979,6 +22863,8 @@
   {
     "id": "chiyu",
     "dex": 1004,
+    "primaryType": "dark",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -22042,6 +22928,7 @@
   {
     "id": "solosis",
     "dex": 577,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -22078,6 +22965,8 @@
   {
     "id": "graveler",
     "dex": 75,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -22132,6 +23021,7 @@
   {
     "id": "ampharos",
     "dex": 181,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -22168,6 +23058,8 @@
   {
     "id": "lanturn",
     "dex": 171,
+    "primaryType": "water",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -22213,6 +23105,8 @@
   {
     "id": "combee",
     "dex": 415,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -22272,6 +23166,7 @@
   {
     "id": "sobble",
     "dex": 816,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -22294,6 +23189,7 @@
   {
     "id": "entei",
     "dex": 244,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -22357,6 +23253,8 @@
   {
     "id": "yveltal",
     "dex": 717,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -22420,6 +23318,7 @@
   {
     "id": "steenee",
     "dex": 762,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -22451,6 +23350,7 @@
   {
     "id": "regidrago",
     "dex": 895,
+    "primaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -22463,6 +23363,8 @@
   {
     "id": "pumpkaboo",
     "dex": 710,
+    "primaryType": "ghost",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -22508,6 +23410,7 @@
   {
     "id": "fraxure",
     "dex": 611,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -22539,6 +23442,8 @@
   {
     "id": "ragingbolt",
     "dex": 1021,
+    "primaryType": "electric",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -22551,6 +23456,8 @@
   {
     "id": "armarouge",
     "dex": 936,
+    "primaryType": "fire",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -22605,6 +23512,7 @@
   {
     "id": "dugtrio",
     "dex": 51,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -22659,6 +23567,8 @@
   {
     "id": "whiscash",
     "dex": 340,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -22695,6 +23605,8 @@
   {
     "id": "guzzlord",
     "dex": 799,
+    "primaryType": "dark",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -22722,6 +23634,7 @@
   {
     "id": "togepi",
     "dex": 175,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -22762,6 +23675,8 @@
   {
     "id": "minior",
     "dex": 774,
+    "primaryType": "rock",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -22784,6 +23699,7 @@
   {
     "id": "feraligatr",
     "dex": 160,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -22806,6 +23722,8 @@
   {
     "id": "poltchageist",
     "dex": 1012,
+    "primaryType": "grass",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -22828,6 +23746,8 @@
   {
     "id": "toxapex",
     "dex": 748,
+    "primaryType": "poison",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -22873,6 +23793,8 @@
   {
     "id": "kingambit",
     "dex": 983,
+    "primaryType": "dark",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -22904,6 +23826,7 @@
   {
     "id": "electivire",
     "dex": 466,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -22949,6 +23872,8 @@
   {
     "id": "wooper",
     "dex": 194,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -22985,6 +23910,8 @@
   {
     "id": "probopass",
     "dex": 476,
+    "primaryType": "rock",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -23039,6 +23966,7 @@
   {
     "id": "psyduck",
     "dex": 54,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -23084,6 +24012,7 @@
   {
     "id": "thwackey",
     "dex": 811,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -23120,6 +24049,7 @@
   {
     "id": "rellor",
     "dex": 953,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -23142,6 +24072,8 @@
   {
     "id": "kabuto",
     "dex": 140,
+    "primaryType": "rock",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -23173,6 +24105,8 @@
   {
     "id": "obstagoon",
     "dex": 862,
+    "primaryType": "dark",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -23195,6 +24129,7 @@
   {
     "id": "mabosstiff",
     "dex": 943,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -23245,6 +24180,8 @@
   {
     "id": "ironvaliant",
     "dex": 1006,
+    "primaryType": "fairy",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [],
       "amount": {
@@ -23257,6 +24194,8 @@
   {
     "id": "rotom",
     "dex": 479,
+    "primaryType": "electric",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [],
       "amount": {
@@ -23269,6 +24208,7 @@
   {
     "id": "bunnelby",
     "dex": 659,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -23332,6 +24272,7 @@
   {
     "id": "greavard",
     "dex": 971,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -23391,6 +24332,7 @@
   {
     "id": "barraskewda",
     "dex": 847,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -23422,6 +24364,7 @@
   {
     "id": "cresselia",
     "dex": 488,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -23485,6 +24428,8 @@
   {
     "id": "magnezone",
     "dex": 462,
+    "primaryType": "electric",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -23539,6 +24484,7 @@
   {
     "id": "poliwag",
     "dex": 60,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -23570,6 +24516,7 @@
   {
     "id": "suicune",
     "dex": 245,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -23633,6 +24580,8 @@
   {
     "id": "bruxish",
     "dex": 779,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -23673,6 +24622,8 @@
   {
     "id": "gliscor",
     "dex": 472,
+    "primaryType": "ground",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -23722,6 +24673,7 @@
   {
     "id": "bouffalant",
     "dex": 626,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -23786,6 +24738,7 @@
   {
     "id": "plusle",
     "dex": 311,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -23826,6 +24779,8 @@
   {
     "id": "thundurus",
     "dex": 642,
+    "primaryType": "electric",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -23889,6 +24844,8 @@
   {
     "id": "mantine",
     "dex": 226,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -23925,6 +24882,7 @@
   {
     "id": "sawk",
     "dex": 539,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -23965,6 +24923,7 @@
   {
     "id": "pansage",
     "dex": 511,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -24005,6 +24964,8 @@
   {
     "id": "vivillon",
     "dex": 666,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -24045,6 +25006,8 @@
   {
     "id": "hakamoo",
     "dex": 783,
+    "primaryType": "dragon",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -24090,6 +25053,7 @@
   {
     "id": "comfey",
     "dex": 764,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -24121,6 +25085,7 @@
   {
     "id": "corvisquire",
     "dex": 822,
+    "primaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -24175,6 +25140,7 @@
   {
     "id": "bidoof",
     "dex": 399,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -24211,6 +25177,8 @@
   {
     "id": "zekrom",
     "dex": 644,
+    "primaryType": "dragon",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -24274,6 +25242,7 @@
   {
     "id": "thievul",
     "dex": 828,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -24319,6 +25288,8 @@
   {
     "id": "shiftry",
     "dex": 275,
+    "primaryType": "grass",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -24355,6 +25326,7 @@
   {
     "id": "tandemaus",
     "dex": 924,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -24391,6 +25363,7 @@
   {
     "id": "nymble",
     "dex": 919,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -24413,6 +25386,8 @@
   {
     "id": "sandygast",
     "dex": 769,
+    "primaryType": "ghost",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -24458,6 +25433,7 @@
   {
     "id": "eevee",
     "dex": 133,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -24489,6 +25465,8 @@
   {
     "id": "palpitoad",
     "dex": 536,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -24525,6 +25503,7 @@
   {
     "id": "raboot",
     "dex": 814,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -24579,6 +25558,8 @@
   {
     "id": "snom",
     "dex": 872,
+    "primaryType": "ice",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -24624,6 +25605,8 @@
   {
     "id": "annihilape",
     "dex": 979,
+    "primaryType": "fighting",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -24655,6 +25638,8 @@
   {
     "id": "cobalion",
     "dex": 638,
+    "primaryType": "steel",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -24718,6 +25703,8 @@
   {
     "id": "gougingfire",
     "dex": 1020,
+    "primaryType": "fire",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -24730,6 +25717,8 @@
   {
     "id": "reshiram",
     "dex": 643,
+    "primaryType": "dragon",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -24793,6 +25782,8 @@
   {
     "id": "aron",
     "dex": 304,
+    "primaryType": "steel",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -24838,6 +25829,7 @@
   {
     "id": "eiscue",
     "dex": 875,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -24906,6 +25898,8 @@
   {
     "id": "turtonator",
     "dex": 776,
+    "primaryType": "fire",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -24951,6 +25945,7 @@
   {
     "id": "croconaw",
     "dex": 159,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -24973,6 +25968,8 @@
   {
     "id": "skarmory",
     "dex": 227,
+    "primaryType": "steel",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -25013,6 +26010,8 @@
   {
     "id": "taillow",
     "dex": 276,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -25058,6 +26057,7 @@
   {
     "id": "cacnea",
     "dex": 331,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -25112,6 +26112,8 @@
   {
     "id": "gabite",
     "dex": 444,
+    "primaryType": "dragon",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -25143,6 +26145,7 @@
   {
     "id": "happiny",
     "dex": 440,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -25165,6 +26168,7 @@
   {
     "id": "glameow",
     "dex": 431,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -25187,6 +26191,7 @@
   {
     "id": "meltan",
     "dex": 808,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -25250,6 +26255,7 @@
   {
     "id": "grapploct",
     "dex": 853,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -25286,6 +26292,8 @@
   {
     "id": "togetic",
     "dex": 176,
+    "primaryType": "fairy",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -25326,6 +26334,7 @@
   {
     "id": "exploud",
     "dex": 295,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -25357,6 +26366,7 @@
   {
     "id": "chimecho",
     "dex": 358,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -25397,6 +26407,8 @@
   {
     "id": "ferroseed",
     "dex": 597,
+    "primaryType": "grass",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -25442,6 +26454,8 @@
   {
     "id": "pidgeot",
     "dex": 18,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -25496,6 +26510,8 @@
   {
     "id": "cyclizar",
     "dex": 967,
+    "primaryType": "dragon",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -25518,6 +26534,7 @@
   {
     "id": "melmetal",
     "dex": 809,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -25545,6 +26562,7 @@
   {
     "id": "gulpin",
     "dex": 316,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -25590,6 +26608,8 @@
   {
     "id": "masquerain",
     "dex": 284,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -25621,6 +26641,8 @@
   {
     "id": "tapufini",
     "dex": 788,
+    "primaryType": "water",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -25684,6 +26706,8 @@
   {
     "id": "tinglu",
     "dex": 1003,
+    "primaryType": "dark",
+    "secondaryType": "ground",
     "drops": {
       "entries": [],
       "amount": {
@@ -25696,6 +26720,8 @@
   {
     "id": "bibarel",
     "dex": 400,
+    "primaryType": "normal",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -25732,6 +26758,7 @@
   {
     "id": "manectric",
     "dex": 310,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -25782,6 +26809,8 @@
   {
     "id": "lunatone",
     "dex": 337,
+    "primaryType": "rock",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -25813,6 +26842,7 @@
   {
     "id": "smeargle",
     "dex": 235,
+    "primaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -25825,6 +26855,7 @@
   {
     "id": "kyogre",
     "dex": 382,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -25888,6 +26919,7 @@
   {
     "id": "vulpix",
     "dex": 37,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -25933,6 +26965,7 @@
   {
     "id": "unown",
     "dex": 201,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -25960,6 +26993,8 @@
   {
     "id": "palkia",
     "dex": 484,
+    "primaryType": "water",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -26023,6 +27058,8 @@
   {
     "id": "butterfree",
     "dex": 12,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -26063,6 +27100,7 @@
   {
     "id": "furfrou",
     "dex": 676,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -26113,6 +27151,7 @@
   {
     "id": "clefairy",
     "dex": 35,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -26153,6 +27192,8 @@
   {
     "id": "cramorant",
     "dex": 845,
+    "primaryType": "flying",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -26212,6 +27253,7 @@
   {
     "id": "houndstone",
     "dex": 972,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -26262,6 +27304,8 @@
   {
     "id": "rhydon",
     "dex": 112,
+    "primaryType": "ground",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -26293,6 +27337,8 @@
   {
     "id": "sneasel",
     "dex": 215,
+    "primaryType": "dark",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -26342,6 +27388,7 @@
   {
     "id": "primeape",
     "dex": 57,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -26373,6 +27420,7 @@
   {
     "id": "samurott",
     "dex": 503,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -26404,6 +27452,8 @@
   {
     "id": "stakataka",
     "dex": 805,
+    "primaryType": "rock",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -26431,6 +27481,7 @@
   {
     "id": "registeel",
     "dex": 379,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -26453,6 +27504,8 @@
   {
     "id": "scraggy",
     "dex": 559,
+    "primaryType": "dark",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -26493,6 +27546,7 @@
   {
     "id": "zamazenta",
     "dex": 889,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -26556,6 +27610,7 @@
   {
     "id": "hippowdon",
     "dex": 450,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -26601,6 +27656,8 @@
   {
     "id": "empoleon",
     "dex": 395,
+    "primaryType": "water",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -26646,6 +27703,8 @@
   {
     "id": "lairon",
     "dex": 305,
+    "primaryType": "steel",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -26691,6 +27750,8 @@
   {
     "id": "swinub",
     "dex": 220,
+    "primaryType": "ice",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -26740,6 +27801,8 @@
   {
     "id": "durant",
     "dex": 632,
+    "primaryType": "bug",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -26776,6 +27839,7 @@
   {
     "id": "shelmet",
     "dex": 616,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -26798,6 +27862,8 @@
   {
     "id": "virizion",
     "dex": 640,
+    "primaryType": "grass",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -26820,6 +27886,7 @@
   {
     "id": "floette",
     "dex": 670,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -26851,6 +27918,8 @@
   {
     "id": "crobat",
     "dex": 169,
+    "primaryType": "poison",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -26891,6 +27960,8 @@
   {
     "id": "starmie",
     "dex": 121,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -26903,6 +27974,7 @@
   {
     "id": "kubfu",
     "dex": 891,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -26966,6 +28038,7 @@
   {
     "id": "lechonk",
     "dex": 915,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -27002,6 +28075,8 @@
   {
     "id": "lombre",
     "dex": 271,
+    "primaryType": "water",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -27047,6 +28122,8 @@
   {
     "id": "carkol",
     "dex": 838,
+    "primaryType": "rock",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -27092,6 +28169,8 @@
   {
     "id": "sandyshocks",
     "dex": 989,
+    "primaryType": "electric",
+    "secondaryType": "ground",
     "drops": {
       "entries": [],
       "amount": {
@@ -27104,6 +28183,8 @@
   {
     "id": "aegislash",
     "dex": 681,
+    "primaryType": "steel",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -27158,6 +28239,8 @@
   {
     "id": "dreepy",
     "dex": 885,
+    "primaryType": "dragon",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -27189,6 +28272,8 @@
   {
     "id": "deino",
     "dex": 633,
+    "primaryType": "dark",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -27225,6 +28310,8 @@
   {
     "id": "tranquill",
     "dex": 520,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -27279,6 +28366,8 @@
   {
     "id": "chesnaught",
     "dex": 652,
+    "primaryType": "grass",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -27301,6 +28390,8 @@
   {
     "id": "lotad",
     "dex": 270,
+    "primaryType": "water",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -27346,6 +28437,7 @@
   {
     "id": "treecko",
     "dex": 252,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -27382,6 +28474,7 @@
   {
     "id": "frogadier",
     "dex": 657,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -27418,6 +28511,8 @@
   {
     "id": "combusken",
     "dex": 256,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -27463,6 +28558,8 @@
   {
     "id": "gardevoir",
     "dex": 282,
+    "primaryType": "psychic",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -27517,6 +28614,7 @@
   {
     "id": "raikou",
     "dex": 243,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -27580,6 +28678,8 @@
   {
     "id": "dracovish",
     "dex": 882,
+    "primaryType": "water",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -27616,6 +28716,8 @@
   {
     "id": "relicanth",
     "dex": 369,
+    "primaryType": "water",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -27647,6 +28749,7 @@
   {
     "id": "granbull",
     "dex": 210,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -27683,6 +28786,8 @@
   {
     "id": "indeedee",
     "dex": 876,
+    "primaryType": "psychic",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -27714,6 +28819,8 @@
   {
     "id": "yanma",
     "dex": 193,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -27745,6 +28852,8 @@
   {
     "id": "pawmot",
     "dex": 923,
+    "primaryType": "electric",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -27767,6 +28876,8 @@
   {
     "id": "skorupi",
     "dex": 451,
+    "primaryType": "poison",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -27798,6 +28909,8 @@
   {
     "id": "surskit",
     "dex": 283,
+    "primaryType": "bug",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -27834,6 +28947,7 @@
   {
     "id": "gossifleur",
     "dex": 829,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -27856,6 +28970,8 @@
   {
     "id": "carracosta",
     "dex": 565,
+    "primaryType": "water",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -27883,6 +28999,7 @@
   {
     "id": "fuecoco",
     "dex": 909,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -27905,6 +29022,7 @@
   {
     "id": "hypno",
     "dex": 97,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -27927,6 +29045,8 @@
   {
     "id": "scovillain",
     "dex": 952,
+    "primaryType": "grass",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -27963,6 +29083,7 @@
   {
     "id": "ponyta",
     "dex": 77,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -28008,6 +29129,7 @@
   {
     "id": "fidough",
     "dex": 926,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -28044,6 +29166,7 @@
   {
     "id": "alcremie",
     "dex": 869,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -28080,6 +29203,7 @@
   {
     "id": "throh",
     "dex": 538,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -28120,6 +29244,8 @@
   {
     "id": "swampert",
     "dex": 260,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -28156,6 +29282,8 @@
   {
     "id": "armaldo",
     "dex": 348,
+    "primaryType": "rock",
+    "secondaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -28178,6 +29306,7 @@
   {
     "id": "deoxys",
     "dex": 386,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -28241,6 +29370,8 @@
   {
     "id": "tropius",
     "dex": 357,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28268,6 +29399,8 @@
   {
     "id": "ledian",
     "dex": 166,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28290,6 +29423,8 @@
   {
     "id": "articuno",
     "dex": 144,
+    "primaryType": "ice",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28353,6 +29488,8 @@
   {
     "id": "bellsprout",
     "dex": 69,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -28384,6 +29521,7 @@
   {
     "id": "maschiff",
     "dex": 942,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -28434,6 +29572,7 @@
   {
     "id": "castform",
     "dex": 351,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -28456,6 +29595,8 @@
   {
     "id": "ironhands",
     "dex": 992,
+    "primaryType": "fighting",
+    "secondaryType": "electric",
     "drops": {
       "entries": [],
       "amount": {
@@ -28468,6 +29609,7 @@
   {
     "id": "beartic",
     "dex": 614,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -28518,6 +29660,8 @@
   {
     "id": "gligar",
     "dex": 207,
+    "primaryType": "ground",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28567,6 +29711,8 @@
   {
     "id": "delibird",
     "dex": 225,
+    "primaryType": "ice",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28612,6 +29758,8 @@
   {
     "id": "golem",
     "dex": 76,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -28666,6 +29814,8 @@
   {
     "id": "slowbro",
     "dex": 80,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -28720,6 +29870,8 @@
   {
     "id": "corsola",
     "dex": 222,
+    "primaryType": "water",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -28751,6 +29903,7 @@
   {
     "id": "pawmi",
     "dex": 921,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -28773,6 +29926,7 @@
   {
     "id": "sudowoodo",
     "dex": 185,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -28804,6 +29958,8 @@
   {
     "id": "whirlipede",
     "dex": 544,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -28835,6 +29991,8 @@
   {
     "id": "noctowl",
     "dex": 164,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -28889,6 +30047,8 @@
   {
     "id": "koraidon",
     "dex": 1007,
+    "primaryType": "fighting",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -28952,6 +30112,8 @@
   {
     "id": "heracross",
     "dex": 214,
+    "primaryType": "bug",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -28974,6 +30136,7 @@
   {
     "id": "wishiwashi",
     "dex": 746,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -29005,6 +30168,7 @@
   {
     "id": "klinklang",
     "dex": 601,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -29032,6 +30196,8 @@
   {
     "id": "veluza",
     "dex": 976,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -29068,6 +30234,8 @@
   {
     "id": "pignite",
     "dex": 499,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -29104,6 +30272,7 @@
   {
     "id": "sliggoo",
     "dex": 705,
+    "primaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -29149,6 +30318,8 @@
   {
     "id": "ceruledge",
     "dex": 937,
+    "primaryType": "fire",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -29203,6 +30374,8 @@
   {
     "id": "pawmo",
     "dex": 922,
+    "primaryType": "electric",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -29225,6 +30398,7 @@
   {
     "id": "oinkologne",
     "dex": 916,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -29261,6 +30435,7 @@
   {
     "id": "mudsdale",
     "dex": 750,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -29320,6 +30495,8 @@
   {
     "id": "salamence",
     "dex": 373,
+    "primaryType": "dragon",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -29360,6 +30537,8 @@
   {
     "id": "wattrel",
     "dex": 940,
+    "primaryType": "electric",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -29405,6 +30584,7 @@
   {
     "id": "stantler",
     "dex": 234,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -29441,6 +30621,8 @@
   {
     "id": "latias",
     "dex": 380,
+    "primaryType": "dragon",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -29513,6 +30695,7 @@
   {
     "id": "porygon2",
     "dex": 233,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -29535,6 +30718,7 @@
   {
     "id": "arceus",
     "dex": 493,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -29751,6 +30935,8 @@
   {
     "id": "honchkrow",
     "dex": 430,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -29796,6 +30982,8 @@
   {
     "id": "magearna",
     "dex": 801,
+    "primaryType": "steel",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -29859,6 +31047,8 @@
   {
     "id": "venipede",
     "dex": 543,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -29890,6 +31080,7 @@
   {
     "id": "cherubi",
     "dex": 420,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -29935,6 +31126,7 @@
   {
     "id": "mesprit",
     "dex": 481,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -29998,6 +31190,7 @@
   {
     "id": "staryu",
     "dex": 120,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -30010,6 +31203,7 @@
   {
     "id": "beheeyem",
     "dex": 606,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -30055,6 +31249,7 @@
   {
     "id": "mienshao",
     "dex": 620,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -30086,6 +31281,8 @@
   {
     "id": "larvesta",
     "dex": 636,
+    "primaryType": "bug",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -30140,6 +31337,7 @@
   {
     "id": "vanilluxe",
     "dex": 584,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -30185,6 +31383,8 @@
   {
     "id": "blacephalon",
     "dex": 806,
+    "primaryType": "fire",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -30212,6 +31412,8 @@
   {
     "id": "vileplume",
     "dex": 45,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -30243,6 +31445,7 @@
   {
     "id": "eelektrik",
     "dex": 603,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -30270,6 +31473,8 @@
   {
     "id": "miraidon",
     "dex": 1008,
+    "primaryType": "electric",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -30333,6 +31538,8 @@
   {
     "id": "aurorus",
     "dex": 699,
+    "primaryType": "rock",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -30355,6 +31562,8 @@
   {
     "id": "rhyhorn",
     "dex": 111,
+    "primaryType": "ground",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -30386,6 +31595,8 @@
   {
     "id": "charjabug",
     "dex": 737,
+    "primaryType": "bug",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -30431,6 +31642,8 @@
   {
     "id": "metagross",
     "dex": 376,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -30467,6 +31680,7 @@
   {
     "id": "wartortle",
     "dex": 8,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -30503,6 +31717,7 @@
   {
     "id": "copperajah",
     "dex": 879,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -30548,6 +31763,8 @@
   {
     "id": "bisharp",
     "dex": 625,
+    "primaryType": "dark",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -30579,6 +31796,7 @@
   {
     "id": "groudon",
     "dex": 383,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -30642,6 +31860,7 @@
   {
     "id": "sinistea",
     "dex": 854,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -30664,6 +31883,8 @@
   {
     "id": "gallade",
     "dex": 475,
+    "primaryType": "psychic",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -30718,6 +31939,7 @@
   {
     "id": "porygonz",
     "dex": 474,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -30740,6 +31962,7 @@
   {
     "id": "boltund",
     "dex": 836,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -30776,6 +31999,8 @@
   {
     "id": "eternatus",
     "dex": 890,
+    "primaryType": "poison",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -30839,6 +32064,8 @@
   {
     "id": "gastly",
     "dex": 92,
+    "primaryType": "ghost",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -30870,6 +32097,7 @@
   {
     "id": "meganium",
     "dex": 154,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -30892,6 +32120,7 @@
   {
     "id": "lopunny",
     "dex": 428,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -30955,6 +32184,7 @@
   {
     "id": "cyndaquil",
     "dex": 155,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -30977,6 +32207,8 @@
   {
     "id": "pawniard",
     "dex": 624,
+    "primaryType": "dark",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -31008,6 +32240,7 @@
   {
     "id": "cetitan",
     "dex": 975,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -31044,6 +32277,7 @@
   {
     "id": "rillaboom",
     "dex": 812,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -31080,6 +32314,7 @@
   {
     "id": "cetoddle",
     "dex": 974,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -31116,6 +32351,8 @@
   {
     "id": "ironmoth",
     "dex": 994,
+    "primaryType": "fire",
+    "secondaryType": "poison",
     "drops": {
       "entries": [],
       "amount": {
@@ -31128,6 +32365,8 @@
   {
     "id": "magnemite",
     "dex": 81,
+    "primaryType": "electric",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -31182,6 +32421,7 @@
   {
     "id": "crocalor",
     "dex": 910,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -31204,6 +32444,8 @@
   {
     "id": "toedscruel",
     "dex": 949,
+    "primaryType": "ground",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -31240,6 +32482,8 @@
   {
     "id": "solrock",
     "dex": 338,
+    "primaryType": "rock",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -31271,6 +32515,8 @@
   {
     "id": "orbeetle",
     "dex": 826,
+    "primaryType": "bug",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -31302,6 +32548,7 @@
   {
     "id": "klang",
     "dex": 600,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -31329,6 +32576,7 @@
   {
     "id": "dusclops",
     "dex": 356,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -31369,6 +32617,8 @@
   {
     "id": "swablu",
     "dex": 333,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -31414,6 +32664,7 @@
   {
     "id": "buneary",
     "dex": 427,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -31477,6 +32728,8 @@
   {
     "id": "jellicent",
     "dex": 593,
+    "primaryType": "water",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -31513,6 +32766,7 @@
   {
     "id": "meowstic",
     "dex": 678,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -31535,6 +32789,8 @@
   {
     "id": "lapras",
     "dex": 131,
+    "primaryType": "water",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -31584,6 +32840,7 @@
   {
     "id": "dudunsparce",
     "dex": 982,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -31615,6 +32872,7 @@
   {
     "id": "snorlax",
     "dex": 143,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -31674,6 +32932,8 @@
   {
     "id": "exeggcute",
     "dex": 102,
+    "primaryType": "grass",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -31728,6 +32988,8 @@
   {
     "id": "oddish",
     "dex": 43,
+    "primaryType": "grass",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -31759,6 +33021,7 @@
   {
     "id": "cleffa",
     "dex": 173,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -31799,6 +33062,7 @@
   {
     "id": "darkrai",
     "dex": 491,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -31862,6 +33126,7 @@
   {
     "id": "totodile",
     "dex": 158,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -31884,6 +33149,8 @@
   {
     "id": "ludicolo",
     "dex": 272,
+    "primaryType": "water",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -31929,6 +33196,8 @@
   {
     "id": "breloom",
     "dex": 286,
+    "primaryType": "grass",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -31965,6 +33234,8 @@
   {
     "id": "dracozolt",
     "dex": 880,
+    "primaryType": "electric",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -32006,6 +33277,8 @@
   {
     "id": "tinkatuff",
     "dex": 958,
+    "primaryType": "fairy",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -32042,6 +33315,8 @@
   {
     "id": "frigibax",
     "dex": 996,
+    "primaryType": "dragon",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -32064,6 +33339,8 @@
   {
     "id": "genesect",
     "dex": 649,
+    "primaryType": "bug",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -32086,6 +33363,7 @@
   {
     "id": "tauros",
     "dex": 128,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -32127,6 +33405,8 @@
   {
     "id": "marshtomp",
     "dex": 259,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -32163,6 +33443,8 @@
   {
     "id": "seismitoad",
     "dex": 537,
+    "primaryType": "water",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -32199,6 +33481,7 @@
   {
     "id": "piplup",
     "dex": 393,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -32244,6 +33527,7 @@
   {
     "id": "wooloo",
     "dex": 831,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -32280,6 +33564,7 @@
   {
     "id": "luxray",
     "dex": 405,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -32311,6 +33596,7 @@
   {
     "id": "munna",
     "dex": 517,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -32333,6 +33619,8 @@
   {
     "id": "noivern",
     "dex": 715,
+    "primaryType": "flying",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -32364,6 +33652,8 @@
   {
     "id": "hydrapple",
     "dex": 1019,
+    "primaryType": "grass",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [],
       "amount": {
@@ -32376,6 +33666,7 @@
   {
     "id": "hattrem",
     "dex": 857,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -32398,6 +33689,8 @@
   {
     "id": "hawlucha",
     "dex": 701,
+    "primaryType": "fighting",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -32438,6 +33731,8 @@
   {
     "id": "smoochum",
     "dex": 238,
+    "primaryType": "ice",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -32460,6 +33755,8 @@
   {
     "id": "pikipek",
     "dex": 731,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -32496,6 +33793,7 @@
   {
     "id": "eelektross",
     "dex": 604,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -32523,6 +33821,8 @@
   {
     "id": "brambleghast",
     "dex": 947,
+    "primaryType": "grass",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -32573,6 +33873,7 @@
   {
     "id": "pinsir",
     "dex": 127,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -32595,6 +33896,7 @@
   {
     "id": "torkoal",
     "dex": 324,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -32649,6 +33951,8 @@
   {
     "id": "dedenne",
     "dex": 702,
+    "primaryType": "electric",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -32671,6 +33975,8 @@
   {
     "id": "slowking",
     "dex": 199,
+    "primaryType": "water",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -32725,6 +34031,7 @@
   {
     "id": "buizel",
     "dex": 418,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -32761,6 +34068,7 @@
   {
     "id": "rockruff",
     "dex": 744,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -32820,6 +34128,7 @@
   {
     "id": "munchlax",
     "dex": 446,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -32865,6 +34174,7 @@
   {
     "id": "charmeleon",
     "dex": 5,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -32901,6 +34211,8 @@
   {
     "id": "drednaw",
     "dex": 834,
+    "primaryType": "water",
+    "secondaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -32937,6 +34249,7 @@
   {
     "id": "mankey",
     "dex": 56,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -32968,6 +34281,7 @@
   {
     "id": "zeraora",
     "dex": 807,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -32990,6 +34304,7 @@
   {
     "id": "pichu",
     "dex": 172,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -33030,6 +34345,7 @@
   {
     "id": "delcatty",
     "dex": 301,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -33075,6 +34391,7 @@
   {
     "id": "xurkitree",
     "dex": 796,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -33102,6 +34419,8 @@
   {
     "id": "abomasnow",
     "dex": 460,
+    "primaryType": "grass",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -33161,6 +34480,8 @@
   {
     "id": "sneasler",
     "dex": 903,
+    "primaryType": "fighting",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -33201,6 +34522,8 @@
   {
     "id": "arboliva",
     "dex": 930,
+    "primaryType": "grass",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -33232,6 +34555,7 @@
   {
     "id": "raichu",
     "dex": 26,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -33272,6 +34596,7 @@
   {
     "id": "darmanitan",
     "dex": 555,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -33294,6 +34619,8 @@
   {
     "id": "togedemaru",
     "dex": 777,
+    "primaryType": "electric",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -33325,6 +34652,8 @@
   {
     "id": "ironcrown",
     "dex": 1023,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -33337,6 +34666,8 @@
   {
     "id": "litleo",
     "dex": 667,
+    "primaryType": "fire",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -33382,6 +34713,8 @@
   {
     "id": "stunfisk",
     "dex": 618,
+    "primaryType": "ground",
+    "secondaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -33418,6 +34751,7 @@
   {
     "id": "huntail",
     "dex": 367,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -33440,6 +34774,8 @@
   {
     "id": "gible",
     "dex": 443,
+    "primaryType": "dragon",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -33471,6 +34807,8 @@
   {
     "id": "emboar",
     "dex": 500,
+    "primaryType": "fire",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -33507,6 +34845,7 @@
   {
     "id": "espeon",
     "dex": 196,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -33538,6 +34877,8 @@
   {
     "id": "dragonite",
     "dex": 149,
+    "primaryType": "dragon",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -33592,6 +34933,7 @@
   {
     "id": "lillipup",
     "dex": 506,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -33637,6 +34979,7 @@
   {
     "id": "kadabra",
     "dex": 64,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -33682,6 +35025,8 @@
   {
     "id": "tyrantrum",
     "dex": 697,
+    "primaryType": "rock",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -33704,6 +35049,7 @@
   {
     "id": "zoroark",
     "dex": 571,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -33740,6 +35086,8 @@
   {
     "id": "palossand",
     "dex": 770,
+    "primaryType": "ghost",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -33785,6 +35133,8 @@
   {
     "id": "solgaleo",
     "dex": 791,
+    "primaryType": "psychic",
+    "secondaryType": "steel",
     "drops": {
       "entries": [],
       "amount": {
@@ -33797,6 +35147,7 @@
   {
     "id": "grotle",
     "dex": 388,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -33833,6 +35184,7 @@
   {
     "id": "blipbug",
     "dex": 824,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -33864,6 +35216,7 @@
   {
     "id": "rapidash",
     "dex": 78,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -33909,6 +35262,8 @@
   {
     "id": "ironbundle",
     "dex": 991,
+    "primaryType": "ice",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -33936,6 +35291,8 @@
   {
     "id": "morpeko",
     "dex": 877,
+    "primaryType": "electric",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -33958,6 +35315,7 @@
   {
     "id": "tympole",
     "dex": 535,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -33994,6 +35352,8 @@
   {
     "id": "jirachi",
     "dex": 385,
+    "primaryType": "steel",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -34057,6 +35417,8 @@
   {
     "id": "spearow",
     "dex": 21,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -34111,6 +35473,8 @@
   {
     "id": "greninja",
     "dex": 658,
+    "primaryType": "water",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -34147,6 +35511,8 @@
   {
     "id": "natu",
     "dex": 177,
+    "primaryType": "psychic",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -34201,6 +35567,7 @@
   {
     "id": "glastrier",
     "dex": 896,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -34264,6 +35631,7 @@
   {
     "id": "machoke",
     "dex": 67,
+    "primaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -34304,6 +35672,7 @@
   {
     "id": "rolycoly",
     "dex": 837,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -34349,6 +35718,7 @@
   {
     "id": "shellos",
     "dex": 422,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -34385,6 +35755,8 @@
   {
     "id": "sableye",
     "dex": 302,
+    "primaryType": "dark",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -34448,6 +35820,8 @@
   {
     "id": "dartrix",
     "dex": 723,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -34493,6 +35867,7 @@
   {
     "id": "politoed",
     "dex": 186,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -34533,6 +35908,8 @@
   {
     "id": "chandelure",
     "dex": 609,
+    "primaryType": "ghost",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -34578,6 +35955,8 @@
   {
     "id": "diancie",
     "dex": 719,
+    "primaryType": "rock",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -34641,6 +36020,8 @@
   {
     "id": "emolga",
     "dex": 587,
+    "primaryType": "electric",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -34663,6 +36044,8 @@
   {
     "id": "toucannon",
     "dex": 733,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -34708,6 +36091,7 @@
   {
     "id": "espathra",
     "dex": 956,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -34739,6 +36123,7 @@
   {
     "id": "trubbish",
     "dex": 568,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -34788,6 +36173,7 @@
   {
     "id": "porygon",
     "dex": 137,
+    "primaryType": "normal",
     "drops": {
       "entries": [],
       "amount": {
@@ -34800,6 +36186,8 @@
   {
     "id": "calyrex",
     "dex": 898,
+    "primaryType": "psychic",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -34863,6 +36251,8 @@
   {
     "id": "venomoth",
     "dex": 49,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -34917,6 +36307,7 @@
   {
     "id": "slugma",
     "dex": 218,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -34953,6 +36344,7 @@
   {
     "id": "hatenna",
     "dex": 856,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -34975,6 +36367,7 @@
   {
     "id": "scatterbug",
     "dex": 664,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -35020,6 +36413,7 @@
   {
     "id": "necrozma",
     "dex": 800,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -35083,6 +36477,8 @@
   {
     "id": "rowlet",
     "dex": 722,
+    "primaryType": "grass",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -35128,6 +36524,7 @@
   {
     "id": "rampardos",
     "dex": 409,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -35155,6 +36552,7 @@
   {
     "id": "cufant",
     "dex": 878,
+    "primaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -35200,6 +36598,8 @@
   {
     "id": "carbink",
     "dex": 703,
+    "primaryType": "rock",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -35240,6 +36640,7 @@
   {
     "id": "fennekin",
     "dex": 653,
+    "primaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -35276,6 +36677,8 @@
   {
     "id": "beautifly",
     "dex": 267,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -35316,6 +36719,7 @@
   {
     "id": "zigzagoon",
     "dex": 263,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -35338,6 +36742,8 @@
   {
     "id": "gholdengo",
     "dex": 1000,
+    "primaryType": "steel",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -35365,6 +36771,8 @@
   {
     "id": "pidgeotto",
     "dex": 17,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -35419,6 +36827,7 @@
   {
     "id": "glalie",
     "dex": 362,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -35473,6 +36882,7 @@
   {
     "id": "metapod",
     "dex": 11,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -35509,6 +36919,8 @@
   {
     "id": "bramblin",
     "dex": 946,
+    "primaryType": "grass",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -35559,6 +36971,8 @@
   {
     "id": "kyurem",
     "dex": 646,
+    "primaryType": "dragon",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -35631,6 +37045,8 @@
   {
     "id": "scizor",
     "dex": 212,
+    "primaryType": "bug",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -35653,6 +37069,7 @@
   {
     "id": "florges",
     "dex": 671,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -35689,6 +37106,7 @@
   {
     "id": "shinx",
     "dex": 403,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -35720,6 +37138,7 @@
   {
     "id": "spidops",
     "dex": 918,
+    "primaryType": "bug",
     "drops": {
       "entries": [
         {
@@ -35761,6 +37180,7 @@
   {
     "id": "chansey",
     "dex": 113,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -35801,6 +37221,7 @@
   {
     "id": "simipour",
     "dex": 516,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -35841,6 +37262,7 @@
   {
     "id": "elekid",
     "dex": 239,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -35886,6 +37308,8 @@
   {
     "id": "baltoy",
     "dex": 343,
+    "primaryType": "ground",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -35931,6 +37355,8 @@
   {
     "id": "fearow",
     "dex": 22,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -35985,6 +37411,8 @@
   {
     "id": "pupitar",
     "dex": 247,
+    "primaryType": "rock",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -36016,6 +37444,8 @@
   {
     "id": "garchomp",
     "dex": 445,
+    "primaryType": "dragon",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -36047,6 +37477,7 @@
   {
     "id": "grookey",
     "dex": 810,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -36083,6 +37514,8 @@
   {
     "id": "mawile",
     "dex": 303,
+    "primaryType": "steel",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -36123,6 +37556,8 @@
   {
     "id": "pidove",
     "dex": 519,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -36168,6 +37603,8 @@
   {
     "id": "giratina",
     "dex": 487,
+    "primaryType": "ghost",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -36231,6 +37668,8 @@
   {
     "id": "pidgey",
     "dex": 16,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -36276,6 +37715,8 @@
   {
     "id": "fluttermane",
     "dex": 987,
+    "primaryType": "ghost",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -36312,6 +37753,7 @@
   {
     "id": "shuppet",
     "dex": 353,
+    "primaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -36343,6 +37785,8 @@
   {
     "id": "excadrill",
     "dex": 530,
+    "primaryType": "ground",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -36388,6 +37832,7 @@
   {
     "id": "minccino",
     "dex": 572,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -36419,6 +37864,7 @@
   {
     "id": "cinccino",
     "dex": 573,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -36450,6 +37896,8 @@
   {
     "id": "irontreads",
     "dex": 990,
+    "primaryType": "ground",
+    "secondaryType": "steel",
     "drops": {
       "entries": [],
       "amount": {
@@ -36462,6 +37910,7 @@
   {
     "id": "cosmog",
     "dex": 789,
+    "primaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -36474,6 +37923,7 @@
   {
     "id": "dewott",
     "dex": 502,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -36505,6 +37955,8 @@
   {
     "id": "meditite",
     "dex": 307,
+    "primaryType": "fighting",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -36545,6 +37997,8 @@
   {
     "id": "staravia",
     "dex": 397,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -36599,6 +38053,7 @@
   {
     "id": "avalugg",
     "dex": 713,
+    "primaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -36630,6 +38085,7 @@
   {
     "id": "gumshoos",
     "dex": 735,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -36652,6 +38108,7 @@
   {
     "id": "dubwool",
     "dex": 832,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -36693,6 +38150,8 @@
   {
     "id": "wormadam",
     "dex": 413,
+    "primaryType": "bug",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -36729,6 +38188,7 @@
   {
     "id": "yungoos",
     "dex": 734,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -36751,6 +38211,7 @@
   {
     "id": "wailmer",
     "dex": 320,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -36787,6 +38248,8 @@
   {
     "id": "mothim",
     "dex": 414,
+    "primaryType": "bug",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -36818,6 +38281,8 @@
   {
     "id": "grimmsnarl",
     "dex": 861,
+    "primaryType": "dark",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -36840,6 +38305,7 @@
   {
     "id": "skiddo",
     "dex": 672,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -36876,6 +38342,7 @@
   {
     "id": "stonjourner",
     "dex": 874,
+    "primaryType": "rock",
     "drops": {
       "entries": [
         {
@@ -36912,6 +38379,7 @@
   {
     "id": "wiglett",
     "dex": 960,
+    "primaryType": "water",
     "drops": {
       "entries": [],
       "amount": {
@@ -36924,6 +38392,8 @@
   {
     "id": "kommoo",
     "dex": 784,
+    "primaryType": "dragon",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -36969,6 +38439,8 @@
   {
     "id": "golbat",
     "dex": 42,
+    "primaryType": "poison",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -37009,6 +38481,8 @@
   {
     "id": "morgrem",
     "dex": 860,
+    "primaryType": "dark",
+    "secondaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -37031,6 +38505,7 @@
   {
     "id": "quaxly",
     "dex": 912,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -37053,6 +38528,8 @@
   {
     "id": "ironboulder",
     "dex": 1022,
+    "primaryType": "rock",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -37065,6 +38542,8 @@
   {
     "id": "heatran",
     "dex": 485,
+    "primaryType": "fire",
+    "secondaryType": "steel",
     "drops": {
       "entries": [
         {
@@ -37128,6 +38607,8 @@
   {
     "id": "poliwrath",
     "dex": 62,
+    "primaryType": "water",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -37159,6 +38640,8 @@
   {
     "id": "pangoro",
     "dex": 675,
+    "primaryType": "fighting",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -37204,6 +38687,8 @@
   {
     "id": "girafarig",
     "dex": 203,
+    "primaryType": "normal",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -37249,6 +38734,8 @@
   {
     "id": "mareanie",
     "dex": 747,
+    "primaryType": "poison",
+    "secondaryType": "water",
     "drops": {
       "entries": [
         {
@@ -37294,6 +38781,8 @@
   {
     "id": "hoothoot",
     "dex": 163,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -37348,6 +38837,7 @@
   {
     "id": "purrloin",
     "dex": 509,
+    "primaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -37384,6 +38874,7 @@
   {
     "id": "skwovet",
     "dex": 819,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -37411,6 +38902,8 @@
   {
     "id": "basculegion",
     "dex": 902,
+    "primaryType": "water",
+    "secondaryType": "ghost",
     "drops": {
       "entries": [
         {
@@ -37442,6 +38935,8 @@
   {
     "id": "fletchling",
     "dex": 661,
+    "primaryType": "normal",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -37487,6 +38982,7 @@
   {
     "id": "krabby",
     "dex": 98,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -37518,6 +39014,8 @@
   {
     "id": "sharpedo",
     "dex": 319,
+    "primaryType": "water",
+    "secondaryType": "dark",
     "drops": {
       "entries": [
         {
@@ -37549,6 +39047,8 @@
   {
     "id": "venonat",
     "dex": 48,
+    "primaryType": "bug",
+    "secondaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -37585,6 +39085,7 @@
   {
     "id": "clamperl",
     "dex": 366,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -37607,6 +39108,7 @@
   {
     "id": "koffing",
     "dex": 109,
+    "primaryType": "poison",
     "drops": {
       "entries": [
         {
@@ -37638,6 +39140,8 @@
   {
     "id": "dhelmise",
     "dex": 781,
+    "primaryType": "ghost",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -37679,6 +39183,7 @@
   {
     "id": "lurantis",
     "dex": 754,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -37710,6 +39215,8 @@
   {
     "id": "medicham",
     "dex": 308,
+    "primaryType": "fighting",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -37750,6 +39257,8 @@
   {
     "id": "dragalge",
     "dex": 691,
+    "primaryType": "poison",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -37786,6 +39295,8 @@
   {
     "id": "houndour",
     "dex": 228,
+    "primaryType": "dark",
+    "secondaryType": "fire",
     "drops": {
       "entries": [
         {
@@ -37845,6 +39356,7 @@
   {
     "id": "manaphy",
     "dex": 490,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -37908,6 +39420,7 @@
   {
     "id": "audino",
     "dex": 531,
+    "primaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -37939,6 +39452,7 @@
   {
     "id": "xerneas",
     "dex": 716,
+    "primaryType": "fairy",
     "drops": {
       "entries": [
         {
@@ -38002,6 +39516,8 @@
   {
     "id": "meloetta",
     "dex": 648,
+    "primaryType": "normal",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [],
       "amount": {
@@ -38014,6 +39530,8 @@
   {
     "id": "sawsbuck",
     "dex": 586,
+    "primaryType": "normal",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -38050,6 +39568,8 @@
   {
     "id": "vullaby",
     "dex": 629,
+    "primaryType": "dark",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -38109,6 +39629,8 @@
   {
     "id": "smoliv",
     "dex": 928,
+    "primaryType": "grass",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -38140,6 +39662,8 @@
   {
     "id": "arctovish",
     "dex": 883,
+    "primaryType": "water",
+    "secondaryType": "ice",
     "drops": {
       "entries": [
         {
@@ -38176,6 +39700,7 @@
   {
     "id": "azelf",
     "dex": 482,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -38239,6 +39764,8 @@
   {
     "id": "jynx",
     "dex": 124,
+    "primaryType": "ice",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -38261,6 +39788,7 @@
   {
     "id": "sandshrew",
     "dex": 27,
+    "primaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -38315,6 +39843,8 @@
   {
     "id": "ironleaves",
     "dex": 1010,
+    "primaryType": "grass",
+    "secondaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -38342,6 +39872,7 @@
   {
     "id": "floragato",
     "dex": 907,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -38364,6 +39895,8 @@
   {
     "id": "scrafty",
     "dex": 560,
+    "primaryType": "dark",
+    "secondaryType": "fighting",
     "drops": {
       "entries": [
         {
@@ -38404,6 +39937,8 @@
   {
     "id": "duraludon",
     "dex": 884,
+    "primaryType": "steel",
+    "secondaryType": "dragon",
     "drops": {
       "entries": [
         {
@@ -38426,6 +39961,8 @@
   {
     "id": "diggersby",
     "dex": 660,
+    "primaryType": "normal",
+    "secondaryType": "ground",
     "drops": {
       "entries": [
         {
@@ -38489,6 +40026,8 @@
   {
     "id": "archen",
     "dex": 566,
+    "primaryType": "rock",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -38516,6 +40055,8 @@
   {
     "id": "deerling",
     "dex": 585,
+    "primaryType": "normal",
+    "secondaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -38552,6 +40093,7 @@
   {
     "id": "panpour",
     "dex": 515,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -38592,6 +40134,8 @@
   {
     "id": "ursaluna",
     "dex": 901,
+    "primaryType": "ground",
+    "secondaryType": "normal",
     "drops": {
       "entries": [
         {
@@ -38646,6 +40190,7 @@
   {
     "id": "wynaut",
     "dex": 360,
+    "primaryType": "psychic",
     "drops": {
       "entries": [
         {
@@ -38668,6 +40213,8 @@
   {
     "id": "pelipper",
     "dex": 279,
+    "primaryType": "water",
+    "secondaryType": "flying",
     "drops": {
       "entries": [
         {
@@ -38713,6 +40260,7 @@
   {
     "id": "golduck",
     "dex": 55,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
@@ -38758,6 +40306,7 @@
   {
     "id": "bayleef",
     "dex": 153,
+    "primaryType": "grass",
     "drops": {
       "entries": [
         {
@@ -38780,6 +40329,7 @@
   {
     "id": "tynamo",
     "dex": 602,
+    "primaryType": "electric",
     "drops": {
       "entries": [
         {
@@ -38807,6 +40357,7 @@
   {
     "id": "milotic",
     "dex": 350,
+    "primaryType": "water",
     "drops": {
       "entries": [
         {
