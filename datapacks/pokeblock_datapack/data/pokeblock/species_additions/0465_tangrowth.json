@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:tangrowth",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:vine",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:big_root",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:grass_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:grass_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

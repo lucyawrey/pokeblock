@@ -1,0 +1,32 @@
+{
+  "target": "cobblemon:greavard",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:candle",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:kasib_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:ghost_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:ghost_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

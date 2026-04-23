@@ -1,0 +1,20 @@
+{
+  "target": "cobblemon:finizen",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:cod",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

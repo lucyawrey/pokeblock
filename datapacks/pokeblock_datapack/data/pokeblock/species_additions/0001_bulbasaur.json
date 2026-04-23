@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:bulbasaur",
   "drops": {
-    "amount": 3,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:melon_seeds",
@@ -14,6 +14,22 @@
       {
         "item": "cobblemon:vivichoke_seeds",
         "percentage": 25
+      },
+      {
+        "item": "cobblemon:grass_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:grass_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:poison_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:poison_tera_shard",
+        "percentage": 5
       }
     ]
   }

@@ -1,0 +1,27 @@
+{
+  "target": "cobblemon:psyduck",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "cobblemon:mystic_water",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

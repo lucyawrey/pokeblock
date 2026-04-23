@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:silvally",
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:normal_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

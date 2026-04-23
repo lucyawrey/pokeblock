@@ -1,0 +1,32 @@
+{
+  "target": "cobblemon:diglett",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:dirt",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:potato",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:big_root",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:soft_sand",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:ground_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:ground_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

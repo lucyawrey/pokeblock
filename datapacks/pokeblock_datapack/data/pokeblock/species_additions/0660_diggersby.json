@@ -1,0 +1,43 @@
+{
+  "target": "cobblemon:diggersby",
+  "drops": {
+    "amount": 9,
+    "entries": [
+      {
+        "item": "minecraft:rabbit"
+      },
+      {
+        "item": "minecraft:rabbit_hide",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:rabbit_foot",
+        "percentage": 5
+      },
+      {
+        "item": "minecraft:carrot",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:chilan_berry",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:normal_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:ground_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:ground_tera_shard",
+        "percentage": 5
+      }
+    ]
+  }
+}

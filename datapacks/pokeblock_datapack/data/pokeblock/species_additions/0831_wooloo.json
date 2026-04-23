@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:wooloo",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:mutton",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:white_wool"
+      },
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:normal_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "target": "cobblemon:sirfetchd",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "cobblemon:medicinal_leek"
+      },
+      {
+        "item": "cobblemon:coba_berry",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:fighting_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:fighting_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

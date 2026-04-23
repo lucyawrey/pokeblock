@@ -1,0 +1,35 @@
+{
+  "target": "cobblemon:bruxish",
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:cod"
+      },
+      {
+        "item": "minecraft:bone_meal",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:razor_fang",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:psychic_tera_shard",
+        "percentage": 5
+      }
+    ]
+  }
+}

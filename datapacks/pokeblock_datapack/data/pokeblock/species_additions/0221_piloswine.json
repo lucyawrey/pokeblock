@@ -1,0 +1,40 @@
+{
+  "target": "cobblemon:piloswine",
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "minecraft:porkchop",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:brown_wool",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:ice_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:ice_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:ground_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:ground_tera_shard",
+        "percentage": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": "cobblemon:lopunny",
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:rabbit"
+      },
+      {
+        "item": "minecraft:rabbit_hide",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:rabbit_foot",
+        "percentage": 5
+      },
+      {
+        "item": "minecraft:carrot",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:chople_berry",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:normal_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

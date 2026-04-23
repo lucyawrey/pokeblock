@@ -1,0 +1,19 @@
+{
+  "target": "cobblemon:zeraora",
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:nether_star"
+      },
+      {
+        "item": "cobblemon:electric_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:electric_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "target": "cobblemon:arrokuda",
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:salmon"
+      },
+      {
+        "item": "minecraft:bone_meal",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

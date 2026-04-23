@@ -1,0 +1,31 @@
+{
+  "target": "cobblemon:arctovish",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:cod"
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:ice_gem",
+        "percentage": 1
+      },
+      {
+        "item": "mega_showdown:ice_tera_shard",
+        "percentage": 5
+      }
+    ]
+  }
+}

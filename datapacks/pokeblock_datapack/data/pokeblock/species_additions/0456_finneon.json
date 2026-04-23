@@ -1,0 +1,31 @@
+{
+  "target": "cobblemon:finneon",
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:cod"
+      },
+      {
+        "item": "minecraft:bone_meal",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:rindo_berry",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:prism_scale",
+        "percentage": 2.5
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:water_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}

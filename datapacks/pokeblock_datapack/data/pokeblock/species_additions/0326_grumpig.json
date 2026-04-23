@@ -1,0 +1,28 @@
+{
+  "target": "cobblemon:grumpig",
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:porkchop",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "minecraft:ender_pearl",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:tanga_berry",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 2
+      },
+      {
+        "item": "mega_showdown:psychic_tera_shard",
+        "percentage": 10
+      }
+    ]
+  }
+}
