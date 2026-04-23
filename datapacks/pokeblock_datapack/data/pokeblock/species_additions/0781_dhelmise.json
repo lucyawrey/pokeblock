@@ -12,20 +12,20 @@
         "quantityRange": "0-2"
       },
       {
-        "item": "cobblemon:ghost_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:ghost_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:grass_gem",
+        "item": "mega_showdown:grass_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:ghost_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:grass_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:grass_gem",
+        "percentage": 1
       }
     ]
   }

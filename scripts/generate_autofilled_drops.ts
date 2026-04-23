@@ -15,26 +15,51 @@ for (let drop of dropData) {
   if (dex && id && entries) {
     injectTypeEntries(entries, drop?.primaryType, drop?.secondaryType);
     let line = `${dex},${id},yes`;
+
+    // Hacky solution to place gems and shards at the end.
+    let count = 0;
+    let shards: any[] = [];
+    let gems: any[] = [];
+
     for (let entry of entries) {
-      line += `,${entry?.item?.namespace}:${entry?.item?.path}`;
-      let percentage = entry?.percentage;
-      let quantityRange = entry?.quantityRange;
-      if (percentage && quantityRange) {
-        if (percentage >= 100) {
-          line += `,${quantityRange.first}-${quantityRange.last}`;
-        } else {
-          line += `,${Math.floor(quantityRange.first * (percentage / 100))}-${Math.ceil(quantityRange.last * (percentage / 100))}`;
-        }
-      } else if (percentage) {
-        line += `,${percentage}%`;
-      } else if (quantityRange) {
-        line += `,${quantityRange.first}-${quantityRange.last}`;
+      if (entry?.item?.path.includes("shard")) {
+        shards.push(entry);
+      } else if (entry?.item?.path.includes("gem")) {
+        gems.push(entry);
       } else {
-        line += ",100%";
+        line += generateLine(entry);
+        count++;
       }
+    }
+    line += ",".repeat((9 - count) * 2);
+    for (let shard of shards) {
+      line += generateLine(shard);
+    }
+    for (let gem of gems) {
+      line += generateLine(gem);
     }
     csvLines[dex] = line;
   }
+}
+
+function generateLine(entry: any) {
+  let line = `,${entry?.item?.namespace}:${entry?.item?.path}`;
+  let percentage = entry?.percentage;
+  let quantityRange = entry?.quantityRange;
+  if (percentage && quantityRange) {
+    if (percentage >= 100) {
+      line += `,${quantityRange.first}-${quantityRange.last}`;
+    } else {
+      line += `,${Math.floor(quantityRange.first * (percentage / 100))}-${Math.ceil(quantityRange.last * (percentage / 100))}`;
+    }
+  } else if (percentage) {
+    line += typeof(percentage) === "string" ? `,${percentage}` : `,${percentage}%`;
+  } else if (quantityRange) {
+    line += `,${quantityRange.first}-${quantityRange.last}`;
+  } else {
+    line += ",100%";
+  }
+  return line;
 }
 
 function injectTypeEntries(
@@ -62,7 +87,7 @@ function injectForType(entries: any[], type: string, multi: boolean) {
         namespace: gemNamespace,
         path: gemPath,
       },
-      percentage: multi ? "gem1" : "gem2",
+      percentage: multi ? "=items!B3" : "=items!B5",
     };
     entries.push(drop);
   }
@@ -71,7 +96,7 @@ function injectForType(entries: any[], type: string, multi: boolean) {
       namespace: shardNamespace,
       path: shardPath,
     },
-    percentage: multi ? "shard1" : "shard2",
+    percentage: multi ? "=items!B7" : "=items!B9",
   };
   entries.push(drop);
 }

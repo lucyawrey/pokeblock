@@ -7,12 +7,12 @@
         "item": "cobblemon:hard_stone"
       },
       {
-        "item": "cobblemon:rock_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:rock_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:rock_gem",
+        "percentage": 2
       }
     ]
   }

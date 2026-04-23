@@ -8,20 +8,20 @@
         "quantityRange": "3-5"
       },
       {
-        "item": "cobblemon:psychic_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:psychic_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:ghost_gem",
+        "item": "mega_showdown:ghost_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:psychic_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:ghost_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:ghost_gem",
+        "percentage": 1
       }
     ]
   }

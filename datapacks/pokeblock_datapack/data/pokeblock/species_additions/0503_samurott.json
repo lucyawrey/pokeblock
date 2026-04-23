@@ -12,12 +12,12 @@
         "percentage": 25
       },
       {
-        "item": "cobblemon:water_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:water_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
       }
     ]
   }

@@ -12,12 +12,12 @@
         "quantityRange": "0-2"
       },
       {
-        "item": "cobblemon:bug_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:bug_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:bug_gem",
+        "percentage": 2
       }
     ]
   }

@@ -4,20 +4,20 @@
     "amount": 4,
     "entries": [
       {
-        "item": "cobblemon:rock_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:rock_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:electric_gem",
+        "item": "mega_showdown:electric_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:rock_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:electric_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:electric_gem",
+        "percentage": 1
       }
     ]
   }

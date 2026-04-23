@@ -7,11 +7,19 @@
         "item": "minecraft:pufferfish"
       },
       {
+        "item": "cobblemon:poison_barb",
+        "percentage": 5
+      },
+      {
         "item": "minecraft:prismarine_shard",
         "quantityRange": "0-2"
       },
       {
-        "item": "cobblemon:poison_barb",
+        "item": "mega_showdown:dark_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "mega_showdown:poison_tera_shard",
         "percentage": 5
       },
       {
@@ -19,16 +27,8 @@
         "percentage": 1
       },
       {
-        "item": "mega_showdown:dark_tera_shard",
-        "percentage": 5
-      },
-      {
         "item": "cobblemon:poison_gem",
         "percentage": 1
-      },
-      {
-        "item": "mega_showdown:poison_tera_shard",
-        "percentage": 5
       }
     ]
   }

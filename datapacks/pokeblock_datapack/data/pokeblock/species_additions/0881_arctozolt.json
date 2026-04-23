@@ -12,20 +12,20 @@
         "quantityRange": "0-2"
       },
       {
-        "item": "cobblemon:electric_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:electric_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:ice_gem",
+        "item": "mega_showdown:ice_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:electric_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:ice_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:ice_gem",
+        "percentage": 1
       }
     ]
   }

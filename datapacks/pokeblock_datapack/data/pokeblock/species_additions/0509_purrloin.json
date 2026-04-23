@@ -12,12 +12,12 @@
         "percentage": 2.5
       },
       {
-        "item": "cobblemon:dark_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:dark_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:dark_gem",
+        "percentage": 2
       }
     ]
   }

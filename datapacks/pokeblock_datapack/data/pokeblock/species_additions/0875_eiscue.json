@@ -22,12 +22,12 @@
         "percentage": 5
       },
       {
-        "item": "cobblemon:ice_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:ice_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:ice_gem",
+        "percentage": 2
       }
     ]
   }

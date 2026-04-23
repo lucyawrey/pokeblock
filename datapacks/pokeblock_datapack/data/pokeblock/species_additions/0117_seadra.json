@@ -8,20 +8,20 @@
         "quantityRange": "0-2"
       },
       {
-        "item": "minecraft:prismarine_shard",
-        "quantityRange": "0-2"
-      },
-      {
         "item": "cobblemon:dragon_scale",
         "percentage": 5
       },
       {
-        "item": "cobblemon:water_gem",
-        "percentage": 2
+        "item": "minecraft:prismarine_shard",
+        "quantityRange": "0-2"
       },
       {
         "item": "mega_showdown:water_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 2
       }
     ]
   }

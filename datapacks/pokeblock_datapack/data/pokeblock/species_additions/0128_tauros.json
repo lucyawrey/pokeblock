@@ -12,12 +12,12 @@
         "quantityRange": "1-3"
       },
       {
-        "item": "cobblemon:normal_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:normal_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 2
       }
     ]
   }

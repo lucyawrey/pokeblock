@@ -12,12 +12,12 @@
         "percentage": 25
       },
       {
-        "item": "cobblemon:grass_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:grass_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:grass_gem",
+        "percentage": 2
       }
     ]
   }

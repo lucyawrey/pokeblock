@@ -12,20 +12,20 @@
         "percentage": 5
       },
       {
-        "item": "cobblemon:psychic_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:psychic_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:fairy_gem",
+        "item": "mega_showdown:fairy_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:psychic_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:fairy_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:fairy_gem",
+        "percentage": 1
       }
     ]
   }

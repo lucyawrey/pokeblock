@@ -8,10 +8,6 @@
         "quantityRange": "2-6"
       },
       {
-        "item": "cobblemon:fire_gem",
-        "percentage": 50
-      },
-      {
         "item": "minecraft:nether_star",
         "percentage": 8
       },
@@ -26,6 +22,10 @@
       {
         "item": "mega_showdown:fire_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:fire_gem",
+        "percentage": 50
       }
     ]
   }

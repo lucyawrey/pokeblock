@@ -8,20 +8,20 @@
         "quantityRange": "1-3"
       },
       {
-        "item": "cobblemon:bug_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:bug_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:fighting_gem",
+        "item": "mega_showdown:fighting_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:bug_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:fighting_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:fighting_gem",
+        "percentage": 1
       }
     ]
   }

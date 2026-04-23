@@ -8,12 +8,12 @@
         "quantityRange": "1-2"
       },
       {
-        "item": "cobblemon:poison_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:poison_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:poison_gem",
+        "percentage": 2
       }
     ]
   }

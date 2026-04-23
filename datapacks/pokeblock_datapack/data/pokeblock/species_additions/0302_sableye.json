@@ -4,10 +4,6 @@
     "amount": 9,
     "entries": [
       {
-        "item": "minecraft:amethyst_shard",
-        "quantityRange": "0-2"
-      },
-      {
         "item": "cobblemon:wide_lens",
         "percentage": 5
       },
@@ -24,20 +20,24 @@
         "percentage": 5
       },
       {
-        "item": "cobblemon:dark_gem",
-        "percentage": 1
+        "item": "minecraft:amethyst_shard",
+        "quantityRange": "0-2"
       },
       {
         "item": "mega_showdown:dark_tera_shard",
         "percentage": 5
       },
       {
-        "item": "cobblemon:ghost_gem",
+        "item": "mega_showdown:ghost_tera_shard",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:dark_gem",
         "percentage": 1
       },
       {
-        "item": "mega_showdown:ghost_tera_shard",
-        "percentage": 5
+        "item": "cobblemon:ghost_gem",
+        "percentage": 1
       }
     ]
   }

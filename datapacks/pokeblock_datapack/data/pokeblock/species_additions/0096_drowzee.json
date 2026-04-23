@@ -8,12 +8,12 @@
         "percentage": 2.5
       },
       {
-        "item": "cobblemon:psychic_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:psychic_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 2
       }
     ]
   }

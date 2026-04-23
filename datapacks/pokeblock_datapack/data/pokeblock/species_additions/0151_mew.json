@@ -8,10 +8,6 @@
         "quantityRange": "2-6"
       },
       {
-        "item": "cobblemon:psychic_gem",
-        "percentage": 50
-      },
-      {
         "item": "minecraft:nether_star",
         "percentage": 10
       },
@@ -26,6 +22,10 @@
       {
         "item": "mega_showdown:psychic_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 50
       }
     ]
   }

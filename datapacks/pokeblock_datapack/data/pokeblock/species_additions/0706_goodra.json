@@ -16,12 +16,12 @@
         "percentage": 10
       },
       {
-        "item": "cobblemon:dragon_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:dragon_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:dragon_gem",
+        "percentage": 2
       }
     ]
   }

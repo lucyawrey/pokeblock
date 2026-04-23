@@ -16,12 +16,12 @@
         "percentage": 5
       },
       {
-        "item": "cobblemon:ghost_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:ghost_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:ghost_gem",
+        "percentage": 2
       }
     ]
   }

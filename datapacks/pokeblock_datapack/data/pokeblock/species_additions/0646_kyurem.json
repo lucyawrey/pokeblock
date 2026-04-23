@@ -8,14 +8,6 @@
         "quantityRange": "2-6"
       },
       {
-        "item": "cobblemon:dragon_gem",
-        "percentage": 50
-      },
-      {
-        "item": "cobblemon:ice_gem",
-        "percentage": 50
-      },
-      {
         "item": "minecraft:nether_star",
         "percentage": 8
       },
@@ -34,6 +26,14 @@
       {
         "item": "mega_showdown:ice_tera_shard",
         "percentage": 5
+      },
+      {
+        "item": "cobblemon:dragon_gem",
+        "percentage": 50
+      },
+      {
+        "item": "cobblemon:ice_gem",
+        "percentage": 50
       }
     ]
   }

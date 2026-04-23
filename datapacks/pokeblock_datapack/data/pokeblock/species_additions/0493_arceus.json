@@ -8,8 +8,8 @@
         "percentage": 50
       },
       {
-        "item": "cobblemon:bug_gem",
-        "percentage": 20
+        "item": "mega_showdown:stellar_tera_shard",
+        "percentage": 50
       },
       {
         "item": "cobblemon:dark_gem",
@@ -80,8 +80,8 @@
         "percentage": 20
       },
       {
-        "item": "mega_showdown:stellar_tera_shard",
-        "percentage": 50
+        "item": "cobblemon:bug_gem",
+        "percentage": 20
       }
     ]
   }

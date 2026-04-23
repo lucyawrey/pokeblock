@@ -8,10 +8,6 @@
         "quantityRange": "1-3"
       },
       {
-        "item": "cobblemon:water_gem",
-        "percentage": 25
-      },
-      {
         "item": "minecraft:nether_star",
         "percentage": 4
       },
@@ -26,6 +22,10 @@
       {
         "item": "mega_showdown:water_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:water_gem",
+        "percentage": 25
       }
     ]
   }

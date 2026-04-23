@@ -8,12 +8,12 @@
         "quantityRange": "0-1"
       },
       {
-        "item": "cobblemon:fairy_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:fairy_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:fairy_gem",
+        "percentage": 2
       }
     ]
   }

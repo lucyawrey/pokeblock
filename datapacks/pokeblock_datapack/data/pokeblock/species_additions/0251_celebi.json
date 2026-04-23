@@ -8,10 +8,6 @@
         "quantityRange": "2-6"
       },
       {
-        "item": "cobblemon:psychic_gem",
-        "percentage": 50
-      },
-      {
         "item": "minecraft:nether_star",
         "percentage": 10
       },
@@ -28,12 +24,16 @@
         "percentage": 5
       },
       {
-        "item": "cobblemon:grass_gem",
-        "percentage": 1
-      },
-      {
         "item": "mega_showdown:grass_tera_shard",
         "percentage": 5
+      },
+      {
+        "item": "cobblemon:psychic_gem",
+        "percentage": 50
+      },
+      {
+        "item": "cobblemon:grass_gem",
+        "percentage": 1
       }
     ]
   }

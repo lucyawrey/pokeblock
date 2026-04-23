@@ -12,12 +12,12 @@
         "percentage": 2.5
       },
       {
-        "item": "cobblemon:fire_gem",
-        "percentage": 2
-      },
-      {
         "item": "mega_showdown:fire_tera_shard",
         "percentage": 10
+      },
+      {
+        "item": "cobblemon:fire_gem",
+        "percentage": 2
       }
     ]
   }
