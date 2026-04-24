@@ -5,7 +5,7 @@
     "entries": [
       {
         "item": "minecraft:diamond",
-        "percentage": 5
+        "percentage": 7.5
       },
       {
         "item": "cobblemon:babiri_berry",
@@ -25,11 +25,11 @@
       },
       {
         "item": "cobblemon:rock_gem",
-        "percentage": 1
+        "percentage": 5
       },
       {
         "item": "cobblemon:fairy_gem",
-        "percentage": 1
+        "percentage": 5
       }
     ]
   }

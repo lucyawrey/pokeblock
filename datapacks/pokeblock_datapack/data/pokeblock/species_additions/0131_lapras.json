@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:lapras",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
       {
         "item": "cobblemon:mystic_water",
@@ -9,10 +9,6 @@
       },
       {
         "item": "cobblemon:never_melt_ice",
-        "percentage": 5
-      },
-      {
-        "item": "minecraft:heart_of_the_sea",
         "percentage": 5
       },
       {

@@ -5,11 +5,11 @@
     "entries": [
       {
         "item": "cobblemon:rare_candy",
-        "quantityRange": "2-6"
+        "quantityRange": "0-2"
       },
       {
-        "item": "minecraft:nether_star",
-        "percentage": 8
+        "item": "minecraft:diamond",
+        "percentage": 15
       },
       {
         "item": "cobblemon:ability_capsule",

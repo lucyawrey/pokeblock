@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:delcatty",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
       {
         "item": "cobblemon:silk_scarf",
@@ -10,10 +10,6 @@
       {
         "item": "cobblemon:pecha_berry",
         "percentage": 5
-      },
-      {
-        "item": "minecraft:raw_cod",
-        "quantityRange": "0-1"
       },
       {
         "item": "mega_showdown:normal_tera_shard",
