@@ -10527,5 +10527,9 @@ file = "resourcepacks/pokeblock_resources/assets/minecraft/lang/en_us.json"
 hash = "9a54dd8fd0b5e203d1adcfb5ab4ef430b6210bd78b4609852d124badc70b0bd9"
 
 [[files]]
+file = "resourcepacks/pokeblock_resources/assets/sophisticatedstorage/lang/en_us.json"
+hash = "2fa19cc7d467e0bbe89f78c40108608230a5111fbb8b5e361b4afe22c31c7d20"
+
+[[files]]
 file = "resourcepacks/pokeblock_resources/pack.mcmeta"
 hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
