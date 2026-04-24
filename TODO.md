@@ -8,6 +8,7 @@
     - Spawn generation script
 - Update drop table.
   - Modify drop tables to add important drops for progression.
+- Fix all drop tables not being respected.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.

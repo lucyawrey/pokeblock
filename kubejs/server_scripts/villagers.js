@@ -160,10 +160,10 @@ ServerEvents.loaded((event) => {
             : "A new villager has joined your island.";
         let data =
           entityId === "minecraft:wandering_trader"
-            ? ` {DespawnDelay:36000}`
-            : "";
+            ? "{DespawnDelay:36000}"
+            : "{PersistenceRequired:1b}";
         event.server.runCommandSilent(
-          `summon ${entityId} ${safe.x + 0.8} ${safe.y} ${safe.z + 0.8}${data}`,
+          `summon ${entityId} ${safe.x + 0.8} ${safe.y} ${safe.z + 0.8} ${data}`,
         );
         player.tell(message);
       }
