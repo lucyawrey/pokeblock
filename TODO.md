@@ -20,9 +20,7 @@
   - Create custom shadow meteor for meteor beacons.
   - Craftable purification shrine.
 - Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
-- Rename Ender Pearl, Eye of Ender, Ender Chest, Phantom Membrane.
 - Craftable Elytra.
-- Rename Shulker Boxes and Shells to Apricorn Boxes and Apricorn Casing. Replace with new crafting recipe (7 apricorns (pink/blue), 1 psychic eye).
 - Setup default controls and other core settings
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - Create command to instant copy datapacks and kubejs scripts into .minecraft dir.

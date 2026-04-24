@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "cobblemon:pink_apricorn"
+    },
+    "B": {
+      "item": "cobblemon:blue_apricorn"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    "BPB",
+    "POP",
+    "B B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:shulker_shell"
+  }
+}

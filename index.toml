@@ -425,6 +425,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/moltr
 hash = "b335ed48f95be304a423a8cc44660b12f0929051f19697a9284b41f7283fb6a2"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/shulker_shell.json"
+hash = "b5ecfc9d7e89354c2cd4a0c76fe08ffd4feed12925798adb90efc9a35be50b78"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/zapdos_pedestal.json"
 hash = "55450d3eee649df48f530da89a40f4bdf4b718a965d11ba2bd3237b284295abc"
 
@@ -10517,3 +10521,11 @@ metafile = true
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
 hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
 metafile = true
+
+[[files]]
+file = "resourcepacks/pokeblock_resources/assets/minecraft/lang/en_us.json"
+hash = "9a54dd8fd0b5e203d1adcfb5ab4ef430b6210bd78b4609852d124badc70b0bd9"
+
+[[files]]
+file = "resourcepacks/pokeblock_resources/pack.mcmeta"
+hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
