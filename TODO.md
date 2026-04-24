@@ -9,7 +9,6 @@
 - Update drop table.
   - Modify drop tables to add important drops for progression.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
-- Tera Shard blocks that allow spawning Paradox Pokémon.
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
   - Add more legendary Pokémon.
@@ -20,13 +19,11 @@
   - Create custom shadow meteor for meteor beacons.
   - Craftable purification shrine.
 - Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
-- Craftable Elytra.
+- Tera Shard blocks that allow spawning Paradox Pokémon.
 - Setup default controls and other core settings
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
-- Create command to instant copy datapacks and kubejs scripts into .minecraft dir.
 - Configure CobbleDollars merchant stock, CobbleDollars bank.
 - More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
-- Migrate to github tasks, create completed tasks for important old tasks in order to better track modpack feartures.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
 - Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
   - Look into how cobblemon and Radical Trainers handle NPCs.
@@ -41,7 +38,6 @@
   - Verify licence of all mods in modpack.
   - Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
   - Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
-- Update Wild Loot with more accurate loot drops to baskets (and maybe also ground drops, unsure if that is being handled properly) ((respect percentages)).
 - Skyblock Builder Fixes
   - Spawn protection not preventing harvesting berries and taking items from display cases.
   - Home island spawn in waterfall for some reason.

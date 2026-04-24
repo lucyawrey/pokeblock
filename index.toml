@@ -409,6 +409,10 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/charg
 hash = "96c3870ff6cb28212f23a7882b55450394bce8acb9627e76c67db61faf3a4290"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/elytra.json"
+hash = "f139da76482f5efa2189c34db37a64fea2e3de9b286bdd98b6ea052debd15bc2"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
 hash = "7bca1e52f03553c3be4982d7991ae0ba0e740356f914a3ca9c64011d2f5213d0"
 
