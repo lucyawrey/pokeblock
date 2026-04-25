@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "cobblemon:revival_herb",
+            "required": true
+        }
+    ]
+}

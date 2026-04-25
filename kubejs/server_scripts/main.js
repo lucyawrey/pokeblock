@@ -1,27 +1,6 @@
 // Visit the wiki for more info - https://kubejs.com/
 console.info("Loaded KubeJs server scripts.");
 
-// Cobblemon natural block handling used in spawn detail presets
-ServerEvents.tags("item", (event) => {
-  event.add("cobblemon:natural", [
-    "#c:cobblestones",
-    "#minecraft:planks",
-    "#minecraft:stone_bricks",
-    "minecraft:bedrock",
-    "mega_showdown:mega_meteorid_block",
-  ]);
-
-  // Rope tag for bell crafting
-  event.add("c:ropes", "minecraft:lead");
-
-  // Crop spawning with bone meal right click on grass (can spawn any flower)
-  event.add(
-    "minecraft:flowers",
-    "#farmersdelight:wild_crops",
-    "cobblemon:revival_herb",
-  );
-});
-
 ServerEvents.recipes((event) => {
   // Remove recepes for rare materials
   event.remove({ id: "mega_showdown:deoxys_meteorite" });

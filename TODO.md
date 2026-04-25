@@ -3,13 +3,13 @@
 ## Normal Priority
 
 - Update spawn table.
+  - Fix all drop tables not being respected, potentially a datapack load order issue.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.
     - Autofill script
     - Spawn generation script
 - Update drop table.
   - Modify drop tables to add important drops for progression.
-- Fix all drop tables not being respected.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
