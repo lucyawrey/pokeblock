@@ -10,7 +10,7 @@ hash = "94453f5128633180c91dabddaa67bc5eb92af4626e586d4d0487fde773211af2"
 
 [[files]]
 file = "config/cobblemon/main.json"
-hash = "e19c509c9597cf01674fbaf7a1c0e7b0ee7dc31ede843c4538b6d2d9e9426b0b"
+hash = "e866d419348c098844a363302cc0790e8ab0d34ce5b1f7b1993f9c00f68c1392"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
@@ -23,6 +23,14 @@ hash = "c285afc93dfd0c9604990e2dd2a21c014d0fb411d504b83953f527ce001cad53"
 [[files]]
 file = "config/cobblenav/server-config.json"
 hash = "43284a3acf6329e08c3bb1e37759411789ce07c8726ce4608518b152052e918e"
+
+[[files]]
+file = "config/cobbreeding/encryption"
+hash = "f549d90abe652701216e6895e8632bc9565a84f60ce9826f657c7576c6db27b1"
+
+[[files]]
+file = "config/cobbreeding/main.json"
+hash = "444b12a455b859cd7c3afdc48126cffabce18b5b71d09a3177c4b4135533c747"
 
 [[files]]
 file = "config/default-server.properties"
@@ -438,7 +446,7 @@ hash = "55450d3eee649df48f530da89a40f4bdf4b718a965d11ba2bd3237b284295abc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/ancient_fossil.json"
-hash = "eca7c54cc814c49487a46ce487b409bba936a022bcdd46bc19f661bf4419e141"
+hash = "0b99ca7060038ee1a70ce02701e88007af71d69bff504061d52f434fd29a4e83"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shapeless/grass_block.json"
@@ -9862,7 +9870,7 @@ hash = "9180d1cc3da6b8f43e7c7b47bb44734f8cf0dfc41635a8898f0a1f4df087cc08"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
-hash = "2877863338ee64022123eb39f35d469e48cfd9bc0b98ed3248e354e81a0d73b0"
+hash = "d7124e6acb4c01199f8135475fdc9707207a55cdf74a22c5295f20599d674787"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
