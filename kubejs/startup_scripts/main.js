@@ -44,6 +44,7 @@ StartupEvents.registry("block", (event) => {
             "pokeblock:meteor_max_1",
             "pokeblock:meteor_geode_1",
           ];
+          block.set("minecraft:air");
           const structure =
             structures[Math.floor(Math.random() * structures.length)];
           server.runCommandSilent(
