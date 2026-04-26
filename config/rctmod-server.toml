@@ -18,7 +18,7 @@
 	#The interval in ticks at which a spawn attempt is made per player.
 	# Default: 180
 	# Range: 1 ~ 2147483646
-	spawnIntervalTicks = 12000
+	spawnIntervalTicks = 10000
 	#━━━━━━━━━━
 	#The spawn interval ticks will grow towards this value based of how many trainers are already
 	#spawned in for a player. For example if a player has 0 trainers spawned for them the spawn
