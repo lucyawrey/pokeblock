@@ -2,6 +2,8 @@
 
 ## Normal Priority
 - Continue setting up radical trainers
+  - Change level caps
+  - Remove obfuscation from all trainers
 - Remove decimal from pokemon HP
 - More ridable Pokémon
 - Update spawn table.
