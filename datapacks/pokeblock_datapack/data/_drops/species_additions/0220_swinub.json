@@ -27,11 +27,11 @@
       },
       {
         "item": "cobblemon:ice_gem",
-        "percentage": 1
+        "percentage": 2.5
       },
       {
         "item": "cobblemon:ground_gem",
-        "percentage": 1
+        "percentage": 2.5
       }
     ]
   }

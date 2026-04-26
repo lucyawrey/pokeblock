@@ -21,11 +21,11 @@
       },
       {
         "item": "cobblemon:bug_gem",
-        "percentage": 1
+        "percentage": 2.5
       },
       {
         "item": "cobblemon:fairy_gem",
-        "percentage": 1
+        "percentage": 2.5
       }
     ]
   }

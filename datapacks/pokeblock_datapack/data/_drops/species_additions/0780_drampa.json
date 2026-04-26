@@ -21,11 +21,11 @@
       },
       {
         "item": "cobblemon:normal_gem",
-        "percentage": 1
+        "percentage": 2.5
       },
       {
         "item": "cobblemon:dragon_gem",
-        "percentage": 1
+        "percentage": 2.5
       }
     ]
   }

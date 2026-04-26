@@ -9,7 +9,7 @@
       },
       {
         "item": "cobblemon:wepear_berry",
-        "percentage": 2.5
+        "percentage": 5
       },
       {
         "item": "mega_showdown:bug_tera_shard",
@@ -17,7 +17,7 @@
       },
       {
         "item": "cobblemon:bug_gem",
-        "percentage": 2
+        "percentage": 5
       }
     ]
   }

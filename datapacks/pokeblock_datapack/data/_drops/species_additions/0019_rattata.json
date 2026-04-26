@@ -9,7 +9,7 @@
       },
       {
         "item": "cobblemon:chilan_berry",
-        "percentage": 2.5
+        "percentage": 5
       },
       {
         "item": "mega_showdown:normal_tera_shard",
@@ -17,7 +17,7 @@
       },
       {
         "item": "cobblemon:normal_gem",
-        "percentage": 2
+        "percentage": 5
       }
     ]
   }

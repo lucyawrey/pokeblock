@@ -17,11 +17,11 @@
       },
       {
         "item": "cobblemon:electric_gem",
-        "percentage": 1
+        "percentage": 2.5
       },
       {
         "item": "cobblemon:dark_gem",
-        "percentage": 1
+        "percentage": 2.5
       }
     ]
   }

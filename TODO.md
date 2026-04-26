@@ -4,6 +4,8 @@
 - Continue setting up radical trainers
   - Change level caps
   - Remove obfuscation from all trainers
+  - Remove some required trainers
+- Heal Pokémon in PCs
 - Remove decimal from pokemon HP
 - More ridable Pokémon
 - Update spawn table.
@@ -27,6 +29,7 @@
 - Tera Shard blocks that allow spawning Paradox Pokémon.
 - Setup default controls and other core settings
 - Configure CobbleDollars merchant stock, CobbleDollars bank.
+  - Tech: Pokédexes, Pokénavs, Trainer Card
 - More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
 - Skyblock Builder Fixes
   - Spawn protection not preventing harvesting berries and taking items from display cases.
