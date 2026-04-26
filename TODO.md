@@ -1,6 +1,9 @@
 # Pokéblock Todo
 
 ## Normal Priority
+- Continue setting up radical trainers
+- Remove decimal from pokemon HP
+- More ridable Pokémon
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.
