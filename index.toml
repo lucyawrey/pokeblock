@@ -69,6 +69,14 @@ file = "config/melancholic_hunger.json5"
 hash = "5436927c5492101a2f75de8b8cb304001bce8983baca5cceffde2f81c563157f"
 
 [[files]]
+file = "config/rctmod-client.toml"
+hash = "2a1efa0a9ea23673047ceadc82b048c60e030b4385042c26eaa3df488178610d"
+
+[[files]]
+file = "config/rctmod-server.toml"
+hash = "1f0c009296a7b264329c74552771b845d50eda8aa909a607edaf10c672f60248"
+
+[[files]]
 file = "config/skyblockbuilder/client.json5"
 hash = "234dcee4146f621111db7f1a78a4ed44cdffbef678f469397bc3f19adc1a61c9"
 
@@ -10268,6 +10276,16 @@ hash = "be3375c1f12ecfe83d71669083c37d7d8c28a22bcd9743f9f5143c504e54833a"
 metafile = true
 
 [[files]]
+file = "mods/rctapi.pw.toml"
+hash = "885c44754598d945b8fb26f0e509d3ba34560a560687550cdd4750919b43deab"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "62be690120a069777b7c7646e146692119f612583f84b0f194bba88ab7ebffcd"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -10641,3 +10659,8 @@ hash = "2fa19cc7d467e0bbe89f78c40108608230a5111fbb8b5e361b4afe22c31c7d20"
 [[files]]
 file = "resourcepacks/pokeblock_resources/pack.mcmeta"
 hash = "59a82ee5f14bdc4a6e4f2e4aadd736ffb0d5bae7a7be9340d8fef85927b5a3fa"
+
+[[files]]
+file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
+hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+metafile = true

@@ -1,7 +1,6 @@
 # Pokéblock Todo
 
 ## Normal Priority
-- Fix all drop tables not being respected! Potentially a datapack load order issue. I am really confused.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.
