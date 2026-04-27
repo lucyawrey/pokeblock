@@ -17,13 +17,11 @@
   "optional": false,
   "requiredDefeats": [
     [
-      "rival_terry_014c",
-      "rival_terry_014d",
-      "rival_terry_014e"
+      "leader_brock_019e"
     ]
   ],
   "series": [
-    "radicalred"
+    "pokeblock"
   ],
   "signatureItem": "cobblemon:mystic_water",
   "spawnWeightFactor": 0.25,

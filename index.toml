@@ -74,7 +74,7 @@ hash = "2a1efa0a9ea23673047ceadc82b048c60e030b4385042c26eaa3df488178610d"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "f153632fb5fbe21b619d5efb48211cbb03553fa595a289bbedd5156702be9d5c"
+hash = "b5771f35b5fff7f6a0f2fb081a2fa72957c4556d4a9977ae5c704942b436eda6"
 
 [[files]]
 file = "config/skyblockbuilder/client.json5"
@@ -5749,6 +5749,858 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/structure/meteor_mega_1.nbt"
 hash = "5ffa5cfdf503bfdeee08f3c3ebe5d8d6a36f170759ad78c3043be3f73670a904"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common.json"
+hash = "4df1f041a2bc149ab1dcc2ecaf409f68fbff24183e30c05eabe4497846bc9300"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/archeology.json"
+hash = "6e6f20b92806ed8f116662bd2a0784b959dd8075126835f1dc668156413a4161"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/battle.json"
+hash = "7b9197050c73730dda1b05b9ec56846221674cf15378717f61586e6cbbfe7a00"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/berries.json"
+hash = "bd0d1da925c8977697c1fe1afe71941a6c76ae59c2a484ca4f65e2e7deac94eb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/diverse.json"
+hash = "31e9b968179b14fa46eaaf4526d4604d727df6af8afd4a05bd79a83c79bbebbc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/fishing.json"
+hash = "bf82eea08636d5b6bec0906f94e055dff673745b8cd31bd011eefcf3e6c3f565"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/medicine.json"
+hash = "5bccb1737bc990677010b640a189c82c5cad4da46256bc3dced66d7c363e0434"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/nature.json"
+hash = "3a7dc9ebddaf6b8f399d79f6686819126c0d2b50e385d9b0a18ac25789532f51"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/common/pokeballs.json"
+hash = "2d311ed5355c1acde9a7b7032bc42078dae9ad04731e8a9291675cf3e7e7184e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic.json"
+hash = "2f043426a3bb1db4f2e769917d5093a16bb0e14066968ec0f77a8ed63d0db40a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/archeology.json"
+hash = "4cbd7ef84cebc0d2436ae0a810e764740de4f4c50150481ddaecd46644c583f6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/battle.json"
+hash = "79001a60bed6878781a5a40af4bedae4ec8aa2dac641bcf04392504df3832e91"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/berries.json"
+hash = "407ad80ee6edb78438737e46946f82f8ae431123f4e275f75cb7cbe560391677"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/diverse.json"
+hash = "9b75c1055dcba8bf323b433a4b3787d778caaa0c689445474f2f5676877ca427"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/evolution.json"
+hash = "43121886e3062f754d0021d88837d6f63cb096144a0a163d682cca92599265c3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/fishing.json"
+hash = "ebdd91d6bc7da7bac4bc897010235bcd0c86ae99aa7935a0730b0df8e4707c3c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/medicine.json"
+hash = "8ec2d8cbb6b77397b4aa78ca20483bf3b3e8ff1c839f6f9145b3a471a7f67f33"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/nature.json"
+hash = "8611f16bce217c1af3a75320dbd7efaa6dd003b84eb95901ef042528da48f78f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/pokeballs.json"
+hash = "562653a23acce6fb3cd28cf14d0694750515591f130e3d68cf879b0fd6359038"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/epic/training.json"
+hash = "89963c3142ad9dd664393e28d9f1c0a564f071a9a2316581418e065f4c5e5bae"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary.json"
+hash = "2ae40479b17d52aabf033144f175c6b13a5aeabe4b04a21e0ce7a3e40e7596d1"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/archeology.json"
+hash = "bd61953115cfc37f52a5e5d377416abf1729e09c09647e3053ce89ae623fa0b0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/battle.json"
+hash = "d28735ebb470092355ca53cfbd4b40afd35c3d747e4ab352d9c90a759bbe45a6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/berries.json"
+hash = "d076e61f3bdcab6e057959780ace086e475fef31eaf06f38fbcf9fcea8199165"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/diverse.json"
+hash = "d416a7feab4fe43b5d1a56d8e79e584db381b76c6388dd562a6436b4c83ee596"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/evolution.json"
+hash = "4624957fcee8a48655459aa72458436cf324dd6cb8f279362a32033a2c16bab8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/fishing.json"
+hash = "581134937b8ebb5f327040c2fb06d94e685bbe25cbcb777fea9f54258432a6bc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/masterball.json"
+hash = "66f77f42fa1419c487320546cdc6bf5ff18d683f88fa8da466ab70d8188e3281"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/medicine.json"
+hash = "c39ccc9fe7ce2f3836256fe93e7cde0e0ccd17f2d7c7330add8164c205b62f3b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/nature.json"
+hash = "c519ae3d81612a4477eac8e283869f2e3853b78c617cc7348799c1c4c1b44500"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/pokeballs.json"
+hash = "06d94c3c9bd431e59759b2b8729abeea036c28ff95ca12b7c0604290c259f088"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/legendary/training.json"
+hash = "beea3ff4a7437c9a195962069918f14e39a57bc0a4d1ebb90b1be0ce009b7bd3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare.json"
+hash = "8a03a5e7b7c3fa5e8eb2a2ea40377031136b826d95ae193151413d05d0ea7ac5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/archeology.json"
+hash = "c4798d42c088a615bb5530c347c17be2dc1202000476cbf5c348ef0a0e297469"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/battle.json"
+hash = "f9650cc743a7dfbbedc3968c10f4a68cebb28b3d06c48b9b737d2848a8e25255"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/berries.json"
+hash = "30e6bd37d321bb67087c66adccfc9300d129d38d9e3fade833354bd1526a8eee"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/diverse.json"
+hash = "ae068b23cdde7e5df75da8996ff55966712451e0313f424736a3ffacf93447da"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/evolution.json"
+hash = "65354c0a87af011b1540c6ac93ec1e79f00e45bbf206b65f33b6fb29ed896f24"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/fishing.json"
+hash = "4594b078d68f637134192b83487be42982df246bf278256eb76eeb7fa375e045"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/medicine.json"
+hash = "dc02586514ca7e821ac97102dea5092a239fa8a8dff816d5c7dcb83e30a1bb6b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/nature.json"
+hash = "e6f9b38938f40ccaa140ffd4d7832be8035fc2847a1ff5c6c97a58c4207641b2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/pokeballs.json"
+hash = "5abd6003840252dc974b2fc081c7fc7f5ee161c5c668cab490e8639e8cd0f28c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/training.json"
+hash = "2d15393d932f456652a500be1da6ce8faee905c86f1cfc775a7ee1c7170a7ad5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/rare/trs.json"
+hash = "f47ab0bdcd302814d21f5ee14f1f3d294f2ba090c0c35a2b079f8d80e685d9be"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon.json"
+hash = "12b52c587ceffdf6c6abb803093140e5385a7b0ed85aea463b5b021f2c58e393"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/archeology.json"
+hash = "5bab0b1e0c3fe4cf958c46b1beaa318ae5b42adc7a9f76e3d858df29acc3d077"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/battle.json"
+hash = "8400f43bcf88514ef0d599d190f0202f8f3e2cb11c6ef3a2f8574c71e345922a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/berries.json"
+hash = "cfae4e64f737451659cf4dc517fd2298fcfcd900fb2c5430d3392a984b37b9cb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/diverse.json"
+hash = "b15710876a28d2637b9cbbee16ef6d74d733da3c1089753eb09c0377f3bce8ff"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/evolution.json"
+hash = "c4ab34a7c3fc5a8b437f1a5c3a8e09798c38626957b910fcd150a3b9a582340c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/fishing.json"
+hash = "9d470c78b9a1e63d0a7041e79f61e119a56fbcb1dadcc17ed6a588a81a541fa5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/medicine.json"
+hash = "bfd4d2a9c1461bba7c823129c524ad5d32679703b2565bbccf23c0ae13e71ca4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/nature.json"
+hash = "e31f17455064252fef03ee31b03a2819df9df5517d5eabfae058c27eb7dfe271"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/pokeballs.json"
+hash = "3de2a06dfcf5356ed9a33a0583269fad47ffe7521ca915e6c5a4174eed82a3d9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/uncommon/training.json"
+hash = "7c7890cc75c71c416371ee20f00f3c4dfb0902286df3a040c597b2cb598339cf"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_1.json"
+hash = "eee44fd60f99e4f6614e730a69c524dab077e1a2bc8aeebc8adc2ae407ed8fb2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_2.json"
+hash = "d9a9d0bcf434e5e6b0ae6dc9b10c74d544d256f4edb69f65791653d53807f130"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_3.json"
+hash = "64a3fa6aa4100ed63118c503d40bc6e727a447dbb7c368fcfeb1a36a835bc314"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_4.json"
+hash = "99a59b199b7af645719b59284f6bc7f57a53efe6cf0455ea38b782b7e5bc9550"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_5.json"
+hash = "ff942ca0667382ea8b81828ee3aaf594525d8b1ae638712bbb720e28c8327fbc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_6.json"
+hash = "bbc5b1eb59af3f3513fe46d7c47139539fbc44d3584c6eb1ab670838a4fd41e8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_7.json"
+hash = "cc1283f7ce74a04b55b760ff32668462b601b5bb0083e02d34516269b64a2401"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/cobblebadges_8.json"
+hash = "a6187fb4830f7e636e749e940c727204e8368fd1b2c95cd7b50452fdd211b056"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_1.json"
+hash = "9839d49de4ac67dec14a8b22d30d5258a1e9885e1325231d109166377c6e20cf"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_2.json"
+hash = "1dc1142bc32476e3b9fc69553d22bae078111ea11b372470da2da5b3b50835e3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_3.json"
+hash = "93817fbae6c6985ff20a8a7742b433403750e9997af5876862bf5b0e73b3f49c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_4.json"
+hash = "95981a2e3b87540ac476607b68802621ba78decd33f2f532f2bccc0d38cfb4de"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_5.json"
+hash = "dc00cb1b38a14999273ea785327c7fbbd657a0e124df6ef256993a89672dfd82"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_6.json"
+hash = "d1e9bac3e12b2bbf9f5e153980debeb526fa55a4c65ca866e26fc1ace07bcb13"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_7.json"
+hash = "239db73b9220f686bdadf7bf1cbf4ed7365a315443b2a16aca882916b89d3934"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pkgbadges_8.json"
+hash = "489a2c3d00eb19e07b9fa040f35b9c00e848e120827164785bc94f888e61f435"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/pokeballs.json"
+hash = "6bbad3ef99c6b02b510ae796cb9f8e4465881eb6f2189ef7e51c740512654a21"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/generic/unique/tms.json"
+hash = "aed22c36186bc6838ce6d63ccffc97928cd1c39209660a0d0bfed3f97e105ad5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/default.json"
+hash = "4eaed5613437d74d47fec35ea4824e5f35842ff2a8f2f089576fe7302b24e209"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ace_trainer.json"
+hash = "bbd6cb7025662acad38abdf11b9a8eb3d4531f5b4ffb6cb9f58407f6a5b22ee4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/aroma_lady.json"
+hash = "3955ecbde831a4b33a35731792512a283d769f3fcf5a23308b3764fd65d953db"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/artist.json"
+hash = "27cb3116313fb844557fbcbfc265c6588ce4a8862cb15a1e24c210a03a683b2f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/battle_girl.json"
+hash = "2c24bbd6e3fc6897eb07af1cb12a3e3847a23cf88560a6bc5057a730c73fbe14"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/battleground.json"
+hash = "9e40a2a7fc869965e201c526905d1db5e58b7addab2096586ecd5aee271b3dc7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/beauty.json"
+hash = "73f9e4c240e92b6cdacfc4f69cd2b46a7ae428e9a49a3610cea64f6c2848d2fa"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/biker.json"
+hash = "e821adc38297053a782e19c362cc9417a177ca4e6527bff7f83b6f834d18dd83"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/bird_keeper.json"
+hash = "f0b7c265091a1b5f20a0e24bfd6d70730b9a0e721a20ac7b77c0e771e70f454d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/black_belt.json"
+hash = "6b2bc989f77a629b835500b703f2f35e30bd038fbc2f3912b70c3302ed6a7d48"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/black_emboar.json"
+hash = "2d994b86b27877716abd8ec90f9f8fde027d1b5bd1cb7680cbf63ff7bde71abc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/black_ferrothorn.json"
+hash = "ec70b4edcada2c35a93a4e308817252b0c26f57313ce2003b2916bff37f1a93f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/boss.json"
+hash = "c4e7e11b333d3a2371a8e68ec219e59c7883cd187f93fab6505d197bf0aa6000"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/breeder.json"
+hash = "39c60a040de2804149fa39e2e2270c527041415b93cf64544decc19e431987d4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/bug_catcher.json"
+hash = "705fdbc209017f437552704f9c300403ea29ee5a955f2364a3c28ebdc9bc8a51"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/burglar.json"
+hash = "fad02d4c83e1f85954e4d4f90df6d96efcc7e341ed5bc0351bc8d58a282489bc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/cameraman.json"
+hash = "07505dc47f5b831789f970136cc75ccb6cdd5bdf59cb01e13e55853072ad2e30"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/camper.json"
+hash = "197694481f5b887595c24254af72dd9932e19b117d4f2f9c0b564a43be0e154b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/champion.json"
+hash = "22801969c8b399da0ae7bcf7864f4a9c3562e3fde2ab75728baa9fee05c39167"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/channeler.json"
+hash = "e1dc15e931bc00242359de44e06d77bc4ae7b52df1142870b58cb949c03b8aa2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/clown.json"
+hash = "498754b4a5514c01417ea644249996c9da2acd0fb58ce28ef4ad737d968bbef9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/collector.json"
+hash = "8b1e76d45d6ed4e9a9a719579f1b217e0bf4b4fa2f9d0da91954f6b32c482647"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/commander.json"
+hash = "f782c449814bc87ad854ff262f9ccd92a570e1527190a71436826d9bdc5b31f6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/cool_couple.json"
+hash = "e7a911b83fb3100e72c7075f01137356afc76878f02630eb6feb99931a66729a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/cowgirl.json"
+hash = "5bc5ed3318eab075fa50b725e785a1d1a18c48fd81b92ca4562f0f8e6ea683e1"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/crush_girl.json"
+hash = "e4cf2bf739eb42758ae6c49ae04b575ad29b783e2a5590e30c4b9ecc9b81e1b7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/crush_kin.json"
+hash = "4a59306affab65bc0ceb7451e7c7282a3ac99e1f2adc9cccd6b3f4ff2d8c55d0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/cue_ball.json"
+hash = "b3f90fcd393d1c8e1083411f0dc45a85497d172bfbda8b75ba740023251d1b7f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/cyclist.json"
+hash = "baebd074f23783f61d5751dea79682654d437fc6277e50ab772ef8b69efeae27"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/double_team.json"
+hash = "8e7a9cc656b23a3cbec4ee2e2fe062aa72d89e2e5d5b10f3694453ec3def6ede"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/dragon_tamer.json"
+hash = "ee0d38712fc2bf3e4442f081796aa127e38041fee1e53728c31f4c2baf43540b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/dumbass.json"
+hash = "d3bab9cc73676a7c8e84c6c54bfa8ea5fa3296c568f52592ac4f91e4a7d00c3a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/elite_four.json"
+hash = "2f18121a55ec112cbe42677bda750751b3ab1d86e9b5bad288ceae84c1b1e01c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/engineer.json"
+hash = "97c9fd61ed7fcc6d0eaed58b5303891522dd8f166648431ce4a50dd92f61a3f5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/expert.json"
+hash = "9cf36a58444d55a751c1e79690c2f5b45bda82e073dbc28a6fd3766cc599c187"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/fisher.json"
+hash = "b6812ae127bea432d43d7486ec52ab0f50faa6e7ca564cc608a89a040ff18f05"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/fisherman.json"
+hash = "8edb734af7ddcf0fa8c18209bccaa99eae8944c39ebf91ae8529817b5aaff1a5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/friendly_maniac.json"
+hash = "0a2623923446ff37793ea3898e9c088c61acd883f218206a918944041fd7a078"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/friendly_thug.json"
+hash = "cfaaeb0c4cf9e67873470e27c890f6c2ca05ecfe4da4503962a423eadf52ce16"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/gambler.json"
+hash = "bf6a22e64bd3c1b7ce85624c7896e0cacf8248a20b8b2e3df8c6bdf7e72b9965"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/game_freaks.json"
+hash = "f4945a3b909097234a80a9c737f998b6bb0e571fcdd0b5684c21e7829c76b062"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/gatekeeper.json"
+hash = "2a5099469a1b3195a3fbe6631b88330b7bcd3676793ca18d07889fbf4a19f994"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/gentleman.json"
+hash = "d56827433d1b7ddedb0b78016b5d20caaf7cf8e1abba53f18bfab5c826dfc465"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/guitarist.json"
+hash = "aa81b6756579492adb8dacf7e80cf2c7c41ff3ce73e24a2498ac679751d63c60"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/gym_leader.json"
+hash = "50c661491765af98c6c354777f1ff4dddc0af5f9e7fb06ce677c08288bb39a54"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/hiker.json"
+hash = "06e056cb88b6f50b9e713537b36e77f713beb586f91cb27e45d11537056ce0bb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/idol.json"
+hash = "a0c6b3f9cb75f6c50f4831f5b224320e2564444c2b205190bcf45b047ba2e6f3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/interviewers.json"
+hash = "5535b977840b88ffde0dfde68e4ce1a86ea372465e58390fc67467258787d477"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/jogger.json"
+hash = "8b2e87defcde77e585065f0ed2beee317ba5f8695f989b33408f2554ecf901f9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/juggler.json"
+hash = "792d57bdedca28f2015d5b916309b8711abc9782659d16710fa231ee72cbf82b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/lady.json"
+hash = "64af24b66c88327e74a61e6997c3ef95526ab39f78380141ad1f23a32574b43a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/lass.json"
+hash = "1e92a7d973982a0191b16133815996f76bb832e433fbe50ede72351a385a892d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/leader.json"
+hash = "34e559ee04ed1315fc5e1b8860b332159f152b55373f582d06bf8c79a45c4257"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/light_of_ruin.json"
+hash = "d45e0c6762d085a95ac670b6b80e4a2e4fee06c5728d05d89c206c820901efd9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/light_of_ruin_admin.json"
+hash = "af2635f4dc8d144e348f5067a9b3835140e40b19e3b9fa3a954419dc98f63dfc"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/madame.json"
+hash = "dfb76a8fce64a9e1b51fcb59beb0f705f6a596ed6ec929b521178b399d907107"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/mega_trainer.json"
+hash = "8bc1976bada7ebe47e9f1358e427e1fefe4ec77900c35c4f1be37030ee8cfae5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ninja.json"
+hash = "925ce5cf51942439e28fea55144fa59e33ff0be6890e94cdfe63f8466913eedf"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/painter.json"
+hash = "cce7ebc3c0176c9d2d688e4ff53b48a6ab7046dbe52177669bdc4f36a58739d0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/parasol.json"
+hash = "a4dcb432c3a5f05bf0b39a0dbc529262afa3db4d091c94cef137dea4172cb3d7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pi.json"
+hash = "52505295fea06eab7dac9b41be4161bbcdf5f538ee8f0e28bc8e420338b9ce48"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/picnicker.json"
+hash = "edcf9e425122e6aafba9a06b2b8fc7abc66396e45bf329e53fd9bb1bb87db85b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/player.json"
+hash = "c2ffe65b0a5d41234dc6073b9bd07f5c742ab20ee33c07e36b8d9792b4d5d50a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/poke_fan.json"
+hash = "2047368ea8041aae390fcee4a06414bcadbaa22fe50e281569888fc0de6f0632"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/poke_kid.json"
+hash = "fc38fdaafbaeabf0ea62d73709557cb096c0e4dfd25428a7e3ba2d5b7ebd7d5c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pokefan.json"
+hash = "a84b235990d19a6b48519a2b589870b5213bc13f542ec7e4dcc8511fc0050423"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pokemaniac.json"
+hash = "c648fdd4baaed277bf992cfc25038a35e424d5c339850dc2bd005044c90dd42e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pokemon_breeder.json"
+hash = "26683553ec511258afa700107c0ac555612c0454d7736006af8ea4a6d1a6cc53"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pokemon_ranger.json"
+hash = "fdf2fb69a12f1e17c03439358088a51a3db8efd1f10b9e72faac637eefe467ab"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/pokemon_trainer.json"
+hash = "6c3bd5b0d5d6292090e67a3464accda42e9596b1f461931ea412bacb51c97a61"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/police.json"
+hash = "6fed6c2b31479396f89f0d77891b27403c66107911ac1937e8658df6033e19f0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/prof.json"
+hash = "036d2417ec5e41cf0d1e8001a83317bf1b6671b9a923568bada488f1d3a908d1"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/prof_prof.json"
+hash = "9304cfb45d27e15d0dcd39da1a3e438199ce7a3023e6a42cfa81eaadc026188f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/professor.json"
+hash = "853fe528a2f39089a8f28bc711776f7f796af5a92cec0cbe7e0221a922facd6e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/psychic.json"
+hash = "eb2a48820b5db0c0d04df8eaefb212c105cce3d125365ee339fdc7d9727bdef7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/rancher.json"
+hash = "4dba599f8f7052599cd1f0d5f4dba3bccb0bfdf03800acb7b7c75b109e431680"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ranchers.json"
+hash = "3a3a1d6ef93ce95a365b8bbe1377a24b54cbfd8bd65a98078b2f4c64862ed3eb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ranger.json"
+hash = "8ffa6d9e4eff04888716722fb978eb45a443d9d229ab59fd6b69f5d6ab999071"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/reporter.json"
+hash = "e67a8148a368f06dd532f7ddffef727415a23df1bc12cb742a6d76bb41b1387f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/rich_boy.json"
+hash = "79b20b0c4e2626afb6312e82851f1dc2eaa6025e0d845c75704b206efadb1f5f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/rival.json"
+hash = "465d1ef479ba47674d324dd501e0f27c11c23c42ee529494cb5d180565a5727f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/rocker.json"
+hash = "1acc8bf89eb9570d994679b9f36c4fb6e6f83ebb3e7b4dd2d3b91804699e88c7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/rocket_admin.json"
+hash = "d38b2404cfbbed4d89df4e4a97c293ce0bd9181bc921fb15c4cce2e63c7d5371"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/roughneck.json"
+hash = "de6b963c25557723ef1c7ca8826627cbd2b46c95962790355dd42296c3b3998f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ruin_mamoac.json"
+hash = "3303ca7b1035aa3f0d140cfe75d31d95bcd06918d67ad96ebb33f1916399313e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/ruin_maniac.json"
+hash = "30b5a6c4beb333ba5f4091cc89dc9f1abf88e487bcea4c743839d6a0f3404ea7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/sailor.json"
+hash = "580f2b79da91b2820eb8021165666279b5d711bbded955c771c1a9d968dfc420"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/school_kid.json"
+hash = "aa0362b0cb3d923d3893b354f3f49fe3bafd9f4882499d427078c05b3bd0aeba"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/science_society.json"
+hash = "93d41f1c81d52b0db7f3d80b82e969a91b009cf08d8902670cd9d2a4a3c602c5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/scientist.json"
+hash = "e8ca7101cec9f2230c0f335ef806b72af0991d8539aa57f6528f0e7ac4658480"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/shadow_admin.json"
+hash = "9c8987bbfd5b1e8955b99bd8003e84aef32265ad69e2aa6eca609fdcfcaf3034"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/shadow_grunt.json"
+hash = "8308ab5aa22b12c99a2a2b4a6b2fd3d8e91f54e246fb06bb46e96631b6e3252d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/sinnoh_leader.json"
+hash = "2ca7f21431b37d351477947d2e0927d6fef30bd46c79c14af5881bf7f6f3c2f7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/sis_and_bro.json"
+hash = "478699ef9272d4341f0a4803fc6da59ec68f0ca8f43225a0d9def34f27e030a5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/skier.json"
+hash = "48fd0c0931d77248e13c0fdbbe3ddbd3eb70aca2ebfa3f195af03e3d946670a0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/sucessor.json"
+hash = "2e4c010408ffc39b934b43c207810de8d06bbb6e344012de402f6b3c81185a18"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/super_nerd.json"
+hash = "5ccc29fb821878b369fc1be9ca87964e2d935baf8c65da305aa219f2f18ff696"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/swimmer.json"
+hash = "945e6f73cf1448acf6b893af93577487f47059758ed7bce5ee6a0915b11476e6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/swimmerf.json"
+hash = "e1c919e21d0c17bff812c096134a0222e9e97bde9930aaed640f35307868fb85"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/swimmerm.json"
+hash = "8f194ab14f3575eb2a4c89f4c70f7d5dbaee32c1b31ebd0b3fc13d14f8b724a0"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/tamer.json"
+hash = "e8c28ad9734f2f4a1eeff7e64a386b3776e6601c25200480b298980acea14e21"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/team_galactic.json"
+hash = "63cf37b2b75f024a5edf3a075c03dead13d002f9d083c0dafb16d2c21b0b5497"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/team_rocket.json"
+hash = "e6458444856d66e9bc57220ad665b4823a29176c737329604f6b0410dbfbd900"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/team_rocket_admin.json"
+hash = "52c58c1438195802869fefb1ea93dddc2fc7157f3722a11b0b99a3c28314ecca"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/team_rocket_grunt.json"
+hash = "901ebc60ac3be6c7b8be52c3b002823f24c2c579a9f5d2a6c08fb3dba8e2e2e6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/terror_granbull.json"
+hash = "19235fd363f1b6c554a865c9830046292b4bb41bdee95e0b78d31077177c7ff4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/title_defense.json"
+hash = "1dc3c57f4fc4b7bb268dcd0d6187f6a8810415a70334649f09409bdd715c9c8d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/trainer.json"
+hash = "fe8528ad53c0f7c52d63c5086b59c434c95db653386d09372fd8f7aef26c70f8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/tuber.json"
+hash = "a618620de6c0441b86eaf0d6187ca5262f39603861a1e02eb532275a0766d78a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/twins.json"
+hash = "efd92bbd6631eb27128d75fea64d358229285cef8da328465ada775ba8d2cf02"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/veteran.json"
+hash = "6ad809226eb9bec6c455f8f500ecbe7dbe161a41585ebf5c04378a970c93f102"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/waitress.json"
+hash = "95fb2790e0caae7358f9cc9fccb7749080fb9a8c3971f063bd1f4f9358c79406"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/worker.json"
+hash = "d8e6d8d4a9b5bba1b9af7740d52bdce07f0e2c5e9061a85c024a4baecf776573"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/young_couple.json"
+hash = "aa35999483cfbfa70cc9f9e4f24d22d338a65f0450c1861c57fc7963dc3f3dc3"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/groups/youngster.json"
+hash = "60e5cd489140b75cbcd330d674b42942b1d2e76176b1145e4919f6db0a3d417f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/boss_giovanni_0045.json"
+hash = "649c0b258f5c99a0d249a54fccdf832876df645c89c36c96173fbb2becdd125f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_byron_0399.json"
+hash = "4352295d9c4fe81b6e20a10a6e0ceb9b81ece7f6b01f020c24e2eac5a7fcd030"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_candice_03da.json"
+hash = "db7f5ef79f9c19c9a83e9c107d279e1d692eafc404f01959733e2d5f550c30ae"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_fantina_03d9.json"
+hash = "1bd1af87e5197823e7d919cffb8a4fc3516c1a0fba4c2721a2a9bc0df9ef94b7"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_gardenia_03d6.json"
+hash = "2eaebd35d1d8306a6aa112066e9261c75190b15a68bbca4197e59ba9b7fba8c6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_maylene_03d8.json"
+hash = "cee179c19ee06346a007f3536f2b81eadb838bf610270c9f9c5c8a793945d14c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_roark_0395.json"
+hash = "9cc3b970f99d0e1525029302b07b5058a44e7b8b709ffff247eff69b31f5ba2c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_volkner_03db.json"
+hash = "1e9e153c9c7d2e233ea4b4e3a518dc30ab6a14bc528a49738633a2a5d26a1731"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/gym_leader_wake_03d7.json"
+hash = "7cb293b2a5e2c8870ddc48ce78a6f2e2a851162955b81dfd63b102b5be9e0876"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_alice_05ac.json"
+hash = "62576d105e203012206c60bc5aeba6f31b3901ed1c93de038499a8eac0236fa4"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_benjamin_05b2.json"
+hash = "4de81856cf698bbbaa71efb3f20e9873294eb8762d2970c88aadda43bd1a1c28"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_big_mo_05b0.json"
+hash = "3a32dfc0200be937926b350d00efc760bd7b9e39d38c32b7f2d96dd3b28d9b0c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_blaine_01a3.json"
+hash = "3cbc9c4429d9164b9d596726991bcd36c81f99ed7ac2a73dd61f9b11fde783fa"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_brock_019e.json"
+hash = "5c39265b2387097a2e881026532792006615109dc2d5b1abaa7d8c48d36d881d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_clair_004a.json"
+hash = "50cd45f4c633a2c15664ffd1e294a550e3508c20e444abd1a6b160e7b37d7c5a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_erika_01a1.json"
+hash = "83ec336af3a8dedde78416a752c0c507e807dc7d9e3a46e27c4664b4a960eb51"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_galavan_05af.json"
+hash = "06dccef71093721862ff6dccc9d9788dd18524930a6d584707c96464dbac281c"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_koga_01a2.json"
+hash = "46300e9208437029a1befe11b1329210492caa977f89171246e3490098ca44ed"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_lt_surge_01a0.json"
+hash = "1ea09ecd04d3a404e6d3f27a31e81a18b79c8c6b9140131a47e59544a15c22e2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_mel_05ad.json"
+hash = "3b48a238add8b1f68aacbd15a576854376b4bb4e3f72053975935c9ac6f8a2cb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_mirskle_05aa.json"
+hash = "c7f6519477d122240913e9f0dcc8681eb6a26bd755aff9c62c09782e23a97403"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_misty_019f.json"
+hash = "40dc3b70cc59b8b16bc8e38ad3a0d0abb2973cbe0d56c9eb688fe3f80c1c5015"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_sabrina_01a4.json"
+hash = "64c72c0cbe4bb3bd2cdbf9f0b091af670093e6860b0a1b99845bec23bb926d67"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_tessy_05b1.json"
+hash = "287f4cff185425d25998f167a3474f1e31dcf3ba65fc285750db5167bbfe38eb"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/loot_table/trainers/single/leader_vega_05ab.json"
+hash = "a92cf05dfa57b6251c81254ef05da939cd5f42def58ccc1bfecfb25452f50bed"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/default.json"
 hash = "b7c52714911368a96faa4fa951715d2ec24423172254159acf46315d34dc969b"
 
@@ -6078,7 +6930,7 @@ hash = "b36719823afda57b99d6b9b616683f9831eb5f4cdee50f4e3f645afa1c87d1be"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/rival.json"
-hash = "1ce3e9ef2e056b648958517f4e8b3ceeab46c92af0e81de30b90cf2489741469"
+hash = "77db07f2d2569711efdbaaf7ee9c54f1db7f3f891f5de5c444ee7d1b3ae5fcab"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/rocker.json"
@@ -6086,7 +6938,7 @@ hash = "bbc25f461f8ceb7cf82e1c6cf285691cab3a0df888e269fea6753fd0ed98810c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/rocket_admin.json"
-hash = "5c279bc36a2035110e6c4377556de1c9a38e26a6b71a1fb17b5ed3288efc851e"
+hash = "1065f3a927ab3a690b06e2d122426bc93523c6117b72462e93416ae7e0057910"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/roughneck.json"
@@ -6166,15 +7018,15 @@ hash = "73309a20c1f302f894a88c01b8423ae569fc88fbb7eb7a74d03a558d122151e3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/team_rocket.json"
-hash = "fbdd5b68fc1ef3b3a979e41f4d9e0fc5b453db8942712d46ff917c536fb16273"
+hash = "2fd48e3a4a8a3e5418f3b9c54b6da66808a7b0ad205fdbaadd0d0239ca9f5bd2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/team_rocket_admin.json"
-hash = "f82d400b1d35136f4134647f35aa2edb1cf122559cc3754ee2c40d2ebe7d1209"
+hash = "8c60d1d2ae8e9224872d84ba357453ddb210245adc2934d738203ba3411a789f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/team_rocket_grunt.json"
-hash = "fbdd5b68fc1ef3b3a979e41f4d9e0fc5b453db8942712d46ff917c536fb16273"
+hash = "2fd48e3a4a8a3e5418f3b9c54b6da66808a7b0ad205fdbaadd0d0239ca9f5bd2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/groups/terror_granbull.json"
@@ -6246,15 +7098,15 @@ hash = "4243ad5cbc941ef9f2ae36fb21d05e6f5278276b458d501ce5e650b0bf0b1f51"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/boss_giovanni_0045.json"
-hash = "a72bb9107cb42c7c9ee63f344d4dc0fe1d2eb3da117325f899f20ea912ff8ba8"
+hash = "114cb786b67920920bd65eb117a486e97b8551a18e2c10e5d7adc1eff23ae8ee"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/boss_giovanni_015c.json"
-hash = "f2fd937885cd67fc8041d93e640acd6ca944c5a1dc0cc49147bd35819932fe76"
+hash = "1572d6f2239ec61d0badd174a99a62b3d72d890f6934f0cb09564331af5fbe51"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/boss_giovanni_015d.json"
-hash = "6aea11cc0ed8387b64fb4cb8532e50ddbc0ff06e3964f3ca7d1f705c062966e7"
+hash = "75bc4379f3d7594129bb6a4903b4177a21401164517d29afdde2ab4d03cf9fca"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/boss_zeph_1_05bb.json"
@@ -6282,27 +7134,27 @@ hash = "90f269057998775ababf0c8c261bf57242446a6d4f94ee711a12632eaf1607e6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_01b6.json"
-hash = "de84cdd533f59a39f783fff50a536d9fd9b8c5654d955bcfab6c744eecc0afa6"
+hash = "d4386652a1c4036a5bb2c34bbd274b3b8cecb9aba3ed0ebe03801310ae6061e6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_01b7.json"
-hash = "de84cdd533f59a39f783fff50a536d9fd9b8c5654d955bcfab6c744eecc0afa6"
+hash = "d4386652a1c4036a5bb2c34bbd274b3b8cecb9aba3ed0ebe03801310ae6061e6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_01b8.json"
-hash = "de84cdd533f59a39f783fff50a536d9fd9b8c5654d955bcfab6c744eecc0afa6"
+hash = "d4386652a1c4036a5bb2c34bbd274b3b8cecb9aba3ed0ebe03801310ae6061e6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_02e3.json"
-hash = "22ec81e3187d7e72d26584ef748bf65781a57a1c5a238aafc912bbc67c3575de"
+hash = "63bf0ea3a8145ec61af754e1853df19a925ad7e58a76c92f0218059b653e6a83"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_02e4.json"
-hash = "22ec81e3187d7e72d26584ef748bf65781a57a1c5a238aafc912bbc67c3575de"
+hash = "63bf0ea3a8145ec61af754e1853df19a925ad7e58a76c92f0218059b653e6a83"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/champion_terry_02e5.json"
-hash = "22ec81e3187d7e72d26584ef748bf65781a57a1c5a238aafc912bbc67c3575de"
+hash = "63bf0ea3a8145ec61af754e1853df19a925ad7e58a76c92f0218059b653e6a83"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/commander_jupiter_041d.json"
@@ -6342,11 +7194,11 @@ hash = "2777b39f53dede8ece69789cd99ed198c4928ced692c7b5eb0375450f96c4073"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_agatha_0053.json"
-hash = "1c62b4ad5dc03cc100c522febad865ea3176ef602f0e68f0384ad03b85d45dd7"
+hash = "3002ef7e632aeec7b88b8ad9ef8d4c066ae6e762831e29c2474cd6edc459a8db"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_agatha_0054.json"
-hash = "1c62b4ad5dc03cc100c522febad865ea3176ef602f0e68f0384ad03b85d45dd7"
+hash = "3002ef7e632aeec7b88b8ad9ef8d4c066ae6e762831e29c2474cd6edc459a8db"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_arabella_05b5.json"
@@ -6366,11 +7218,11 @@ hash = "c65635945c8a9533577ba0e0efd6bba8a8cd8f325345d16f079da5b769f4c8ee"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_bruno_0050.json"
-hash = "4b71b503c8d0ae975a63cedfbc8bdfdc4fb19dfab0a329cadf5c68fea7c8a9f7"
+hash = "530007c4c8e7371df379be3bd32321dfcceabf88b938a47955fb130e3aa35364"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_bruno_0051.json"
-hash = "4b71b503c8d0ae975a63cedfbc8bdfdc4fb19dfab0a329cadf5c68fea7c8a9f7"
+hash = "530007c4c8e7371df379be3bd32321dfcceabf88b938a47955fb130e3aa35364"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_elias_05b4.json"
@@ -6390,19 +7242,19 @@ hash = "52332676c3d99144ea621f801641de561c862da7b8ef54c5ecb6ecfa693f94a0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_lance_0056.json"
-hash = "5e06d6c5e4d5f21c9979a6107d66e0a61e683fecdfe38a3de0db35c80f52344c"
+hash = "3a5ba8a7518866e026a6829a44047fdd205cfdb5b4f1ed915f9a3e231f326270"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_lance_0057.json"
-hash = "5e06d6c5e4d5f21c9979a6107d66e0a61e683fecdfe38a3de0db35c80f52344c"
+hash = "3a5ba8a7518866e026a6829a44047fdd205cfdb5b4f1ed915f9a3e231f326270"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_lorelei_004d.json"
-hash = "063f20861551c2219967bc2a5682f60328a5e4c6559c9db33b55bfe52b35783e"
+hash = "48b7f9dbcba120518d8059052a087478fda6c6f986f4e0a52073206e00222638"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_lorelei_004e.json"
-hash = "063f20861551c2219967bc2a5682f60328a5e4c6559c9db33b55bfe52b35783e"
+hash = "48b7f9dbcba120518d8059052a087478fda6c6f986f4e0a52073206e00222638"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/elite_four_lucian_03a2.json"
@@ -6526,19 +7378,19 @@ hash = "eae484d2ef0114831de8fe591eadbda2c4538446b0d9a5946b5a7f893e7a5f54"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_blaine_01a3.json"
-hash = "72fa47dfe79e2bd609a07028178d1cd209bb4cccb8676bd09a71b7731526d99d"
+hash = "1290ae6ebf15209328eb184acb59efc996c862770c7c52b780ee4c7104736e4f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_brock_019e.json"
-hash = "657061dbf14331eaed1fca076d9a067154cdd35bf9534052d7f7fce6c612be12"
+hash = "9ddb337c6c14826359a4a55e8c48391e5867cd320db16037bc5f9537314b941e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_clair_004a.json"
-hash = "74a33f8c76f065ad79d73929a203b8c181698dc873874c956a9e1b6e51a4ef01"
+hash = "831c7bf366fdfadf102ea8ddf5e5a467f877eff59ea4b2d346a7d3b661251fe3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_erika_01a1.json"
-hash = "b712b7c92930d2d224a27eab954b28ca08e175adfcaadada41432ea990865af4"
+hash = "bdaabacff953492b3bb3c9ea79f7c829d264078fedefc0d1d958451f7a3f3b78"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_galavan_05af.json"
@@ -6546,15 +7398,15 @@ hash = "df149c7579954fd185875545ff95f0266f06dfd71905e99e16ccbf28d7f57c5e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_giovanni_015e.json"
-hash = "c40a2424d34ebe500a279dc4c36f4f3b31b4fb13eb0855321cd78c340864f12d"
+hash = "542a7df70f7991dd5a486b998f7d2b30814d7f99b10da51232fc18a5b67d8faf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_koga_01a2.json"
-hash = "a32a19a67c3c8c79b5bcda5fbf848074cae7e79ca59349556000fa7a63cdea0b"
+hash = "06c0ec41fe7ffa28f7406089131febbbaf0750028d335667a863048d43c0a7ba"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_lt_surge_01a0.json"
-hash = "84d9d73e0a284fc9717c3d7a8ce99d6a72cbc96ee095b6e4c12b393bb4e5fd42"
+hash = "c57799d8db7ed288104026424d1b5fab035d90291ac5bf76374fc860b80ed57d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_mel_05ad.json"
@@ -6566,11 +7418,11 @@ hash = "62e2c16a8888e8dc7607b93895dd3787f0edeee13b97349a979096d71057df2b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_misty_019f.json"
-hash = "e9cdfeb73cd772f26afca4abb84f2fea4f2ec5cef2c6f6cd23936183f45fb86e"
+hash = "106851cebba0db3746da7a12b4e9d21caa18c67779371cee37eef293c61f8817"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_sabrina_01a4.json"
-hash = "d5c03f5ad80c95933aab01f2f14bfd74da65cf45f1b14d63b44cc5cd06e72240"
+hash = "414b105fed93afe168efdf65d3df5720c5ce13c4d59b5e72fb54211ce22c3534"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_tessy_05b1.json"
@@ -6710,71 +7562,71 @@ hash = "92f4bf76309950411f8781a436de916234a91eda7dca4d27f3aa286f5476e682"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_014c.json"
-hash = "85157fb315c61ae288cd0c7ddd4c046ae98691d533130c4cc5b606085bf8b479"
+hash = "cfb25bf5dc0c2c6ca5f9d21c7f63e6abc7f5792a12d33e1efe810877110be050"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_014d.json"
-hash = "85157fb315c61ae288cd0c7ddd4c046ae98691d533130c4cc5b606085bf8b479"
+hash = "cfb25bf5dc0c2c6ca5f9d21c7f63e6abc7f5792a12d33e1efe810877110be050"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_014e.json"
-hash = "85157fb315c61ae288cd0c7ddd4c046ae98691d533130c4cc5b606085bf8b479"
+hash = "cfb25bf5dc0c2c6ca5f9d21c7f63e6abc7f5792a12d33e1efe810877110be050"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b0.json"
-hash = "77eeb8e956e8f0d13f640474e0abdf8a2d7a018851d3d9db3db10802d40162c5"
+hash = "310e95ef690175c03bf0d94425d3b01c3372d05b92a8940c6e49664effbba3a8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b1.json"
-hash = "77eeb8e956e8f0d13f640474e0abdf8a2d7a018851d3d9db3db10802d40162c5"
+hash = "310e95ef690175c03bf0d94425d3b01c3372d05b92a8940c6e49664effbba3a8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b2.json"
-hash = "77eeb8e956e8f0d13f640474e0abdf8a2d7a018851d3d9db3db10802d40162c5"
+hash = "310e95ef690175c03bf0d94425d3b01c3372d05b92a8940c6e49664effbba3a8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b3.json"
-hash = "9b0d1a8a1105654b749620a766d7410149f74c49618c6bc4d34a72f88a27e630"
+hash = "b2a3e686a17b7bf9b570717fbb05495d332472f84f1de74f5442dc2e1ea1cca1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b4.json"
-hash = "9b0d1a8a1105654b749620a766d7410149f74c49618c6bc4d34a72f88a27e630"
+hash = "b2a3e686a17b7bf9b570717fbb05495d332472f84f1de74f5442dc2e1ea1cca1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rival_terry_01b5.json"
-hash = "9b0d1a8a1105654b749620a766d7410149f74c49618c6bc4d34a72f88a27e630"
+hash = "b2a3e686a17b7bf9b570717fbb05495d332472f84f1de74f5442dc2e1ea1cca1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_archer_002a.json"
-hash = "da2be54d90943c18a47866e0dcc9cedda06d4875ac6efe93ec517d4a369d2f5f"
+hash = "7f4146dec39cc915dcfcfdcfc7a687bff0d7ffd22186a3a1a0d8cef13ba92002"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_archer_002e.json"
-hash = "771583e995b615df6ba423879bcbeb766c1456d71c9838c63e689d218bd9d5d1"
+hash = "ad8e552a93110af37d0af828f63a7976215a8cb733cf2d4288c15d7630d316af"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_archer_0035.json"
-hash = "3c53c11bf3b1925e09e4102ff5062969ae570bc222015017352c54dd105a806c"
+hash = "2e60b995954fa66fcedd41014096d115bf38a3897f07cbc36f7914ffdf7e344f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_archer_0043.json"
-hash = "8f21ff05d08ae2247564dc171bf1424d252d8dfddf027b5bc714541b178570ea"
+hash = "e74cd72164f8a4ec1bb651f034c425a410ef3f844a6d83f42720a68b316ce3bb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_archer_ariana_m000.json"
-hash = "91ced9858c521d1838ab8f65090de443276539e943cc3c3630513f3482d5aeeb"
+hash = "4d393c57b4134977b0349748c03e2077762c1f82081fbcdadbdcff9c8e351a4b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_ariana_0029.json"
-hash = "da2be54d90943c18a47866e0dcc9cedda06d4875ac6efe93ec517d4a369d2f5f"
+hash = "7f4146dec39cc915dcfcfdcfc7a687bff0d7ffd22186a3a1a0d8cef13ba92002"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_ariana_0036.json"
-hash = "3c53c11bf3b1925e09e4102ff5062969ae570bc222015017352c54dd105a806c"
+hash = "2e60b995954fa66fcedd41014096d115bf38a3897f07cbc36f7914ffdf7e344f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/rocket_admin_ariana_0044.json"
-hash = "3cc8471bf706ec854348baecce27927517e6200641513a1a827bfc9771e6a600"
+hash = "7e31766aaa8bd80830ad6d8f03e2cb01340053c040a409e9d7a5191311d64885"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/shadow_admin_ivory_1_05ba.json"
@@ -6858,435 +7710,475 @@ hash = "26bc6d861af476618e8ba6d21f6bda0962e21691ad4f7740f0137132d800563e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/trainer_brendan_001a.json"
-hash = "6b253fa4c3992ae38fbde78e731197e19727f819008477a5d99f470819ec3ef2"
+hash = "d2653fa3c2fac619a350fbe0ccdc271725808759d5d506c160d179ce06017058"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/trainer_brendan_0032.json"
-hash = "708e56e83ff9ba4a1b746d8afcc8c81160e01578a3673a0ab3b9a142a7baa4cb"
+hash = "05d33620f492756e50e419e18f9340956473032344565f92e242c43573187def"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/trainer_brendan_0039.json"
-hash = "8cb7409ba2260e63f064b42365832e2d2f1822255486fc97491c7ce74aabf278"
+hash = "660c056ce4090fffee7a12db4456b49c53bd1f731b311f245c2409a9dbca7758"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/trainer_may_003d.json"
-hash = "dda8b315db6ea52e7aa4ce294472b9739d451ee244cf13b133b0261c8f9afd18"
+hash = "ca3b18e80cc52e473f9da55324eb48fe6a61183c9d2e0bd953f3f17a071d58f2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/trainer_red_0003.json"
-hash = "d3ee4485f246fa7934a705541210a7496f686c1ecdb0e8d63abdf98f3632d4fb"
+hash = "217c64220cc22cb87defb739a77e6ff6b26005e1d6df29bb929622a681300187"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/recipe/trainer_spawner.json"
 hash = "1f9e725d87b7ec2f8b0c550b6fc176bfa74905f2b242968b43e71e791d85bf46"
 
 [[files]]
-file = "datapacks/pokeblock_datapack/data/rctmod/series/radicalred.json"
-hash = "b5bc3517c794b8e7783383994429ddedf527cd912c3e5e3ace0eead5ac7cbc9e"
+file = "datapacks/pokeblock_datapack/data/rctmod/series/pokeblock.json"
+hash = "13e3cb047ffc0a5a605a04ca82688965b4d8e609f1c837aaf3389940017d3e13"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/battleground.json"
+hash = "d46319cb085f077b7493fd10ddb18635e5a2178a204770c8ee2cf89e60fcefb9"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/champ.json"
+hash = "4b307d520f255e45f4798fb8969968f1dd77668268b57ad3d141e1c139563ec2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/e4.json"
+hash = "2334f0374658ba9b13c27adc95c1b21e6b2dcc4471e901540a0f39d5aef96ba6"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/leader.json"
+hash = "ea56efb17a927067f9be691f2120e32e8ef143e75b9cd2ea2e782644dbb0985b"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/ligh_of_ruin.json"
+hash = "ef35dccdddfb93ccca00c6d7556919bc3b444d8898e938bac867ad0537c4c061"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/normal.json"
+hash = "a9f589763b8b4920c082824fef6c7fade11ba8c1347bd962c2cce1e996cf7df5"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/rival.json"
+hash = "000ee26378a8d1bbc04445f4ca2f280fd42762cf6d5ed3f3f11ea0c58132ba57"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/team_galactic.json"
+hash = "0b85c99703ffe2364608aedfb9099ef6613b58231c82b553e6480e855dac2f77"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/team_rocket.json"
+hash = "04453b10f74b7f4adda3558d8d30d0ab1de6fbddec07a4cb09cc35e313fd836a"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/rctmod/trainer_types/team_shadow.json"
+hash = "c38f9f68b77b563c3cd0d495a44badb9df3fe86ce2d4a51005db8b6913f06465"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_abel_04a5.json"
-hash = "7feee3f9768937c61a6c68010d44116c49d51b1f5d7db17ccf9582fa3340d507"
+hash = "b901375851099f956c896e206d4608ca010cefa99737824b9b1708465743ea0c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_alexa_0194.json"
-hash = "a1a2787833b411f89945217496c66ed872d04cf01abc1a042d091172aa871de5"
+hash = "6e31e4ebdc6206c61a5098dee18b10f290d8d0e3bf87973a81a02b64d4b91066"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_alexa_05d7.json"
-hash = "2718fc9e341cae4c1ea5746e296b1527ed3401d0f0d8d1de8e13923cc81a2bda"
+hash = "a713244ed6dc542600f06df3630daebb8284191a462d85473e1dfe566987ccd9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_alexa_0603.json"
-hash = "a079f794537c98bbbc534eb53d0251c3c842444bc0b19b8d90251eb5a375cf8d"
+hash = "e1bd31b0633c51d04a1949d77d947a29d997074874f27e6281132cd009f9d6f8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_alicia_03a9.json"
-hash = "93c0853d049fef24227dbb59827a074bba1138d6b7fbbde30ac95bf8fd3b4536"
+hash = "887a160035ac0b26439ea31353603298701d09ef4f400b5f85ddc64d24dfd002"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_allen_03b2.json"
-hash = "45bead5476e033698aa62d4c08b816998bc55e46e75c499d4444832ff2d4725c"
+hash = "bc63b46e32c66dcce9c3c49ff65524509012db2aafeafface7a5b8c638487410"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_alyssa_031c.json"
-hash = "0f1955ad23d2a28747a2ad1ed1d41fcba136f717ca990959db5af38b984de577"
+hash = "41fb74fef248632266457ad653547fc6dfdd5a82ea22e4c999e9650e5fa86496"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_andrew_0002.json"
-hash = "763ffaf9d8f449fa145cbf30334c5b6ae5756b34617b4d23b0df1ef58a3ecbaa"
+hash = "cebd837a43d04dc3676f7217ae77018a833605e6a3ce9182b6755f51da6e68c2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_anton_0573.json"
-hash = "1e89aaefa82f83a031baee095933053dfbad0f00352ca03701ec5e1e73995cfe"
+hash = "9707c12442ea3c7245e0ec3dde56beca22cd5260e09711af3fc5500d25edade7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_ariana_04a7.json"
-hash = "93f7325db76e93ddafa5778a6d3ff17534f7f12a7b75415a0a710403156b11b9"
+hash = "98a8a51a8001dcbf7d66af5daf9c211965a4a8959cc344709fb7a7b0f37314e4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_ariana_0506.json"
-hash = "00ffe4eb1d5f5abaafb1ddf9b01909d183387e9b089087d1c1c885dafd8dd3ce"
+hash = "4113c01caf8d469783f40636712baee2125c6f016ee2bc18ccb338b1c366a71a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_arthur_040f.json"
-hash = "ac4cca234a756f8807550e2f567aa3f414a1210cd87603a4cb778d9f41d49b36"
+hash = "4d1abdaba1a7a0b93f7bbd19a000ce1fc5e0aaf64b4e0b0299a62674d50b2f6b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_austina_0198.json"
-hash = "a043ca2f79dce5583dc781dda08bb10be8f68e8d70dd03b98c137c74c146f208"
+hash = "93aab8408795f45c6b88e5e6e8d870a1f12bdbcbf3964ff663354a7ff66e8500"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_barry_0058.json"
-hash = "18641c776ae5ac1cdc98a1da967410108579c56fa9c83a9feaa7550b8935beb8"
+hash = "34920f3420dd62b410670b15cc0a9f2bff3d34ae120b401c79f5a6ec44c38781"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_berke_018f.json"
-hash = "9eb7ae11e2076b059adb59d11117da274e3b30d1f854cc02521461cf99d115c1"
+hash = "572d8522d22835c3de8c3b9d229a623a92556a2b1df0b0046c5e5243a1bec85a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_blake_034b.json"
-hash = "63987bd4e2b26ac0e7b60623145074c16b85a1c97c4b704e927980c2c819ce4e"
+hash = "0a79e8718a5b4046fd34218de56a32975bd231a8b69fff54a3548956b533520f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_brandi_0411.json"
-hash = "3f0fff69d7056b3adc4a8e781083f430bada4bf88e23076066be6e33213fb665"
+hash = "080fa6638d86c94a4ea903a90b7c85978e7cf75cb266a52997ada228ae7b77df"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_breanna_03b5.json"
-hash = "3cf248b32138f0478eb6341362ccd07049013566e05e0e578eaa9ae3f3c24dab"
+hash = "d3c11505a1c7db2d994c8a9f111947470d863d2995613fca341a32e0d5d75943"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_brenda_0410.json"
-hash = "8b587b7e55b3d72094ef420b278547b9988b674375818d5dbfe48c1987ba183c"
+hash = "d53f97fa23550a75f67fd0d2da05ef504d500969a9b03cba3337d56a51c6e626"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_brenna_0574.json"
-hash = "d3b5d0a9e53289de1b04e18489bcf44aade1df14f72fc132dc9576959b55afdb"
+hash = "975543143b7b32c85e4c6c700d8415c511b8f91b6a3c24dd0d0409e435cb1caf"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_brooke_0197.json"
-hash = "31faafbc434fd79e4e5bf93fe88535d781d104cf4164554c1aa985070ca841f6"
+hash = "bb0c431d3da77a16d0bae070314e99fc2b09502bbc8d97db9a503d284a88e892"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_caroline_0193.json"
-hash = "3942231d57631bbc52f2aac6f372d64393d1d6a36e2eccc2913cf82f4a273419"
+hash = "b4af90d982c5acc5bdad86644a8ca9f0a553d1d18b2227935c8b63ac758e6943"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_catherine_03b6.json"
-hash = "52502e2a8607bc27fc42fe794440111c0f4a76b0bcab5c3e2a4f05c45dcca4f9"
+hash = "99abe859f4bf48ed71d3930832154dd5be8864d2b0f2a9700c18e29577b97b21"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_cesar_03b1.json"
-hash = "ff70e4ee2eb5c79490b87846628ec608740f0f6d8dfd48e8d51763a1c9406c73"
+hash = "4e45398e1458d5989133bfa1ac5965703f45607a1593b1e7c7135c54adf379d2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_clarice_0412.json"
-hash = "a7d8a0890eab974b4800ca69ba586897d06e8166d8f57f359cb7af58e9b71513"
+hash = "72776d20058cdeced95c7464782acae6053d6fd65f19991c6b80796da06b7725"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_colby_018a.json"
-hash = "2ef174bad45ae2d142a7dd0c542b61d52cc4e7e9ec72b303e42dee6d2c7af4fc"
+hash = "95724c3d73d01b425f1cbc78172aefbafc034bcb785ab0258115238f056d638e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dalton_0353.json"
-hash = "b80d7b8e6fd0beb5c0b512636264f0cf2829b85bcad46202ff80f9b8040ab81f"
+hash = "eb63794ef8830a2ed65ae8fb6d2d31c29d81b21e37a9d8eb13b998e9291f0fc5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dalton_04f0.json"
-hash = "935015e7c59562d4dbbd3176bd6d3f6adbb14e67adca29db8d1b3e4e6a1fcad4"
+hash = "3ce6bc76c652a2720b75b8e32dc4e2209e7097f6bb0eee2d04af5313e5d45f95"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dana_04a8.json"
-hash = "248eb82f12027e2976f413b38898b7a6da0460b0203c4fa84056eb2942032a22"
+hash = "89b751ef0a1a11e78996f25959f3dba41d90472969bb04960028a3aae80f534c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_deanna_04a6.json"
-hash = "46ab80d814f14de3854da3d17c8c3ff96e71dedf2e4f53e35df909e8c881d812"
+hash = "5e1556923f6ee445306ebf11debd05503c74cc1b1beb061840330e5c721dea0b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_deanna_0505.json"
-hash = "108ef575711f6bb950a195793e4616eb5df6c449edb1e9a78637d9f80530127d"
+hash = "57c2c11812a4283bba12f16f30fd46569895d69418d3a4402f25bf0166d75eb7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dennis_03b0.json"
-hash = "01b617958ba96bb30400f10dc1154b68f190bf011fccff65f0768eefc277715e"
+hash = "277bd4520e8a1042a1d7bde35428b5424151b6ead899a78662f1863152510e46"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dennis_04fe.json"
-hash = "68cebc9f8f5f4457d25c102f93a684a3403b1df2b514bc62068ac8745a699240"
+hash = "58a86d12c4ba4cbe24428fbcd7bb9e5e6b5ad8855e1e3dfbbbd2231b1975ba4d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_dennis_04ff.json"
-hash = "c655ee1f17f8a027fbecc8854987b4a2e33d20302b58d7238659a861de3988b1"
+hash = "f19651436bb52aab6c0b43165ab54c63d2ab5c73e7e52df6bff1a1bd3991688f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_destiny_03b7.json"
-hash = "6218e37af120c89f8fb5022155fc4ff76c5559936d97a0a60f9f61d180a8a87a"
+hash = "30f5cca6eeeee396a192f2fbcfd265f2f1ca70e1bddf34b6c578be36b9e16a9d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_ernest_031b.json"
-hash = "bb04323085588689d7befc3ea28101fe5e9a45bc24a31aee7710e9f0da33a496"
+hash = "b2fcfe51a8d27e6a9bfd6fbd5d684bf1833f1b131be3d57cb4c7c4974ac6796b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_felix_049f.json"
-hash = "7bd3bd8bfea9f950e3ed2fac84f82f1166cc7b6ebe8b673312fbbfde0a82c76f"
+hash = "4fb4b7fd626f812e31e9f342c9b6a99271d2275c4749ef4421d89fdd409c4bdc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_garrett_034c.json"
-hash = "2e5825fe49ceb684a10502aac5e74dedcb74f2bfaa8daa32c86bcabde755d1a9"
+hash = "52491c4df01d57e2b369e3db0236e02940ddd5d31296d62abb4f91996ce9616b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_george_0189.json"
-hash = "0e700c035c3a808d6556de06266188eb56c25ca90151d728e30884e964dffe61"
+hash = "2d89575f54a022b042e0c02c12e139e2e05921db225020aa79e0032b54e5c946"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_gilbert_018d.json"
-hash = "6ef1495d3f3afe7f65f8d1a60685a35acc6fb61d6938b1bab676ac670297f9ad"
+hash = "30e0dcae6cc6a6af5d40c1d41950f59750cc893dde768e2a9df4349ff1318ef8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_graham_04a1.json"
-hash = "18d76b68b3c62215be07ac4e020a04736c7750ba2360b60bc5786ced3ebf385c"
+hash = "379a7c14056323a37ee402b5a8d9dcda477fdfbb4a3265b17024461eda9f250c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_henry_0383.json"
-hash = "e6113605d04d5119426d9996e60975802a6b0acb0272c248db4c75ae415682ef"
+hash = "fb98e3ac9a7be0438fa16bee44f549c4085301377fd710c97a0685846a2d63cc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_isaiah_03a7.json"
-hash = "eea130815b3d2c8a8221abb03e32dfffa32b5b25d416c50b837b1d71cbb9daf0"
+hash = "24103b1833293860ac2c961520ce734ec9f41fbdace39ea804db00bdbd3d2ab0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jake_0367.json"
-hash = "0c7fbc7c768cc6bf61b324a1bd8fae89bccae7e6de663c0690ba5dc8dd13f1af"
+hash = "87ee599c8d7914cb38f34c88e14ee4c3742fccd4a17bbdef071d8b1944bbe9c8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jake_04fd.json"
-hash = "683f3531b2d33894073608043fcd352d367a24a0c54bf39ebc360b4be71e07da"
+hash = "e500127ad0a31ef1db9576e2a78295409188d75b4917dc47c3e2445721c19027"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jamie_03b8.json"
-hash = "cd977c6a7bfed33c9c896056362e6c34d7a75ced7888244ab163458e748c8c4f"
+hash = "d1add8c1dd175bea981df15c37111341af6f39ff66d85de4e781e4776ae76484"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_janny_00af.json"
-hash = "8f5a304a0220afc01bd3108c7952cfa919a180ec20dc4801f44d3aa05204a3c0"
+hash = "62da4a330374c676248a578754d17d6cddfdba72257caa2c409939ce6f5aebc9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jasmin_04ad.json"
-hash = "e74e6ecd9a1fd96492c9bbcd3f9e06f827f9079dbbeddf2000d007f013d6224f"
+hash = "df7d0d309c6fb45193611db39ff3017da5675d329e5579be63e204781c9aba31"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jonah_040d.json"
-hash = "47eb769073891ab985342b1f64cb23003cf07288e596ae6f4c2cae6d86a72348"
+hash = "11473e1bc91d0df83bc668472793273b5c2c06b5e4c3d2cfad4cf2887ce7c78c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_jose_049e.json"
-hash = "deeda89a070e5e69d6396693a49284ffb6ac6380e148916477b5424f53f1d695"
+hash = "3c013923dce9dc666c202f88aea362b52d3885c7e4c9089fc525ee36d4e37d11"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_julie_0199.json"
-hash = "d97c16255c48ed2253bc65b125644f16d3d33e26758d14e5079d2e42a2e12527"
+hash = "683a76a236406065ed0f8b1bcf420694a8b6aa07a0b6694978aa3cf03c61169d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_kassandra_04ac.json"
-hash = "7abcbcae1f2ea721d9768ad427d065aea10fb4d6e6a82083ee852f7b829b7fce"
+hash = "4003c00ee15c5c96c5ea02ec09648cf4f80b61a44ceed639da4370348f7ef233"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_keenan_04a2.json"
-hash = "130dd3f47ae9cad85cb857800d0683f23656474a624868f8706519a6a4a09a3c"
+hash = "eb600fcf4e9d87540689e6bb8148eb7a1b144b0f2106bf1349ff906cf789faca"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_laura_034d.json"
-hash = "47b744abe20258b71c481fc7b9cd78c416f10cb47e6189cf7cc5c657783fcb31"
+hash = "94133972dc04473d461831cfd4a4671ec10a33c67f487dc0fcdbb0349ecfe590"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_leroy_0257.json"
-hash = "bfca4b9fc966e2ac1f981016b9e06d45b3e324c8fb0a95ab57d199c755860704"
+hash = "dbe08652158f826ea34d8334685c55de34be73ae9589750e50e8ad90e8332199"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_leroy_02d6.json"
-hash = "761ab2d4ce02ed8e9ce5423716f88ef89ffd5c8d874fb7f3af52d4458bd1bdde"
+hash = "9ad13120e43ded4988818e35fb4d12a41492018310259f710278dbe9ef33ba22"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_maria_034e.json"
-hash = "7a08d1926ea09f62580009bfd73dda20b2d98b1356f9136b4b988005e83c7219"
+hash = "6f2edce98ecb68d5d9a4b8f32efba6fb56aee79a48433b6ddb6601c12597c89d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_mariah_0384.json"
-hash = "f13f8afa21bcc0877c4e3419135e71802b7d51a57bdc814ead557b42a2fb435d"
+hash = "afc66604e17159839e87f23782808a21ce19c93387806de8bb107ce17eb7b116"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_mary_0192.json"
-hash = "620235ce51127866000fa075d53a2324dfdfa636baaa96637651be2ead51082b"
+hash = "85a5738700395fc997471a819c28e4ed30caff025bf3dc890dec3b94c9e34025"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_maya_03b9.json"
-hash = "3fbcb27582cbdd13a21f1aa872c6f2c32e7f338bf0e10f7491ddb885555c5663"
+hash = "a0d7f291f20eb10ecf8996ccf5351801bfe3563c915aa0df68ffb528a5649b36"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_maya_0503.json"
-hash = "6061d9ebc3c18f47c3228c4793b4eb070c4e702b1b7a1797318b52a44c78e323"
+hash = "23d7b3dbb3ba3ab2302ee97edb8cfe759cdc10e4f9d8a0d5fa13cfc162a6c856"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_maya_0504.json"
-hash = "43a33f8b5e02694cd717c63a64c77f6c1fa4b338240f86a5f32efc249fe83898"
+hash = "a68b045d7591890dc299c9d06717c3f090349675757d6bc47fb311f4c30583ef"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_meagan_04aa.json"
-hash = "bfdfb40b1711c15acc2b357cfdc85e15f269b1b758408abb514ccdf5c9de1d7b"
+hash = "b054c755fb41daafb653ff53f13b54dcb3b8c1a7bccdc705c1e51e39f97e28a3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_micah_040e.json"
-hash = "c5839055a1755a34a9ad926dfa20e21535830f5a0f7d9fd6221c1fddf25ccc1c"
+hash = "3fdb976dde70e4f21dd699ee83da5fbca022382a4e4976c2771121675cf7b52e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_michelle_0258.json"
-hash = "db93a102e365d4f3ec399b1aec149580d329dcd709c11fa5179fdaafefec36b3"
+hash = "a71ad3d1e8fdc5061f58724950a72ec29d166dd3e312a6753f0e1107b6533924"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_michelle_02d7.json"
-hash = "ae15ae60507cc9f8907e2db6e1912265cae1f8a1343702aa7daa2f32330407d0"
+hash = "5c0d12b225adb23976d72e5e05341c0b0c8d62beca7ce84a323e3af5789f4a2c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_mikayla_04a9.json"
-hash = "4a7b313208fa287bdd56e1ad050332bf819e5616e0a61f35755fedb7662e9793"
+hash = "18d7c70208a3e2d44f34f53fa68961bce7429de2930308e204d88136bc6b4c4e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_monique_04af.json"
-hash = "4ad5ff8f8a7bd03387b46619785e09192693050b5ca5dac43d895f20c375dbce"
+hash = "27b7ff5c8ae7b40bd40c6ca1254dadf550ce88a0e083cf74cdb463e66b17c712"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_naomi_0196.json"
-hash = "9657258dd878c0d72798d86de161a96a68f934a41d553feea9847524b519d30a"
+hash = "f428209b7f2f1b7bc02ef644f3cc7189a2a1c6d29e54b1d59d31a15775ef37c3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_natasha_04ae.json"
-hash = "75f62e6936c74ccbca632e28aab5f7397be247cb2a758d32de91b651fa4e2510"
+hash = "24d71864ca97430a522094a71e73811742b2e03c8c700c61a98e64a7ec04e7a1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_nick_0055.json"
-hash = "8b521ef6e82bd963e8226b07edf0fa74eafc6527e00a345e13389196817a8a8c"
+hash = "594d16c4849f4e96390c9cc505e461b5d88a4dfd0cb6d1626ad3bf0817c2ff5f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_olivia_0354.json"
-hash = "eb9bd0833da4408263e52bc9293663ef61a40b5bf46fb1d966ed9142bf2f84e5"
+hash = "5003b02e70c6a29d7d0de771ab73e8ec3d0b7af9ae31bef1f7297ed37a0c5fb6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_olivia_04f1.json"
-hash = "f00dee7c210b524c3d790097107cf71d212bd2d2d0473ea79105d74a77781d99"
+hash = "099123bd9232745785efd742580122fa899224b021fe4bf2cd8dd252ac3e6220"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_omar_0382.json"
-hash = "121073d267c2044e6bf71f45de99e1ba6a40587a3ee7574e0fc83845397adc0d"
+hash = "22f2539902e170daf6b7f3c06f82c01d3845ede7e2b67365135a52923fd9cb01"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_owen_018e.json"
-hash = "84a8c6ddddfcaf8e8db685de51a0a5ba593171fb0dd885e6ef3a90fd4134e4ec"
+hash = "8c33a3ca80c7a0f9f9e3e9e5616006d716d851e167731a15fb9423dbe21bcd46"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_paul_018b.json"
-hash = "ebdfed685236e0ca6d08d36d5b79b857a06685d880c29f8a94aa8b2725b179ca"
+hash = "7be0bc2404265cf74c9d3dc2d9a3cb77d5e3e737b93605a72e44b3fc343f0589"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_quinn_04a0.json"
-hash = "0310408b7c781b90d24eedcb4a4ef7f0ae3714660dae83c849e355951a1b7f6b"
+hash = "e0c6d877efefaf9a53a92b32ef9b536d161517f26461cdc2c72913315133b5c0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_rodolfo_049c.json"
-hash = "49611720de5a82e2efc13c6d30cec227430014e036126a80186b09d0403ac8bb"
+hash = "9f4d914de98b63b00424af57ea0842e236a5de6711b4f811dd4b18d6fba70903"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_rodolfo_0500.json"
-hash = "94fd826d9f4d4750284d686d45b8df075e0af51616458ffb886491d52e0801ab"
+hash = "cf17fadb0823b7cfd8ae63af4aadbd02620346f085420c265bd4b3fb00000b6b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_rolando_018c.json"
-hash = "9d1f7053569a29d4112ddd4fa99ea18c75b1f3b010fecb279240fda60e8d6639"
+hash = "3be9de77a424a1d6ab7d93ff57f586d63565eefe2e3409eb237c62c85f4995ce"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_ruben_03b4.json"
-hash = "1163aa0de188cf9da451214a596f876f547806c2d323937798b836297e2806ac"
+hash = "9ecf759942cf8dc7314bdc3f4fddd05c26ce3e684b1819b93301fd96415a9ef2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_runan_007c.json"
-hash = "452e2edc1a6fa8a80a1152d360eecf04cf36c12f2b334afa029dcc2cae8aac18"
+hash = "77a29fdc79c8fe8e2ee7bdcb430cceed8fdaf1df3ce3fdb69d64f237a60f9bdc"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_samantha_0052.json"
-hash = "218454733369a29dd7de6259c2132e4c21ffab76fede5fcc8010645b3a8b6551"
+hash = "7996bcce794e40c993bc21fb7367b5cb96f682bafec63394d6bbc057153f8a5a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_samuel_0188.json"
-hash = "99698a2375c8f51f3dbeed8b4921558440a6991b45d300fc3c98204619f3009f"
+hash = "06925e6a27e01d6bdc6752cb948006d78473aa908137f634e4b121527ccc362b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_sandra_04ab.json"
-hash = "fc5580d96f921d63aeff153e84a8dca1ff50e54417df0aa8c14f497a4484d084"
+hash = "a8a49728c6ff6163134a16b9a8d6bc1e405843aaac536c02cf20c5841c672e2e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_saul_049d.json"
-hash = "c7e6c14efc98aa7b04716981318b213f73ea17fc410fa1970453e0823b726792"
+hash = "0d37825d670f6372b1bae8059a4cfe5fd1178ee8c437e259d5e7cdee24b4b696"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_saul_0501.json"
-hash = "fe6c99ccc17b59da81af029fcd6f04f6fd258328ed791051c8b2be96c6be37a4"
+hash = "bed560878d78e4e5e57e057adff7711999a1c1b05971d3fd78497f7311dad376"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_savannah_03a8.json"
-hash = "6643dabb4c62d74bb76bf96e2b495a10136e5f6b34dbc63891261e961631944f"
+hash = "4df18db3e1314229286329331922a6d3547c6fed794045f67b7089fe78e93960"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_sergio_03a6.json"
-hash = "d999aa74af3be4ad6f340b27da2b67028005ef8904b44885c8d0e0857cd1d12f"
+hash = "ee9a46c67e44004ed5a885d7ca53875240976d4effa46c2ef7af03043d62c41b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_shannon_0195.json"
-hash = "92b7ea04d6d665a5a82abd4c0a64dfa590661181e05664880cf5fd13cc51921c"
+hash = "e0df332afa633711ca0cddcfb5ee0369e7ae35653b9785a92e5d80ff1cf38f4d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_shannon_0368.json"
-hash = "3503ea512e2505c21ebea0dcfb7809895a35cfb38945a7db01b88a20da22d524"
+hash = "8181908bd55689a104ae8afebb62341cba33504843d8fd318660fee93f87fcc7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_shannon_0502.json"
-hash = "4a295e7af0bc0ec8b54c1c2ca1e6573a9f4b7db9206414f3aae010e958f39ba0"
+hash = "a0fa52fe8632506c79b81fc9d73153175336c74a6821240a23cf899505e728d0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_sharon_00ae.json"
-hash = "03bafe8d5bdc643243d506b45bf66b23202aec34f85e12a5f0c3f0a8cc7dd9c5"
+hash = "2609a842e928eaadac7d585ba9d8ca959b0797db1863d81ebd9181314a8ae48c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_skyler_04a4.json"
-hash = "42dac2268661fb8e2dd65ea1f96fb0f4e9cef698f8a2770c3e0305c693304323"
+hash = "83eff64bdf901e15af9cd4513669cf80d7ee9d3944aa88b29f11347ad9239b22"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_stefan_04a3.json"
-hash = "5bd571c5d831d3815dda974e9d9250067e3e7f297bd1a87bfa2a9135ef32af40"
+hash = "75de55b38d9edd4af25dea5ae86cf7c9e6f14f8d9f4ed0ac363df6c14a22b92a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_sydney_0385.json"
-hash = "865bc06a011a84e5bf3fc42026a47da28fca5cb45bb0814250d7724e001ad436"
+hash = "28dc3ea3f632d9142c495f2a059c2b5face30d5e3a31516e1924b12463ac0f79"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_symes_0071.json"
-hash = "0600ff4c9498d74fb033946ab1d244a9b7e36a181ed4a2ada197165d44208566"
+hash = "4d5a3c7775b63eab38a94e81bab1f2bdb5cc8599b6d32178f9bceae404b8b899"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_warren_0191.json"
-hash = "c4fe7afbea5b809547e18ada40dab705a922d5b8f63d27224f792aa33f2f2d82"
+hash = "a2893bafebc9dc1387e3bb9e4168c2262c5b0946da967377f5d2e10e21e4c926"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_wilton_0133.json"
-hash = "1180a3c49ba0dd8a91e65e5ffdd4185d2c632110844965cbf4d7b2eb29456b65"
+hash = "fca54c4effec56e40da0d9b30b81b1202460c4f6fca1377f8ce914659e21f7a1"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_yuji_0190.json"
-hash = "152f8f8f6158cd5e1442b8a6a42c9a0df5689b825a119480d316e4ab4d221672"
+hash = "235277d985aa7d16b4760eb8057b64cfd09bfd31f92f28ae2a1f984598a6045b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/ace_trainer_zachery_03b3.json"
-hash = "6e3a638c92ff16afe2612a40d623c62ef02b79bc7a76e4057ed8ac1626c19fb9"
+hash = "3e3e4d5130f3d811a1e2869b89c955f0a077ea0fae17b79ab5860d2fca51ff26"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/aroma_lady_alison_0480.json"
@@ -8718,67 +9610,67 @@ hash = "d86fde262c234912e3d4a0a0d3b73d07f520bb9ee12bfa6999d01f8c37eb2fe7"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_andre_0388.json"
-hash = "e983ea6a77d0ac05f3d9e71f566958227062d1435b031fd19b9ec0427a68cd94"
+hash = "b8371fb848eecc5130df6e16af256a607f0c37d0442b89f10c0e7d9b6617d53a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_clinton_0389.json"
-hash = "8f7d229ab4c8e711ef5784e48b8bb99066741c4da755ce9b61133c44323b9c03"
+hash = "52f348bc5fbd1acc6be36f17e2f4acde64c5f3b9c38caa617a069c574a617e88"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_darien_0497.json"
-hash = "cb04c91645f5b561f1921ac904331316595aed53861c90c6616f7000c4a9a84d"
+hash = "6dddc01bf9bff7ab0075247fb21dd5af6ad5577769ede413bf34c7a2109cce79"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_drake_049a.json"
-hash = "ba11b83e3bcd28952faa9d75cadcba5715b55cb4d4b4a43fd7e36ec25ea8c6d6"
+hash = "c625d62cd4b0580909b3222275bff1c82c65f935f8d282e614d1eaf04e532c19"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_geoffrey_0496.json"
-hash = "81accec950ab8311f465cbcace008d0831718b599c812eb4e17fe23e1c1f058d"
+hash = "1bc1fb29e9698dbd70490ce28aa897baf3ff37421e93dd2602295baa2e5bed7e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_geoffrey_04fc.json"
-hash = "4c9c616ab52c6c4597cb59ff3616b490c8a04a3fa49e2196ea85b9558f4df035"
+hash = "8f89a3ce25e44abe7aeaff0f7aa519fc1b7197cc7def874f421133d8970dca84"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_hayden_03af.json"
-hash = "cdfd9d0a9800e14cae02d0e29173d9d557768ce65a1c450a57d110b7b71edec0"
+hash = "6c92d645db6ad097362206bb3063421b83f1bace99bde0b93ab7bc0d78239588"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_hayden_04fb.json"
-hash = "3385b5d3c54df78b9305f884540d22dd3d8da0a825b2206f04a9c186097092cf"
+hash = "41f13f09a9ed18fc93a57be475666be37d57a81dfcffc0968869ad9255ea9ea4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_joe_040c.json"
-hash = "2fa6533892e1bdb1317367ae80f636024e914c53e948bd09de5475e10b3113cc"
+hash = "ce447ce7ff0797a5f04b77e4cea7f60078bc99f70d565da7ed67f5ba571fdfb5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_keegan_0498.json"
-hash = "4af7c2c20a715bd7bdefa469985112d1f6dac0108bdbc4969142c494f6327e38"
+hash = "ea3aff8e80867d0b97b63679470febd716b96bbc8413efe19c8ebba523f7c3ce"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_kenny_049b.json"
-hash = "2a51b64031ed31bf1659a58776b72d19572c361bfaa8dc76a892f868639942f4"
+hash = "8f4c38f018f91bd05942584fc7480bc1cfe15fd70ea31252ccfed774abec1cab"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_patrick_0322.json"
-hash = "31bb77f2f18497905adae61bf3832848a562af5136cf3414a14df4b3bb26ce68"
+hash = "4c16d040f27a6882727f1b16fd2c4049789f9957e8c9faaef8b55db2a50bd9b9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_patrick_04f9.json"
-hash = "a70e17889cd180a03b5dbda984f6bf27804c7d4cb7122e01b09a0db32f00d656"
+hash = "cae9c14b272de7b3ed0851c708ad3b11ab1e41fc5273e6ed423aa3bba3fafc76"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_patrick_04fa.json"
-hash = "be91e190d873546a07d516642006e000a35a19755eb7fa5f4ec1fef6674b0588"
+hash = "98096b25effea15a08fe7cbabf9cc5e061574cbb84fb2e7e6bbe76cb51037b09"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_ramiro_0134.json"
-hash = "76c56eef6e570fa96f779c3a9968f94396827f0907de5dd01f7e1e2a8fb7cec7"
+hash = "7c72a0d28007109036c7e618b9652e18191995816397f80d49df35f38d7ea812"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dragon_tamer_stanley_0499.json"
-hash = "21b3278c0d2b17ab8906087cf393f9b791744c2be5e19667d5a9e87d53c92cbe"
+hash = "2df0e9f03382e759e5bdcf80996bf8db1c43a9d89ff822357da3696365c0fe3e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/dumbass_creator_0018.json"
@@ -8950,31 +9842,31 @@ hash = "b1880a618fb852435ffad02c2291631c07f24ecfdcb03b865c7be5306db93280"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_kenlawa_mimikyu_1_05e5.json"
-hash = "4a0ed56b26b71185f51f1594b89ff3c239a9427f0245b5874e6f67d60295f81a"
+hash = "b3b2358e66d643fc84e0fd5047c63eea26619ca0d67193f9a309c4ecc26e704c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_kenlawa_mimikyu_2_05e6.json"
-hash = "c579c1edfb811210f3403ddba8379d5b0ac2b19bd01f114e0d1b364c69985201"
+hash = "ce57ae461b785e0f0ce2e57d0d8c1b38a7a7c55cfef117f994d90e5f8021d6e9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_kenlawa_mimikyu_3_05e7.json"
-hash = "a779b68450b756a0c08d849df3ca6fb02f659f9b346e41d648e1c1819b8d941d"
+hash = "26a0467392bb0dd1350903cf88d179b90b9d45513d0448ec3c25c85e73813a8c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_lancere_0024.json"
-hash = "277c231eae73d8f8271002672f89c7dc8681b64c6988afcc4db6cd2528690157"
+hash = "760a66f329e2115e672fc1c53da3c6ba57c256ed4964d7c07660f89ce896291d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_ryuzoji_mimikyu_1_05e2.json"
-hash = "fa93d750b3aa6f10a5fd62b86ad0345bb422dfe5f66f53752da6a9df302584dd"
+hash = "53ec8fe8afc57f69f4bc80216f43f3eeef0b8170b49e8463fea34973d08430a8"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_ryuzoji_mimikyu_2_05e3.json"
-hash = "313a44f4fa2f60cb4608a4bc584b57b7a035ffbc37693069e593be340fc2d9b0"
+hash = "d5a83007f5b15ab6ec529ebc14b1ff91b60e9b372ccca0c0a0e9a9ca27a578b9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/expert_ryuzoji_mimikyu_3_05e4.json"
-hash = "e5ababfca9c0359c3d07ce35d1ebdc03b092b7ec7c36fbc355f65f3f7a384be6"
+hash = "9de697e535af1d21dd3b1ebd319f444fdaebcf093290eb9462fc831591010d26"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/fisher_alec_036a.json"
@@ -9806,7 +10698,7 @@ hash = "b5873ac47c9b42c3d59be098f84fa1f8ca378d3b286bf78353150d4f7c4076c0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_brock_019e.json"
-hash = "de330d4b1b6cf0ad7b2f9ed8b65676b768591cb6a74fb1c97843872ecb6c1ccb"
+hash = "2b704c821bd7474ad38c6543523616f1367cf64eda95ac52a95438955df0940b"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_bugsy_0008.json"
@@ -12782,51 +13674,51 @@ hash = "146ede712ee422dab7bbbb8a9326b09b5909946b8109c80228aebe78e8d2c04d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_armando_03fb.json"
-hash = "15cf59729c311946da8aa2c7c0c7f795bc42887c53a608f7ca3f9054b7c0899f"
+hash = "bf9aac939cb6b37c14037dab9f0c19523d591010d6ba2baf311ea32bbf22b2cb"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_armando_0571.json"
-hash = "736eb3d7c3720c45b9b4f7757f78f9c48bb9ff8c20f57216b9ea102ef593573d"
+hash = "18ef238d8974e634c04728c84a73f7942363a8aae72020dab77aee2b363f0034"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_brenden_045e.json"
-hash = "d9a7e23e3ad25d447cdd0f011343b19aa7eaf586fd749992446e0f599c523829"
+hash = "e8d14884bbda00116c89abab74a84e7c7ea44efb07eb9632da5bc6567da6b886"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_brian_031d.json"
-hash = "49ad353eb541b85b0eb4967ee0f7215fb7bf0b2a9b824bf4a0ed00a2c6f6c979"
+hash = "60a29fa9e6187b7d5d8edfcbdd7548e693f982e8b00d911ff17ecba7fd3385fe"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_brian_056e.json"
-hash = "83807a7c7e09be18d61bb4c6a133e7c4f1c6a17933339688b89bd3a08d1cfd99"
+hash = "47d995fb522cbaeb52c6ba485752d259607e467a2a1f697b398a7b4ee2d2a8d9"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_brian_0570.json"
-hash = "39b25cf5fa2fe54e428b0c297e3711f5517aa1f576088460df7b467c4fe71e6d"
+hash = "937dfb2f5a159ea3b28709b6a374c24d9b0505b468643e148f30fae07ee6b2a6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_clayton_0387.json"
-hash = "2169695e3d25df8e894a8a8f6dac67b07f97bdcb9841ee1576875e9df65afeff"
+hash = "261dff078aa96267d341cde874f0fa2660ee260784d7ccc93b08424dd3760028"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_edgar_0386.json"
-hash = "fc74aed3136bc9f881faf0e679bd928eb491a993018d66f6bf58e6275e07a766"
+hash = "dfdd6bae79663354123313ac89518c334f6d31fe79100dccaf2ea291a24d8de5"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_emanuel_0491.json"
-hash = "165afcff53df8a48fc85fafd4e1f21f4f7aac1c4f177ae41ce4b9b288ecf50e8"
+hash = "09be6f788e7add3864885b306ac4165168cfcb0fc6ea278925689941edba4e6c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_grant_0392.json"
-hash = "cad33ef2820c93d4893b34e99eab88a4bdcec28778c75d0bb4e046616a26d60e"
+hash = "29adb4080debb9c84aedd3b25e222988f431e6279422e2e6ca941b6bdf8a84b3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_harlan_04c6.json"
-hash = "df3ca510c55bad077e0569d47303069d4fcb77d4e8d0d7ac43b8d9cab8a7b821"
+hash = "4abd54edddd6e2f96725ec3984fb3216a5f8ddb84e94fb0c90e480e3058fa970"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/veteran_terrell_045d.json"
-hash = "31c8ef6b99f2843bf92eeee19bd97ce6666d99dbe0e8ac264c49853ff848d0ee"
+hash = "b28d42f0a3d5bfe7065bed1403c7112b33f1453611b2bf0498504b58d627ce43"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/waitress_kati_03fc.json"
@@ -18027,6 +18919,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/pokeblock_resources/assets/minecraft/lang/en_us.json"
 hash = "9a54dd8fd0b5e203d1adcfb5ab4ef430b6210bd78b4609852d124badc70b0bd9"
+
+[[files]]
+file = "resourcepacks/pokeblock_resources/assets/pokeblock/lang/en_us.json"
+hash = "dd80e69ca21d58a3c5ad84be5046ea770d7c4f922fcea23e7640a105a62b27d7"
 
 [[files]]
 file = "resourcepacks/pokeblock_resources/assets/sophisticatedstorage/lang/en_us.json"

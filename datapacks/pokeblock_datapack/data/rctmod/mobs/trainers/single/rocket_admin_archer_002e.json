@@ -13,14 +13,14 @@
   ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
-  "optional": false,
+  "optional": true,
   "requiredDefeats": [
     [
       "leader_brock_019e"
     ]
   ],
   "series": [
-    "radicalred"
+    "pokeblock"
   ],
   "signatureItem": "cobblemon:black_tumblestone",
   "spawnWeightFactor": 0.25,

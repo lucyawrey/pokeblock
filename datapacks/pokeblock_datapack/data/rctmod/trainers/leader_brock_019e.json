@@ -19,7 +19,7 @@
     {
       "species": "geodude",
       "gender": "MALE",
-      "level": 13,
+      "level": 17,
       "nature": "bashful",
       "ability": "sturdy",
       "moveset": [
@@ -50,7 +50,7 @@
     {
       "species": "vulpix",
       "gender": "MALE",
-      "level": 14,
+      "level": 19,
       "nature": "modest",
       "ability": "flashfire",
       "moveset": [
@@ -78,7 +78,7 @@
     {
       "species": "onix",
       "gender": "FEMALE",
-      "level": 14,
+      "level": 19,
       "nature": "bashful",
       "ability": "sturdy",
       "moveset": [
@@ -105,7 +105,7 @@
     {
       "species": "archen",
       "gender": "FEMALE",
-      "level": 12,
+      "level": 17,
       "nature": "bashful",
       "ability": "defeatist",
       "moveset": [

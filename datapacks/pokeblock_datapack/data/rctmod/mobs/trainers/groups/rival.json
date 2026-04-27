@@ -13,7 +13,7 @@
   "optional": true,
   "requiredDefeats": [],
   "series": [
-    "radicalred"
+    "pokeblock"
   ],
   "spawnWeightFactor": 0.25,
   "type": "rival"

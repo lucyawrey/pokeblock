@@ -2,9 +2,9 @@
 
 ## Normal Priority
 - Continue setting up radical trainers
-  - Change level caps
+  - Remove biome requirements from trainer mobs
+  - Change level caps and leader levels
   - Remove some required trainers
-  - Create custom "series"
 - Heal Pokémon in PCs
 - Remove decimal from pokemon HP
 - More ridable Pokémon

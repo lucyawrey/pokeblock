@@ -1,11 +1,11 @@
 {
   "hideTrainerIdentities": "false",
   "description": {
-    "translatable": "series.rctmod.radicalred.description"
+    "translatable": "series.pokeblock.pokeblock.description"
   },
   "difficulty": 9,
   "requiredSeries": [],
   "title": {
-    "translatable": "series.rctmod.radicalred.title"
+    "translatable": "series.pokeblock.pokeblock.title"
   }
 }
