@@ -1,4 +1,3 @@
-#This function will run on world loading or data pack loading
 #Disables vanilla mob spawning on world start.
 gamerule doMobSpawning false
-gamerule gamerule doTraderSpawning false
+gamerule doTraderSpawning false

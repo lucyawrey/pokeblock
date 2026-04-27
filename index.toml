@@ -4490,7 +4490,7 @@ hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/function/load.mcfunction"
-hash = "38b09a3a33a8b757bc761bfac6cd8e8a6f386f704d599776e790825ff6515985"
+hash = "4c96138d8f6fdb4708828197ade5421e3c5edbda36b3665f8d3c620d31bbdf0e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/function/on_join.mcfunction"
@@ -4498,7 +4498,7 @@ hash = "4ea0a1f9ddbe7aea81ea399d1ff01917ed866f0b97367d504c17f7340afd85a2"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/function/tick.mcfunction"
-hash = "f31b91fc98c97deff1663b8ed50fa2fd19d58d4922813595513ca39cbe97db01"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json"
