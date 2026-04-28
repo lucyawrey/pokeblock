@@ -1,5 +1,5 @@
 {
-  "name": "Swimmer\u00e2\u2122\u201a Finn",
+  "name": "Swimmerâ™‚ Finn",
   "team": [
     {
       "species": "starmie",
@@ -23,5 +23,6 @@
       },
       "evs": {}
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

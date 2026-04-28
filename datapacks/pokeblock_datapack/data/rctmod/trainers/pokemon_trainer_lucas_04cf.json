@@ -34,5 +34,6 @@
       },
       "evs": {}
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

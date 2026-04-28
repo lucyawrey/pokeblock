@@ -1,5 +1,5 @@
 {
-  "name": "Swimmer\u00e2\u2122\u201a Dean",
+  "name": "Swimmerâ™‚ Dean",
   "team": [
     {
       "species": "swampert",
@@ -23,5 +23,6 @@
       },
       "evs": {}
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

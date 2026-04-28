@@ -45,5 +45,6 @@
         "light_clay"
       ]
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

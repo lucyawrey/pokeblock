@@ -1,5 +1,5 @@
 {
-  "name": "Swimmer\u00e2\u2122\u20ac Tiffany",
+  "name": "Swimmerâ™€ Tiffany",
   "team": [
     {
       "species": "lapras",
@@ -23,5 +23,6 @@
       },
       "evs": {}
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

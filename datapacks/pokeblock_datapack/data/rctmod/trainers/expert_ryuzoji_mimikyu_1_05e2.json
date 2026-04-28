@@ -45,5 +45,6 @@
         "quick_claw"
       ]
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

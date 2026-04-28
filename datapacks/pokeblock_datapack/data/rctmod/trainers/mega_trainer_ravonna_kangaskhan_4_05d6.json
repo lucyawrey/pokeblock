@@ -30,5 +30,6 @@
         "rocky_helmet"
       ]
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

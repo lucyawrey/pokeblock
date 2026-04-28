@@ -26,5 +26,6 @@
         "galarian"
       ]
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }

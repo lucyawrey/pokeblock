@@ -27,5 +27,6 @@
         "spe": 252
       }
     }
-  ]
+  ],
+  "battleFormat": "GEN_9_DOUBLES"
 }
