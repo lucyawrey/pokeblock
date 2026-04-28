@@ -1,16 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_nether",
-    "is_end"
-  ],
-  "biomeTagWhitelist": [
-    "is_underground",
-    "is_badlands",
-    "is_wasteland",
-    "is_savanna"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
@@ -24,5 +13,8 @@
   ],
   "signatureItem": "cobblemon:wide_lens",
   "spawnWeightFactor": 0.25,
-  "type": "team_galactic"
+  "type": "team_galactic",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

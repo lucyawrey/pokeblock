@@ -1,16 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_nether",
-    "is_end"
-  ],
-  "biomeTagWhitelist": [
-    "is_plains",
-    "is_sparse_vegetation",
-    "is_rare",
-    "is_forest"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
@@ -24,5 +13,8 @@
   ],
   "signatureItem": "cobblemon:vivichoke",
   "spawnWeightFactor": 0.25,
-  "type": "rival"
+  "type": "rival",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

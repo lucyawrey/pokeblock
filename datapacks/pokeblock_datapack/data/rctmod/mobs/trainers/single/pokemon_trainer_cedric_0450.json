@@ -1,14 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void"
-  ],
-  "biomeTagWhitelist": [
-    "is_plains",
-    "is_sparse_vegetation",
-    "is_rare",
-    "has_structure/end_city"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
@@ -22,5 +13,8 @@
   ],
   "signatureItem": "cobblemon:shiny_stone",
   "spawnWeightFactor": 0.25,
-  "type": "rival"
+  "type": "rival",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

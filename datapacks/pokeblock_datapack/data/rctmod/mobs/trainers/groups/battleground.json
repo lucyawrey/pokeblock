@@ -1,14 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_water"
-  ],
-  "biomeTagWhitelist": [
-    "is_overworld",
-    "is_nether",
-    "has_structure/end_city"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
@@ -17,5 +8,9 @@
     "unbound"
   ],
   "spawnWeightFactor": 1,
-  "type": "battleground"
+  "type": "battleground",
+  "signatureItem": "minecraft:air",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

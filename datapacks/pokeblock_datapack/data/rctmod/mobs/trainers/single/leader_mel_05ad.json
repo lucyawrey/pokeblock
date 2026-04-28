@@ -1,14 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_end",
-    "is_nether"
-  ],
-  "biomeTagWhitelist": [
-    "is_plains",
-    "is_sparse_vegetation"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
@@ -22,5 +13,8 @@
   ],
   "signatureItem": "cobblemon:normal_gem",
   "spawnWeightFactor": 0.25,
-  "type": "leader"
+  "type": "leader",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

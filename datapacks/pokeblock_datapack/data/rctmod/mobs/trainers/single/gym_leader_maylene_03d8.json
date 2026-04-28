@@ -1,17 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_nether",
-    "is_end",
-    "is_water",
-    "is_underground"
-  ],
-  "biomeTagWhitelist": [
-    "is_peak",
-    "is_hill",
-    "is_mountain"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": false,
@@ -27,5 +15,8 @@
   ],
   "signatureItem": "cobblemon:black_belt",
   "spawnWeightFactor": 0.25,
-  "type": "leader"
+  "type": "leader",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }

@@ -1,15 +1,5 @@
 {
   "battleCooldownTicks": 240,
-  "biomeTagBlacklist": [
-    "is_void",
-    "is_end"
-  ],
-  "biomeTagWhitelist": [
-    "is_nether",
-    "is_badlands",
-    "is_wasteland",
-    "is_savanna"
-  ],
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
@@ -18,5 +8,9 @@
     "bdsp"
   ],
   "spawnWeightFactor": 1,
-  "type": "team_galactic"
+  "type": "team_galactic",
+  "signatureItem": "minecraft:air",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
 }
