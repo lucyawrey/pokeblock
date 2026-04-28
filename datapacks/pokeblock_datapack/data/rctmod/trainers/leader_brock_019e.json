@@ -78,11 +78,12 @@
     {
       "species": "onix",
       "gender": "FEMALE",
-      "level": 19,
+      "level": 20,
       "nature": "bashful",
       "ability": "sturdy",
       "moveset": [
         "rocktomb",
+        "rockslide",
         "bulldoze",
         "sleeptalk"
       ],

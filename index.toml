@@ -74,7 +74,7 @@ hash = "2a1efa0a9ea23673047ceadc82b048c60e030b4385042c26eaa3df488178610d"
 
 [[files]]
 file = "config/rctmod-server.toml"
-hash = "5715d94ca395b345db51f3cbf976cea567a5ad3b7b321225578990023fd0a090"
+hash = "749e955414e752d633fdb90d503ffba4b6d0198e0581deb68dc30806048c84bc"
 
 [[files]]
 file = "config/skyblockbuilder/client.json5"
@@ -7386,7 +7386,7 @@ hash = "1c77687e1f446abf67f9c1d9c42f53e775c6b334f985d1dbcc80af2f1e790965"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_clair_004a.json"
-hash = "6788fd950e70bb8643596463a9ed873d66dc703b78d0badd53cf5a2e417a390d"
+hash = "e37ea5ba805c0f3289ab0ef159785b69480d56b25497fbe9cf8cf7d7b7a35cc6"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/mobs/trainers/single/leader_erika_01a1.json"
@@ -10698,7 +10698,7 @@ hash = "961f3509ca87e130f8b3a48cfbcdce0b55f0f0b74aa25afe04ed87e670b843d3"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_brock_019e.json"
-hash = "97820a33c359632196e1d5de8e7b4416ff70b91394b00a706b9b6bc3d6df7893"
+hash = "af5281dce5ccfc79a4bc5a6b81baf58aa08b7a140f7d010c0cf56ed4d3e83dae"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_bugsy_0008.json"
@@ -13518,7 +13518,7 @@ hash = "7bdb7e037233e2aa29660c56f7ae741cb04cc90bb10712900ea5bae177219b81"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/trainer_red_0003.json"
-hash = "3c3d4471d521afe6fdcea6eddac225120dacffb87d55452752acdd302ed6442d"
+hash = "63cb3b44a758c736e898ebfccfa146a7cff3e9a7b5e868b41b2c2a40f3921421"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/trainer_sam_0010.json"

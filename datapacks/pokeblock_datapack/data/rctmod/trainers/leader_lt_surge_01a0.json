@@ -19,7 +19,7 @@
     {
       "species": "pincurchin",
       "gender": "MALE",
-      "level": 32,
+      "level": 38,
       "nature": "modest",
       "ability": "electricsurge",
       "moveset": [
@@ -49,14 +49,14 @@
     {
       "species": "raichu",
       "gender": "MALE",
-      "level": 33,
+      "level": 39,
       "nature": "modest",
       "ability": "surgesurfer",
       "moveset": [
         "psyshock",
-        "voltswitch",
+        "thunderbolt",
         "nastyplot",
-        "grassknot"
+        "fakeout"
       ],
       "ivs": {
         "hp": 31,
@@ -82,7 +82,7 @@
     {
       "species": "vikavolt",
       "gender": "FEMALE",
-      "level": 33,
+      "level": 39,
       "nature": "modest",
       "ability": "levitate",
       "moveset": [
@@ -111,7 +111,7 @@
     {
       "species": "manectric",
       "gender": "MALE",
-      "level": 34,
+      "level": 40,
       "nature": "modest",
       "ability": "intimidate",
       "moveset": [
@@ -142,7 +142,7 @@
     {
       "species": "boltund",
       "gender": "MALE",
-      "level": 33,
+      "level": 39,
       "nature": "jolly",
       "ability": "strongjaw",
       "moveset": [

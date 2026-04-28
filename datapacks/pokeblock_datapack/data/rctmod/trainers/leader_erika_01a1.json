@@ -19,7 +19,7 @@
     {
       "species": "rillaboom",
       "gender": "FEMALE",
-      "level": 43,
+      "level": 49,
       "nature": "jolly",
       "ability": "grassysurge",
       "moveset": [
@@ -48,7 +48,7 @@
     {
       "species": "serperior",
       "gender": "FEMALE",
-      "level": 43,
+      "level": 49,
       "nature": "timid",
       "ability": "contrary",
       "moveset": [
@@ -77,7 +77,7 @@
     {
       "species": "venusaur",
       "gender": "FEMALE",
-      "level": 44,
+      "level": 50,
       "nature": "modest",
       "ability": "overgrow",
       "moveset": [
@@ -107,7 +107,7 @@
     {
       "species": "meganium",
       "gender": "FEMALE",
-      "level": 44,
+      "level": 50,
       "nature": "modest",
       "ability": "triage",
       "moveset": [
@@ -136,7 +136,7 @@
     {
       "species": "electrode",
       "gender": "GENDERLESS",
-      "level": 44,
+      "level": 50,
       "nature": "naive",
       "ability": "reckless",
       "moveset": [

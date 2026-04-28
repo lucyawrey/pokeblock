@@ -19,7 +19,7 @@
     {
       "species": "frogadier",
       "gender": "FEMALE",
-      "level": 25,
+      "level": 28,
       "nature": "bashful",
       "ability": "protean",
       "moveset": [
@@ -48,11 +48,11 @@
     {
       "species": "floatzel",
       "gender": "MALE",
-      "level": 25,
+      "level": 28,
       "nature": "timid",
       "ability": "technician",
       "moveset": [
-        "waterpulse",
+        "surf",
         "flipturn",
         "icywind",
         "hiddenpower"
@@ -73,7 +73,7 @@
     {
       "species": "starmie",
       "gender": "GENDERLESS",
-      "level": 27,
+      "level": 30,
       "nature": "timid",
       "ability": "analytic",
       "moveset": [
@@ -98,7 +98,7 @@
     {
       "species": "lanturn",
       "gender": "FEMALE",
-      "level": 25,
+      "level": 28,
       "nature": "bold",
       "ability": "voltabsorb",
       "moveset": [
