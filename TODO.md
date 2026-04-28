@@ -5,7 +5,6 @@
   - Change teams for leaders, elite four, champion red.
 - Remove decimal from pokemon HP
   - Update and modify config for Cobblemon Battle Extras
-- More ridable Pokémon
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.
@@ -36,6 +35,8 @@
   - Journal entries in island starting chest, in the nether, and in one of the meteorites.
   - Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
   - Comment on strange non-pokemon fish.
+- More ridable Pokémon
+  - https://modrinth.com/mod/cobblemon-journey-mounts, figure out how to make it work with AllTheMons x Mega Showdown
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
 - Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
