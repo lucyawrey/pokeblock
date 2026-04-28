@@ -148,7 +148,7 @@
 	#required trainer in a series. The relativeLevelCap is added to the resulting value. For
 	#instance if the next trainer for a player has a Pikachu at level 50, that players level
 	#cap will be 50 + relativeLevelCap (can be negative).
-	relativeLevelCap = 0
+	relativeLevelCap = 1
 	#━━━━━━━━━━
 	#The initial series players are placed in when entering a world for the first time. Apart from any series id
 	#this value may also be set to one of the special series ids "empty" (i.e. no series) or "freeroam".
