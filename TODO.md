@@ -2,11 +2,9 @@
 
 ## Normal Priority
 - Continue setting up radical trainers
-  - Remove biome requirements from trainer mobs
-  - Change level caps and leader levels
-  - Remove some required trainers
-- Heal Pokémon in PCs
+  - Change teams for leaders, elite four, champion red.
 - Remove decimal from pokemon HP
+  - Update and modify config for Cobblemon Battle Extras
 - More ridable Pokémon
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
@@ -58,6 +56,7 @@
 
 ## Lore Books/Tablets
 
+- Type Gem Recipes from Diamond/Emerald and Tera Shard
 - Starting Chest
 - Nether Chest (Under Soul Sand)
 - Archaeology loot (probably gravel only)
