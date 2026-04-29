@@ -13,13 +13,14 @@
 	#Set to any value equal to or above globalSpawnChance to disable (e.g. 1.0).
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
-	globalSpawnChanceMinimum = 0.05
+	# 10%
+	globalSpawnChanceMinimum = 0.1
 	#━━━━━━━━━━
 	#The interval in ticks at which a spawn attempt is made per player.
 	# Default: 180
 	# Range: 1 ~ 2147483646
-	# 6 minutes.
-	spawnIntervalTicks = 7200
+	# 2 minutes.
+	spawnIntervalTicks = 2400
 	#━━━━━━━━━━
 	#The spawn interval ticks will grow towards this value based of how many trainers are already
 	#spawned in for a player. For example if a player has 0 trainers spawned for them the spawn
@@ -29,6 +30,7 @@
 	#spawnIntervalTicks to disable (e.g. 0).
 	# Default: 2400
 	# Range: 0 ~ 2147483646
+	# 6 minutes.
 	spawnIntervalTicksMaximum = 7200
 	#━━━━━━━━━━
 	#(Non persistent) trainers will despawn if they have no line of sight to any player for the configured amount of ticks.
@@ -58,13 +60,13 @@
 	#Spawn cap of trainers per player.
 	# Default: 12
 	# Range: 0 ~ 2147483646
-	maxTrainersPerPlayer = 5
+	maxTrainersPerPlayer = 4
 	#━━━━━━━━━━
 	#Total trainer spawn cap. This value may be increased for servers with higher expected
 	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
 	# Default: 60
 	# Range: 0 ~ 2147483646
-	maxTrainersTotal = 60
+	maxTrainersTotal = 64
 	#━━━━━━━━━━
 	#The maximum level difference between the strongest pokemon in the team of a
 	#player (at or below that players level cap) and the strongest pokemon in the
@@ -81,7 +83,7 @@
 	#The spawn weight decreases with a higher level difference.
 	# Default: 25
 	# Range: 0 ~ 100
-	maxLevelDiff = 25
+	maxLevelDiff = 20
 	#━━━━━━━━━━
 	#If enabled trainers will only spawn naturally around players that have a trainer card
 	#in their inventory (does not affect trainer spawners).

@@ -24,7 +24,9 @@
   - Craftable purification shrine.
 - Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
 - Tera Shard blocks that allow spawning Paradox Pokémon.
-- Setup default controls and other core settings
+- Setup default client configuration and controls
+  - Client side mod settings
+  - defaultoptions config. Remove and start over
 - Configure CobbleDollars merchant stock, CobbleDollars bank.
   - Tech: Pokédexes, Pokénavs, Trainer Card
 - More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
