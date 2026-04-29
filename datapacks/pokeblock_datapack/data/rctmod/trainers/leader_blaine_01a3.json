@@ -19,13 +19,13 @@
     {
       "species": "torkoal",
       "gender": "FEMALE",
-      "level": 75,
+      "level": 69,
       "nature": "quiet",
       "ability": "drought",
       "moveset": [
         "stealthrock",
-        "explosion",
-        "lavaplume",
+        "eruption",
+        "heatwave",
         "earthpower"
       ],
       "ivs": {
@@ -48,7 +48,7 @@
     {
       "species": "cinderace",
       "gender": "FEMALE",
-      "level": 75,
+      "level": 69,
       "nature": "jolly",
       "ability": "protean",
       "moveset": [
@@ -77,7 +77,7 @@
     {
       "species": "exeggutor",
       "gender": "MALE",
-      "level": 76,
+      "level": 70,
       "nature": "timid",
       "ability": "harvest",
       "moveset": [
@@ -106,7 +106,7 @@
     {
       "species": "typhlosion",
       "gender": "FEMALE",
-      "level": 76,
+      "level": 69,
       "nature": "modest",
       "ability": "flashfire",
       "moveset": [
@@ -134,7 +134,7 @@
     {
       "species": "sunflora",
       "gender": "FEMALE",
-      "level": 76,
+      "level": 70,
       "nature": "timid",
       "ability": "chlorophyll",
       "moveset": [
@@ -163,11 +163,11 @@
     {
       "species": "charizard",
       "gender": "FEMALE",
-      "level": 76,
+      "level": 70,
       "nature": "timid",
       "ability": "blaze",
       "moveset": [
-        "flamethrower",
+        "heatwave",
         "airslash",
         "solarbeam",
         "dragonpulse"

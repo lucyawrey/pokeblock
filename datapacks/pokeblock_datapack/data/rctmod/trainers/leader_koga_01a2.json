@@ -19,7 +19,7 @@
     {
       "species": "swellow",
       "gender": "FEMALE",
-      "level": 67,
+      "level": 58,
       "nature": "timid",
       "ability": "aerilate",
       "moveset": [
@@ -46,7 +46,7 @@
     {
       "species": "accelgor",
       "gender": "FEMALE",
-      "level": 68,
+      "level": 59,
       "nature": "timid",
       "ability": "sheerforce",
       "moveset": [
@@ -75,7 +75,7 @@
     {
       "species": "greninja",
       "gender": "FEMALE",
-      "level": 68,
+      "level": 59,
       "nature": "timid",
       "ability": "battlebond",
       "moveset": [
@@ -104,7 +104,7 @@
     {
       "species": "drapion",
       "gender": "FEMALE",
-      "level": 68,
+      "level": 60,
       "nature": "jolly",
       "ability": "sniper",
       "moveset": [
@@ -131,7 +131,7 @@
     {
       "species": "dragapult",
       "gender": "FEMALE",
-      "level": 68,
+      "level": 59,
       "nature": "timid",
       "ability": "infiltrator",
       "moveset": [
@@ -160,7 +160,7 @@
     {
       "species": "toxtricity",
       "gender": "MALE",
-      "level": 68,
+      "level": 60,
       "nature": "timid",
       "ability": "plus",
       "moveset": [

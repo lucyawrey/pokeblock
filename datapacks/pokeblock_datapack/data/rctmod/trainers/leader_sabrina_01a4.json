@@ -19,7 +19,7 @@
     {
       "species": "hatterene",
       "gender": "FEMALE",
-      "level": 57,
+      "level": 64,
       "nature": "quiet",
       "ability": "magicbounce",
       "moveset": [
@@ -46,7 +46,7 @@
     {
       "species": "indeedee",
       "gender": "FEMALE",
-      "level": 57,
+      "level": 64,
       "nature": "quiet",
       "ability": "psychicsurge",
       "moveset": [
@@ -76,7 +76,7 @@
     {
       "species": "crawdaunt",
       "gender": "FEMALE",
-      "level": 58,
+      "level": 63,
       "nature": "brave",
       "ability": "adaptability",
       "moveset": [
@@ -104,7 +104,7 @@
     {
       "species": "porygon2",
       "gender": "GENDERLESS",
-      "level": 58,
+      "level": 63,
       "nature": "relaxed",
       "ability": "trace",
       "moveset": [
@@ -131,7 +131,7 @@
     {
       "species": "ursaluna",
       "gender": "MALE",
-      "level": 59,
+      "level": 63,
       "nature": "brave",
       "ability": "guts",
       "moveset": [
@@ -159,7 +159,7 @@
     {
       "species": "gardevoir",
       "gender": "MALE",
-      "level": 59,
+      "level": 65,
       "nature": "quiet",
       "ability": "trace",
       "moveset": [

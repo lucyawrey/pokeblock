@@ -19,14 +19,14 @@
     {
       "species": "rillaboom",
       "gender": "FEMALE",
-      "level": 49,
+      "level": 48,
       "nature": "jolly",
       "ability": "grassysurge",
       "moveset": [
         "grassyglide",
         "uturn",
         "highhorsepower",
-        "drainpunch"
+        "fakeout"
       ],
       "ivs": {
         "hp": 31,
@@ -48,7 +48,7 @@
     {
       "species": "serperior",
       "gender": "FEMALE",
-      "level": 49,
+      "level": 48,
       "nature": "timid",
       "ability": "contrary",
       "moveset": [
@@ -107,7 +107,7 @@
     {
       "species": "meganium",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 49,
       "nature": "modest",
       "ability": "triage",
       "moveset": [
@@ -136,7 +136,7 @@
     {
       "species": "electrode",
       "gender": "GENDERLESS",
-      "level": 50,
+      "level": 49,
       "nature": "naive",
       "ability": "reckless",
       "moveset": [

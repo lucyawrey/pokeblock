@@ -22,9 +22,9 @@
       "gender": "FEMALE",
       "level": 80,
       "nature": "modest",
-      "ability": "moxie",
+      "ability": "intimidate",
       "moveset": [
-        "roar",
+        "fakeout",
         "knockoff",
         "drainpunch",
         "icepunch"

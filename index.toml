@@ -10734,7 +10734,7 @@ hash = "ba5581e4ffec927fd2df6df6ccda4659d1a87bc02f8f0c517b4bf90b21a8e71d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_erika_01a1.json"
-hash = "b646e3dbc366bb4db3a8ca8caafe0564ced652bcc2bc2acd76691be7444c39c8"
+hash = "e164fdf023e1bc134bfe1dfe54645450ea3a44479b6ac4abdeb9b97cdefa7bb4"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_falkner_002b.json"
@@ -18166,7 +18166,7 @@ hash = "d7124e6acb4c01199f8135475fdc9707207a55cdf74a22c5295f20599d674787"
 
 [[files]]
 file = "kubejs/startup_scripts/legendary-shrines.js"
-hash = "140374896de478093f2758b39fa3f123d7c5b3ca63e8d95b0eb92125eb3ffd3c"
+hash = "76429f696ced5aad47e7dc8b3db1ae11c0c47d431b89ab18f46ec04b936c8862"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
