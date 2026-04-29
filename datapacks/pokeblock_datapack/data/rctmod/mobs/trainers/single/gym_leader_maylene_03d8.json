@@ -3,13 +3,6 @@
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
-  "requiredDefeats": [
-    [
-      "pokemon_trainer_cedric_0445",
-      "pokemon_trainer_cedric_0446",
-      "pokemon_trainer_cedric_0447"
-    ]
-  ],
   "series": [
     "bdsp"
   ],

@@ -8,8 +8,8 @@ for (const filePath of glob.scanSync(path)) {
     const content = await Bun.file(`${path}/${filePath}`)
       .json()
       .catch(() => null);
-    if (content?.optional === false) {
-      content.optional = true;
+    if (content?.optional === true && content?.requiredDefeats) {
+      delete content.requiredDefeats;
       const json = JSON.stringify(content, undefined, 2);
       await Bun.write(`${path}/${filePath}`, json);
       console.log(`Modified file: ${filePath}`);

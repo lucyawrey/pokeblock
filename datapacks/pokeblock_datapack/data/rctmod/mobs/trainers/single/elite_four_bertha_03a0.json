@@ -3,11 +3,6 @@
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
-  "requiredDefeats": [
-    [
-      "elite_four_aaron_039f"
-    ]
-  ],
   "series": [
     "bdsp"
   ],

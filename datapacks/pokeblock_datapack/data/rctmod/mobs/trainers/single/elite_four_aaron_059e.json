@@ -3,11 +3,6 @@
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
-  "requiredDefeats": [
-    [
-      "champion_cynthia_03a5"
-    ]
-  ],
   "series": [
     "bdsp"
   ],

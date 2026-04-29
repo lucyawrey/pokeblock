@@ -3,11 +3,6 @@
   "maxTrainerDefeats": 1,
   "maxTrainerWins": -1,
   "optional": true,
-  "requiredDefeats": [
-    [
-      "light_of_ruin_admin_ivory_3_05c3"
-    ]
-  ],
   "series": [
     "unbound"
   ],
