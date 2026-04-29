@@ -18274,8 +18274,18 @@ hash = "bfc35311e1ae32e3d0b8dc933fa97628720d32d6ecbfadf9292a2612e4132895"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-playerxp.pw.toml"
+hash = "0bcaaf9f5f4a12c65530aaa44caa4f8a8dd82390938c852da485f1eb0c028414"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "132dbb456d882d92aa41556558e5a5c2ecdded4777390ddecf8f5678d804afb8"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-safepastures.pw.toml"
+hash = "c9276959e9375f398c974b348a670447092647e206e100b681c14bc36faef738"
 metafile = true
 
 [[files]]
