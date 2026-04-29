@@ -10,8 +10,13 @@ StartupEvents.registry("block", (event) => {
     .hardness(2.0)
     .resistance(10.0)
     .requiresTool(true)
-    .tagBlock("minecraft:cobblestone") // Makes it behave like cobblestone
-    .tagBlock("minecraft:mineable/pickaxe"); // Requires a pickaxe
+    .tagBoth("minecraft:cobblestone") // Makes it behave like cobblestone
+    .tagBoth("minecraft:mineable/pickaxe") // Requires a pickaxe
+    .item((i) =>
+      i.tooltip(
+        "This cobblestone seems like it might have something inside it... Try crushing it and unearthing it's contents with a brush.",
+      ),
+    );
 });
 
 // Meteor Beacon
@@ -26,7 +31,12 @@ StartupEvents.registry("block", (event) => {
     .hardness(3.0)
     .resistance(10)
     .requiresTool(true)
-    .tagBlock("minecraft:mineable/pickaxe")
+    .tagBoth("minecraft:mineable/pickaxe")
+    .item((i) =>
+      i.tooltip(
+        "This beacon attracts meteors from outer space. Place it down and stay far away until the crash is over.",
+      ),
+    )
     .randomTick((event) => {
       // 3.5% chance to activate every random tick (random tick happens on average every 68 seconds).
       const { block, server } = event;

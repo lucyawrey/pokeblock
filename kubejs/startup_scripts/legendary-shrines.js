@@ -100,9 +100,21 @@ global.legendaryPokemon = [
 ];
 
 global.extraItems = [
-  { id: "pokeblock:ancient_fossil_piece" },
-  { id: "pokeblock:ancient_fossil_dust" },
-  { id: "pokeblock:ancient_dna", name: "Ancient DNA" },
+  {
+    id: "pokeblock:ancient_fossil_piece",
+    tooltip:
+      "Use four of these it to craft an Ancient Fossil, or maybe try crushing it instead?",
+  },
+  {
+    id: "pokeblock:ancient_fossil_dust",
+    tooltip: "A certain Pokémon's DNA could be extracted from this...",
+  },
+  {
+    id: "pokeblock:ancient_dna",
+    name: "Ancient DNA",
+    tooltip:
+      "Your work is complete, this DNA should be able to clone the Ancient Pokémon Mew in a Ressurection Machine...",
+  },
 ];
 
 StartupEvents.registry("block", (event) => {
@@ -117,8 +129,13 @@ StartupEvents.registry("block", (event) => {
         .hardness(10.0)
         .resistance(100)
         .requiresTool(true)
-        .tagBlock("minecraft:mineable/pickaxe")
-        .tagBlock("pokeblock:legendary_pedestals");
+        .tagBoth("minecraft:mineable/pickaxe")
+        .tagBoth("pokeblock:legendary_pedestals")
+        .item((i) =>
+          i.tooltip(
+            `A pedestal that acts as a centerpiece for a shrine to ${pokemon.name}. It can tell you what else you need to summon that Pokémon...`,
+          ),
+        );
     }
   }
 });
@@ -127,7 +144,12 @@ StartupEvents.registry("item", (event) => {
   for (let pokemon of global.legendaryPokemon) {
     // Optionally create summon item
     if (pokemon.newSummonItem && pokemon.summonItem) {
-      event.create(pokemon.summonItem).tag("pokeblock:legendary_summon_items");
+      event
+        .create(pokemon.summonItem)
+        .tag("pokeblock:legendary_summon_items")
+        .tooltip(
+          `The offering needed to summon ${pokemon.name} at it's shrine.`,
+        );
     }
     if (pokemon.newLootItem && pokemon.lootItem) {
       event.create(pokemon.lootItem).tag("pokeblock:legendary_summon_items");
@@ -137,6 +159,9 @@ StartupEvents.registry("item", (event) => {
     let newItem = event.create(item.id).tag("pokeblock:legendary_summon_items");
     if (item.name) {
       newItem.displayName(item.name);
+    }
+    if (item.tooltip) {
+      newItem.tooltip(item.tooltip);
     }
   }
 });

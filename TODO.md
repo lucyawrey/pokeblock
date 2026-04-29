@@ -11,13 +11,13 @@
     - Autofill script
     - Spawn generation script
 - Update drop table.
+  - Remove meat and similar things from drop tables.
   - Modify drop tables to add important drops for progression.
 - Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
+  - Fix block tooltips
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
   - Add more legendary Pokémon.
-- Setup radical trainers mod and trainers resourcepack with no natural spawns (must summon with radical trainer block) and only a single doubles-focused series. Initial series will be focused on kanto with kanto gym leaders and team rocket. Team rocket may have shadow pokemon.
-  - https://modrinth.com/resourcepack/rct-trainer-textures-plus
 - Shadow Pokémon from Shadowed Hearts.
   - Need to configure to make natural spawns ridiculously rare.
   - Create custom shadow meteor for meteor beacons.
