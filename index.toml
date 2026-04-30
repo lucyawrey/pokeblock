@@ -9,6 +9,14 @@ file = "config/cobblegen.json5"
 hash = "94453f5128633180c91dabddaa67bc5eb92af4626e586d4d0487fde773211af2"
 
 [[files]]
+file = "config/cobblemon-battle-extras-server.json"
+hash = "6e3f0ed5aa64ae9843c1bb36c63f2122b726dc884d98f78d70dbbbde38c219f9"
+
+[[files]]
+file = "config/cobblemon-battle-extras.json"
+hash = "3c43fe30214ee180b5aef36ff1eb82e9f5e44f2f24c4be0d2dd95ff611a7a4d0"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "e866d419348c098844a363302cc0790e8ab0d34ce5b1f7b1993f9c00f68c1392"
 
@@ -8818,7 +8826,7 @@ hash = "37c1186f01dbfedff72c806ab211c5ccc86a1c9278b0c125e5f8fe02166eb7a0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/boss_giovanni_0045.json"
-hash = "2a3956836fee78523bea4dff198207d2e91f3fa3439a427141021f2bc42eb415"
+hash = "5599346f465c6c97448a0d4cdd03976fc41b8506d20d86ba78fee28a80d0c833"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/boss_giovanni_015c.json"
@@ -10694,7 +10702,7 @@ hash = "d884bc946a0d7fa3cfb4df0d64c590912883d69baecb0ee8c7d033f143e7d950"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_blaine_01a3.json"
-hash = "8cfc0b060a9bc88a53469db747917e531e9a7f516dea1576c411debb85810c01"
+hash = "a57c1e8f83fb9ab5b8fcd5e844bcea5739a993a1b032bbf201c31751859e66a0"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_brock_0038.json"
@@ -10770,7 +10778,7 @@ hash = "331d4b4063bf4155093b99709ae27652e886c6a58fdeb245e76474debea08a7e"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_koga_01a2.json"
-hash = "118807e341f2a5bd5561d01c2fa5886c4935dd97ae2a7d38051c9d60db8a6260"
+hash = "b46bc8a0d0d436cef7395c2ab523cbef84e58f0a76e39653a1d0376f7af7291a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_lt_surge_0033.json"
@@ -10826,7 +10834,7 @@ hash = "3189e98bd09d499c96cf5616d43c69b1dbb46bb972214551af7fb91c63463047"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_sabrina_01a4.json"
-hash = "a69db1c6ab08e40bb669e53524305c0edce27f1c7380a3d1aeca7efebc75c467"
+hash = "d457dafb1b5f4af4864c5a3040c6397ab3984eca7bd773a65b6ff431b7362c9a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/leader_tessy_05b1.json"
@@ -13522,7 +13530,7 @@ hash = "7bdb7e037233e2aa29660c56f7ae741cb04cc90bb10712900ea5bae177219b81"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/trainer_red_0003.json"
-hash = "63cb3b44a758c736e898ebfccfa146a7cff3e9a7b5e868b41b2c2a40f3921421"
+hash = "c8fc6f7c2a3c4ab891a4e950fc39f4d09978f7d1ea70d4fce843cb542d100c33"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/rctmod/trainers/trainer_sam_0010.json"
@@ -18249,7 +18257,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-battle-extras.pw.toml"
-hash = "68ae0e6a13c1110e2c169ce2bd92a6d82c13d59eab7a7e1fdb0c4e7122aa9763"
+hash = "fbd64ce217145bd1155f3ff3f895f5e5eebd0f2ad9679ce2d7a1a4114b4569ce"
 metafile = true
 
 [[files]]
@@ -18274,7 +18282,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "bfc35311e1ae32e3d0b8dc933fa97628720d32d6ecbfadf9292a2612e4132895"
+hash = "3efa711e77a99008f28b7831ab8696263bccaab984cd1e62e44b7220e69a6a3c"
 metafile = true
 
 [[files]]

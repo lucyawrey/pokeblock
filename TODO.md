@@ -1,10 +1,8 @@
 # Pokéblock Todo
 
 ## Normal Priority
-- Continue setting up radical trainers
-  - Change teams for leaders, elite four, champion red.
 - Remove decimal from pokemon HP
-  - Update and modify config for Cobblemon Battle Extras
+  - Update and modify config for Cobblemon Battle Extras.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.
@@ -13,8 +11,6 @@
 - Update drop table.
   - Remove meat and similar things from drop tables.
   - Modify drop tables to add important drops for progression.
-- Descriptions for custom items (sus cobblestone, shrine items, meteor beacon.)
-  - Fix block tooltips
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.
   - Add more legendary Pokémon.
@@ -40,6 +36,7 @@
 - More ridable Pokémon
   - https://modrinth.com/mod/cobblemon-journey-mounts, figure out how to make it work with AllTheMons x Mega Showdown
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
+- Continue tweaking Radical Trainers teams for doubles format.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
 - Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
   - Look into how cobblemon and Radical Trainers handle NPCs.
