@@ -53,7 +53,6 @@
 
 ## Lore Books/Tablets
 
-- Type Gem Recipes from Diamond/Emerald and Tera Shard
 - Starting Chest
 - Nether Chest (Under Soul Sand)
 - Archaeology loot (probably gravel only)
@@ -72,8 +71,6 @@
 
 - Max Mushrooms (Pokemon, Red Mushroom Colonies, Wandering Trader)
 - Moss Blocks
-- Tera Shards
-- Type Gems
 - Auspiscious and Malicious Armor Recipes
 - Green, Pink, and White apricorn seeds.
 - Saplings

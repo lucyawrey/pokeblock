@@ -74,7 +74,7 @@ hash = "b9aa14a8032e509518bbdf9aebff7a8c94d651accddbabd9b7108989d3a176c1"
 
 [[files]]
 file = "config/mega_showdown/config.json"
-hash = "0e5565c73e7a9ca765ab3997a80af7797caca7adcf7888d06501bac3220becc7"
+hash = "339d1deed4d0405a91df61f194cf1dc7e101a63c54013a4fc1f0b983d5784dfd"
 
 [[files]]
 file = "config/melancholic_hunger.json5"
@@ -4553,12 +4553,60 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/blaze
 hash = "8cf2a126650e3cc5aba8f2754ef56054570582fe04a41bed58aa750293a18bf7"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/bug_gem.json"
+hash = "95fb033cb88ae85cb229a571474adfd43f7eb51632ac12d534256025284887d5"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/charged_wing.json"
 hash = "96c3870ff6cb28212f23a7882b55450394bce8acb9627e76c67db61faf3a4290"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/dark_gem.json"
+hash = "03f5786e73ecb6a4ed739b4e8869a0f10a38a32dc70e65e2287f0743deebe67d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/dragon_gem.json"
+hash = "f3792dd1efea1a6317d4b9d4e4a4df1791ccd3ce69cd725f63c12ec9e992802f"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/electric_gem.json"
+hash = "ea61d52fda868a652292a6529bc70c489631c21ea987a79fce5fe47d996310b7"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/elytra.json"
 hash = "f139da76482f5efa2189c34db37a64fea2e3de9b286bdd98b6ea052debd15bc2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/fairy_gem.json"
+hash = "ccc34db64f8d3fddbc77e2ea4dd7e44029ec967637a90ef7d7590e9887d02b02"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/fighting_gem.json"
+hash = "511c6e3a19328bb7abd023bb0cf379d3615e7a67a424aeeb6b029066a5002494"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/fire_gem.json"
+hash = "a0f493f67dc22cd70b2f0f53cdd268609ff23e6642366010624825558541389e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/flying_gem.json"
+hash = "f8334f429a84d88bf9ba5b08eccbd3932df7aec1c3db45217cf86f57d3f14b26"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/ghost_gem.json"
+hash = "a2230f582e5dadf25c28342f7070514da75c0f4733f9b48af2a5df3095bbbed2"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/grass_gem.json"
+hash = "25cb168dd6a313275349a9ccd3846f49bdb478a6e1a213da5796127d00f7371e"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/ground_gem.json"
+hash = "475d68f69f4f14f54636e6455080de8d57bdd72b78332ce2eef0f1ec511810d8"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/ice_gem.json"
+hash = "354a7acf78b9289e2b8308876ca2e7f52454505e8fc7c689ac420b0670f66198"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/meteor_beacon.json"
@@ -4577,8 +4625,32 @@ file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/moltr
 hash = "b335ed48f95be304a423a8cc44660b12f0929051f19697a9284b41f7283fb6a2"
 
 [[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/normal_gem.json"
+hash = "fef5bf09e4f58e7127ff87f19d3214ceab6c9ccc7980e1510ffe25e68e0f959d"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/poison_gem.json"
+hash = "ad21908c7f6b3e6bf92a3248aef800b75ed0d38559aef2a98b744c180c3b51ac"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/psychic_gem.json"
+hash = "3765693f0e2ee1de06aabb91be69d8860de9644523569a0818dfcfb62f76f781"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/rock_gem.json"
+hash = "5b39883acabd8cc0cf07c3de9bda4196d258dd4aea8622426c9362a7cc2d459d"
+
+[[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/shulker_shell.json"
 hash = "b5ecfc9d7e89354c2cd4a0c76fe08ffd4feed12925798adb90efc9a35be50b78"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/steel_gem.json"
+hash = "7372a8563f3b649cd5a4984293760627a8752a48c5a96bc6309c16edc8e9e677"
+
+[[files]]
+file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/water_gem.json"
+hash = "7978b444c10887694714d83488de84d0dc4ee544edb00f2b534f7b5f096b6a2d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped/zapdos_pedestal.json"

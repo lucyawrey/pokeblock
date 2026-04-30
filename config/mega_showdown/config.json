@@ -6,7 +6,7 @@
   "zMoves": true,
   "teralization": true,
   "dynamax": true,
-  "powerSpotRange": 20,
+  "powerSpotRange": 24,
   "dynamaxAnywhere": false,
   "dynamaxScaleFactor": 4.0,
   "teraShardDropRate": 0.0,
