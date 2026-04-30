@@ -1,11 +1,8 @@
 {
   "target": "cobblemon:alomomola",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
-      {
-        "item": "minecraft:cod"
-      },
       {
         "item": "minecraft:bone_meal",
         "percentage": 5

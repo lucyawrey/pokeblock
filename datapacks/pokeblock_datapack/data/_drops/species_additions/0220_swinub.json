@@ -1,11 +1,8 @@
 {
   "target": "cobblemon:swinub",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
-      {
-        "item": "minecraft:porkchop"
-      },
       {
         "item": "minecraft:brown_wool"
       },

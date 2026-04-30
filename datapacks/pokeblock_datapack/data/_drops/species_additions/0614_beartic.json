@@ -1,14 +1,10 @@
 {
   "target": "cobblemon:beartic",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:snowball",
-        "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:cod",
         "quantityRange": "0-2"
       },
       {

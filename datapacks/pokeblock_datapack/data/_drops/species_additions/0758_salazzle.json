@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:salazzle",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
-      {
-        "item": "minecraft:rotten_flesh",
-        "quantityRange": "0-2"
-      },
       {
         "item": "cobblemon:shuca_berry",
         "percentage": 5

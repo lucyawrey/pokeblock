@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:spoink",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
-      {
-        "item": "minecraft:porkchop",
-        "quantityRange": "1-2"
-      },
       {
         "item": "minecraft:ender_pearl",
         "quantityRange": "0-1"

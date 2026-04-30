@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:mamoswine",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
-      {
-        "item": "minecraft:porkchop",
-        "quantityRange": "2-3"
-      },
       {
         "item": "minecraft:brown_wool",
         "quantityRange": "2-3"

@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:spearow",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:sharp_beak",

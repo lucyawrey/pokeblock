@@ -1,14 +1,10 @@
 {
   "target": "cobblemon:maschiff",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:bone",
-        "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:rotten_flesh",
         "quantityRange": "0-1"
       },
       {

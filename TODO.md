@@ -4,7 +4,6 @@
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Update drop table.
-  - Remove meat and similar things from drop tables.
   - Modify drop tables to add important drops for progression.
 - Legendary Summoning Shrines.
   - Multi Pokémon shrines, will need some changes to how shrines currently work.

@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:seel",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
-      {
-        "item": "minecraft:cod",
-        "quantityRange": "0-1"
-      },
       {
         "item": "cobblemon:never_melt_ice",
         "percentage": 2.5

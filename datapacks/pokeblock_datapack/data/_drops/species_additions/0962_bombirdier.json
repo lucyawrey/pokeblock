@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:bombirdier",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:razz_berry",

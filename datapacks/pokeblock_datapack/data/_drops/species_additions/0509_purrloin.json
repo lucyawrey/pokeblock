@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:purrloin",
   "drops": {
-    "amount": 4,
+    "amount": 3,
     "entries": [
-      {
-        "item": "minecraft:rotten_flesh",
-        "quantityRange": "0-1"
-      },
       {
         "item": "cobblemon:bluk_berry",
         "percentage": 2.5

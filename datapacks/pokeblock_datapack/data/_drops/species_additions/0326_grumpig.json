@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:grumpig",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
-      {
-        "item": "minecraft:porkchop",
-        "quantityRange": "1-3"
-      },
       {
         "item": "minecraft:ender_pearl",
         "quantityRange": "0-2"

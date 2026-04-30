@@ -1,14 +1,10 @@
 {
   "target": "cobblemon:houndoom",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:bone",
-        "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:rotten_flesh",
         "quantityRange": "0-2"
       },
       {

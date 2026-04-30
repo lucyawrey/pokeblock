@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:xatu",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:wise_glasses",

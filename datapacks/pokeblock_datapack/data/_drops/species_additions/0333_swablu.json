@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:swablu",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:white_wool",
         "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:yache_berry",

@@ -1,11 +1,8 @@
 {
   "target": "cobblemon:overqwil",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
-      {
-        "item": "minecraft:pufferfish"
-      },
       {
         "item": "cobblemon:poison_barb",
         "percentage": 5

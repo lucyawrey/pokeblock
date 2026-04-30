@@ -1,7 +1,7 @@
 {
   "target": "cobblemon:joltik",
   "drops": {
-    "amount": 8,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:string",
@@ -9,10 +9,6 @@
       },
       {
         "item": "minecraft:spider_eye",
-        "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:rotten_flesh",
         "quantityRange": "0-1"
       },
       {

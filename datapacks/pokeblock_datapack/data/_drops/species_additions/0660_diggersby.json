@@ -1,17 +1,14 @@
 {
   "target": "cobblemon:diggersby",
   "drops": {
-    "amount": 9,
+    "amount": 8,
     "entries": [
       {
-        "item": "minecraft:rabbit"
-      },
-      {
-        "item": "minecraft:rabbit_hide",
+        "item": "_hide",
         "quantityRange": "0-2"
       },
       {
-        "item": "minecraft:rabbit_foot",
+        "item": "_foot",
         "percentage": 5
       },
       {

@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:golduck",
   "drops": {
-    "amount": 5,
+    "amount": 4,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:mystic_water",

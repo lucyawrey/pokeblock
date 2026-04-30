@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:rufflet",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:razz_berry",

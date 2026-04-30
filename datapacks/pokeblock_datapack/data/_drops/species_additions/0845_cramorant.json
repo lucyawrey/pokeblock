@@ -1,17 +1,10 @@
 {
   "target": "cobblemon:cramorant",
   "drops": {
-    "amount": 8,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:feather",
-        "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:chicken"
-      },
-      {
-        "item": "minecraft:cod",
         "quantityRange": "0-2"
       },
       {

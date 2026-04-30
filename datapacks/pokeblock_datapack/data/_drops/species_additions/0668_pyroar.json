@@ -1,12 +1,8 @@
 {
   "target": "cobblemon:pyroar",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
-      {
-        "item": "minecraft:rotten_flesh",
-        "quantityRange": "0-2"
-      },
       {
         "item": "minecraft:blaze_powder",
         "percentage": 5

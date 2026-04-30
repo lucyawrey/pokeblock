@@ -1,18 +1,11 @@
 {
   "target": "cobblemon:mandibuzz",
   "drops": {
-    "amount": 9,
+    "amount": 7,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:rotten_flesh",
-        "quantityRange": "0-2"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:sharp_beak",

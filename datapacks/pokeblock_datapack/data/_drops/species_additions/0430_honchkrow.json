@@ -1,14 +1,11 @@
 {
   "target": "cobblemon:honchkrow",
   "drops": {
-    "amount": 7,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-3"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:bluk_berry",

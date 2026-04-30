@@ -1,18 +1,11 @@
 {
   "target": "cobblemon:vullaby",
   "drops": {
-    "amount": 8,
+    "amount": 6,
     "entries": [
       {
         "item": "minecraft:feather",
         "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:rotten_flesh",
-        "quantityRange": "0-1"
-      },
-      {
-        "item": "minecraft:chicken"
       },
       {
         "item": "cobblemon:bluk_berry",
