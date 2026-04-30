@@ -19,7 +19,7 @@ const types = [
   "water",
 ];
 const outputPath =
-  "./datapacks/pokeblock_datapack/data/pokeblock/recipe/crafting_shaped";
+  "./resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped";
 
 for (const type of types) {
   const content = {

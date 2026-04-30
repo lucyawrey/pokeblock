@@ -2,9 +2,9 @@ import { parse } from "csv-parse/sync";
 import { pullCsv } from "./lib";
 
 const gravelOutPath =
-  "../datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_gravel.json";
+  "../resourcepacks/Pokeblock/data/pokeblock/loot_table/archaeology/suspicious_gravel.json";
 const sandOutPath =
-  "../datapacks/pokeblock_datapack/data/pokeblock/loot_table/archaeology/suspicious_sand.json";
+  "../resourcepacks/Pokeblock/data/pokeblock/loot_table/archaeology/suspicious_sand.json";
 const targetGravel = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=sus_gravel`;
 const targetSand = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=sus_sand`;
 const gravelSequence = "pokeblock:archaeology/suspicious_gravel";
