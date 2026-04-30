@@ -122,6 +122,10 @@ for (const row of data) {
     moonPhase: parseStringWithAny(row.moonPhase),
     data: parseString(row.data),
     neededNearbyBlocks: parseStringSplit(row.neededNearbyBlocks),
+    lureLevel1: parseString(row.lureLevel1),
+    lureWeight1: parseFloat(row.lureWeight1 || "0.0"),
+    lureLevel2: parseString(row.lureLevel2),
+    lureWeight2: parseFloat(row.lureWeight2 || "0.0"),
   };
   // Legendary Pokemon are ultra-rare, but we want to separate them out for organizational purposes.
   if (pokemon.bucket === "legendary") {
@@ -234,6 +238,38 @@ for (const row of data) {
           );
         } else {
           spawn.condition.neededNearbyBlocks = pokemon.neededNearbyBlocks;
+        }
+      }
+      // Fishing lure conditions
+      if (
+        type === "fishing" &&
+        ((pokemon.lureLevel1 && pokemon.lureWeight1) ||
+          (pokemon.lureLevel2 && pokemon.lureWeight2))
+      ) {
+        spawn.weightMultipliers = [];
+        if (pokemon.lureLevel1 && pokemon.lureWeight1) {
+          let lureLevels = pokemon.lureLevel1
+            .split("-")
+            .map((level) => parseInt(level.trim()));
+          spawn.weightMultipliers.push({
+            multiplier: pokemon.lureWeight1,
+            condition: {
+              minLureLevel: lureLevels[0] || undefined,
+              maxLureLevel: lureLevels[1] || undefined,
+            },
+          });
+        }
+        if (pokemon.lureLevel2 && pokemon.lureWeight2) {
+          let lureLevels = pokemon.lureLevel2
+            .split("-")
+            .map((level) => parseInt(level.trim()));
+          spawn.weightMultipliers.push({
+            multiplier: pokemon.lureWeight2,
+            condition: {
+              minLureLevel: lureLevels[0] || undefined,
+              maxLureLevel: lureLevels[1] || undefined,
+            },
+          });
         }
       }
 

@@ -158,7 +158,7 @@ let biomes: Record<string, string> = {};
 });
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,fishingCondition1,fishingWeight1,fishingCondition2,fishingWeight2",
+  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,lureLevel1,lureWeight1,lureLevel2,lureWeight2",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -288,29 +288,25 @@ for (let i = 0; i < pokemon.length; i++) {
   let weightMultiplier2 = fishingSpawn?.weightMultipliers?.[1];
   if (weightMultiplier1) {
     if (weightMultiplier1.condition?.minLureLevel) {
-      fishingCondition1 += `lureLevel: ${weightMultiplier1.condition.minLureLevel}`;
+      fishingCondition1 += weightMultiplier1.condition.minLureLevel.toString();
       if (weightMultiplier1.condition?.maxLureLevel) {
         fishingCondition1 += `-${weightMultiplier1.condition.maxLureLevel}`;
       }
-    } else if (weightMultiplier1.condition?.isRaining) {
-      fishingCondition1 += `isRaining: true`;
-    } else if (weightMultiplier1.condition?.isThundering) {
-      fishingCondition1 += `isThundering: true`;
     }
-    fishingWeight1 = fishingCondition1 ? weightMultiplier1.multiplier || "" : "";
+    fishingWeight1 = fishingCondition1
+      ? weightMultiplier1.multiplier || ""
+      : "";
   }
   if (weightMultiplier2) {
     if (weightMultiplier2.condition?.minLureLevel) {
-      fishingCondition2 += `lureLevel: ${weightMultiplier2.condition.minLureLevel}`;
+      fishingCondition2 += weightMultiplier2.condition.minLureLevel.toString();
       if (weightMultiplier2.condition?.maxLureLevel) {
         fishingCondition2 += `-${weightMultiplier2.condition.maxLureLevel}`;
       }
-    } else if (weightMultiplier2.condition?.isRaining) {
-      fishingCondition2 = "isRaining: true";
-    } else if (weightMultiplier2.condition?.isThundering) {
-      fishingCondition2 = "isThundering: true";
     }
-    fishingWeight2 = fishingCondition2 ? weightMultiplier2.multiplier || "" : "";
+    fishingWeight2 = fishingCondition2
+      ? weightMultiplier2.multiplier || ""
+      : "";
   }
 
   csvLines.push(

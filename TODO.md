@@ -3,8 +3,6 @@
 ## Normal Priority
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
-  - Add support for Pokérod fishing weights.
-    - Spawn generation script
 - Update drop table.
   - Remove meat and similar things from drop tables.
   - Modify drop tables to add important drops for progression.

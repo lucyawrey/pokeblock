@@ -28,7 +28,22 @@
       "weight": 0.32,
       "level": "38-50",
       "spawnablePositionType": "fishing",
-      "condition": {}
+      "condition": {},
+      "weightMultipliers": [
+        {
+          "multiplier": 3,
+          "condition": {
+            "minLureLevel": 2,
+            "maxLureLevel": 2
+          }
+        },
+        {
+          "multiplier": 5,
+          "condition": {
+            "minLureLevel": 3
+          }
+        }
+      ]
     },
     {
       "id": "muk-3",

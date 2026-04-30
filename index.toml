@@ -5042,11 +5042,11 @@ hash = "55599008fae6b7b99ce48b20808a57610b7e1cb0de162df2db75ef06a877eafa"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0054_psyduck.json"
-hash = "b8289658cd206edc102353ffe7499c45b14f03622defa923e8f578b90df49d33"
+hash = "e71ca81be0f103e7ecea41701b2a03cbb7d78b6ea60f1c29aef5d36eadb9e29d"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0055_golduck.json"
-hash = "e7fe7dfcb7a4895601265f38308c135209d1bf2e2169fc11154eef8576d74bde"
+hash = "5ab5ed3618df734c43be0e526448dad6bb3ff4f0bf1fe0df29d0470ddba8c6fa"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0056_mankey.json"
@@ -5170,7 +5170,7 @@ hash = "ad45025b4d546a51b8e83d63f7301167362e25091d447b145103a792f1de8b0a"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0079_slowpoke.json"
-hash = "f8896368844fa787763cc1b22e29fcf67bc757500bd949aeff180c88a2851e3e"
+hash = "4e035487bac13c2945c67ecd7139bf4532128c3342032a0d050d353c9cc8f52c"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0079_slowpoke_galarian.json"
@@ -5178,7 +5178,7 @@ hash = "a5b921356b3e4f3801cdeb61c800dad03efc7769d03baa832e9e55d0177466ab"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0080_slowbro.json"
-hash = "5ba9816348062bfe967a7516a21f38edd09436b428a186ebcbbfe20e9d5763d2"
+hash = "3280fa9cb52ee4b72dd2f9d9a560f40b221b23c23f0a35bf826c2b979afe4fac"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0080_slowbro_galarian.json"
@@ -5218,7 +5218,7 @@ hash = "05bbe95d2f0d07075ba924b5ab8747dbe8c40827f73afe9157d19344049b0047"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer.json"
-hash = "b6fbcd1bb870074e3e85c1f6d5b51ed37d856b271218e90e9480972318f49f96"
+hash = "fd154eea7f3ecf46b881b46098d2fdf47ffaeeb3db6f71d453be1642e94c71af"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0088_grimer_alolan.json"
@@ -5226,7 +5226,7 @@ hash = "110c4ae294005b44effbd5f8df4151f080397f7810bb2cc2aeec6ccb89e53a86"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk.json"
-hash = "53653a423a2660b975380dedc5580ca0173a5119160b0f5916f43d693b84b06c"
+hash = "613aaf1a585cec7dd5a177ccb4dd7e4967331424d90143e370e4eff1f926b505"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0089_muk_alolan.json"
@@ -5370,11 +5370,11 @@ hash = "1b14e538b9bdf491a0788083232b2315d21cb71a01d9e4e752d8ae715f7fbe99"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0116_horsea.json"
-hash = "7190e825b7308868dbdac78e2d5e7c5eb41270a67e1c81ad884512db7323e0cb"
+hash = "6a11c1f4d159532bcd388d2d7548a53ef49dd997561196150243ce52dea23719"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0117_seadra.json"
-hash = "d955a8c8d9b8e0dba4300930ba6ee9ae3dd5c4a3e9898c53f7640c6613137379"
+hash = "70aed61bc69b1db531a7b38878853c6883d811362a501e7e676de2bfbc598681"
 
 [[files]]
 file = "datapacks/pokeblock_datapack/data/pokeblock/spawn_pool_world/0118_goldeen.json"

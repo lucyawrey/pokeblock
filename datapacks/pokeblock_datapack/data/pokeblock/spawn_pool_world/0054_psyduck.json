@@ -65,7 +65,22 @@
           "minecraft:overworld"
         ],
         "canSeeSky": true
-      }
+      },
+      "weightMultipliers": [
+        {
+          "multiplier": 3,
+          "condition": {
+            "minLureLevel": 2,
+            "maxLureLevel": 2
+          }
+        },
+        {
+          "multiplier": 5,
+          "condition": {
+            "minLureLevel": 3
+          }
+        }
+      ]
     }
   ]
 }
