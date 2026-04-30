@@ -1,6 +1,13 @@
 # Pokéblock Todo
 
 ## Normal Priority
+- Create Lore!
+  - Research Journal in island starting chest, also craftable with Psychic Pearl, Book, Ink.
+  - Fill out journal with torn pages from various sources. Torn pages trigger an advancedment that unlocks new research journal entries.
+  - Secondary lore items also get added to the notebook, probably. They maye perhaps instead be simple custom vanilla written books with default nbt.
+  - Legendary Tablets should require translation information (an advancement and journal entry) before they can be read, eventually.
+  - Instructions for how to summon gyn leaders.
+  - Comment on strange non-pokemon fish.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
 - Update drop table.
@@ -23,10 +30,6 @@
 - Skyblock Builder Fixes
   - Spawn protection not preventing harvesting berries and taking items from display cases.
   - Home island spawn in waterfall for some reason.
-- Create Lore!
-  - Journal entries in island starting chest, in the nether, and in one of the meteorites.
-  - Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
-  - Comment on strange non-pokemon fish.
 - More ridable Pokémon
   - https://modrinth.com/mod/cobblemon-journey-mounts, figure out how to make it work with AllTheMons x Mega Showdown
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
@@ -48,6 +51,7 @@
   - Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
 - More interesting and difficult fossil machine recipes to obtain Type: Null and Genesect.
   - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
+- Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
 
 ## Lore Books/Tablets
 
