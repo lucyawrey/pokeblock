@@ -1,8 +1,6 @@
 # Pokéblock Todo
 
 ## Normal Priority
-- Remove decimal from pokemon HP
-  - Update and modify config for Cobblemon Battle Extras.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
   - Add support for Pokérod fishing weights.

@@ -14,7 +14,7 @@ hash = "6e3f0ed5aa64ae9843c1bb36c63f2122b726dc884d98f78d70dbbbde38c219f9"
 
 [[files]]
 file = "config/cobblemon-battle-extras.json"
-hash = "3c43fe30214ee180b5aef36ff1eb82e9f5e44f2f24c4be0d2dd95ff611a7a4d0"
+hash = "4e15949f900f62b0fcbffeae52ee251351c94fa649e9c09c982e2c357ac3820c"
 
 [[files]]
 file = "config/cobblemon/main.json"
