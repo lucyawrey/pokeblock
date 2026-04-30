@@ -20,7 +20,7 @@
         ],
         "neededNearbyBlocks": [
           "#c:glass_blocks",
-          "#minecraft:signs"
+          "#c:glass_panes"
         ]
       }
     }

@@ -32,6 +32,7 @@
 - Create stat soda mod. Bottle cap (expensive and made of metal and gems) honey + Sugar + EV Berry + water bottle in cobblemon camp cooking pot.
 - Continue tweaking Radical Trainers teams for doubles format.
 - Create list of all modpack features, especially ones totally new to this pack (spawning mechanics, meteors).
+- Change entity death sounds and visuals to look like phasing out of reality instead of dying.
 - Replace current villagers and default Radical Trainers trainers with unified NPC system. (Large Task)
   - Look into how cobblemon and Radical Trainers handle NPCs.
   - NPCs should spawn automatically but not immediately once you build a proper enviornment for them.

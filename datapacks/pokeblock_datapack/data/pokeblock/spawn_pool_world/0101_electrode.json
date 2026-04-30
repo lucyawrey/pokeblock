@@ -25,6 +25,28 @@
           "#cobblemon:apricorns"
         ]
       }
+    },
+    {
+      "id": "electrode-2",
+      "pokemon": "electrode",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 0.2,
+      "level": "30-49",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": false,
+        "neededNearbyBlocks": [
+          "minecraft:lightning_rod",
+          "#cobblemon:apricorns"
+        ]
+      }
     }
   ]
 }

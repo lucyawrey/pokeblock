@@ -25,6 +25,28 @@
           "minecraft:acacia_leaves"
         ]
       }
+    },
+    {
+      "id": "gloom-valencian-2",
+      "pokemon": "gloom valencian",
+      "type": "pokemon",
+      "bucket": "common",
+      "weight": 0.19,
+      "level": "21-40",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": false,
+        "neededNearbyBlocks": [
+          "#minecraft:acacia_logs",
+          "minecraft:acacia_leaves"
+        ]
+      }
     }
   ]
 }

@@ -25,6 +25,28 @@
           "#cobblemon:concrete_blocks"
         ]
       }
+    },
+    {
+      "id": "hitmonchan-2",
+      "pokemon": "hitmonchan",
+      "type": "pokemon",
+      "bucket": "uncommon",
+      "weight": 0.32,
+      "level": "20-46",
+      "spawnablePositionType": "grounded",
+      "condition": {
+        "neededBaseBlocks": [
+          "#cobblemon:natural"
+        ],
+        "dimensions": [
+          "minecraft:overworld"
+        ],
+        "canSeeSky": false,
+        "neededNearbyBlocks": [
+          "#minecraft:wool",
+          "#cobblemon:concrete_blocks"
+        ]
+      }
     }
   ]
 }

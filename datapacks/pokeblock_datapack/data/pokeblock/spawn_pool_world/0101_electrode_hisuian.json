@@ -18,8 +18,7 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
+        "canSeeSky": true,
         "neededNearbyBlocks": [
           "#cobblemon:apricorns",
           "minecraft:tnt"
