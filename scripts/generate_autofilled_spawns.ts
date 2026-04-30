@@ -140,9 +140,9 @@ const idMap: any = {
   slitherwing: "slither-wing",
 };
 
-const path = "../reference_data/data";
-const outputPath = "../spawn_data.csv";
-const cachePath = "../script_cache.json";
+const path = "./reference_data/data";
+const outputPath = "./spawn_data.csv";
+const cachePath = "./script_cache.json";
 const biomesSheetUrl = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=biomes`;
 
 let biomes: Record<string, string> = {};
@@ -158,7 +158,7 @@ let biomes: Record<string, string> = {};
 });
 let pokemon: any[];
 const csvLines = [
-  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,isGenerated,remove",
+  "dex,pokemon,obtainability,bucket,weight,level,dimension,types,timeRange,canSeeSky,illumination,weather,height,moonPhase,alternateForm,neededNearbyBlocks,data,fishingCondition1,fishingWeight1,fishingCondition2,fishingWeight2",
 ];
 
 pokemon = await Bun.file(cachePath)
@@ -272,17 +272,49 @@ for (let i = 0; i < pokemon.length; i++) {
         : "any";
   let alternateForm = poke?.alternateForm ? "yes" : "no";
   let neededNearbyBlocks = await getNeededNearbyBlocks(spawns);
-  let isGenerated = dex && id && bucket && weight && level ? "yes" : "no";
   let data = "";
-  let remove = "no";
   if (spawn0?.pokemon.includes("min_perfect_ivs=3")) {
     data = "min_perfect_ivs=3";
-  } else if (spawn0?.pokemon.includes(" ") && alternateForm === "no") {
-    remove = "yes";
+  }
+  // Fishing
+  let fishingCondition1 = "";
+  let fishingWeight1 = "";
+  let fishingCondition2 = "";
+  let fishingWeight2 = "";
+  let fishingSpawn = spawns?.find(
+    (spawn: any) => spawn?.spawnablePositionType === "fishing",
+  );
+  let weightMultiplier1 = fishingSpawn?.weightMultipliers?.[0];
+  let weightMultiplier2 = fishingSpawn?.weightMultipliers?.[1];
+  if (weightMultiplier1) {
+    if (weightMultiplier1.condition?.minLureLevel) {
+      fishingCondition1 += `lureLevel: ${weightMultiplier1.condition.minLureLevel}`;
+      if (weightMultiplier1.condition?.maxLureLevel) {
+        fishingCondition1 += `-${weightMultiplier1.condition.maxLureLevel}`;
+      }
+    } else if (weightMultiplier1.condition?.isRaining) {
+      fishingCondition1 += `isRaining: true`;
+    } else if (weightMultiplier1.condition?.isThundering) {
+      fishingCondition1 += `isThundering: true`;
+    }
+    fishingWeight1 = fishingCondition1 ? weightMultiplier1.multiplier || "" : "";
+  }
+  if (weightMultiplier2) {
+    if (weightMultiplier2.condition?.minLureLevel) {
+      fishingCondition2 += `lureLevel: ${weightMultiplier2.condition.minLureLevel}`;
+      if (weightMultiplier2.condition?.maxLureLevel) {
+        fishingCondition2 += `-${weightMultiplier2.condition.maxLureLevel}`;
+      }
+    } else if (weightMultiplier2.condition?.isRaining) {
+      fishingCondition2 = "isRaining: true";
+    } else if (weightMultiplier2.condition?.isThundering) {
+      fishingCondition2 = "isThundering: true";
+    }
+    fishingWeight2 = fishingCondition2 ? weightMultiplier2.multiplier || "" : "";
   }
 
   csvLines.push(
-    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},"${isGenerated}",${remove}`,
+    `"${dex}","${id}",,"${bucket}","${weight}","${level}","${dimension}","${types.join(", ")}","${timeRange}","${canSeeSky}","${illumination}","${weather}","${height}","${moonPhase}",${alternateForm},"${neededNearbyBlocks.join(", ")}",${data},${fishingCondition1},${fishingWeight1},${fishingCondition2},${fishingWeight2}`,
   );
 }
 
@@ -328,7 +360,9 @@ async function getPokemon(path: string) {
           const json = await Bun.file(`${path}/${filePath}`).json();
           if (json && json.spawns) {
             if (pokemon[dex - 1]?.spawns) {
-              pokemon[dex - 1].spawns = pokemon[dex - 1].spawns.concat(json.spawns);
+              pokemon[dex - 1].spawns = pokemon[dex - 1].spawns.concat(
+                json.spawns,
+              );
             } else {
               pokemon[dex - 1] = {
                 id,
