@@ -78,8 +78,9 @@ ServerEvents.recipes((event) => {
   });
   event.recipes.create.crushing(
     [
-      CreateItem.of("minecraft:blackstone", 0.25),
-      CreateItem.of("minecraft:ancient_debris", 0.005),
+      CreateItem.of("minecraft:blackstone", 0.20),
+      CreateItem.of("minecraft:ancient_debris", 0.006),
+      CreateItem.od("minecraft:netherite_upgrade_smithing_template", 0.002)
     ],
     "minecraft:blackstone",
   );
