@@ -1,0 +1,11 @@
+{
+  "hideTrainerIdentities": "false",
+  "description": {
+    "translatable": "series.cobbleblock.cobbleblock.description"
+  },
+  "difficulty": 9,
+  "requiredSeries": [],
+  "title": {
+    "translatable": "series.cobbleblock.cobbleblock.title"
+  }
+}

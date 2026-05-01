@@ -1,0 +1,23 @@
+{
+    "type": "cobblemon:cooking_pot_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "minecraft:potion"
+        },
+        {
+            "item": "cobbleblock:ancient_fossil_dust"
+        },
+        {
+            "item": "cobbleblock:ancient_fossil_dust"
+        },
+        {
+            "item": "minecraft:nether_star"
+        }
+    ],
+    "result": {
+        "id": "cobbleblock:ancient_dna"
+    },
+    "seasoningTag": "cobblemon:empty",
+    "seasoningProcessors": []
+}

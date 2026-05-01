@@ -1,7 +1,7 @@
 import { Glob } from "bun";
 
 const glob = new Glob("**/*.json");
-const path = "./resourcepacks/Pokeblock/data/rctmod/mobs/trainers";
+const path = "./resourcepacks/Cobbleblock/data/rctmod/mobs/trainers";
 
 for (const filePath of glob.scanSync(path)) {
   try {

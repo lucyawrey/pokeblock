@@ -1,7 +1,7 @@
 import { parse } from "csv-parse/sync";
 
 const outPath =
-  "../resourcepacks/Pokeblock/data/_drops/species_additions";
+  "../resourcepacks/Cobbleblock/data/_drops/species_additions";
 
 // Pull CSV from Google Sheets
 const target = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=drops`;

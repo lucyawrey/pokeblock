@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cobbleblock:ancient_fossil_piece"
+        },
+        {
+            "item": "cobbleblock:ancient_fossil_piece"
+        },
+        {
+            "item": "cobbleblock:ancient_fossil_piece"
+        },
+        {
+            "item": "cobbleblock:ancient_fossil_piece"
+        },
+        {
+            "item": "cobblemon:rare_candy"
+        },
+        {
+            "item": "cobblemon:rare_candy"
+        },
+        {
+            "item": "cobblemon:psychic_gem"
+        },
+        {
+            "item": "cobblemon:psychic_gem"
+        }
+    ],
+    "result": {
+        "id": "cobbleblock:ancient_fossil",
+        "count": 1
+    }
+}

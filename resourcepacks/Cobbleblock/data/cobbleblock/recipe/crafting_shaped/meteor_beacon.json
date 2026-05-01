@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "mega_showdown:mega_meteorid_block"
+    }
+  },
+  "pattern": [
+    " D ",
+    "IRI",
+    "IMI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobbleblock:meteor_beacon"
+  }
+}

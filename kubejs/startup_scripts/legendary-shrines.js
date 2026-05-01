@@ -4,11 +4,11 @@ global.legendaryPokemon = [
     name: "Articuno",
     level: "60",
     data: "min_perfect_ivs=3",
-    summonPedestal: "pokeblock:articuno_pedestal",
+    summonPedestal: "cobbleblock:articuno_pedestal",
     newSummonPedestal: true,
-    summonItem: "pokeblock:arctic_wing",
+    summonItem: "cobbleblock:arctic_wing",
     newSummonItem: true,
-    lootItem: "pokeblock:articuno_orb",
+    lootItem: "cobbleblock:articuno_orb",
     newLootItem: true,
     required: {
       "minecraft:polished_diorite": 20,
@@ -23,11 +23,11 @@ global.legendaryPokemon = [
     name: "Zapdos",
     level: "60",
     data: "min_perfect_ivs=3",
-    summonPedestal: "pokeblock:zapdos_pedestal",
+    summonPedestal: "cobbleblock:zapdos_pedestal",
     newSummonPedestal: true,
-    summonItem: "pokeblock:charged_wing",
+    summonItem: "cobbleblock:charged_wing",
     newSummonItem: true,
-    lootItem: "pokeblock:zapdos_orb",
+    lootItem: "cobbleblock:zapdos_orb",
     newLootItem: true,
     required: {
       "minecraft:yellow_concrete": 30,
@@ -42,11 +42,11 @@ global.legendaryPokemon = [
     name: "Moltres",
     level: "60",
     data: "min_perfect_ivs=3",
-    summonPedestal: "pokeblock:moltres_pedestal",
+    summonPedestal: "cobbleblock:moltres_pedestal",
     newSummonPedestal: true,
-    summonItem: "pokeblock:molten_wing",
+    summonItem: "cobbleblock:molten_wing",
     newSummonItem: true,
-    lootItem: "pokeblock:moltres_orb",
+    lootItem: "cobbleblock:moltres_orb",
     newLootItem: true,
     required: {
       "minecraft:polished_blackstone": 30,
@@ -61,17 +61,17 @@ global.legendaryPokemon = [
     name: "Lugia",
     level: "65",
     data: "min_perfect_ivs=3",
-    summonPedestal: "pokeblock:lugia_pedestal",
+    summonPedestal: "cobbleblock:lugia_pedestal",
     newSummonPedestal: true,
-    summonItem: "pokeblock:fragile_ocarina",
+    summonItem: "cobbleblock:fragile_ocarina",
     newSummonItem: true,
     lootItem: undefined,
     newLootItem: false,
     required: {
       "mega_showdown:pedestal": 3,
-      "pokeblock:articuno_orb": 1,
-      "pokeblock:zapdos_orb": 1,
-      "pokeblock:moltres_orb": 1,
+      "cobbleblock:articuno_orb": 1,
+      "cobbleblock:zapdos_orb": 1,
+      "cobbleblock:moltres_orb": 1,
       "minecraft:water": 10,
       "minecraft:prismarine": 10,
       "minecraft:lapis_block": 5,
@@ -83,9 +83,9 @@ global.legendaryPokemon = [
     name: "Mew",
     level: "70",
     data: "min_perfect_ivs=3",
-    summonPedestal: "pokeblock:mew_pedestal",
+    summonPedestal: "cobbleblock:mew_pedestal",
     newSummonPedestal: true,
-    summonItem: "pokeblock:ancient_fossil",
+    summonItem: "cobbleblock:ancient_fossil",
     newSummonItem: true,
     lootItem: undefined,
     newLootItem: false,
@@ -101,16 +101,16 @@ global.legendaryPokemon = [
 
 global.extraItems = [
   {
-    id: "pokeblock:ancient_fossil_piece",
+    id: "cobbleblock:ancient_fossil_piece",
     tooltip:
       "Use four of these it to craft an Ancient Fossil, or maybe try crushing it instead?",
   },
   {
-    id: "pokeblock:ancient_fossil_dust",
+    id: "cobbleblock:ancient_fossil_dust",
     tooltip: "A certain Pokémon's DNA could be extracted from this...",
   },
   {
-    id: "pokeblock:ancient_dna",
+    id: "cobbleblock:ancient_dna",
     name: "Ancient DNA",
     tooltip:
       "Your work is complete, this DNA should be able to clone the Ancient Pokémon Mew in a Ressurection Machine...",
@@ -122,7 +122,7 @@ StartupEvents.registry("block", (event) => {
     // Pedestal blocks
     if (pokemon.newSummonPedestal) {
       event
-        .create(`pokeblock:${pokemon.id}_pedestal`)
+        .create(`cobbleblock:${pokemon.id}_pedestal`)
         .fullBlock(false)
         .box(2, 0, 2, 14, 13, 14, true)
         .soundType("stone")
@@ -130,7 +130,7 @@ StartupEvents.registry("block", (event) => {
         .resistance(100)
         .requiresTool(true)
         .tagBoth("minecraft:mineable/pickaxe")
-        .tagBoth("pokeblock:legendary_pedestals")
+        .tagBoth("cobbleblock:legendary_pedestals")
         .item((i) =>
           i.tooltip(
             `A pedestal that acts as a centerpiece for a shrine to ${pokemon.name}. It can tell you what else you need to summon that Pokémon...`,
@@ -146,17 +146,17 @@ StartupEvents.registry("item", (event) => {
     if (pokemon.newSummonItem && pokemon.summonItem) {
       event
         .create(pokemon.summonItem)
-        .tag("pokeblock:legendary_summon_items")
+        .tag("cobbleblock:legendary_summon_items")
         .tooltip(
           `The offering needed to summon ${pokemon.name} at it's shrine.`,
         );
     }
     if (pokemon.newLootItem && pokemon.lootItem) {
-      event.create(pokemon.lootItem).tag("pokeblock:legendary_summon_items");
+      event.create(pokemon.lootItem).tag("cobbleblock:legendary_summon_items");
     }
   }
   for (let item of global.extraItems) {
-    let newItem = event.create(item.id).tag("pokeblock:legendary_summon_items");
+    let newItem = event.create(item.id).tag("cobbleblock:legendary_summon_items");
     if (item.name) {
       newItem.displayName(item.name);
     }
@@ -167,8 +167,8 @@ StartupEvents.registry("item", (event) => {
 });
 
 // Creative tab
-StartupEvents.modifyCreativeTab("pokeblock:pokeblock", (event) => {
-  let lastItem = "pokeblock:meteor_beacon";
+StartupEvents.modifyCreativeTab("cobbleblock:cobbleblock", (event) => {
+  let lastItem = "cobbleblock:meteor_beacon";
   for (let pokemon of global.legendaryPokemon) {
     // Optionally create summon item
     if (pokemon.newSummonItem && pokemon.summonItem) {

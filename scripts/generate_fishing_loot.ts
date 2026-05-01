@@ -104,7 +104,7 @@ const vanillaTreasure = [
   },
 ];
 
-const outPath = `../resourcepacks/Pokeblock/data/pokeblock/loot_table/gameplay/fishing`;
+const outPath = `../resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing`;
 const targetSheet = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=fishing`;
 const files = {
   junk: "minecraft:gameplay/fishing/junk",

@@ -4,7 +4,7 @@ console.info("Loaded KubeJs startup scripts.");
 // Add custom Suspicious Cobblestone item
 StartupEvents.registry("block", (event) => {
   event
-    .create("pokeblock:suspicious_cobblestone")
+    .create("cobbleblock:suspicious_cobblestone")
     .displayName("Suspicious Cobblestone")
     .soundType("stone")
     .hardness(2.0)
@@ -22,7 +22,7 @@ StartupEvents.registry("block", (event) => {
 // Meteor Beacon
 StartupEvents.registry("block", (event) => {
   event
-    .create("pokeblock:meteor_beacon")
+    .create("cobbleblock:meteor_beacon")
     .displayName("Meteor Beacon")
     .renderType("cutout")
     .fullBlock(false)
@@ -48,11 +48,11 @@ StartupEvents.registry("block", (event) => {
         // TODO create better meteor strcutures (multiple) and pick one randomly. Get explorted structure to work in datapack.
         server.scheduleInTicks(38, () => {
           const structures = [
-            "pokeblock:meteor_mega_1",
-            "pokeblock:meteor_keystone_1",
-            "pokeblock:meteor_deoxys_1",
-            "pokeblock:meteor_max_1",
-            "pokeblock:meteor_geode_1",
+            "cobbleblock:meteor_mega_1",
+            "cobbleblock:meteor_keystone_1",
+            "cobbleblock:meteor_deoxys_1",
+            "cobbleblock:meteor_max_1",
+            "cobbleblock:meteor_geode_1",
           ];
           block.set("minecraft:air");
           const structure =
@@ -71,11 +71,11 @@ StartupEvents.registry("block", (event) => {
 // Creative tab
 StartupEvents.registry("creative_mode_tab", (event) => {
   event
-    .create("pokeblock:pokeblock")
-    .displayName("Pokéblock")
-    .icon(() => "pokeblock:meteor_beacon")
+    .create("cobbleblock:cobbleblock")
+    .displayName("Cobbleblock")
+    .icon(() => "cobbleblock:meteor_beacon")
     .content(() => [
-      "pokeblock:meteor_beacon",
-      "pokeblock:suspicious_cobblestone",
+      "cobbleblock:meteor_beacon",
+      "cobbleblock:suspicious_cobblestone",
     ]);
 });

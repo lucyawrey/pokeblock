@@ -1,4 +1,4 @@
-name = "Pokéblock - Cobblemon Skyblock"
+name = "Cobbleblock - Cobblemon Skyblock"
 author = "LucyAzalea"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bfd0d811c26475d9ef2a2befc8350fe58ca8187dd0b187fe102a983c72a034f1"
+hash = "27ec5e6875ba7d419b7fd8e30791c4881bde4efd0760efa9bafe68168bb93c64"
 
 [versions]
 minecraft = "1.21.1"

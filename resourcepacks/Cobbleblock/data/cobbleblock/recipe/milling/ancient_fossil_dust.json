@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "cobbleblock:ancient_fossil_piece"
+        }
+    ],
+    "processing_time": 400,
+    "results": [
+        {
+            "id": "cobbleblock:ancient_fossil_dust"
+        }
+    ]
+}

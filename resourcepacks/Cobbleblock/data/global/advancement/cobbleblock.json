@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"id": "mega_showdown:sky_plate"
+		},
+		"title": "Cobbleblock",
+		"description": [
+			"",
+			{
+				"text": "You have awakened in a strange and unfamiliar place... Welcome to Cobbleblock.",
+				"color": "gold"
+			}
+		],
+		"background": "minecraft:textures/block/black_concrete.png",
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

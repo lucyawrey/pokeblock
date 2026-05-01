@@ -20,7 +20,7 @@
       "south": [],
       "west": []
     },
-    "pokeblock": {
+    "cobbleblock": {
       "south": [
         [
           6,
@@ -41,9 +41,9 @@
   },
   "templateList": [
     {
-      "name": "Pokéblock",
-      "file": "pokeblock.nbt",
-      "spawns": "pokeblock",
+      "name": "Cobbleblock",
+      "file": "cobbleblock.nbt",
+      "spawns": "cobbleblock",
       "surroundingBlocks": "default",
       "spreads": "default"
     }

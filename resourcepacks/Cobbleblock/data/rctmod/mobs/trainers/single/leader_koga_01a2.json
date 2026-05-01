@@ -1,0 +1,20 @@
+{
+  "battleCooldownTicks": 240,
+  "maxTrainerDefeats": 1,
+  "maxTrainerWins": -1,
+  "optional": false,
+  "requiredDefeats": [
+    [
+      "leader_erika_01a1"
+    ]
+  ],
+  "series": [
+    "cobbleblock"
+  ],
+  "signatureItem": "cobblemon:poison_barb",
+  "spawnWeightFactor": 0.25,
+  "type": "leader",
+  "biomeTagWhitelist": [
+    "is_plains"
+  ]
+}

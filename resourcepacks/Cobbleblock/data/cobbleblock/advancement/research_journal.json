@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": "A mysterious journal",
+        "description": "You found a research journal seemingly left behind by a Professor Acacia that may give some clues as to where you are. Some of it's pages are torn out.",
+        "icon": {
+            "id": "patchouli:guide_book"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "global:cobbleblock",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": ["patchouli:guide_book"]
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,4 +1,4 @@
-# Pokéblock - Cobblemon Skyblock
+# Cobbleblock - Cobblemon Skyblock
 An in-development Skyblock modpack focused primarily on Cobblemon, and to a lesser extent Create. Built with love by LucyAzalea.
 
 ## Modpack Features

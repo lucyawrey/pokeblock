@@ -1,0 +1,21 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "cobbleblock:suspicious_cobblestone"
+        }
+    ],
+    "processing_time": 250,
+    "results": [
+        {
+            "id": "minecraft:suspicious_gravel",
+            "count": 1,
+            "components": {
+                "minecraft:block_entity_data": {
+                    "id": "minecraft:suspicious_gravel",
+                    "LootTable": "cobbleblock:archaeology/suspicious_gravel"
+                }
+            }
+        }
+    ]
+}

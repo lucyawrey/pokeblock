@@ -2,8 +2,8 @@ import { watch } from "node:fs";
 import path, { join } from "node:path";
 
 // Destination directory for the datapack, will need to be changed to match the actual datapack location in the Minecraft directory
-const dest = "/Applications/MultiMC.app/Data/instances/1.21.1/.minecraft/resourcepacks/Pokeblock";
-const source = path.resolve('./resourcepacks/Pokeblock');
+const dest = "/Applications/MultiMC.app/Data/instances/1.21.1/.minecraft/resourcepacks/Cobbleblock";
+const source = path.resolve('./resourcepacks/Cobbleblock');
 
 console.log(`Watching ${source} for changes...`);
 
