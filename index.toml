@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "f3ac8a5f2859e375aa64d28edd9ed9fd6ec97909e8d7b85b1d3849f253887a6b"
-
-[[files]]
 file = "config/CobblemonWildLoot.json"
 hash = "82060adfe2227bb9539ef2da32bd00a55dfa74c49925f17c7f896c62bbe1788f"
 
@@ -146,7 +142,7 @@ hash = "fa2bc72d8214cac2a697941e47ebb015d41765dff5332bc37e91460dbaf3c6c5"
 
 [[files]]
 file = "config/skyblockbuilder/templates.json5"
-hash = "e427510c02216526c52e4d3551dd64136adc75646ca1c496786a164716f598b9"
+hash = "7f738881749d0d5baf3e22abfe3ea27dac250f561a71616dc2f591137cc19b8b"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
@@ -154,7 +150,7 @@ hash = "2490bac5374cf5423613c82e4cd8147466c2c4ba7e448aacd2ba5bafbf126704"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/pokeblock.nbt"
-hash = "8cc1040e9d1bb41941a94f78f8a55af383e31d421db29fa207fdb75177949e9c"
+hash = "854e959493ffea3f1c0834b67980719f48288ddb14d73978004dc79c41aaae41"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/information.txt"
@@ -9308,7 +9304,7 @@ hash = "a64f5f1841637855bad1ff83d2c76ec819a6a46cff48f8a7c6107af862074b98"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/global/advancement/pokeblock.json"
-hash = "2e819e4114b0d5e3fcf5cd2251af91f13f1875e8780a328e5f515a2fa7b00cac"
+hash = "bf9c958c661a28201d6764bebeda5abfc7a36fcc9db73a30a8a9c2e2e797fbcd"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/minecraft/loot_table/blocks/gravel.json"
@@ -9344,11 +9340,15 @@ hash = "6a1b7545b19c40730f5198018267a89ce7f2c6fa9323846a2eded98e830826c0"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/advancement/apricorn_seed.json"
-hash = "68558cad16485a007ab6d36d0dd9f00c0288a4c4cccb231d619a5a47380b1c22"
+hash = "1645f3d123ec7121eb482140a49ac3798744507ba7cb474f4de6e48fff929daf"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/advancement/join.json"
 hash = "b706813cb3ded6a90f873f43a100da780bdd051c920dca3ce69e7b8f38ec2eed"
+
+[[files]]
+file = "resourcepacks/Pokeblock/data/pokeblock/advancement/research_journal.json"
+hash = "f62b7c594625e2e1f10d809368eae67633037f0d29b1c0afb6c58c46563038f8"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/function/load.mcfunction"
@@ -9489,6 +9489,10 @@ hash = "ad21908c7f6b3e6bf92a3248aef800b75ed0d38559aef2a98b744c180c3b51ac"
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/psychic_gem.json"
 hash = "3765693f0e2ee1de06aabb91be69d8860de9644523569a0818dfcfb62f76f781"
+
+[[files]]
+file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/research_journal.json"
+hash = "272b50588a6b4486f8c461be3ba95ee58c98781a23d0f0ef7cc479dac05bd40a"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/rock_gem.json"

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "ender_pearl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "patchouli:guide_book",
+    "components": {
+      "patchouli:book": "patchouli:research_journal"
+    }
+  }
+}

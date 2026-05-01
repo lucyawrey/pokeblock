@@ -2,7 +2,6 @@
 
 ## Normal Priority
 - Create Lore!
-  - Research Journal in island starting chest, also craftable with Psychic Pearl, Book, Ink.
   - Fill out journal with torn pages from various sources. Torn pages trigger an advancedment that unlocks new research journal entries.
   - Secondary lore items also get added to the notebook, probably. They maye perhaps instead be simple custom vanilla written books with default nbt.
   - Legendary Tablets should require translation information (an advancement and journal entry) before they can be read, eventually.
@@ -26,7 +25,7 @@
   - defaultoptions config. Remove and start over
 - Configure CobbleDollars merchant stock, CobbleDollars bank.
   - Tech: Pokédexes, Pokénavs, Trainer Card
-- More meteor templates (inclduing meteor with just evo stones, sculk meteor, variants of existing meteors).
+- More meteor templates (inclduing meteor with just evo stones and lore book, sculk meteor, shadow meteor).
 - Skyblock Builder Fixes
   - Spawn protection not preventing harvesting berries and taking items from display cases.
   - Home island spawn in waterfall for some reason.
@@ -55,7 +54,6 @@
 
 ## Lore Books/Tablets
 
-- Starting Chest
 - Nether Chest (Under Soul Sand)
 - Archaeology loot (probably gravel only)
 - Fishing loot (treasure)
@@ -67,7 +65,6 @@
 ## Lore Flavour Text
 
 - Legendary summon items.
-- Lore books.
 
 ## Important Drops
 

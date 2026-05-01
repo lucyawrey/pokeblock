@@ -1,9 +1,9 @@
 {
     "display": {
-        "title": "A seed of something more",
-        "description": "It will be hard to get anywhere without more Apricorn trees. Remember, you can only harvest them from the fruits. Don't destroy your tree too early!",
+        "title": "A mysterious journal",
+        "description": "You found a research journal seemingly left behind by a Professor Acacia that may give some clues as to where you are. Some of it's pages are torn out.",
         "icon": {
-            "id": "cobblemon:red_apricorn_seed"
+            "id": "patchouli:guide_book"
         },
         "show_toast": true,
         "announce_to_chat": true
@@ -15,7 +15,7 @@
             "conditions": {
                 "items": [
                     {
-                        "tag": "#cobblemon:apricorn_saplings"
+                        "items": ["patchouli:guide_book"]
                     }
                 ]
             }
