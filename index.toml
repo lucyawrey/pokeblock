@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "f3ac8a5f2859e375aa64d28edd9ed9fd6ec97909e8d7b85b1d3849f253887a6b"
+
+[[files]]
 file = "config/CobblemonWildLoot.json"
 hash = "82060adfe2227bb9539ef2da32bd00a55dfa74c49925f17c7f896c62bbe1788f"
 
@@ -4310,7 +4314,7 @@ hash = "ce5cb4bd2d4e3a3d06461954da7f62543363a03ce025ba5342fb159b2e01a3be"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "67641d1065ed58e845f672860024bb542ff9f92c6db16eba6c48419171ad4dc4"
+hash = "0ae05e262a2e68ad511a3932fec274bbf13538ec83334b4b3fa53669018f61df"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
@@ -9304,7 +9308,7 @@ hash = "a64f5f1841637855bad1ff83d2c76ec819a6a46cff48f8a7c6107af862074b98"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/global/advancement/pokeblock.json"
-hash = "a768924b7c45b39b15295094ab6f1594c0350fab6087f66469da5b5417f3cef4"
+hash = "2e819e4114b0d5e3fcf5cd2251af91f13f1875e8780a328e5f515a2fa7b00cac"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/minecraft/loot_table/blocks/gravel.json"
@@ -9339,12 +9343,12 @@ file = "resourcepacks/Pokeblock/data/minecraft/worldgen/biome/plains.json"
 hash = "6a1b7545b19c40730f5198018267a89ce7f2c6fa9323846a2eded98e830826c0"
 
 [[files]]
-file = "resourcepacks/Pokeblock/data/pokeblock/advancement/join.json"
-hash = "b706813cb3ded6a90f873f43a100da780bdd051c920dca3ce69e7b8f38ec2eed"
+file = "resourcepacks/Pokeblock/data/pokeblock/advancement/apricorn_seed.json"
+hash = "68558cad16485a007ab6d36d0dd9f00c0288a4c4cccb231d619a5a47380b1c22"
 
 [[files]]
-file = "resourcepacks/Pokeblock/data/pokeblock/advancement/pokeblock-advancedment.json"
-hash = "f63e98fd2f69f6790956e40bd6bda8012fc13be8a1241e4301d520731de2c56f"
+file = "resourcepacks/Pokeblock/data/pokeblock/advancement/join.json"
+hash = "b706813cb3ded6a90f873f43a100da780bdd051c920dca3ce69e7b8f38ec2eed"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/function/load.mcfunction"
@@ -9469,6 +9473,10 @@ hash = "063b3511714cc5b00549995be480cf249ebaa19148994dc752b2789fdcff8da7"
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/moltres_pedestal.json"
 hash = "b335ed48f95be304a423a8cc44660b12f0929051f19697a9284b41f7283fb6a2"
+
+[[files]]
+file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/netherite_upgrade_smithing_template.json"
+hash = "654cb7c23745b6a3b5bfd98a2e047a3440fa6382d657fdf501c23554bfd867e6"
 
 [[files]]
 file = "resourcepacks/Pokeblock/data/pokeblock/recipe/crafting_shaped/normal_gem.json"

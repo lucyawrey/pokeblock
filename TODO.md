@@ -6,7 +6,7 @@
   - Fill out journal with torn pages from various sources. Torn pages trigger an advancedment that unlocks new research journal entries.
   - Secondary lore items also get added to the notebook, probably. They maye perhaps instead be simple custom vanilla written books with default nbt.
   - Legendary Tablets should require translation information (an advancement and journal entry) before they can be read, eventually.
-  - Instructions for how to summon gyn leaders.
+  - Instructions for how to summon gym leaders.
   - Comment on strange non-pokemon fish.
 - Update spawn table.
   - Manually fill in remaining spawn data for non-legendary and non-fossil Pokémon.
