@@ -1,11 +1,15 @@
 {
   "target": "cobblemon:ceruledge",
   "drops": {
-    "amount": 8,
+    "amount": 9,
     "entries": [
       {
         "item": "minecraft:charcoal",
         "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:blaze_rod",
+        "quantityRange": "0-1"
       },
       {
         "item": "cobblemon:charcoal_stick",

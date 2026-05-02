@@ -158,7 +158,7 @@ hash = "b86919e8d88be2f26983763ab65a94d1ece734765a38f434e3de174670abfdb3"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/to_nether.nbt"
-hash = "b694aa404a6bc34b5a4845a4320ab2f6324d1829421f640e2a1c2de459959389"
+hash = "ce6665fed16a0ae835bc0f499543c70f661b8a75c20343331acca2ce68b28855"
 
 [[files]]
 file = "config/skyblockbuilder/world.json5"
@@ -4314,7 +4314,7 @@ hash = "ce5cb4bd2d4e3a3d06461954da7f62543363a03ce025ba5342fb159b2e01a3be"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "0ae05e262a2e68ad511a3932fec274bbf13538ec83334b4b3fa53669018f61df"
+hash = "d22a14f8a5211968e306645a6e6a5d8ae7be188e9a5cbfe758eaf292138fe763"
 
 [[files]]
 file = "kubejs/server_scripts/villagers.js"
@@ -8580,15 +8580,15 @@ hash = "1ba690e18feef6d852b80739c7ab0267a537f67e905019f884b33e9ea971cbe5"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/_drops/species_additions/0935_charcadet.json"
-hash = "19bd1d70edf2c7f2e986e504fef9adb48a503ca98d441512e208ab738586d412"
+hash = "4249512ae639e25ca5043459a21def40d650e37354dbd1ecbb79f44b78cad602"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/_drops/species_additions/0936_armarouge.json"
-hash = "36060144d480246ff94a5c47bd1b215cb629914cd3e7c8bac1df69914145f02a"
+hash = "c40355a134d79b803bf8e4dca084332deac15bfa0255930ee0a187e33be17354"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/_drops/species_additions/0937_ceruledge.json"
-hash = "604a6f8aee6f0dea82422e822284b52e8da8bfbe1f61090825cb57cfae96263f"
+hash = "a3054a3dc913b639a6ccd797e6204c370bf6a601af3337efa39e98be2e0582ec"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/_drops/species_additions/0938_tadbulb.json"
@@ -8948,7 +8948,7 @@ hash = "17414fe86a0f49b88d559f31dde634e8b0da641d28a3e2056af9d444cf2d69cb"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/apricorn_seed.json"
-hash = "183e8641b38e9817a658174677c2edb46aaab20673f91018fd2b0a6b570bb982"
+hash = "91ac413f15ccfc8885d7f0b1d4c45cfbec05d0264c9ee072628e717a6989cf24"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/join.json"
@@ -8956,11 +8956,11 @@ hash = "d8d595ed4d18cc6ce19aec23ca51d6cc6c5296546ddce20759d8a68c10681bdb"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_1_nether.json"
-hash = "c847fb2371091fa0de9e3a8837c3c575b1ba8aa072dd8271b91cee969dc70b1b"
+hash = "1801a3a8f3183970737648dedb53448d80d185ab104bf3f2a38bc14af6f55b98"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_2_fishing.json"
-hash = "c402805d3795f9f3267c98d130a47df47dd5d5b377105e2a4da98cc26eac514b"
+hash = "12efd704e62a710edacdaa71344f1fcc700f9797da3b1ef139cc9fc3cb861894"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/research_journal.json"
@@ -9092,7 +9092,7 @@ hash = "fd3ce7fda9077e606a50d8bc13452772ea5f497ab39d8e27f013a259405433a3"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shaped/netherite_upgrade_smithing_template.json"
-hash = "654cb7c23745b6a3b5bfd98a2e047a3440fa6382d657fdf501c23554bfd867e6"
+hash = "fd055bfddb90fe64668f414c59afbc0b87fe9f794342c250217381a43a8b701b"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shaped/normal_gem.json"
@@ -9135,8 +9135,16 @@ file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shapeless/anc
 hash = "e4f3a366ef7c20474f950419df83540ee36d1ce89eb7e36203574fb6178f533f"
 
 [[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shapeless/auspicious_armor.json"
+hash = "d6af7a0626c0ca0bc35413558783f669f810b4f4407c9852dce2931b314ca609"
+
+[[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shapeless/grass_block.json"
 hash = "7856b854a8728dea852fe48d8c5a34925eea69d8ba4398c45905e1d2de7b51d5"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shapeless/malicious_armor.json"
+hash = "30f16cec4862660acd2d382dc474d1d5f6af83e6643a921f968d5d07a23a0836"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/crafting_shapeless/mycelium.json"
@@ -10717,6 +10725,18 @@ hash = "388c71ff3fc2948b02e2f048d89e1f54267e808c2d4bc7012769e4a69f029e5a"
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/spawn_pool_world/0832_dubwool.json"
 hash = "6690782f0d79b0fa7664374eb2a65c50aea2525ecdfef7a4019313b469e201d9"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/spawn_pool_world/0935_charcadet.json"
+hash = "1b4e638bdd035020a9050194aa96bb43379d316c4a1ce7f1375cad48c698eabc"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/spawn_pool_world/0936_armarouge.json"
+hash = "6d7d49423dfb2aac25d363574371cbdd2b03dda9f4f4013b67a58e06404aff98"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/spawn_pool_world/0937_ceruledge.json"
+hash = "1c2f34df7facdfc03d0b041f29a02f200683042cd3a419e00f8c05766f680145"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/structure/meteor_deoxys_1.nbt"

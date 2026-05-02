@@ -1,9 +1,10 @@
 # Cobbleblock Todo
 
 ## Normal Priority
+- Fix broken drops that crossover with ATM x MSD or base MSD :|
 - Create Lore!
-  - Fill out journal with torn pages from various sources. Torn pages trigger an advancedment that unlocks new research journal entries.
-  - Secondary lore items also get added to the notebook, probably. They maye perhaps instead be simple custom vanilla written books with default nbt.
+  - Add more torn pages. Make page advancedments actually unlock new research journal entries.
+  - Secondary lore items also get added to the notebook, probably. They may perhaps instead be simple custom vanilla written books with default text components.
   - Legendary Tablets should require translation information (an advancement and journal entry) before they can be read, eventually.
   - Instructions for how to summon gym leaders.
   - Comment on strange non-pokemon fish.
@@ -62,15 +63,10 @@
 - Lugia Summoning (first time only)
 - Wandering trader
 
-## Lore Flavour Text
-
-- Legendary summon items.
-
 ## Important Drops
 
 - Max Mushrooms (Pokemon, Red Mushroom Colonies, Wandering Trader)
 - Moss Blocks
-- Auspiscious and Malicious Armor Recipes
 - Green, Pink, and White apricorn seeds.
 - Saplings
 - Kelp
