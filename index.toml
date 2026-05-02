@@ -8948,7 +8948,7 @@ hash = "17414fe86a0f49b88d559f31dde634e8b0da641d28a3e2056af9d444cf2d69cb"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/apricorn_seed.json"
-hash = "8a2c5d2a06f9ae50d5691afd4b1aef61fef311407283f936b93d1041fcd45536"
+hash = "183e8641b38e9817a658174677c2edb46aaab20673f91018fd2b0a6b570bb982"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/join.json"
@@ -8956,15 +8956,15 @@ hash = "d8d595ed4d18cc6ce19aec23ca51d6cc6c5296546ddce20759d8a68c10681bdb"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_1_nether.json"
-hash = "8b8de1aea2b8e2d0aeff6f09422a0542b8c2089e92c77bc43fe2d37e6ad5a513"
+hash = "c847fb2371091fa0de9e3a8837c3c575b1ba8aa072dd8271b91cee969dc70b1b"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_2_fishing.json"
-hash = "acb0a8a1b0cdae08fc9907223718c6b3c83628ff66a8dfd187a1a56f873cc2e6"
+hash = "c402805d3795f9f3267c98d130a47df47dd5d5b377105e2a4da98cc26eac514b"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/research_journal.json"
-hash = "f587e8f7a842b156bf6ccd34a807d893391c78858bebd23e14b654360b7855bd"
+hash = "2f65f95f6d6bb4ca78044442a5dc03c609da3e444ed936de76d35c50922279bb"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/function/load.mcfunction"
