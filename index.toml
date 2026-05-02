@@ -4285,6 +4285,10 @@ file = "kubejs/assets/cobbleblock/textures/item/molten_wing.png"
 hash = "d1a89a89ab85dca1e4086fbbe231658451a66840ac8ea4a4b10a89eeb5a853c5"
 
 [[files]]
+file = "kubejs/assets/cobbleblock/textures/item/torn_page.png"
+hash = "2f49da2ebe00ea4be03618b60f778c55c7bc096fc048deaeb69161bd95dc25d9"
+
+[[files]]
 file = "kubejs/assets/mega_showdown/models/block/pedestal.json"
 hash = "98f51b8d2d5e069c2f914ccbc1d684db8d69565abe25558d3f3394bc89a93a36"
 
@@ -4322,7 +4326,7 @@ hash = "95adecfa11934f1a63e467b66a51ba8433c042c2c08cf28020292e9df398cad6"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
-hash = "99c158bcd3e37e2272abc1c0dd405bb4fb9b32b058f9d6cd6af21f14362fd2e5"
+hash = "b2d1cdd0b30a3f9322e31f8d426317819153e08837b5ff69bef3540293a811be"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -8949,6 +8953,14 @@ hash = "8a2c5d2a06f9ae50d5691afd4b1aef61fef311407283f936b93d1041fcd45536"
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/join.json"
 hash = "d8d595ed4d18cc6ce19aec23ca51d6cc6c5296546ddce20759d8a68c10681bdb"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_1_nether.json"
+hash = "8b8de1aea2b8e2d0aeff6f09422a0542b8c2089e92c77bc43fe2d37e6ad5a513"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/page_2_fishing.json"
+hash = "acb0a8a1b0cdae08fc9907223718c6b3c83628ff66a8dfd187a1a56f873cc2e6"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/advancement/research_journal.json"

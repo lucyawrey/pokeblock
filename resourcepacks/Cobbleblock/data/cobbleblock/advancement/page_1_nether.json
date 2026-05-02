@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": "A torn page found in a fiery place",
+        "description": "You found a torn page from Professor Acacia's research journal in a dimension through a portal. It has been added back to to the journal.",
+        "icon": {
+            "id": "cobbleblock:torn_page"
+        },
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "cobbleblock:research_journal",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "cobbleblock:torn_page"
+                        ],
+                        "components": {
+                            "minecraft:custom_data": {
+                                "page_id": "page_1_nether"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

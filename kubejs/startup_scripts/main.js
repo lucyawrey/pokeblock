@@ -68,6 +68,21 @@ StartupEvents.registry("block", (event) => {
     });
 });
 
+// Torn pages
+StartupEvents.registry("item", (event) => {
+  event
+    .create("cobbleblock:torn_page")
+    .tooltip(`A torn page that can be added to Acacia's research journal.`)
+    .useAnimation("none")
+    .useDuration((item) => 0)
+    .use((level, player, hand) => true)
+    .finishUsing((item, level, entity) => {
+      if (level.isClientSide()) return item;
+      item.shrink(1);
+      return item;
+    });
+});
+
 // Creative tab
 StartupEvents.registry("creative_mode_tab", (event) => {
   event
