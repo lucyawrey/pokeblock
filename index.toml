@@ -4816,7 +4816,15 @@ metafile = true
 
 [[files]]
 file = "patchouli_books/research_journal/book.json"
-hash = "d6a10981e7faad65026fd81250abb72d24aa4d5506eeb53aacfa2295a946acc0"
+hash = "427f641f193e22f2b2193236e20b5a7b83e40c17412ea5b9f564449281018da8"
+
+[[files]]
+file = "patchouli_books/research_journal/en_us/categories/journal_entries.json"
+hash = "9182b9ddf089b82cca0ee90e7a86cf3df600739408d81ea444be3abc89340d75"
+
+[[files]]
+file = "patchouli_books/research_journal/en_us/entries/introduction/introduction.json"
+hash = "541d31833088ce26bce233bbff1ca42f5c536cfc7b778fcc11b5d7213bbb8e86"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/assets/cobbleblock/lang/en_us.json"
