@@ -21,7 +21,7 @@ enable_builtin = []
 [datapacks]
 required = [
 	"resourcepacks/ATM x MSD [v3.5.0].zip",
-	"datapacks/spawn_pool_stub_all",
+	"datapacks/CobbleblockStubAll",
 	"resourcepacks/Cobbleblock",
 ]
 enable_builtin = []
