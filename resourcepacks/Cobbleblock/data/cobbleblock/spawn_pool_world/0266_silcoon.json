@@ -4,15 +4,16 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "silcoon-1",
+      "pokemon": "silcoon",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "common",
+      "weight": 2,
+      "level": "7-21",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
+          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
@@ -21,9 +22,8 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "#cobblemon:trees",
+          "minecraft:sand"
         ]
       }
     }

@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "mightyena-1",
+      "pokemon": "mightyena",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "common",
+      "weight": 0.6,
+      "level": "18-42",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -18,12 +18,14 @@
         "dimensions": [
           "minecraft:overworld"
         ],
-        "minSkyLight": 8,
-        "maxSkyLight": 15,
+        "timeRange": "night",
+        "canSeeSky": true,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "minecraft:red_sand",
+          "#minecraft:terracotta",
+          "minecraft:dead_bush",
+          "#minecraft:acacia_logs",
+          "minecraft:acacia_leaves"
         ]
       }
     }

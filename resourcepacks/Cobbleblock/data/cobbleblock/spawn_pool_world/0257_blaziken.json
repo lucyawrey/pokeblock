@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "blaziken-1",
+      "pokemon": "blaziken",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "ultra-rare",
+      "weight": 0.4,
+      "level": "36-53",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,9 +21,12 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "minecraft:torch",
+          "minecraft:fire",
+          "#minecraft:campfires",
+          "#c:fences",
+          "#minecraft:acacia_logs",
+          "minecraft:acacia_leaves"
         ]
       }
     }

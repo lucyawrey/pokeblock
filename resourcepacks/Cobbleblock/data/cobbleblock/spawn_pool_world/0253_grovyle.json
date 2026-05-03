@@ -4,15 +4,16 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "grovyle-1",
+      "pokemon": "grovyle",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "ultra-rare",
+      "weight": 3.6,
+      "level": "16-41",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
+          "#minecraft:leaves",
           "#cobblemon:natural"
         ],
         "dimensions": [
@@ -21,9 +22,9 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "#minecraft:jungle_logs",
+          "minecraft:jungle_leaves",
+          "minecraft:vine"
         ]
       }
     }

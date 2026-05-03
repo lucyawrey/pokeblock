@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "zigzagoon-1",
+      "pokemon": "zigzagoon",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "common",
+      "weight": 9,
+      "level": "1-24",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,9 +21,13 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "minecraft:grass_block",
+          "minecraft:podzol",
+          "minecraft:fern",
+          "minecraft:large_fern",
+          "minecraft:sweet_berry_bush",
+          "#minecraft:spruce_logs",
+          "minecraft:spruce_leaves"
         ]
       }
     }

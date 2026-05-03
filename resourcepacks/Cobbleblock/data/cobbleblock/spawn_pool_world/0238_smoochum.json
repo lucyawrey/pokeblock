@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "smoochum-1",
+      "pokemon": "smoochum",
       "type": "pokemon",
       "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "weight": 1.68,
+      "level": "6-31",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,9 +21,11 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "minecraft:ice",
+          "minecraft:packed_ice",
+          "minecraft:blue_ice",
+          "minecraft:snow",
+          "minecraft:snow_block"
         ]
       }
     }

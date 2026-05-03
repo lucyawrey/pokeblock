@@ -4,12 +4,12 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "electabuzz-1",
-      "pokemon": "electabuzz",
+      "id": "miltank-mooshtank-red-1",
+      "pokemon": "miltank mooshtank=red",
       "type": "pokemon",
-      "bucket": "uncommon",
-      "weight": 0.304,
-      "level": "30-50",
+      "bucket": "common",
+      "weight": 9.9,
+      "level": "24-49",
       "spawnablePositionType": "grounded",
       "condition": {
         "neededBaseBlocks": [
@@ -21,9 +21,10 @@
         "minSkyLight": 8,
         "maxSkyLight": 15,
         "neededNearbyBlocks": [
-          "minecraft:short_grass",
-          "minecraft:tall_grass",
-          "#cobblemon:redstone_blocks"
+          "minecraft:mycelium",
+          "minecraft:red_mushroom",
+          "minecraft:mushroom_stem",
+          "minecraft:red_mushroom_block"
         ]
       }
     }
