@@ -1,7 +1,6 @@
 # Cobbleblock Todo
 
 ## Normal Priority
-- Fix broken drops that crossover with ATM x MSD or base MSD :|
 - Create Lore!
   - Add more torn pages. Make page advancedments actually unlock new research journal entries.
   - Secondary lore items also get added to the notebook, probably. They may perhaps instead be simple custom vanilla written books with default text components.
@@ -49,6 +48,7 @@
   - Verify licence of all mods in modpack.
   - Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
   - Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
+- More Difficult Plate Recipes
 - More interesting and difficult fossil machine recipes to obtain Type: Null and Genesect.
   - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
 - Secret Giritina dungeon underneath world spawn. Will need to make certain blocks like doors and buttons interactable at spawn in Skyblock config.
