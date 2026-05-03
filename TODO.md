@@ -1,6 +1,7 @@
 # Cobbleblock Todo
 
 ## Normal Priority
+- Pikachu and Evee starter support.
 - Create Lore!
   - Add more torn pages.
   - Secondary lore items that also get added to the research journal, such as the mewtwo research book or a note from a parent to a child.
