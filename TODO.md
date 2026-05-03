@@ -2,9 +2,9 @@
 
 ## Normal Priority
 - Create Lore!
-  - Add more torn pages. Make page advancedments actually unlock new research journal entries.
-  - Secondary lore items also get added to the notebook, probably. They may perhaps instead be simple custom vanilla written books with default text components.
-  - Legendary Tablets should require translation information (an advancement and journal entry) before they can be read, eventually.
+  - Add more torn pages.
+  - Secondary lore items that also get added to the research journal, such as the mewtwo research book or a note from a parent to a child.
+  - Legendary Tablets should require translation information (an advancement/journal entry) before they can be read.
   - Instructions for how to summon gym leaders.
   - Comment on strange non-pokemon fish.
 - Update spawn table.

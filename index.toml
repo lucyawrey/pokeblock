@@ -146,7 +146,7 @@ hash = "78d8e790a3b87597fb8566d80ca98153d1793724b3e21cacdafe82898c2c93fe"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/cobbleblock.nbt"
-hash = "854e959493ffea3f1c0834b67980719f48288ddb14d73978004dc79c41aaae41"
+hash = "a4459ed75e233cabfaa83795d08156ee5ff151824d20fe0d176a5f3047d4b6d4"
 
 [[files]]
 file = "config/skyblockbuilder/templates/islands/default.nbt"
@@ -158,7 +158,7 @@ hash = "b86919e8d88be2f26983763ab65a94d1ece734765a38f434e3de174670abfdb3"
 
 [[files]]
 file = "config/skyblockbuilder/templates/portals/to_nether.nbt"
-hash = "ce6665fed16a0ae835bc0f499543c70f661b8a75c20343331acca2ce68b28855"
+hash = "efcd93220d2e6598f5ece801593e84cd59786da2a4c075f3ce8d8522597bbd2d"
 
 [[files]]
 file = "config/skyblockbuilder/world.json5"
@@ -11412,7 +11412,7 @@ hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing/junk.json"
-hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
+hash = "24768a09f1b1fa710f5d6e8a92016de61b48be6dd189567b30db59a64823274e"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing/treasure.json"
