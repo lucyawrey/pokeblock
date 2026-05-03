@@ -55,9 +55,7 @@
 
 ## Lore Books/Tablets
 
-- Nether Chest (Under Soul Sand)
 - Archaeology loot (probably gravel only)
-- Fishing loot (treasure)
 - Meteor (specific meteor with hidden chest in center)
 - Any Summoning (first time only)
 - Lugia Summoning (first time only)

@@ -5228,7 +5228,7 @@ hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing/junk.json"
-hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
+hash = "39893bc261fd3bf6c407f770da22fd1864951805830cf080f45f30226d708e9f"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing/treasure.json"
@@ -8296,7 +8296,7 @@ hash = "62c15e01d2bead8575313459fb3d4120b539396e32f11f1b5613c764a2e3de16"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/species_additions/0302_sableye.json"
-hash = "f37bb0d9a08e669dc28913b01b5fcaf7ecb69b688d3c527029076753c0f0700c"
+hash = "1e4ffca1f9cfbbf0248b7d632edd2208132cb147a34837b95e2d56c01720b06b"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/species_additions/0303_mawile.json"

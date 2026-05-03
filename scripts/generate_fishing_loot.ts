@@ -6,6 +6,24 @@ const vanillaJunk = [
     type: "minecraft:item",
     functions: [
       {
+        components: {
+          "minecraft:custom_name": {
+            text: "Torn Page #2 (Fishing)",
+          },
+          "minecraft:custom_data": {
+            torn_page_id: "page_2_fishing",
+          },
+        },
+        function: "minecraft:set_components",
+      },
+    ],
+    name: "cobbleblock:torn_page",
+    weight: 1,
+  },
+  {
+    type: "minecraft:item",
+    functions: [
+      {
         add: false,
         damage: {
           type: "minecraft:uniform",
