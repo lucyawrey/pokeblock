@@ -1,5 +1,6 @@
 {
     "name": "Journal Entries",
     "description": "General journal entries, not tied to specific research.",
-    "icon": "minecraft:writable_book"
+    "icon": "minecraft:writable_book",
+    "sortnum": 0
 }

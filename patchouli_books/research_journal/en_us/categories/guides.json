@@ -1,0 +1,6 @@
+{
+    "name": "Guides",
+    "description": "Guides on how to tackle specific tasks based on Acacia's research.",
+    "icon": "minecraft:crafting_table",
+    "sortnum": 1
+}

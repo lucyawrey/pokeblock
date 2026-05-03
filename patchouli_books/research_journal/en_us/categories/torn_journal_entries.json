@@ -1,0 +1,6 @@
+{
+    "name": "Torn-Out Journal Entries",
+    "description": "Journal entries that had been torn out from the journal.",
+    "icon": "cobbleblock:torn_page",
+    "sortnum": 2
+}

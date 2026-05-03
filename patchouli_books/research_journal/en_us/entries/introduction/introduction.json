@@ -1,7 +1,8 @@
 {
-    "name": "Introduction Cont.",
+    "name": "Introduction Continued",
     "icon": "minecraft:writable_book",
     "category": "patchouli:journal_entries",
+    "sortnum": 0,
     "pages": [
         {
             "type": "patchouli:text",
