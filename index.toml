@@ -5223,18 +5223,6 @@ file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/archaeology/suspic
 hash = "d9ddb8dc234263fea9e089a1d00d1a8540d5e41855f5d9ef62b9f735dcc64fcf"
 
 [[files]]
-file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing.json"
-hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
-
-[[files]]
-file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing/junk.json"
-hash = "39893bc261fd3bf6c407f770da22fd1864951805830cf080f45f30226d708e9f"
-
-[[files]]
-file = "resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing/treasure.json"
-hash = "b436f8e858b67b5e74f10003c7132cbc9f4e571e58812679fd967a5bb24ea796"
-
-[[files]]
 file = "resourcepacks/Cobbleblock/data/cobbleblock/recipe/campfire_pot/ancient_dna.json"
 hash = "4dc663d8759db6352e4bd7c4a17600d0618e39b0b745d523ea87f8cd70c94e14"
 
@@ -11417,6 +11405,18 @@ hash = "08a9a15e649a29b245e19563c8e1ac68d89f59922d93784b5c837d6a7c8dbe1a"
 [[files]]
 file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/blocks/wheat.json"
 hash = "1024b33da1beb02b1b5d8c2125b3c60adbf6bac6aa7723ab8ae629bba3c8adeb"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing.json"
+hash = "54291a60fdf79cc4580727f431275ce2cee35f529dc05707abd9101609241442"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing/junk.json"
+hash = "4d8eaffc9adb50eb5c75c2e0cbd8781597060accfa73e075dcd915c1cb39f270"
+
+[[files]]
+file = "resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing/treasure.json"
+hash = "b436f8e858b67b5e74f10003c7132cbc9f4e571e58812679fd967a5bb24ea796"
 
 [[files]]
 file = "resourcepacks/Cobbleblock/data/minecraft/tags/block/flowers.json"

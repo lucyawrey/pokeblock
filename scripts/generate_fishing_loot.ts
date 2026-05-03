@@ -2,24 +2,24 @@ import { parse } from "csv-parse/sync";
 import { pullCsv } from "./lib";
 
 const vanillaJunk = [
-  {
-    type: "minecraft:item",
-    functions: [
-      {
-        components: {
-          "minecraft:custom_name": {
-            text: "Torn Page #2 (Fishing)",
-          },
-          "minecraft:custom_data": {
-            torn_page_id: "page_2_fishing",
-          },
-        },
-        function: "minecraft:set_components",
-      },
-    ],
-    name: "cobbleblock:torn_page",
-    weight: 1,
-  },
+  // {
+  //   type: "minecraft:item",
+  //   functions: [
+  //     {
+  //       components: {
+  //         "minecraft:custom_name": {
+  //           text: "Torn Page #2 (Fishing)",
+  //         },
+  //         "minecraft:custom_data": {
+  //           torn_page_id: "page_2_fishing",
+  //         },
+  //       },
+  //       function: "minecraft:set_components",
+  //     },
+  //   ],
+  //   name: "cobbleblock:torn_page",
+  //   weight: 1,
+  // },
   {
     type: "minecraft:item",
     functions: [
@@ -122,7 +122,7 @@ const vanillaTreasure = [
   },
 ];
 
-const outPath = `../resourcepacks/Cobbleblock/data/cobbleblock/loot_table/gameplay/fishing`;
+const outPath = `../resourcepacks/Cobbleblock/data/minecraft/loot_table/gameplay/fishing`;
 const targetSheet = `https://docs.google.com/spreadsheets/d/1FWfVOOkkR-UtFYkn13PoNO_Y5szipLEBCEys_gZecF0/gviz/tq?tqx=out:csv&sheet=fishing`;
 const files = {
   junk: "minecraft:gameplay/fishing/junk",
