@@ -1,6 +1,13 @@
 # Cobbleblock Todo
 
 ## Normal Priority
+- Setup default client configuration and controls
+  - Client side mod settings
+  - defaultoptions config. Remove and start over
+- Permissions and Credits
+  - Create proper credits list for all used mods and include in readme and description.
+  - Verify licence of all mods in modpack.
+  - Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
 - Pikachu and Evee starter support.
 - Create Lore!
   - Add more torn pages.
@@ -21,9 +28,6 @@
   - Craftable purification shrine.
 - Renewable sculk from sculk catalysts without vanilla mobs. Add sculk catalyst meteor.
 - Tera Shard blocks that allow spawning Paradox Pokémon.
-- Setup default client configuration and controls
-  - Client side mod settings
-  - defaultoptions config. Remove and start over
 - Configure CobbleDollars merchant stock, CobbleDollars bank.
   - Tech: Pokédexes, Pokénavs, Trainer Card
 - More meteor templates (inclduing meteor with just evo stones and lore book, sculk meteor, shadow meteor).
@@ -43,12 +47,7 @@
   - NPCs should be immune to player damage and persistant (will not despawn).
   - NPCs can be Social, Trainers, or Merchants.
   - All NPCs have chat dialogue.
-  - No NPCs look like vilagers.
-  - Permissions and Credits
-  - Create proper credits list for all used mods and include in readme and description.
-  - Verify licence of all mods in modpack.
-  - Ask for permission to use mods in modpack if they are not explicitly open licensed (example: Mega Showdown).
-  - Add disclaimer that all mods, Minecraft, and Pokémon belong to their respective rights holders. (referance Cobblemon and Cobbleverse statements.)
+  - No NPCs look like minecraft vilagers.
 - More Difficult Plate Recipes
 - More interesting and difficult fossil machine recipes to obtain Type: Null and Genesect.
   - Current methods from ATMxMSD https://docs.google.com/document/d/1nPZxD0zWqaCsulp_RCRTiQS5YxUrdoE6xv8rsMoWSYs/edit?tab=t.rvlm7mgw1drd.
